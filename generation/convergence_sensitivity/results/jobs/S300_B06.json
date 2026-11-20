@@ -1,0 +1,12 @@
+{
+  "name": "S300_B06",
+  "id": "B06",
+  "arm": "S300",
+  "smiles": "CCCOc1cc2c3cc(C(=O)[O-])ccc3ccc2c2cc(C(=O)[O-])ccc12",
+  "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/relaxed/S300_B06.cif",
+  "input_sha256": "24588867e6a81fc0cb9ca89195f9ba2107b31ab64765558e4c8d9adf2df8d8f5",
+  "original_volume": 6525.574568703006,
+  "baseline_strict": true,
+  "baseline_converged": true,
+  "baseline_steps": 26
+}

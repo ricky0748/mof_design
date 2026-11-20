@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "errors": [],
+  "total_jobs": 96,
+  "completed": 96,
+  "scope": "frozen performance sources, input/output hashes and box widths; simulator numerical convergence not independently established"
+}

@@ -1,0 +1,1 @@
+COc1cc2cc(C(=O)[O-])c(cc2cc1C(=O)[O-])OC.[O].[V] MOFid-v1.ERROR.cat0.NO_REF;A300_B11

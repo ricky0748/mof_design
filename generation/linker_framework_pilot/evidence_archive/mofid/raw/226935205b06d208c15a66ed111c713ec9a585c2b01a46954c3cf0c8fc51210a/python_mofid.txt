@@ -1,0 +1,1 @@
+O=[V]O[VH]C(c1cc(C(=O)OC2(CC)[CH][C](C(=O)[O-])c3c([CH]2)c2cc(ccc2cc3)C(=O)[O-])c2c(c1)C1=CC(=CC3C41C1C2C2C=C(C=C5C12C4C3c1c5cc(cc1C(=O)[O-])CC)C(=O)[O-])C(=O)[O-])C.[O].[V] MOFid-v1.UNKNOWN.cat0.NO_REF;A_L15

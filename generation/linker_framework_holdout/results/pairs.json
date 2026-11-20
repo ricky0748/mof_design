@@ -1,0 +1,962 @@
+[
+  {
+    "id": "H01",
+    "source": "mofflow2s_040",
+    "smiles": "COc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "novel": false,
+    "profile": {
+      "angles": [
+        27.250361589364203,
+        30.933332520726964,
+        176.31168723101024
+      ],
+      "span": 7.48831508485053
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 69.527,
+      "steps": 150,
+      "dmin": 0.46950348685431603,
+      "fragments": 9,
+      "volume_ratio": 0.9912971867730006,
+      "target_key": "COc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 26.366,
+      "steps": 24,
+      "dmin": 1.0782880675696735,
+      "fragments": 1,
+      "volume_ratio": 1.0019808821059297,
+      "target_key": "COc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+    }
+  },
+  {
+    "id": "H02",
+    "source": "mofflow2s_032",
+    "smiles": "CNc1cc2c3cc(C(=O)[O-])ccc3ccc2c2cc(C(=O)[O-])ccc12",
+    "novel": false,
+    "profile": {
+      "angles": [
+        31.14704304354076,
+        28.797070621174765,
+        177.05502700429764
+      ],
+      "span": 10.007958322754947
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 76.212,
+      "steps": 150,
+      "dmin": 0.2609356483646972,
+      "fragments": 7,
+      "volume_ratio": 0.9917316769421728,
+      "target_key": "CNc1cc2c3cc(C(=O)O)ccc3ccc2c2cc(C(=O)O)ccc12"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 20.009,
+      "steps": 16,
+      "dmin": 1.0097604925482737,
+      "fragments": 1,
+      "volume_ratio": 1.0016103332996005,
+      "target_key": "CNc1cc2c3cc(C(=O)O)ccc3ccc2c2cc(C(=O)O)ccc12"
+    }
+  },
+  {
+    "id": "H03",
+    "source": "mofflow2s_619",
+    "smiles": "CCCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "novel": false,
+    "profile": {
+      "angles": [
+        27.203748554704344,
+        27.628778220772983,
+        178.08286630563126
+      ],
+      "span": 7.5137437665919915
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": true,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 76.156,
+      "steps": 135,
+      "dmin": 0.8430108122424649,
+      "fragments": 1,
+      "volume_ratio": 1.0076711210965543,
+      "target_key": "CCCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 38.488,
+      "steps": 63,
+      "dmin": 1.0843905525790942,
+      "fragments": 1,
+      "volume_ratio": 1.0051214495440521,
+      "target_key": "CCCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    }
+  },
+  {
+    "id": "H04",
+    "source": "mofflow2s_074",
+    "smiles": "O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2",
+    "novel": false,
+    "profile": {
+      "angles": [
+        0.17978023814578178,
+        0.17713955879817814,
+        179.64308308286994
+      ],
+      "span": 4.144075706354796
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 80.484,
+      "steps": 150,
+      "dmin": 0.1092340562598968,
+      "fragments": 6,
+      "volume_ratio": 0.9752273093526072,
+      "target_key": "O=C(O)C12CCC(C(=O)O)(CC1)CC2"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 19.811,
+      "steps": 4,
+      "dmin": 1.0975493500165119,
+      "fragments": 1,
+      "volume_ratio": 1.0001034313919694,
+      "target_key": "O=C(O)C12CCC(C(=O)O)(CC1)CC2"
+    }
+  },
+  {
+    "id": "H05",
+    "source": "mofflow2s_152",
+    "smiles": "CNc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "novel": false,
+    "profile": {
+      "angles": [
+        27.004304099117828,
+        30.5616757159505,
+        175.8201161890467
+      ],
+      "span": 7.5089294849532315
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 62.225,
+      "steps": 150,
+      "dmin": 0.14314092578979778,
+      "fragments": 9,
+      "volume_ratio": 0.9907126648222134,
+      "target_key": "CNc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 27.333,
+      "steps": 17,
+      "dmin": 1.0122338349102773,
+      "fragments": 1,
+      "volume_ratio": 1.001737735152568,
+      "target_key": "CNc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O"
+    }
+  },
+  {
+    "id": "H06",
+    "source": "mofflow2s_037",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc(O)cc3c2c1",
+    "novel": false,
+    "profile": {
+      "angles": [
+        31.184414969645495,
+        26.783576932602035,
+        175.17507366024333
+      ],
+      "span": 7.49541391118596
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "UNKNOWN",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 64.243,
+      "steps": 150,
+      "dmin": 0.08760914751879163,
+      "fragments": 5,
+      "volume_ratio": 0.9698315602315236,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)cc(O)cc3c2c1"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 30.565,
+      "steps": 26,
+      "dmin": 0.9724886692342173,
+      "fragments": 1,
+      "volume_ratio": 1.0009915266141625,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)cc(O)cc3c2c1"
+    }
+  },
+  {
+    "id": "H07",
+    "source": "mofflow2s_093",
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12",
+    "novel": false,
+    "profile": {
+      "angles": [
+        31.965963254802112,
+        26.622531049594674,
+        174.37835493502644
+      ],
+      "span": 7.485701243036621
+    },
+    "A": {
+      "status": "completed",
+      "geometry": true,
+      "converged": false,
+      "target_recovered": true,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 72.429,
+      "steps": 150,
+      "dmin": 1.082473901266423,
+      "fragments": 1,
+      "volume_ratio": 1.0092588571355574,
+      "target_key": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cccc12"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 38.362,
+      "steps": 50,
+      "dmin": 1.0842855707754993,
+      "fragments": 1,
+      "volume_ratio": 1.004183447270079,
+      "target_key": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cccc12"
+    }
+  },
+  {
+    "id": "H08",
+    "source": "mofflow2s_608",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(Cl)c3c2c1",
+    "novel": false,
+    "profile": {
+      "angles": [
+        29.747752465989617,
+        30.38459401638161,
+        171.07692857127276
+      ],
+      "span": 7.542921796624967
+    },
+    "A": {
+      "status": "completed",
+      "geometry": true,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 61.563,
+      "steps": 150,
+      "dmin": 0.9735165751937513,
+      "fragments": 1,
+      "volume_ratio": 1.0028601238211958,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(Cl)c3c2c1"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 25.258,
+      "steps": 19,
+      "dmin": 1.0813552528124044,
+      "fragments": 1,
+      "volume_ratio": 1.0017763062132388,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(Cl)c3c2c1"
+    }
+  },
+  {
+    "id": "H09",
+    "source": "mofflow2s_304",
+    "smiles": "COc1cc2c3cc(C(=O)[O-])ccc3c(OC)cc2c2cc(C(=O)[O-])ccc12",
+    "novel": false,
+    "profile": {
+      "angles": [
+        32.10167213200333,
+        28.07638319094447,
+        175.974708949084
+      ],
+      "span": 10.016324334804658
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 79.784,
+      "steps": 150,
+      "dmin": 0.3267122813610279,
+      "fragments": 14,
+      "volume_ratio": 0.9954183211044536,
+      "target_key": "COc1cc2c3cc(C(=O)O)ccc3c(OC)cc2c2cc(C(=O)O)ccc12"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 25.173,
+      "steps": 15,
+      "dmin": 1.0852730018722117,
+      "fragments": 1,
+      "volume_ratio": 1.0014311901205324,
+      "target_key": "COc1cc2c3cc(C(=O)O)ccc3c(OC)cc2c2cc(C(=O)O)ccc12"
+    }
+  },
+  {
+    "id": "H10",
+    "source": "mofflow2s_272",
+    "smiles": "Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "novel": false,
+    "profile": {
+      "angles": [
+        27.20278879741661,
+        31.272368207002916,
+        175.92771958979242
+      ],
+      "span": 7.495314283604125
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 64.94,
+      "steps": 150,
+      "dmin": 0.29367320491647997,
+      "fragments": 10,
+      "volume_ratio": 0.9808699010221231,
+      "target_key": "Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 35.433,
+      "steps": 57,
+      "dmin": 1.0819962530614897,
+      "fragments": 1,
+      "volume_ratio": 0.9887408290054599,
+      "target_key": "Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+    }
+  },
+  {
+    "id": "H11",
+    "source": "mofflow2s_202",
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OCCC)c3ccc21",
+    "novel": false,
+    "profile": {
+      "angles": [
+        28.110823712161206,
+        32.16407270629026,
+        175.94608324774103
+      ],
+      "span": 10.004918240545496
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 114.472,
+      "steps": 150,
+      "dmin": 0.13716141123618716,
+      "fragments": 3,
+      "volume_ratio": 0.9963558307566612,
+      "target_key": "CCCOc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OCCC)c3ccc21"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 27.914,
+      "steps": 17,
+      "dmin": 1.084875164523734,
+      "fragments": 1,
+      "volume_ratio": 1.0010070453773845,
+      "target_key": "CCCOc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OCCC)c3ccc21"
+    }
+  },
+  {
+    "id": "H12",
+    "source": "mofflow2s_603",
+    "smiles": "CCCc1ccc2c(ccc3ccc(C(=O)[O-])c(CCC)c32)c1C(=O)[O-]",
+    "novel": false,
+    "profile": {
+      "angles": [
+        21.6350348908859,
+        35.11460529380871,
+        166.33261798966822
+      ],
+      "span": 7.647030122210844
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 92.918,
+      "steps": 150,
+      "dmin": 0.14796673184166287,
+      "fragments": 5,
+      "volume_ratio": 0.9903233360174699,
+      "target_key": "CCCc1ccc2c(ccc3ccc(C(=O)O)c(CCC)c32)c1C(=O)O"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": false,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 69.779,
+      "steps": 150,
+      "dmin": 1.0804481702239277,
+      "fragments": 1,
+      "volume_ratio": 0.9758302442284996,
+      "target_key": "CCCc1ccc2c(ccc3ccc(C(=O)O)c(CCC)c32)c1C(=O)O"
+    }
+  },
+  {
+    "id": "H13",
+    "source": "mofflow2s_320",
+    "smiles": "COc1cc2c(C(=O)[O-])cccc2c2cc(C(=O)[O-])ccc12",
+    "novel": false,
+    "profile": {
+      "angles": [
+        28.219312429439213,
+        28.13928485707247,
+        178.21261168411615
+      ],
+      "span": 7.519378800140341
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 69.512,
+      "steps": 150,
+      "dmin": 0.4785855487235066,
+      "fragments": 16,
+      "volume_ratio": 0.9935588406351676,
+      "target_key": "COc1cc2c(C(=O)O)cccc2c2cc(C(=O)O)ccc12"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 26.2,
+      "steps": 16,
+      "dmin": 1.085108059521781,
+      "fragments": 1,
+      "volume_ratio": 1.001990057571837,
+      "target_key": "COc1cc2c(C(=O)O)cccc2c2cc(C(=O)O)ccc12"
+    }
+  },
+  {
+    "id": "H14",
+    "source": "mofflow2s_065",
+    "smiles": "Nc1cc2ccc3c4cc(C(=O)[O-])c(N)cc4ccc3c2cc1C(=O)[O-]",
+    "novel": false,
+    "profile": {
+      "angles": [
+        30.003553253502112,
+        30.007744005712947,
+        179.9895294453326
+      ],
+      "span": 10.029630827702482
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 79.474,
+      "steps": 150,
+      "dmin": 0.3195084071886435,
+      "fragments": 6,
+      "volume_ratio": 0.9955044125827271,
+      "target_key": "Nc1cc2ccc3c4cc(C(=O)O)c(N)cc4ccc3c2cc1C(=O)O"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 35.933,
+      "steps": 55,
+      "dmin": 1.0096712116901503,
+      "fragments": 1,
+      "volume_ratio": 0.9885713057337187,
+      "target_key": "Nc1cc2ccc3c4cc(C(=O)O)c(N)cc4ccc3c2cc1C(=O)O"
+    }
+  },
+  {
+    "id": "H15",
+    "source": "mofflow2s_590",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(F)c3c2c1",
+    "novel": false,
+    "profile": {
+      "angles": [
+        27.03837186753309,
+        28.11524563560893,
+        177.7487578691599
+      ],
+      "span": 7.538539066025989
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": true,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 60.629,
+      "steps": 150,
+      "dmin": 1.0790571783554792,
+      "fragments": 2,
+      "volume_ratio": 1.0102725066284663,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(F)c3c2c1"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 28.841,
+      "steps": 17,
+      "dmin": 1.0777370185791006,
+      "fragments": 1,
+      "volume_ratio": 1.0024887349194607,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(F)c3c2c1"
+    }
+  },
+  {
+    "id": "H16",
+    "source": "mofflow2s_336",
+    "smiles": "CCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "novel": false,
+    "profile": {
+      "angles": [
+        27.361244884462522,
+        27.550622379638448,
+        178.1243786964987
+      ],
+      "span": 7.513058262784869
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 70.258,
+      "steps": 150,
+      "dmin": 0.5194199147838185,
+      "fragments": 7,
+      "volume_ratio": 0.990846239461457,
+      "target_key": "CCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 31.857,
+      "steps": 18,
+      "dmin": 1.084337173570417,
+      "fragments": 1,
+      "volume_ratio": 1.0024195757373051,
+      "target_key": "CCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    }
+  },
+  {
+    "id": "H17",
+    "source": "mofflow2s_528",
+    "smiles": "O=Cc1cc2c(C(=O)[O-])cccc2c2cc(C(=O)[O-])ccc12",
+    "novel": false,
+    "profile": {
+      "angles": [
+        26.65650022901314,
+        28.92128835677082,
+        176.7451327375864
+      ],
+      "span": 7.5138516581045165
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "UNKNOWN",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 63.83,
+      "steps": 150,
+      "dmin": 0.4852122878199539,
+      "fragments": 7,
+      "volume_ratio": 0.9802043607351707,
+      "target_key": "O=Cc1cc2c(C(=O)O)cccc2c2cc(C(=O)O)ccc12"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 26.743,
+      "steps": 17,
+      "dmin": 1.0818759294453553,
+      "fragments": 1,
+      "volume_ratio": 1.002048988604228,
+      "target_key": "O=Cc1cc2c(C(=O)O)cccc2c2cc(C(=O)O)ccc12"
+    }
+  },
+  {
+    "id": "H18",
+    "source": "mofflow2s_200",
+    "smiles": "O=C([O-])c1cc(O)c2ccc3c4cc(C(=O)[O-])cc(O)c4ccc3c2c1",
+    "novel": false,
+    "profile": {
+      "angles": [
+        27.75443024434731,
+        32.32740401028532,
+        175.18439793826192
+      ],
+      "span": 10.019430619551194
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 76.3,
+      "steps": 150,
+      "dmin": 0.5960618851081394,
+      "fragments": 6,
+      "volume_ratio": 0.9927804002260441,
+      "target_key": "O=C(O)c1cc(O)c2ccc3c4cc(C(=O)O)cc(O)c4ccc3c2c1"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 32.176,
+      "steps": 31,
+      "dmin": 0.9715119776047384,
+      "fragments": 1,
+      "volume_ratio": 0.9995543969308612,
+      "target_key": "O=C(O)c1cc(O)c2ccc3c4cc(C(=O)O)cc(O)c4ccc3c2c1"
+    }
+  },
+  {
+    "id": "H19",
+    "source": "mofflow2s_176",
+    "smiles": "CNc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "novel": false,
+    "profile": {
+      "angles": [
+        30.960553439200396,
+        31.24112492997985,
+        176.9027114378535
+      ],
+      "span": 7.483132269978929
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 66.425,
+      "steps": 150,
+      "dmin": 0.003337542478024382,
+      "fragments": 10,
+      "volume_ratio": 0.9700782816813435,
+      "target_key": "CNc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 38.814,
+      "steps": 59,
+      "dmin": 1.0110545799292425,
+      "fragments": 1,
+      "volume_ratio": 0.9878746025947464,
+      "target_key": "CNc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+    }
+  },
+  {
+    "id": "H20",
+    "source": "mofflow2s_284",
+    "smiles": "Cc1cc2c3cc(C(=O)[O-])c(O)cc3c(C)cc2c2cc(C(=O)[O-])c(O)cc12",
+    "novel": false,
+    "profile": {
+      "angles": [
+        29.296026486219354,
+        29.296026486219354,
+        180.0
+      ],
+      "span": 10.031004266772097
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 90.891,
+      "steps": 150,
+      "dmin": 0.2738422947593012,
+      "fragments": 4,
+      "volume_ratio": 0.9823680755767976,
+      "target_key": "Cc1cc2c3cc(C(=O)O)c(O)cc3c(C)cc2c2cc(C(=O)O)c(O)cc12"
+    },
+    "U": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 35.342,
+      "steps": 50,
+      "dmin": 0.9786297611570814,
+      "fragments": 1,
+      "volume_ratio": 0.9986138906388577,
+      "target_key": "Cc1cc2c3cc(C(=O)O)c(O)cc3c(C)cc2c2cc(C(=O)O)c(O)cc12"
+    }
+  }
+]

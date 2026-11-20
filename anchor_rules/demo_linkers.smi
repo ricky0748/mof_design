@@ -1,0 +1,13 @@
+# 示例配体（与组内体系相关的优先）
+OC(=O)c1cc(C(=O)O)[nH]n1 PZDC_MOF-303
+OC(=O)/C=C/C(=O)O fumarate_MOF-801_AlFum
+OC(=O)c1ccc(cc1)C(=O)O BDC
+OC(=O)c1cc(C(=O)O)cc(C(=O)O)c1 BTC_HKUST-1
+Cc1ncc[nH]1 2-mIm_ZIF-8
+c1nc[nH]n1 Trz_CALF-20
+n1ccc(cc1)-c1ccncc1 4,4-bpy
+c1cc(ccc1-c1cn[nH]c1)-c1cn[nH]c1 BDP
+c1cc(ccc1-c1nnn[nH]1)-c1nnn[nH]1 BDT
+OC(=O)c1cccc(n1)C(=O)O 2,6-pydc
+OC(=O)c1ccncc1 isonicotinate
+OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)O BPDC

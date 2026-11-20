@@ -1,0 +1,462 @@
+[
+  {
+    "id": "L01",
+    "smiles": "COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "COc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L01.xyz",
+    "bb_sha256": "7a60ae9f34616d7831931f97f0a8954822427386a3dc722b8a361a0a5c5da956",
+    "profile": {
+      "angles": [
+        28.014403980227897,
+        31.942927636121656,
+        174.79355982827596
+      ],
+      "span": 7.491902149654652
+    },
+    "source_seq_idx": 632,
+    "source_name": "mofflow2s_450",
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "COc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+    "normalization_changed": false
+  },
+  {
+    "id": "L02",
+    "smiles": "COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(C#N)c3ccc21",
+    "neutral_smiles": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(C#N)c3ccc21",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L02.xyz",
+    "bb_sha256": "55459fa206dd93624316d3c480ea273eccaa0ead80be1def935a4438883ba5a3",
+    "profile": {
+      "angles": [
+        27.983683520049343,
+        32.396281937523135,
+        175.58739485623894
+      ],
+      "span": 10.01077399205476
+    },
+    "source_seq_idx": 46,
+    "source_name": "mofflow2s_036",
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(C#N)c3ccc21",
+    "normalization_changed": false
+  },
+  {
+    "id": "L03",
+    "smiles": "CCc1cc(C(=O)[O-])c2cc([N+](=O)[O-])c3ccc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "CCc1cc(C(=O)O)c2cc([N+](=O)[O-])c3ccc(C(=O)O)cc3c2c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L03.xyz",
+    "bb_sha256": "b82ab8ec1476ec29ce64d19c2b9907b20b829f79da8a01e887ce2cbf9c0ab809",
+    "profile": {
+      "angles": [
+        27.719925525263463,
+        32.314819143503314,
+        174.71652993102828
+      ],
+      "span": 7.504133256412762
+    },
+    "source_seq_idx": 841,
+    "source_name": "mofflow2s_630",
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "CCc1cc(C(=O)O)c2cc([N+](=O)O)c3ccc(C(=O)O)cc3c2c1",
+    "normalization_changed": true
+  },
+  {
+    "id": "L04",
+    "smiles": "O=C([O-])c1cc(Cl)c2ccc3c(C(=O)[O-])cc(Cl)cc3c2c1",
+    "neutral_smiles": "O=C(O)c1cc(Cl)c2ccc3c(C(=O)O)cc(Cl)cc3c2c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L04.xyz",
+    "bb_sha256": "6612f0f41b69ef65e9cfd7d0aa7b988ae51ad777d99ef720bd179c9c3a604977",
+    "profile": {
+      "angles": [
+        28.390320957807234,
+        28.332392613988755,
+        178.05850121925747
+      ],
+      "span": 7.521796038846042
+    },
+    "source_seq_idx": 86,
+    "source_name": "mofflow2s_067",
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "O=C(O)c1cc(Cl)c2ccc3c(C(=O)O)cc(Cl)cc3c2c1",
+    "normalization_changed": false
+  },
+  {
+    "id": "L05",
+    "smiles": "CCOc1cc(C(=O)[O-])c2cc(OCC)c3cc(O)c(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "CCOc1cc(C(=O)O)c2cc(OCC)c3cc(O)c(C(=O)O)cc3c2c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L05.xyz",
+    "bb_sha256": "3fd3658106a965e93707757c40384117bbd67720250c0d10c5bfa8c7a3e71287",
+    "profile": {
+      "angles": [
+        26.984397676249323,
+        29.014846169182054,
+        176.46586320326426
+      ],
+      "span": 7.509736827612536
+    },
+    "source_seq_idx": 691,
+    "source_name": "mofflow2s_499",
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "CCOc1cc(C(=O)O)c2cc(OCC)c3cc(O)c(C(=O)O)cc3c2c1",
+    "normalization_changed": false
+  },
+  {
+    "id": "L06",
+    "smiles": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "neutral_smiles": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)O)cc32)c1C(=O)O",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L06.xyz",
+    "bb_sha256": "b9c73a03d63b6179629ce8f9799a2ce593e3113ec1452c7b637f36efb6158629",
+    "profile": {
+      "angles": [
+        32.56686549762377,
+        28.945132709863717,
+        174.96028593336257
+      ],
+      "span": 7.47880275244641
+    },
+    "source_seq_idx": 554,
+    "source_name": "mofflow2s_377",
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)O)cc32)c1C(=O)O",
+    "normalization_changed": false
+  },
+  {
+    "id": "L07",
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cc([N+](=O)[O-])cc12",
+    "neutral_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cc([N+](=O)[O-])cc12",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L07.xyz",
+    "bb_sha256": "2a3f89f924724e56a3ed4cbf9524ac8b7cfe045908163b19c044d5d8f656e5e6",
+    "profile": {
+      "angles": [
+        27.995231177727167,
+        28.79013631931261,
+        178.27336516638104
+      ],
+      "span": 7.518568763401715
+    },
+    "source_seq_idx": 246,
+    "source_name": "mofflow2s_199",
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cc([N+](=O)O)cc12",
+    "normalization_changed": true
+  },
+  {
+    "id": "L08",
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])ccc(O)c12",
+    "neutral_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)ccc(O)c12",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L08.xyz",
+    "bb_sha256": "d415b1a8f5b7e1d783e522e2cfa5fa2ed2a96f9408638ff2d39d888e33fa7982",
+    "profile": {
+      "angles": [
+        27.268701927705873,
+        28.813977302100632,
+        177.02739890502698
+      ],
+      "span": 7.548879255227229
+    },
+    "source_seq_idx": 763,
+    "source_name": "mofflow2s_561",
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)ccc(O)c12",
+    "normalization_changed": false
+  },
+  {
+    "id": "L09",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F",
+    "neutral_smiles": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(F)cc4ccc23)cc1F",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L09.xyz",
+    "bb_sha256": "5af9b35a890ae619fc9deb0f18203e8db794eedc9902d2dae41b3c27c6e602df",
+    "profile": {
+      "angles": [
+        31.919635406817783,
+        31.913029666813873,
+        179.80567117129436
+      ],
+      "span": 9.988214375953293
+    },
+    "source_seq_idx": 134,
+    "source_name": "mofflow2s_107",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(F)cc4ccc23)cc1F",
+    "normalization_changed": false
+  },
+  {
+    "id": "L10",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(O)c3c2c1",
+    "neutral_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(O)c3c2c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L10.xyz",
+    "bb_sha256": "c36c6f369b7b99790eb4ac1024d29f0bdc7ba9346aff604a7e5cc806971b2ee8",
+    "profile": {
+      "angles": [
+        30.166552495210137,
+        28.685225242274136,
+        177.12098771403646
+      ],
+      "span": 7.530030446817595
+    },
+    "source_seq_idx": 274,
+    "source_name": "mofflow2s_218",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(O)c3c2c1",
+    "normalization_changed": false
+  },
+  {
+    "id": "L11",
+    "smiles": "Nc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "neutral_smiles": "Nc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L11.xyz",
+    "bb_sha256": "4d5e79f5151b767a348110c16273b2bf10f36074356f9c264cf340e949a2fccc",
+    "profile": {
+      "angles": [
+        31.109632792547128,
+        29.374485835518673,
+        174.75917502172655
+      ],
+      "span": 7.491757704304112
+    },
+    "source_seq_idx": 886,
+    "source_name": "mofflow2s_666",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "Nc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "normalization_changed": false
+  },
+  {
+    "id": "L12",
+    "smiles": "O=C([O-])c1c(O)cc2cc(O)c3c(C(=O)[O-])c(O)ccc3c2c1O",
+    "neutral_smiles": "O=C(O)c1c(O)cc2cc(O)c3c(C(=O)O)c(O)ccc3c2c1O",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L12.xyz",
+    "bb_sha256": "61428ea470bf5088a398fc2d23fe2d7eca07e3ba5ffb7a13f3cb7ef875a340ac",
+    "profile": {
+      "angles": [
+        26.34528982460574,
+        29.92896922721012,
+        176.29946216685525
+      ],
+      "span": 7.6156221157565325
+    },
+    "source_seq_idx": 526,
+    "source_name": "mofflow2s_352",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "O=C(O)c1c(O)cc2cc(O)c3c(C(=O)O)c(O)ccc3c2c1O",
+    "normalization_changed": false
+  },
+  {
+    "id": "L13",
+    "smiles": "O=Cc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "O=Cc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L13.xyz",
+    "bb_sha256": "6611ea6842cfe28c8693ac137b72b16b873d8e12868792f437f1358df27d1cff",
+    "profile": {
+      "angles": [
+        27.256621606405307,
+        27.528928693552906,
+        178.2064408893204
+      ],
+      "span": 7.522279657789917
+    },
+    "source_seq_idx": 311,
+    "source_name": "mofflow2s_254",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "O=Cc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "normalization_changed": false
+  },
+  {
+    "id": "L14",
+    "smiles": "CCOc1cc2cc(C(=O)[O-])cc(OCC)c2cc1C(=O)[O-]",
+    "neutral_smiles": "CCOc1cc2cc(C(=O)O)cc(OCC)c2cc1C(=O)O",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L14.xyz",
+    "bb_sha256": "6663a315140bef4de7fe08741099c9ae80385d0965309271e06cd879e9e592db",
+    "profile": {
+      "angles": [
+        9.380223321646087,
+        13.520239338454239,
+        175.81564958926734
+      ],
+      "span": 6.520483029653555
+    },
+    "source_seq_idx": 742,
+    "source_name": "mofflow2s_542",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "CCOc1cc2cc(C(=O)O)cc(OCC)c2cc1C(=O)O",
+    "normalization_changed": false
+  },
+  {
+    "id": "L15",
+    "smiles": "CCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "CCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L15.xyz",
+    "bb_sha256": "2a5d09346913cded8424f7345408404222602d8692d8b690d8ec6cc37e4a42d6",
+    "profile": {
+      "angles": [
+        28.43000667054901,
+        31.07322924578473,
+        176.58330936221094
+      ],
+      "span": 7.493726529571253
+    },
+    "source_seq_idx": 389,
+    "source_name": "mofflow2s_323",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "CCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "normalization_changed": false
+  },
+  {
+    "id": "L16",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc([N+](=O)[O-])cc3c2c1",
+    "neutral_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)cc([N+](=O)[O-])cc3c2c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L16.xyz",
+    "bb_sha256": "ea02edd97cf865a5697d85caf878595537f9d0be2a2fd2ddd7513824717e046c",
+    "profile": {
+      "angles": [
+        30.88796516446603,
+        28.74424754203703,
+        177.26663677754883
+      ],
+      "span": 7.499716571311213
+    },
+    "source_seq_idx": 594,
+    "source_name": "mofflow2s_416",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)cc([N+](=O)O)cc3c2c1",
+    "normalization_changed": true
+  },
+  {
+    "id": "L17",
+    "smiles": "CCCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "neutral_smiles": "CCCc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L17.xyz",
+    "bb_sha256": "e996d8af81a7e6bf5a7e7ba2da7b12a0a14877caa823bc56ba111deea4fd73a6",
+    "profile": {
+      "angles": [
+        26.59903395326282,
+        34.43732518766373,
+        171.98566340395718
+      ],
+      "span": 7.478942492759253
+    },
+    "source_seq_idx": 143,
+    "source_name": "mofflow2s_114",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "CCCc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "normalization_changed": false
+  },
+  {
+    "id": "L18",
+    "smiles": "O=C([O-])c1ccc2cc(O)c3c(C(=O)[O-])ccc(O)c3c2c1",
+    "neutral_smiles": "O=C(O)c1ccc2cc(O)c3c(C(=O)O)ccc(O)c3c2c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L18.xyz",
+    "bb_sha256": "9692b49001b931778604d0e649a163c9593d84cd578b33e0604d73385c2bd956",
+    "profile": {
+      "angles": [
+        30.959943354099675,
+        25.771341771078404,
+        174.80101237472664
+      ],
+      "span": 7.570128842364573
+    },
+    "source_seq_idx": 383,
+    "source_name": "mofflow2s_318",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "O=C(O)c1ccc2cc(O)c3c(C(=O)O)ccc(O)c3c2c1",
+    "normalization_changed": false
+  },
+  {
+    "id": "L19",
+    "smiles": "Nc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "neutral_smiles": "Nc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L19.xyz",
+    "bb_sha256": "245e4a1ff499f9de8e02501e6d4762afe6fc7599943e29e52e10c6fc18b45cd9",
+    "profile": {
+      "angles": [
+        28.18668379988962,
+        33.39157404267227,
+        174.65673634135092
+      ],
+      "span": 7.48909884966142
+    },
+    "source_seq_idx": 909,
+    "source_name": "mofflow2s_683",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "Nc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "normalization_changed": false
+  },
+  {
+    "id": "L20",
+    "smiles": "CCc1cc2c(ccc3ccc(C(=O)[O-])c(CC)c32)c2cc(C(=O)[O-])ccc12",
+    "neutral_smiles": "CCc1cc2c(ccc3ccc(C(=O)O)c(CC)c32)c2cc(C(=O)O)ccc12",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/L20.xyz",
+    "bb_sha256": "4dda1046083fb9d472c1a9c26f808c046ab7f5ef0dbcc19736b2b8806aca6ee2",
+    "profile": {
+      "angles": [
+        21.18091084504028,
+        31.769544904945793,
+        167.8747365844361
+      ],
+      "span": 10.199298193503315
+    },
+    "source_seq_idx": 256,
+    "source_name": "mofflow2s_207",
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "old_neutral_smiles": "CCc1cc2c(ccc3ccc(C(=O)O)c(CC)c32)c2cc(C(=O)O)ccc12",
+    "normalization_changed": false
+  }
+]

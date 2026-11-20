@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "生成式 MOF · 项目工作地图",
+    "locale": "zh-CN",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1360,
+      780
+    ],
+    "views": [
+      {
+        "id": "generation",
+        "label": "当前主线",
+        "focus": [
+          "assets",
+          "engines",
+          "assembly",
+          "quality",
+          "identity",
+          "benchmark"
+        ],
+        "note": "结构生成 → 质量与身份验证 → 统一比较"
+      },
+      {
+        "id": "research",
+        "label": "研究缺口",
+        "focus": [
+          "identity",
+          "benchmark",
+          "improvement",
+          "interface"
+        ],
+        "note": "训练参考覆盖、条件响应、生成器改进和任务入口"
+      },
+      {
+        "id": "legacy",
+        "label": "已有性能管线",
+        "focus": [
+          "baseline",
+          "features",
+          "proxy",
+          "simulation"
+        ],
+        "note": "规则基线与吸附评价已接通；本轮暂停扩展性能任务"
+      }
+    ],
+    "legend": {
+      "mode": "hidden"
+    }
+  },
+  "components": [
+    {
+      "id": "assets",
+      "type": "database",
+      "label": "数据与训练资产 · 已具备",
+      "sublabel": "公开 CIF · 训练集 · 权重",
+      "tag": "已具备",
+      "pos": [
+        53,
+        95
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "engines",
+      "type": "backend",
+      "label": "三引擎生成 · 已跑通",
+      "sublabel": "MOFDiff / MOFFlow-2 / EGMOF",
+      "tag": "已跑通 · 扩样本",
+      "pos": [
+        383,
+        95
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "assembly",
+      "type": "backend",
+      "label": "组装与 CIF · 已实现",
+      "sublabel": "解码 · 拓扑组装 · 来源追踪",
+      "tag": "已实现",
+      "pos": [
+        712,
+        95
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "quality",
+      "type": "security",
+      "label": "化学与几何质量 · 已实现",
+      "sublabel": "化学过滤 · UFF / MACE 弛豫",
+      "tag": "已实现 · 故障单列",
+      "pos": [
+        1041,
+        95
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "interface",
+      "type": "frontend",
+      "label": "自然语言入口 · 规划中",
+      "sublabel": "需求 → 条件与约束 → 多个 CIF",
+      "tag": "规划中",
+      "pos": [
+        53,
+        335
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "improvement",
+      "type": "backend",
+      "label": "条件响应与改进 · 待验证",
+      "sublabel": "有目标 / 无目标 · 改进前后",
+      "tag": "下一阶段研究",
+      "pos": [
+        383,
+        335
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "benchmark",
+      "type": "backend",
+      "label": "统一评估 · 扩样本中",
+      "sublabel": "有效 · 唯一 · 新颖 · 多样 · 可控",
+      "tag": "100 样本完成 · 1000 扩展",
+      "pos": [
+        712,
+        335
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "identity",
+      "type": "security",
+      "label": "去重与 MOFid · 部分完成",
+      "sublabel": "StructureMatcher · SMILES · MOFid",
+      "tag": "MOFid 已接入 · 参考处理中",
+      "pos": [
+        1041,
+        335
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "features",
+      "type": "backend",
+      "label": "孔道与化学特征 · 已实现",
+      "sublabel": "Zeo++ · PACMOF · G + Chem",
+      "tag": "已实现 · 性能支线",
+      "pos": [
+        53,
+        575
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "proxy",
+      "type": "backend",
+      "label": "代理与适用域 · 已评估",
+      "sublabel": "LightGBM · OOD 检查与扩训",
+      "tag": "已实现 · 生成域失效已记录",
+      "pos": [
+        383,
+        575
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "simulation",
+      "type": "backend",
+      "label": "吸附精算 · 当前暂停",
+      "sublabel": "Widom → 混合 GCMC → 公平比较",
+      "tag": "历史已验证 · 当前暂停",
+      "pos": [
+        712,
+        575
+      ],
+      "size": [
+        244,
+        90
+      ]
+    },
+    {
+      "id": "baseline",
+      "type": "external",
+      "label": "规则与反馈 · 保留基线",
+      "sublabel": "配体变体 · 锚点 · PORMAKE",
+      "tag": "已实现 · 保留基线",
+      "pos": [
+        1041,
+        575
+      ],
+      "size": [
+        244,
+        90
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "from": "assets",
+      "to": "engines",
+      "variant": "emphasis"
+    },
+    {
+      "from": "engines",
+      "to": "assembly",
+      "variant": "emphasis"
+    },
+    {
+      "from": "assembly",
+      "to": "quality",
+      "variant": "emphasis"
+    },
+    {
+      "from": "quality",
+      "to": "identity",
+      "variant": "emphasis"
+    },
+    {
+      "from": "identity",
+      "to": "benchmark",
+      "variant": "emphasis"
+    },
+    {
+      "from": "benchmark",
+      "to": "improvement",
+      "label": "研究反馈",
+      "variant": "dashed"
+    },
+    {
+      "from": "improvement",
+      "to": "interface",
+      "label": "产品化",
+      "variant": "dashed"
+    },
+    {
+      "from": "features",
+      "to": "proxy"
+    },
+    {
+      "from": "proxy",
+      "to": "simulation"
+    },
+    {
+      "from": "baseline",
+      "to": "simulation",
+      "label": "历史验证"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "当前聚焦",
+      "items": [
+        "生成结构的可用性与身份一致性",
+        "MOFid 全量训练参考核验进行中"
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "下一决策",
+      "items": [
+        "补齐三引擎千样本统一比较",
+        "定位拓扑失败并设计条件响应对照"
+      ]
+    },
+    {
+      "dot": "slate",
+      "title": "状态口径 · 2026-11-12",
+      "items": [
+        "能力状态依据代码与执行记录",
+        "图中流程箭头表示逻辑依赖"
+      ]
+    }
+  ]
+}

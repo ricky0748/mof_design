@@ -1,0 +1,962 @@
+[
+  {
+    "id": "L01",
+    "arm": "U",
+    "name": "U_L01",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L01.cif",
+    "natoms": 104,
+    "sha256": "cfcfc54144596053b6a02f1604cacc6dd7809aeec207b9cd2809607892d62e66",
+    "seconds": 0.461
+  },
+  {
+    "id": "L01",
+    "arm": "M",
+    "name": "M_L01",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L01.cif",
+    "natoms": 136,
+    "sha256": "83fe1fd7cd0971257ac3a776b1938a62121e4d64cd79c2b3644c396e613c110f",
+    "seconds": 0.319
+  },
+  {
+    "id": "L02",
+    "arm": "U",
+    "name": "U_L02",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L02.cif",
+    "natoms": 122,
+    "sha256": "54b6c61923238458d63f42fba58a776a625a1f258367ae7d47d223ccd9ddd96e",
+    "seconds": 0.121
+  },
+  {
+    "id": "L02",
+    "arm": "M",
+    "name": "M_L02",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L02.cif",
+    "natoms": 160,
+    "sha256": "adb5d31014a1207fdb6816131ac189ace142243e2fa9b24f16bd6bfb2ab99b66",
+    "seconds": 0.378
+  },
+  {
+    "id": "L03",
+    "arm": "U",
+    "name": "U_L03",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L03.cif",
+    "natoms": 113,
+    "sha256": "e30475b18257c107ed1d0ec13edf19f2ad522b380aba49783db3cfde5435abbd",
+    "seconds": 0.147
+  },
+  {
+    "id": "L03",
+    "arm": "M",
+    "name": "M_L03",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L03.cif",
+    "natoms": 148,
+    "sha256": "39c3f7fc97bd0fdf058c4bba4dc35b266b7863f96ed5a6b1f7bcab727b20c0e8",
+    "seconds": 0.225
+  },
+  {
+    "id": "L04",
+    "arm": "U",
+    "name": "U_L04",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L04.cif",
+    "natoms": 89,
+    "sha256": "e2b3b30261bc9d268c24d078ac98504903150a4c9666279c03972064731685e9",
+    "seconds": 0.126
+  },
+  {
+    "id": "L04",
+    "arm": "M",
+    "name": "M_L04",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L04.cif",
+    "natoms": 116,
+    "sha256": "46fa4f5c89e7ff98b35ea97219b65f4edcdec7755b33bdf4164887ad1646a04b",
+    "seconds": 0.211
+  },
+  {
+    "id": "L05",
+    "arm": "U",
+    "name": "U_L05",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L05.cif",
+    "natoms": 134,
+    "sha256": "28a4410ecf45f050b456b53ade920136576dbddd8723aca8f0edbab190df6824",
+    "seconds": 0.168
+  },
+  {
+    "id": "L05",
+    "arm": "M",
+    "name": "M_L05",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L05.cif",
+    "natoms": 176,
+    "sha256": "5d796a47bacc821ad2ec7c865590d25bd35223743d98d5ae530cff26279dc022",
+    "seconds": 0.223
+  },
+  {
+    "id": "L06",
+    "arm": "U",
+    "name": "U_L06",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L06.cif",
+    "natoms": 110,
+    "sha256": "9147b907870ee5317f5e15d180642bb0fd17c40285d20f045e2a75c24ce644c7",
+    "seconds": 0.152
+  },
+  {
+    "id": "L06",
+    "arm": "M",
+    "name": "M_L06",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L06.cif",
+    "natoms": 144,
+    "sha256": "51e338ca5f8502d949ccb04e6b545974cc11f0eeaab4bcecd8eddce0f5d51b2c",
+    "seconds": 0.244
+  },
+  {
+    "id": "L07",
+    "arm": "U",
+    "name": "U_L07",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L07.cif",
+    "natoms": 125,
+    "sha256": "f1ff79844fe53037ffb5a4c49971f4ab03bb2812e2b838c515effd1ae035655d",
+    "seconds": 0.171
+  },
+  {
+    "id": "L07",
+    "arm": "M",
+    "name": "M_L07",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L07.cif",
+    "natoms": 164,
+    "sha256": "56cf329f871b55b32e82b14b191b9b814c8732229869e75fb74f9516ad51d562",
+    "seconds": 0.227
+  },
+  {
+    "id": "L08",
+    "arm": "U",
+    "name": "U_L08",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L08.cif",
+    "natoms": 122,
+    "sha256": "657a87b6e28d4d79d4511b1de017bba7eb880632d0ab63c24675e3a0dbf86167",
+    "seconds": 0.147
+  },
+  {
+    "id": "L08",
+    "arm": "M",
+    "name": "M_L08",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L08.cif",
+    "natoms": 160,
+    "sha256": "ffd28c441187034ad5db9394c83fd24acc6411b23db0ee0c6c280fff8102ae3f",
+    "seconds": 0.23
+  },
+  {
+    "id": "L09",
+    "arm": "U",
+    "name": "U_L09",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L09.cif",
+    "natoms": 107,
+    "sha256": "f142d0f9e6de62f95c6564815b2a8c38074c9dee974d912930a5fcefa116021c",
+    "seconds": 0.123
+  },
+  {
+    "id": "L09",
+    "arm": "M",
+    "name": "M_L09",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L09.cif",
+    "natoms": 140,
+    "sha256": "d4861d92a79a2e6cc2111dc0c39ccbadea41dbe1361e7d306e253bee515dd94f",
+    "seconds": 0.213
+  },
+  {
+    "id": "L10",
+    "arm": "U",
+    "name": "U_L10",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L10.cif",
+    "natoms": 92,
+    "sha256": "6f174d2688640417c198afd7959622ae94559902b77e7af62db7e84eda16a784",
+    "seconds": 0.132
+  },
+  {
+    "id": "L10",
+    "arm": "M",
+    "name": "M_L10",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L10.cif",
+    "natoms": 120,
+    "sha256": "ae2616b813105809a1bc96d3047c61db627cfc21524b7912b257da53d9dc0fff",
+    "seconds": 0.21
+  },
+  {
+    "id": "L11",
+    "arm": "U",
+    "name": "U_L11",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L11.cif",
+    "natoms": 95,
+    "sha256": "41df4b8d1d1af26f6bff45198e9e536fbaf14d0cfad3350e5efaec75f713b0db",
+    "seconds": 0.13
+  },
+  {
+    "id": "L11",
+    "arm": "M",
+    "name": "M_L11",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L11.cif",
+    "natoms": 124,
+    "sha256": "7d358124775f729cf2d6d94d2eab5eb33d646998decf7ab904ea2a733f4f9508",
+    "seconds": 0.207
+  },
+  {
+    "id": "L12",
+    "arm": "U",
+    "name": "U_L12",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L12.cif",
+    "natoms": 101,
+    "sha256": "4f0afd9d45fd65d820fa73374b2a0838052225cf48ff068ae5babe60bdbdc8f0",
+    "seconds": 0.132
+  },
+  {
+    "id": "L12",
+    "arm": "M",
+    "name": "M_L12",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L12.cif",
+    "natoms": 132,
+    "sha256": "6bc09dc37e1b5768e499d1849ff73f3b73d4a6e72a2cf5dcdabd2f8861b06f30",
+    "seconds": 0.214
+  },
+  {
+    "id": "L13",
+    "arm": "U",
+    "name": "U_L13",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L13.cif",
+    "natoms": 95,
+    "sha256": "1a1db7e8d56800bbe2f8b8ff0eccd2e1023a5c9bde71dc4d3e88c2313f02c076",
+    "seconds": 0.131
+  },
+  {
+    "id": "L13",
+    "arm": "M",
+    "name": "M_L13",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L13.cif",
+    "natoms": 124,
+    "sha256": "4f478b8ce5dc353e8d54c6f65dcf7dbbfdcec26d15745ee44c54968e4fdd39f7",
+    "seconds": 0.215
+  },
+  {
+    "id": "L14",
+    "arm": "U",
+    "name": "U_L14",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L14.cif",
+    "natoms": 113,
+    "sha256": "3cb1f17a99e03cbdd5526183acdc408c3d8ec5cd869097988226b6b4e972635e",
+    "seconds": 0.138
+  },
+  {
+    "id": "L14",
+    "arm": "M",
+    "name": "M_L14",
+    "status": "built",
+    "template": {
+      "name": "pcu+N16+E147",
+      "topology": "pcu",
+      "node": "N16",
+      "edge": "E147",
+      "profile": {
+        "angles": [
+          11.475542428767032,
+          11.490938065443734,
+          179.9845780878035
+        ],
+        "span": 6.448821911015996
+      },
+      "node_metals": [
+        "Zn"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E147.cif",
+      "source_sha256": "4b8fc8b740a9c5d0fa4dd544ca7e781c2c728f74ae976f161712abf7ecef2358",
+      "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+      "edge_sha256": "818370adad55d00e9f5d1fe8f1b6b9a940aeae1bcbed8d9de425a7ce8cdf1883",
+      "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L14.cif",
+    "natoms": 113,
+    "sha256": "29b4982d437499c603c780c0d348cb2f8cbacceae002996b80d45a4092290dab",
+    "seconds": 0.139
+  },
+  {
+    "id": "L15",
+    "arm": "U",
+    "name": "U_L15",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L15.cif",
+    "natoms": 107,
+    "sha256": "f103c7adb8f2e8148242fc36bc01959d53a1bb4f73eceb075e4c4f7c5688c42b",
+    "seconds": 0.141
+  },
+  {
+    "id": "L15",
+    "arm": "M",
+    "name": "M_L15",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L15.cif",
+    "natoms": 140,
+    "sha256": "b92163b748e27baa9cf3b573598f2ce7798efab32696bd453c4d548bbd2c379e",
+    "seconds": 0.213
+  },
+  {
+    "id": "L16",
+    "arm": "U",
+    "name": "U_L16",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L16.cif",
+    "natoms": 95,
+    "sha256": "ccb1ac876814ec0efdce8b0e81ca2e8f993db253c50f7441f2d278ecbe999b70",
+    "seconds": 0.132
+  },
+  {
+    "id": "L16",
+    "arm": "M",
+    "name": "M_L16",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L16.cif",
+    "natoms": 124,
+    "sha256": "2cfc6fdf183050cb022566b8a925e0d7993d03223c8374463cc5208cf96b280d",
+    "seconds": 0.216
+  },
+  {
+    "id": "L17",
+    "arm": "U",
+    "name": "U_L17",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L17.cif",
+    "natoms": 116,
+    "sha256": "b7aa012955fe47654d56e9d12bf47a4f633f59ff38cb9c9744152ef61fdd4e27",
+    "seconds": 0.141
+  },
+  {
+    "id": "L17",
+    "arm": "M",
+    "name": "M_L17",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L17.cif",
+    "natoms": 152,
+    "sha256": "fbd3f968d359e6464beb7ed9cf47cda6a6127de9e6fd765dcc329e4969fd308f",
+    "seconds": 0.214
+  },
+  {
+    "id": "L18",
+    "arm": "U",
+    "name": "U_L18",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L18.cif",
+    "natoms": 95,
+    "sha256": "9ae763bd5afa3f38ab2c7f0c6ca0ee931b7cc528bcecf890a26967c1da61cf5c",
+    "seconds": 0.131
+  },
+  {
+    "id": "L18",
+    "arm": "M",
+    "name": "M_L18",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L18.cif",
+    "natoms": 124,
+    "sha256": "b8679d41de2808017c9b7639cb7cf6e69f34bdcff013eb99adb037180b1ceda3",
+    "seconds": 0.209
+  },
+  {
+    "id": "L19",
+    "arm": "U",
+    "name": "U_L19",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L19.cif",
+    "natoms": 95,
+    "sha256": "24c2496bd3555d8f200925ca144c1252400b72cb7454e0fb2c20b731253daff1",
+    "seconds": 0.131
+  },
+  {
+    "id": "L19",
+    "arm": "M",
+    "name": "M_L19",
+    "status": "built",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L19.cif",
+    "natoms": 124,
+    "sha256": "f345633722d7ba8e6d689f3417700954823fa6f7b1d2bee0fb893fefff5e3ddc",
+    "seconds": 0.211
+  },
+  {
+    "id": "L20",
+    "arm": "U",
+    "name": "U_L20",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/U_L20.cif",
+    "natoms": 143,
+    "sha256": "d9325f1f72586050fe38348aa04957ab2a4b1d52296175ad506a274dee67c9c7",
+    "seconds": 0.133
+  },
+  {
+    "id": "L20",
+    "arm": "M",
+    "name": "M_L20",
+    "status": "built",
+    "template": {
+      "name": "qtz-x+N16+E163",
+      "topology": "qtz-x",
+      "node": "N16",
+      "edge": "E163",
+      "profile": {
+        "angles": [
+          11.836021236803866,
+          27.127663476132604,
+          156.94136204916956
+        ],
+        "span": 8.375898245561487
+      },
+      "node_metals": [
+        "Zn"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E163.cif",
+      "source_sha256": "4d7c388aab8b12000aeeec3a95aee56fb9bda4896c24461969cae9b64347f3c0",
+      "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+      "edge_sha256": "bf9802b0fe8ba1c66b47d9cdddb0c5ec2553cb78be62ae646f9100e524a5f00a",
+      "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/raw/M_L20.cif",
+    "natoms": 429,
+    "sha256": "96b3d3472f9075061c8a917fbc501f98022c3a9516e12d3a338a2e500ca284be",
+    "seconds": 0.577
+  }
+]

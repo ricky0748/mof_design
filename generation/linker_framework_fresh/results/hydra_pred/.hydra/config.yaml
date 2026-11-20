@@ -1,0 +1,244 @@
+preprocess:
+  task: csp
+  num_cpus: 60
+  lmdb_dir: ${paths.data_dir}/lmdb
+  split_dir: ${paths.data_dir}/splits
+  metal_dir: ${paths.data_dir}/metals
+  seq_dir: ${paths.data_dir}/seqs
+  filter:
+    num_cpus: 16
+    max_bbs: 20
+    max_atoms: 200
+    max_cps: 20
+    prop_list:
+    - working_capacity_vacuum_swing [mmol/g]
+    - working_capacity_temperature_swing [mmol/g]
+  mof_matcher:
+    optimizer:
+      steps: 200
+      popsize: 20
+      maxiter: 20
+    tolerance:
+      ltol: 0.2
+      stol: 0.5
+      angle_tol: 5.0
+  mof_checker:
+    use_matched_coords: true
+  mof_sequence:
+    prop_name: working_capacity_vacuum_swing [mmol/g]
+data:
+  train_sample_limit: null
+  val_sample_limit: null
+  test_sample_limit: null
+  dataset_prefix: MetalOxo_final
+  lmdb_dir: ${paths.data_dir}/lmdb/${experiment.task}
+  split_dir: ${paths.data_dir}/splits
+  rot_symmetry: true
+  corrupt_trans: ${experiment.training.corrupt_trans}
+  corrupt_rots: ${experiment.training.corrupt_rots}
+  corrupt_lattice: ${experiment.training.corrupt_lattice}
+  corrupt_torsions: ${experiment.training.corrupt_torsions}
+  t_sample_dist: uniform
+  t_uniform:
+    t_min: 0.0
+    t_max: 1.0
+  t_logit_normal:
+    mean: -0.5
+    std: 1.0
+  lattice:
+    lognormal:
+      loc: ${lattice.lognormal.loc}
+      scale: ${lattice.lognormal.scale}
+    uniform:
+      low: 60.0
+      high: 120.0
+      eps: 0.1
+  loader:
+    sampler: dynamic
+    overfit:
+      num_samples: 100000
+    dynamic:
+      max_num_atoms: 1500
+      max_batch_size: null
+    num_workers: 32
+    prefetch_factor: 10
+    batch_size:
+      train: 128
+      valid: 64
+      predict: 32
+experiment:
+  task: csp
+  project: mof-${experiment.task}
+  name: test
+  debug: false
+  seed: 123
+  num_devices: 8
+  warm_start: null
+  warm_start_cfg_override: true
+  visualize_freq: 1000
+  use_ema: false
+  ema:
+    decay: 0.999
+    apply_ema_every_n_steps: 1
+    start_step: 0
+    evaluate_ema_weights_instead: false
+  training:
+    corrupt_trans: true
+    corrupt_rots: true
+    corrupt_lattice: true
+    corrupt_torsions: true
+    translation_loss_weight: 3.0
+    rotation_loss_weight: 1.0
+    lattice_loss_weight: 1.0
+    torsion_angle_loss_weight: 1.0
+    torsion_norm_loss_weight: 0.005
+    t_normalize_clip: 0.9
+  optimizer:
+    lr: 1.0e-05
+    betas:
+    - 0.9
+    - 0.98
+    eps: 1.0e-08
+    weight_decay: 0.0
+  lr_scheduler_type: null
+  lr_scheduler:
+    linear_warmup:
+      warmup_epochs: 10
+      min_lr: 1.0e-07
+    reduce_on_plateau:
+      factor: 0.6
+      patience: 10
+      min_lr: 1.0e-07
+  trainer:
+    overfit_batches: 0
+    min_epochs: 10
+    max_epochs: -1
+    accelerator: gpu
+    log_every_n_steps: 1
+    deterministic: false
+    strategy: ddp
+    val_check_interval: 1.0
+    check_val_every_n_epoch: 1
+    accumulate_grad_batches: 1
+    gradient_clip_val: 10.0
+  checkpointer:
+    dirpath: ${paths.ckpt_dir}
+    filename: epoch_{epoch}-step_{step}-loss_{train/loss:.4f}
+    auto_insert_metric_name: false
+    save_last: true
+    save_top_k: 10
+    monitor: step
+    mode: max
+model:
+  init_mode: 1in5out
+  corrupt_trans: ${experiment.training.corrupt_trans}
+  corrupt_rots: ${experiment.training.corrupt_rots}
+  corrupt_lattice: ${experiment.training.corrupt_lattice}
+  corrupt_torsions: ${experiment.training.corrupt_torsions}
+  initialize_cfg:
+    max_atom_types: 100
+    atom_type_dim: 64
+    atom_feats_dim: 39
+    time_embed_dim: 64
+    coords_feats_dim: 64
+    node_embed_dim: ${model.node_embed_dim}
+    add_pos_embed: true
+  node_embed_dim: 1024
+  interaction_cfg:
+    num_layers: 10
+    max_radius: 50
+    max_neighbors: 130
+    dist_embed_dim: 128
+    trans_encoder_cfg:
+      ln_mode: pre
+      init_mode: ${model.init_mode}
+      dropout: 0.0
+      ffn_bias: false
+      norm: rmsnorm
+      attention:
+        node_embed_dim: ${model.node_embed_dim}
+        dist_embed_dim: ${model.interaction_cfg.dist_embed_dim}
+        no_heads: 16
+      encoder:
+        ffn_dim: ${eval:'4 * ${model.node_embed_dim}'}
+  pool_cfg:
+    node_embed_dim: ${model.node_embed_dim}
+    max_radius: .inf
+    max_neighbors: 1000
+    gaussian:
+      max_radius: 20
+      dist_embed_dim: 128
+    no_heads: 16
+  output_model_cfg:
+    torsion:
+      normalize: false
+      node_embed_dim: ${model.node_embed_dim}
+      max_radius: 5
+      max_neighbors: 24
+      gaussian:
+        max_radius: 5
+        dist_embed_dim: 128
+      no_heads: 16
+    rotation:
+      node_embed_dim: ${model.node_embed_dim}
+      use_svd: false
+paths:
+  root_dir: ${oc.env:PROJECT_ROOT}
+  log_dir: ${paths.root_dir}/logs/${experiment.project}/${experiment.name}
+  logger_dir: ${paths.root_dir}/logs
+  ckpt_dir: ${paths.log_dir}/ckpt
+  inference_dir: ${paths.log_dir}/inference
+  data_dir: ${paths.root_dir}/data
+lattice:
+  lognormal:
+    loc:
+    - 2.5542190074920654
+    - 2.754688262939453
+    - 2.9632623195648193
+    scale:
+    - 0.37387514114379883
+    - 0.30108675360679626
+    - 0.31256887316703796
+logger: wandb
+wandb:
+  name: ${experiment.name}
+  project: ${experiment.project}
+  save_dir: ${paths.logger_dir}
+wandb_watch:
+  log: all
+  log_freq: 500
+tensorboard:
+  name: tensorboard
+  version: ${experiment.project}/${experiment.name}
+  save_dir: ${paths.logger_dir}
+  log_graph: false
+  default_hp_metric: true
+callbacks:
+  tensorboard:
+    log_freq: 1
+    log_grad_hist: false
+    log_weight_hist: false
+    log_grad_norm: true
+    log_weight_norm: true
+    log_norm_input: true
+inference:
+  ckpt_path: /share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/sp_module/ckpt.pt
+  seed: 719
+  task: gen
+  csp:
+    split: test
+  gen:
+    metal_lib_path: /share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/metals/metal_lib_train.pkl
+    mof_seqs_path: /share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/selected_sequences.json
+    sample_limit: null
+  num_devices: 1
+  num_samples: 1
+  trainer:
+    accelerator: gpu
+    strategy: ddp
+    logger: false
+    enable_checkpointing: false
+    devices: ${inference.num_devices}
+  sampler:
+    min_t: 0.0
+    num_timesteps: 50

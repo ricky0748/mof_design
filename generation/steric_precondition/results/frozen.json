@@ -1,0 +1,48 @@
+{
+  "n": 6,
+  "inputs": {
+    "selected.json": "6380e77ca48707fd58a8f2897b61219dc657983f8222e11a56e8a321b87ebec1",
+    "PROTOCOL.md": "c1dc1388aa6884b6412e8ef78942a3a042d01c201abd07e6fac02ad66f126b45",
+    "build.json": "76878b972bfad09c28ed904cd6dd34c84aa89da6e0ca3a2a5510eef919a8e03b",
+    "raw/U19_F14.cif": "62b8a9f5ed870fde52789edd9630c3523ddade4ae23f340f38f1e2a0854b4928",
+    "raw/U7_F11.cif": "f61d1557af96ea1fe15cb6db28b82a72c13056509b21f234e9af795801978291",
+    "raw/U19_F04.cif": "0df1a8a4e0272920644611407e85f24364f437c0a8816e473cb349f444b41888",
+    "raw/U7_F14.cif": "b31314998d3ee04584a189f70c1ba373cfe4cbce27271fdb86553e210c8c66fe",
+    "raw/U19_F11.cif": "f2ebca0a84428be2e094909a4cfce24281e51c3b7d125667fb1439a575861086",
+    "raw/control_BDC19.cif": "4b7aff623afed0cd5384c6508a5673927d63b4642a5f8248445c2595cdc787eb"
+  },
+  "scripts": {
+    "test_steric.py": "d1b4bed8c727fa4571e42e0eadb00b51caecd5f874ebaab9c2ab2b5b6d198c1c",
+    "common.py": "ce9194d7bdf4af309d8b5a9f2072b629518c593164f3bd6d0d6bb6cd5fc27514",
+    "relax_one.py": "f882d8955d256755dc8dbd048a8adc5a3bc8f6d6b6b118ff58176868d990dea3",
+    "steric.py": "4936b4f4022114c30508d851e9b6d69f0c5fb0ac16ebefda560e5eeeae0fa4d0",
+    "run.py": "53dfcc8cbd872234270734c6a1f93f8246164dd3f305c21597a80bcc47ff0a7e",
+    "report.py": "8eb995d2b67e4d6bba9e15d1f300f35b802518ac92b72161ef8c466becc589e6",
+    "freeze.py": "031f24f6ff6abc7698cd39c42c349346ab0d2f1d58f6f7fa8ec3e7df1299e412",
+    "provenance.py": "208d6e126536953ec4b9d22f62bdad5b2297c3d0697393eae45b8cc9c06bca0d",
+    "compute_config.py": "83ff68f4e69dcae8611747623f7bb30a59b33bff1fdd3aee604c11b1b1c5189d"
+  },
+  "model": "01bfe22100139f424713cf921144e5509cbe353d67aa9fa1be9c6e1e0ed35845",
+  "support": "73c6f55d4fb4505e4235c50e4c9522df60ee626e3abedd41ac83c93b744bdd3c",
+  "calculation_settings": {
+    "steps": 100,
+    "fmax": 0.2,
+    "maxstep": 0.05,
+    "timeout": 600,
+    "atom_limit": 1000,
+    "dtype": "float64",
+    "threads": 2,
+    "neighbor_multiplier": 1.15,
+    "neighbor_skin": 0.0,
+    "minimum_distance": 0.9,
+    "minimum_volume_ratio": 0.75,
+    "maximum_volume_ratio": 1.25,
+    "precondition_steps": 50,
+    "precondition_target": 1.2,
+    "precondition_repulsion": 100.0,
+    "precondition_bond": 100.0,
+    "precondition_position": 1.0,
+    "precondition_min_distance": 0.9,
+    "precondition_max_bond_shift": 0.3
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H02.cif",
+  "out": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/relaxed/U_H02.cif",
+  "status": "completed",
+  "before": {
+    "natoms": 122,
+    "volume": 6511.965086024003,
+    "dmin": 1.0174052099468576,
+    "fragments": 1
+  },
+  "after": {
+    "natoms": 122,
+    "volume": 6522.451520247863,
+    "dmin": 1.0097604925482737,
+    "fragments": 1
+  },
+  "converged": true,
+  "steps": 16,
+  "volume_ratio": 1.0016103332996005,
+  "geometry_valid": true,
+  "seconds": 20.009
+}

@@ -1,0 +1,3 @@
+node	[O]
+node	[V]
+linker	COc1cc2cc(C(=O)[O-])c(cc2cc1C(=O)[O-])OC

@@ -1,0 +1,3 @@
+node	[O]
+node	[V]
+linker	[O-]C(=O)c1ccc2c(c1)[CH]C=C(O)C(=[N])[C]([C]C=C2)C(=O)[O-]

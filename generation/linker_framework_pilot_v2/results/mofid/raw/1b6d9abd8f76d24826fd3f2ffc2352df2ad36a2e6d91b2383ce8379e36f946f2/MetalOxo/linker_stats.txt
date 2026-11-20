@@ -1,0 +1,2 @@
+DPEBOMQSEUFZQX-UHFFFAOYSA-L	2	3	InChI=1S/C17H12O6/c1-23-9-6-13-10(14(7-9)17(21)22)2-3-11-12(13)4-8(16(19)20)5-15(11)18/h2-7,18H,1H3,(H,19,20)(H,21,22)/p-2	DPEBOMQSEUFZQX	COc1cc(C(=O)[O-])c2c(c1)c1cc(cc(c1cc2)O)C(=O)[O-]	CO[c]1[cH][c]([C]([O])[O-])[c]2[c]([cH]1)[c]1[cH][c]([cH][c]([c]1[cH][cH]2)O)[C]([O])[O-]
+

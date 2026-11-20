@@ -1,0 +1,2 @@
+SSZPLSVOQONZGR-UHFFFAOYSA-L	2	4	InChI=1S/C16H10O8/c17-7-2-1-6-10-5(3-8(18)11(6)12(7)15(21)22)4-9(19)13(14(10)20)16(23)24/h1-4,17-20H,(H,21,22)(H,23,24)/p-2	SSZPLSVOQONZGR	[O-]C(=O)c1c(O)cc2c(c1O)c1ccc(c(c1c(c2)O)C(=O)[O-])O	[O-][C]([c]1[c](O)[cH][c]2[c]([c]1O)[c]1[cH][cH][c]([c]([c]1[c]([cH]2)O)[C]([O])[O-])O)[O]
+

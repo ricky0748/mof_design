@@ -1,0 +1,4 @@
+node	[O]
+node	[O][O]
+node	[V]
+linker	[C]=[C]O[C][C][C][C][C][C](C[C])[CH2]

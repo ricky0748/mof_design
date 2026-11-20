@@ -1,0 +1,38 @@
+{
+  "inputs": {
+    "selected.json": "8b3ea574b32dd28d9a13507de87adf71db938a38c2d6097e6170dac8c647d865",
+    "PROTOCOL.md": "55ec473807afa9758d0167dacda879c8ef7fa2d7e16e8fc588729136bb1615a5",
+    "build.json": "d6fe5d51aa410ce360eb276786d3b2522b9e3718ee26778e4fb12e944d2b7665",
+    "raw/U_H01.cif": "a4965d7fcc88797570118b75964cf8fb7d28df49e5b636776c09c0f153ba1035",
+    "raw/U_H05.cif": "9eac8cdc8cbf4b1c8e599220cb9361de5480880f9fa641eaf68df4e1641ebca4",
+    "raw/U_H12.cif": "e881a38b546fea4d7b1e549e6a0965e81b18d6d9991fd908dd261f601f45e17e",
+    "raw/U_L12.cif": "08d81a16a9dd4220dbb8f20ed8b2e9e69d779fb2db8c866203aac5edad600494",
+    "raw/control_C_BDC.cif": "efff362b33d7f2e26d39f6f6e6e0d0aa0b41af35221bef505b72537c19bb5878"
+  },
+  "scripts": {
+    "common.py": "ce9194d7bdf4af309d8b5a9f2072b629518c593164f3bd6d0d6bb6cd5fc27514",
+    "relax_one.py": "eb2a8d163710b3e9c9ae93cfa419d87efdf04d677860e5b52c1bbf0b04d8307d",
+    "run.py": "d55743496e15baf5ddaa767776254835ac6adc11261f2948b0bcd0cd52da403e",
+    "report.py": "ce863aaa59c0545f0119aa49d1897373e3a01dee1be4bd937eabbc5f401c5f31",
+    "freeze.py": "f21446dfb2e63b0591f56425e37af8f533c20ad6f30758c2134f3c34ff6de58f",
+    "provenance.py": "208d6e126536953ec4b9d22f62bdad5b2297c3d0697393eae45b8cc9c06bca0d",
+    "compute_config.py": "9328041f7a545d85a1be18a60c76fd3cf1f95a049ac1ea49011c36ea785463f5"
+  },
+  "support": "73c6f55d4fb4505e4235c50e4c9522df60ee626e3abedd41ac83c93b744bdd3c",
+  "model": "01bfe22100139f424713cf921144e5509cbe353d67aa9fa1be9c6e1e0ed35845",
+  "calculation_settings": {
+    "steps": 300,
+    "fmax": 0.05,
+    "maxstep": 0.05,
+    "timeout": 600,
+    "atom_limit": 1000,
+    "dtype": "float64",
+    "threads": 2,
+    "neighbor_multiplier": 1.15,
+    "neighbor_skin": 0.0,
+    "minimum_distance": 0.9,
+    "minimum_volume_ratio": 0.75,
+    "maximum_volume_ratio": 1.25
+  },
+  "n": 5
+}

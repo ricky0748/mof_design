@@ -1,0 +1,16 @@
+[
+  {
+    "id": "C_BDC",
+    "smiles": "O=C(O)c1ccc(C(=O)O)cc1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/C_BDC.xyz",
+    "bb_sha256": "a1cba43cacb1f745b310b345d6ad93d11c224046b2994d81858a10b676431d31",
+    "profile": {
+      "angles": [
+        1.911953914218465,
+        1.9150023969302064,
+        176.1730445297942
+      ],
+      "span": 4.289964167682522
+    }
+  }
+]

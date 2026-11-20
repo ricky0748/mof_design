@@ -1,0 +1,1 @@
+[C]=CC(=[C])[NH].[O][C][O].[CH].[C][C]=C1C=Cc2c(C1([O])[CH][CH2])cc(cc2NC)C(=O)[O-].[V] MOFid-v1.ERROR.cat0.NO_REF;A_F09

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "C_BDC",
+    "smiles": "O=C(O)c1ccc(C(=O)O)cc1",
+    "template": "pcu/N16",
+    "status": "built",
+    "anchor_status": "ok",
+    "embedded_smiles": "O=C(O)c1ccc(C(=O)O)cc1",
+    "direction_degrees": [
+      1.294011041521769,
+      1.294011041521769
+    ],
+    "bb_sha256": "5b4de7a81b6c66697f217b44c9a79117e30463c46af63f1b095e49b54e8ab43b",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_20261113/raw/B_C_BDC.cif",
+    "natoms": 53,
+    "cif_sha256": "45a66008bb468b87ed15a8a84f739890bac228f943938993ca7f255e0adbc258",
+    "seconds": 0.568
+  },
+  {
+    "id": "C_BPDC",
+    "smiles": "O=C(O)c1ccc(-c2ccc(C(=O)O)cc2)cc1",
+    "template": "pcu/N16",
+    "status": "built",
+    "anchor_status": "ok",
+    "embedded_smiles": "O=C(O)c1ccc(-c2ccc(C(=O)O)cc2)cc1",
+    "direction_degrees": [
+      1.8571722139677809,
+      1.8518441441601219
+    ],
+    "bb_sha256": "5441abcb593bb095614ec130a787a22423637d1161217f5726a0d8c12052127a",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_20261113/raw/B_C_BPDC.cif",
+    "natoms": 83,
+    "cif_sha256": "f839faf810ba790f02992be313864a31537c3273ff8dde77256c8a830e1a2dac",
+    "seconds": 0.117
+  }
+]

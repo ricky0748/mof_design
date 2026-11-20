@@ -1,0 +1,202 @@
+[
+  {
+    "id": "L01",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 5.112903876304433,
+      "span_ratio": 1.1467731684624691,
+      "score": 6.482424455076929,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L02",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 5.566258177705912,
+      "span_ratio": 1.5323327481205167,
+      "score": 9.834170640168953,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L03",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 5.484795383686091,
+      "span_ratio": 1.1486453639037093,
+      "score": 6.870628419903668,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L04",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 1.7322245874235165,
+      "span_ratio": 1.151348977027622,
+      "score": 3.1415673716526955,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L05",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 2.639507178559086,
+      "span_ratio": 1.1495030933522667,
+      "score": 4.032804741149413,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L06",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 5.73684173780655,
+      "span_ratio": 1.1447680652268195,
+      "score": 7.088862271474965,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L07",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 1.9601125594953857,
+      "span_ratio": 1.1508549832710482,
+      "score": 3.3651638580640917,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L08",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 2.077971476796364,
+      "span_ratio": 1.1554945605177962,
+      "score": 3.5232559093031908,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L09",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 5.312861640248634,
+      "span_ratio": 1.5288795847023091,
+      "score": 9.55821333588172,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L10",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 3.336528735392914,
+      "span_ratio": 1.1526094043438524,
+      "score": 4.756812927697554,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L11",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 4.3461953600968,
+      "span_ratio": 1.1467510584496847,
+      "score": 5.715523135039055,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L12",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 3.0989454673928982,
+      "span_ratio": 1.1657107806595617,
+      "score": 4.632255598683311,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L13",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 0.8989294925029583,
+      "span_ratio": 1.1514230037857827,
+      "score": 2.3089152128005193,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L14",
+    "match": {
+      "template": "pcu+N16+E147",
+      "max_angle_difference": 4.168928498536161,
+      "span_ratio": 1.0111122806035544,
+      "score": 4.279438426804101,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L15",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 4.243205485967508,
+      "span_ratio": 1.1470524233026484,
+      "score": 5.615160904097987,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L16",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 4.057941404648808,
+      "span_ratio": 1.1479693091626262,
+      "score": 5.437887038259939,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L17",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 7.607301427846508,
+      "span_ratio": 1.1447894550472042,
+      "score": 8.959508808276324,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L18",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 4.30435800709671,
+      "span_ratio": 1.1587471999521133,
+      "score": 5.777752221663735,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L19",
+    "match": {
+      "template": "cds+N417+E112",
+      "max_angle_difference": 6.561550282855045,
+      "span_ratio": 1.146344071932486,
+      "score": 7.927328388042392,
+      "compatible": true
+    }
+  },
+  {
+    "id": "L20",
+    "match": {
+      "template": "qtz-x+N16+E163",
+      "max_angle_difference": 10.933374535266552,
+      "span_ratio": 1.2176960481710812,
+      "score": 12.902980417299515,
+      "compatible": true
+    }
+  }
+]

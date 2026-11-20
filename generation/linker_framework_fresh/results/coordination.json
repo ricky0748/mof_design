@@ -1,0 +1,1514 @@
+[
+  {
+    "name": "U7_F01",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.4031887522475595
+  },
+  {
+    "name": "U7_F01",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.4031887522475595
+  },
+  {
+    "name": "U7_F01",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.4031887522475595
+  },
+  {
+    "name": "U19_F01",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.463635533193881
+  },
+  {
+    "name": "U19_F01",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.463635533193881
+  },
+  {
+    "name": "U19_F01",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.463635533193881
+  },
+  {
+    "name": "U7_F02",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.305082087831653
+  },
+  {
+    "name": "U7_F02",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.305082087831653
+  },
+  {
+    "name": "U7_F02",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.305082087831653
+  },
+  {
+    "name": "U19_F02",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 9.445632814022769
+  },
+  {
+    "name": "U19_F02",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 9.445632814022769
+  },
+  {
+    "name": "U19_F02",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 9.445632814022769
+  },
+  {
+    "name": "U7_F03",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.750845450129956
+  },
+  {
+    "name": "U7_F03",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.750845450129956
+  },
+  {
+    "name": "U7_F03",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.750845450129956
+  },
+  {
+    "name": "U19_F03",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.986374159093463
+  },
+  {
+    "name": "U19_F03",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.986374159093463
+  },
+  {
+    "name": "U19_F03",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.986374159093463
+  },
+  {
+    "name": "U7_F04",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.492428377368704
+  },
+  {
+    "name": "U7_F04",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.492428377368704
+  },
+  {
+    "name": "U7_F04",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.492428377368704
+  },
+  {
+    "name": "U19_F04",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 5.713572861557342
+  },
+  {
+    "name": "U19_F04",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 5.713572861557342
+  },
+  {
+    "name": "U19_F04",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 5.713572861557342
+  },
+  {
+    "name": "U7_F05",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.399394661797019
+  },
+  {
+    "name": "U7_F05",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.399394661797019
+  },
+  {
+    "name": "U7_F05",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.399394661797019
+  },
+  {
+    "name": "U19_F05",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.1825680556066445
+  },
+  {
+    "name": "U19_F05",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.1825680556066445
+  },
+  {
+    "name": "U19_F05",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.1825680556066445
+  },
+  {
+    "name": "U7_F06",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 5.364325112321066
+  },
+  {
+    "name": "U7_F06",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 5.364325112321066
+  },
+  {
+    "name": "U7_F06",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 5.364325112321066
+  },
+  {
+    "name": "U19_F06",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.1997902333841255
+  },
+  {
+    "name": "U19_F06",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.1997902333841255
+  },
+  {
+    "name": "U19_F06",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.1997902333841255
+  },
+  {
+    "name": "U7_F07",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      5,
+      4
+    ],
+    "all_cn4": false,
+    "angle_rms": 5.487974509602494
+  },
+  {
+    "name": "U7_F07",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      5,
+      4
+    ],
+    "all_cn4": false,
+    "angle_rms": 5.487974509602494
+  },
+  {
+    "name": "U7_F07",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      5,
+      4
+    ],
+    "all_cn4": false,
+    "angle_rms": 5.487974509602494
+  },
+  {
+    "name": "U19_F07",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.656244548011694
+  },
+  {
+    "name": "U19_F07",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.656244548011694
+  },
+  {
+    "name": "U19_F07",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.656244548011694
+  },
+  {
+    "name": "U7_F08",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.48161553781612
+  },
+  {
+    "name": "U7_F08",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.48161553781612
+  },
+  {
+    "name": "U7_F08",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.48161553781612
+  },
+  {
+    "name": "U19_F08",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 3.9768841221077977
+  },
+  {
+    "name": "U19_F08",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 3.9768841221077977
+  },
+  {
+    "name": "U19_F08",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 3.9768841221077977
+  },
+  {
+    "name": "U7_F09",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.900536265218359
+  },
+  {
+    "name": "U7_F09",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.900536265218359
+  },
+  {
+    "name": "U7_F09",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.900536265218359
+  },
+  {
+    "name": "U19_F09",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.9809401920032625
+  },
+  {
+    "name": "U19_F09",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.9809401920032625
+  },
+  {
+    "name": "U19_F09",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.9809401920032625
+  },
+  {
+    "name": "U7_F10",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.187497548485924
+  },
+  {
+    "name": "U7_F10",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.187497548485924
+  },
+  {
+    "name": "U7_F10",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.187497548485924
+  },
+  {
+    "name": "U19_F10",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.211833896550874
+  },
+  {
+    "name": "U19_F10",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.211833896550874
+  },
+  {
+    "name": "U19_F10",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.211833896550874
+  },
+  {
+    "name": "U7_F11",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 9.636792016714324
+  },
+  {
+    "name": "U7_F11",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 9.636792016714324
+  },
+  {
+    "name": "U7_F11",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 9.636792016714324
+  },
+  {
+    "name": "U19_F11",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.9622700601975716
+  },
+  {
+    "name": "U19_F11",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.9622700601975716
+  },
+  {
+    "name": "U19_F11",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.9622700601975716
+  },
+  {
+    "name": "U7_F12",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.8225776509644
+  },
+  {
+    "name": "U7_F12",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.8225776509644
+  },
+  {
+    "name": "U7_F12",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.8225776509644
+  },
+  {
+    "name": "U19_F12",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.646714707536406
+  },
+  {
+    "name": "U19_F12",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.646714707536406
+  },
+  {
+    "name": "U19_F12",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.646714707536406
+  },
+  {
+    "name": "U7_F13",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.647902059978995
+  },
+  {
+    "name": "U7_F13",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.647902059978995
+  },
+  {
+    "name": "U7_F13",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.647902059978995
+  },
+  {
+    "name": "U19_F13",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.060956851954988
+  },
+  {
+    "name": "U19_F13",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.060956851954988
+  },
+  {
+    "name": "U19_F13",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.060956851954988
+  },
+  {
+    "name": "U7_F14",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "all_cn4": false,
+    "angle_rms": null
+  },
+  {
+    "name": "U7_F14",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      2,
+      2,
+      3,
+      3
+    ],
+    "all_cn4": false,
+    "angle_rms": null
+  },
+  {
+    "name": "U7_F14",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      3,
+      4,
+      3,
+      3
+    ],
+    "all_cn4": false,
+    "angle_rms": 18.96380673157537
+  },
+  {
+    "name": "U19_F14",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.267378415974136
+  },
+  {
+    "name": "U19_F14",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.267378415974136
+  },
+  {
+    "name": "U19_F14",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.267378415974136
+  },
+  {
+    "name": "U7_F15",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.510599578288795
+  },
+  {
+    "name": "U7_F15",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.510599578288795
+  },
+  {
+    "name": "U7_F15",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.510599578288795
+  },
+  {
+    "name": "U19_F15",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.107498610951178
+  },
+  {
+    "name": "U19_F15",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.107498610951178
+  },
+  {
+    "name": "U19_F15",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.107498610951178
+  },
+  {
+    "name": "U7_F16",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.61177869201215
+  },
+  {
+    "name": "U7_F16",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.61177869201215
+  },
+  {
+    "name": "U7_F16",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 4.61177869201215
+  },
+  {
+    "name": "U19_F16",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.09114366568495
+  },
+  {
+    "name": "U19_F16",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.09114366568495
+  },
+  {
+    "name": "U19_F16",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.09114366568495
+  },
+  {
+    "name": "U7_F17",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.950459976103264
+  },
+  {
+    "name": "U7_F17",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.950459976103264
+  },
+  {
+    "name": "U7_F17",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.950459976103264
+  },
+  {
+    "name": "U19_F17",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.359150586089164
+  },
+  {
+    "name": "U19_F17",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.359150586089164
+  },
+  {
+    "name": "U19_F17",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 6.359150586089164
+  },
+  {
+    "name": "U7_F18",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.997014276005724
+  },
+  {
+    "name": "U7_F18",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.997014276005724
+  },
+  {
+    "name": "U7_F18",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 7.997014276005724
+  },
+  {
+    "name": "U19_F18",
+    "status": "completed",
+    "cutoff": 2.3,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.606106404640517
+  },
+  {
+    "name": "U19_F18",
+    "status": "completed",
+    "cutoff": 2.5,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.606106404640517
+  },
+  {
+    "name": "U19_F18",
+    "status": "completed",
+    "cutoff": 2.7,
+    "zn_count": 4,
+    "cn": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "all_cn4": true,
+    "angle_rms": 8.606106404640517
+  }
+]

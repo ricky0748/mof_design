@@ -1,0 +1,101 @@
+{
+  "training_sequences": 187047,
+  "training_unique_organic_strings": 135471,
+  "composition_candidates": 3317,
+  "unparsed_unique_strings": 0,
+  "composition_prefilter": "exact heavy-element counts; necessary for either identity key",
+  "source_sha256": "5e77f03dc9e04476cd5748b35660172b080e538df872c342437057e652365bf2",
+  "calculated_after_selection": true,
+  "rows": [
+    {
+      "id": "F01",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F02",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F03",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F04",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F05",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F06",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F07",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F08",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F09",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F10",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F11",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F12",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F13",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F14",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F15",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F16",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "F17",
+      "raw_canonical_in_train": false,
+      "normalized_in_train": false
+    },
+    {
+      "id": "F18",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  ]
+}

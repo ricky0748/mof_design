@@ -1,0 +1,6 @@
+scaffold,arm,linker
+[Lr]c1cc([Lr])ncc1[Lr],[Lr]C=CC=C([Lr])C1=CN=CN=C1,[Lr]c1ncc(C=CC=Cc2cc(C=CC=Cc3cnc([Lr])nc3)c(C=CC=Cc3cnc([Lr])nc3)cn2)cn1
+[Lr]c1cc([Lr])ncc1[Lr],[Lr]C=CC=C([Lr])OC1=CC=NC=C1,[Lr]c1cc(OC=CC=Cc2cc(C=CC=COc3ccnc([Lr])c3)c(C=CC=COc3ccnc([Lr])c3)cn2)ccn1
+[Lr]c1cc([Lr])ncc1[Lr],[Lr]C=CC=C([Lr])C1=CC=NC=C1,[Lr]c1cc(C=CC=Cc2cc(C=CC=Cc3ccnc([Lr])c3)c(C=CC=Cc3ccnc([Lr])c3)cn2)ccn1
+[Lr]c1cc([Lr])ncc1[Lr],[Lr]C1=CC=C([Lr])S1,[Lr]c1ccc(-c2cc(-c3ccc([Lr])s3)c(-c3ccc([Lr])s3)cn2)s1
+[Lr]c1cc([Lr])ncc1[Lr],[Lr]C1=CC=C([Lr])O1,[Lr]c1cc(-c2cc(-c3coc([Lr])c3)c(-c3coc([Lr])c3)cn2)co1

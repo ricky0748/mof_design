@@ -1,0 +1,1 @@
+O=C[C]([C]1C(=O)[CH]C(=CC1=C1CC(=C[C](C1=O)C)C(=O)[O-])C(=O)[O-])[CH][C]1[CH][C](C(=O)O)c2c(C1O)c1[CH][C]([CH]C(=O)c1c(c2)[O])C(=O)O.O[V].[O].[V].[V]OC(=O)[C]1[CH][C](CC2(C[C](O)c3c([CH]2)c2c(O)c(C)cc(c2cc3O)C(=O)O)C(=O)O)C(=O)c2c1cc(O)c1c2cc(cc1O)C(=O)[O-] MOFid-v1.UNKNOWN.cat0.NO_REF;A300_B28

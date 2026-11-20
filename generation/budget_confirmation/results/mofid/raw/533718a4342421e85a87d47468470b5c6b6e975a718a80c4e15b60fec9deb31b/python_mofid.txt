@@ -1,0 +1,1 @@
+[CH][CH][C]=CC(=O)[O-].[O][C]C(C1=CC=c2c1ccc1c2=C[C]([O])C(=O)[CH][CH]1)([O])[O].[O][Zn]O[Zn].[Zn][ZnH] MOFid-v1.ERROR.cat0.NO_REF;D19_B25

@@ -1,0 +1,33 @@
+{
+  "protocol": "fbc84741986bb224e70cbd1a243bc468d0702e85d634dcc0543a9c3f97434c7b",
+  "scripts": {
+    "choose.py": "e4c74dce7e5c97d2a3e858ff7991e40b7dca75e2e01642d5b68658bc3ef38a1b",
+    "common.py": "ce9194d7bdf4af309d8b5a9f2072b629518c593164f3bd6d0d6bb6cd5fc27514",
+    "relax_one.py": "eb2a8d163710b3e9c9ae93cfa419d87efdf04d677860e5b52c1bbf0b04d8307d",
+    "run.py": "53dfcc8cbd872234270734c6a1f93f8246164dd3f305c21597a80bcc47ff0a7e",
+    "build_helpers.py": "c375d57851988ba5c6b5a6267b97eaef8f22031c9a50575965bef2cd1506a4cc",
+    "report_fresh.py": "dade76164bbbbc29a942571b28b2c5c38d4fa92714e2d6658f3b6ab36f296ba4",
+    "build_fresh.py": "fb7e81c796acc5c9e0e988d0fa5c053b22310995531598a61fdf56fb094ec235",
+    "eval_helpers.py": "5c9589ef54f2f67e130c8822d89b0a42779fa503a854a73fef04e73e76f56b54",
+    "convert.py": "6ee9b844329c6e296bc753fa1fc67cee664f8a35a10bfcbefae04f5a239a9652",
+    "setup_run.py": "0b5b6ac788f39e65ed2e91df8c1711e0f545fc2426863a823eef0b1ecb44af55",
+    "provenance.py": "208d6e126536953ec4b9d22f62bdad5b2297c3d0697393eae45b8cc9c06bca0d",
+    "compute_config.py": "2d6ed1b8186da586b4cd95d7316e4ae7f4f4c76ff13d12d29fc35cc390a2515c"
+  },
+  "pipeline": "a014c7a02ad801af066feceab90762445c8e673bf2dd4717b2db786d1c8cc1c0",
+  "sources": {
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/seq_module_cond/ckpt.pt": "d0a078401fee97d15eda8a7211177ff105d18174655ba947d873f0973a829a70",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/seq_module_cond/config.yaml": "a0b1f4ef43dbb617d06edca6124a9755def9f9163853f951d017a87a3986fc16",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/sp_module/ckpt.pt": "e93c9945fb5a7f304149717e5357d56b512f2f834dc589da1f804b1095ac574d",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/sp_module/config.yaml": "7c0c2b66f020a6bfc3e7fd01bead5b1e7cc679c77a5871fc8a5e5a092e1d12e9",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/experiments/predict_seq.py": "3fac35584f5c3af4ca718765f31edc5bbfd329cf3615f52a20da08c6fab3fe2d",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/experiments/predict.py": "ca06bf58fc139a24f5c974ecf363c1693952ddb1344f66649de2ffcee4dc0c30",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/dataset_gen.py": "8259861e2a807b39ac477df6191f5fe45718cd4fd0ba3a2c7fdb4655ebba513c",
+    "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/support/filter_generated_sbus.py": "1a6932e2604de0bc514516d3c98d8b4ef32ff0f34d77061ee379331810c2986d",
+    "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/support/anchor_rules.py": "73c6f55d4fb4505e4235c50e4c9522df60ee626e3abedd41ac83c93b744bdd3c"
+  },
+  "seed": 719,
+  "samples": 200,
+  "temperature": 1.0,
+  "target": 5.0
+}

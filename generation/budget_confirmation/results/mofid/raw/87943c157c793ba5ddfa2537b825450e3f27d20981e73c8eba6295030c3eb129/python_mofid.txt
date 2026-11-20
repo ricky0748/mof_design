@@ -1,0 +1,1 @@
+COc1cc2cc(C(=O)[O-])c(cc2cc1C(=O)[O-])OC.[Zn][O]([Zn])([Zn])[Zn] MOFid-v1.pcu.cat0.NO_REF;D19_B11

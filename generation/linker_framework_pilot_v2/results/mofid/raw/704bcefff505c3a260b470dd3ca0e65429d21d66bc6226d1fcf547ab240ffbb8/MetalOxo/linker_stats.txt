@@ -1,0 +1,2 @@
+ZVJQBYRTSWBFET-UHFFFAOYSA-L	2	3	InChI=1S/C16H10O6/c17-11-4-3-9(16(21)22)13-12(18)6-7-1-2-8(15(19)20)5-10(7)14(11)13/h1-6,17-18H,(H,19,20)(H,21,22)/p-2	ZVJQBYRTSWBFET	[O-]C(=O)c1ccc2c(c1)c1c(O)ccc(c1c(c2)O)C(=O)[O-]	[O-][C]([c]1[cH][cH][c]2[c]([cH]1)[c]1[c](O)[cH][cH][c]([c]1[c]([cH]2)O)[C]([O])[O-])[O]
+

@@ -1,0 +1,272 @@
+{
+  "s1601_t2": {
+    "selected_unique": 4,
+    "structure_accepted": 3,
+    "charge_passed": 3,
+    "widom_both_replicates": 3,
+    "widom_uncertain": [],
+    "widom_K_SiH4": {
+      "n": 3,
+      "median": 1.42361e-05,
+      "min": 1.171015e-05,
+      "max": 1.43607e-05
+    },
+    "widom_K_CO2": {
+      "n": 3,
+      "median": 1.0489649999999999e-05,
+      "min": 8.747460000000001e-06,
+      "max": 1.26e-05
+    },
+    "widom_S_CO2": {
+      "n": 3,
+      "median": 0.8850711755038463,
+      "min": 0.6091315552572931,
+      "max": 0.8957733112626112
+    },
+    "gcmc_both_replicates": 3,
+    "gcmc_uncertain": [],
+    "gcmc_q_SiH4": {
+      "n": 3,
+      "median": 1.3973032732,
+      "min": 1.18431046965,
+      "max": 1.5840996070500002
+    },
+    "gcmc_q_CO2": {
+      "n": 3,
+      "median": 0.0010350390000000002,
+      "min": 0.00091872875,
+      "max": 0.00120556585
+    },
+    "gcmc_S_CO2": {
+      "n": 3,
+      "median": 0.8619346657582627,
+      "min": 0.5793689575034144,
+      "max": 0.8729320472266597
+    }
+  },
+  "s1601_t5": {
+    "selected_unique": 15,
+    "structure_accepted": 11,
+    "charge_passed": 11,
+    "widom_both_replicates": 11,
+    "widom_uncertain": [],
+    "widom_K_SiH4": {
+      "n": 11,
+      "median": 1.57696e-05,
+      "min": 1.280305e-05,
+      "max": 2.4291200000000002e-05
+    },
+    "widom_K_CO2": {
+      "n": 11,
+      "median": 1.4168799999999999e-05,
+      "min": 7.17016e-06,
+      "max": 2.202395e-05
+    },
+    "widom_S_CO2": {
+      "n": 11,
+      "median": 0.8424858876326042,
+      "min": 0.5600337834487861,
+      "max": 1.6064330099959845
+    },
+    "gcmc_both_replicates": 11,
+    "gcmc_uncertain": [],
+    "gcmc_q_SiH4": {
+      "n": 11,
+      "median": 1.58219245225,
+      "min": 1.36564616125,
+      "max": 2.3056006299
+    },
+    "gcmc_q_CO2": {
+      "n": 11,
+      "median": 0.0014635898,
+      "min": 0.0007864492999999999,
+      "max": 0.00224301435
+    },
+    "gcmc_S_CO2": {
+      "n": 11,
+      "median": 0.8492402245348404,
+      "min": 0.5430485663354432,
+      "max": 1.6409252343429281
+    }
+  },
+  "s1602_t2": {
+    "selected_unique": 1,
+    "structure_accepted": 1,
+    "charge_passed": 1,
+    "widom_both_replicates": 1,
+    "widom_uncertain": [],
+    "widom_K_SiH4": {
+      "n": 1,
+      "median": 1.35461e-05,
+      "min": 1.35461e-05,
+      "max": 1.35461e-05
+    },
+    "widom_K_CO2": {
+      "n": 1,
+      "median": 1.284325e-05,
+      "min": 1.284325e-05,
+      "max": 1.284325e-05
+    },
+    "widom_S_CO2": {
+      "n": 1,
+      "median": 0.9481117119608654,
+      "min": 0.9481117119608654,
+      "max": 0.9481117119608654
+    },
+    "gcmc_both_replicates": 1,
+    "gcmc_uncertain": [],
+    "gcmc_q_SiH4": {
+      "n": 1,
+      "median": 1.38395896335,
+      "min": 1.38395896335,
+      "max": 1.38395896335
+    },
+    "gcmc_q_CO2": {
+      "n": 1,
+      "median": 0.00134038285,
+      "min": 0.00134038285,
+      "max": 0.00134038285
+    },
+    "gcmc_S_CO2": {
+      "n": 1,
+      "median": 0.9676933149416274,
+      "min": 0.9676933149416274,
+      "max": 0.9676933149416274
+    }
+  },
+  "s1602_t5": {
+    "selected_unique": 15,
+    "structure_accepted": 13,
+    "charge_passed": 13,
+    "widom_both_replicates": 13,
+    "widom_uncertain": [],
+    "widom_K_SiH4": {
+      "n": 13,
+      "median": 1.7900400000000002e-05,
+      "min": 1.001825e-05,
+      "max": 2.2818199999999998e-05
+    },
+    "widom_K_CO2": {
+      "n": 13,
+      "median": 1.5860249999999998e-05,
+      "min": 7.17016e-06,
+      "max": 3.8122149999999995e-05
+    },
+    "widom_S_CO2": {
+      "n": 13,
+      "median": 0.8424858876326042,
+      "min": 0.5600337834487861,
+      "max": 1.670693350412416
+    },
+    "gcmc_both_replicates": 13,
+    "gcmc_uncertain": [],
+    "gcmc_q_SiH4": {
+      "n": 13,
+      "median": 1.77753432775,
+      "min": 1.00939202305,
+      "max": 2.2483796197
+    },
+    "gcmc_q_CO2": {
+      "n": 13,
+      "median": 0.0016150671,
+      "min": 0.0007864492999999999,
+      "max": 0.00359672845
+    },
+    "gcmc_S_CO2": {
+      "n": 13,
+      "median": 0.8492402245348404,
+      "min": 0.5430485663354432,
+      "max": 1.630555718772667
+    }
+  },
+  "target2_unique": {
+    "selected_unique": 5,
+    "structure_accepted": 4,
+    "charge_passed": 4,
+    "widom_both_replicates": 4,
+    "widom_uncertain": [],
+    "widom_K_SiH4": {
+      "n": 4,
+      "median": 1.38911e-05,
+      "min": 1.171015e-05,
+      "max": 1.43607e-05
+    },
+    "widom_K_CO2": {
+      "n": 4,
+      "median": 1.1544825e-05,
+      "min": 8.747460000000001e-06,
+      "max": 1.284325e-05
+    },
+    "widom_S_CO2": {
+      "n": 4,
+      "median": 0.8904222433832287,
+      "min": 0.6091315552572931,
+      "max": 0.9481117119608654
+    },
+    "gcmc_both_replicates": 4,
+    "gcmc_uncertain": [],
+    "gcmc_q_SiH4": {
+      "n": 4,
+      "median": 1.390631118275,
+      "min": 1.18431046965,
+      "max": 1.5840996070500002
+    },
+    "gcmc_q_CO2": {
+      "n": 4,
+      "median": 0.0011203024250000001,
+      "min": 0.00091872875,
+      "max": 0.00134038285
+    },
+    "gcmc_S_CO2": {
+      "n": 4,
+      "median": 0.8674333564924612,
+      "min": 0.5793689575034144,
+      "max": 0.9676933149416274
+    }
+  },
+  "target5_unique": {
+    "selected_unique": 24,
+    "structure_accepted": 20,
+    "charge_passed": 20,
+    "widom_both_replicates": 20,
+    "widom_uncertain": [],
+    "widom_K_SiH4": {
+      "n": 20,
+      "median": 1.751935e-05,
+      "min": 1.001825e-05,
+      "max": 2.4291200000000002e-05
+    },
+    "widom_K_CO2": {
+      "n": 20,
+      "median": 1.52675e-05,
+      "min": 7.17016e-06,
+      "max": 3.8122149999999995e-05
+    },
+    "widom_S_CO2": {
+      "n": 20,
+      "median": 0.8320619939143779,
+      "min": 0.5600337834487861,
+      "max": 1.670693350412416
+    },
+    "gcmc_both_replicates": 20,
+    "gcmc_uncertain": [],
+    "gcmc_q_SiH4": {
+      "n": 20,
+      "median": 1.7660840235,
+      "min": 1.00939202305,
+      "max": 2.3056006299
+    },
+    "gcmc_q_CO2": {
+      "n": 20,
+      "median": 0.0016117933,
+      "min": 0.0007864492999999999,
+      "max": 0.00359672845
+    },
+    "gcmc_S_CO2": {
+      "n": 20,
+      "median": 0.8481182586347802,
+      "min": 0.5430485663354432,
+      "max": 1.6409252343429281
+    }
+  }
+}

@@ -1,0 +1,1 @@
+C[CH]COc1ccc2c(c1C(=O)O[O])ccc1c2cc(cc1)C(=O)[O-].[Zn]OC(=O)c1ccc2c(c1)c1[CH][C][C][C](c1cc2)[C]1OO1.[Zn][O]1[Zn][Zn]1 MOFid-v1.sql.cat0.NO_REF;D7_B25

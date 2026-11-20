@@ -1,0 +1,212 @@
+[
+  {
+    "id": "B01",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B02",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": false,
+    "strict_dual": true
+  },
+  {
+    "id": "B03",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B04",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B05",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B06",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B07",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B08",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B09",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B10",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B11",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B12",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B13",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B14",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B15",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": false,
+    "strict_dual": true
+  },
+  {
+    "id": "B16",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B17",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B18",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B19",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B20",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B21",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B22",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B23",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B24",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B25",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": false,
+    "strict_dual": false
+  },
+  {
+    "id": "B26",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B27",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B28",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  },
+  {
+    "id": "B29",
+    "input_formal_charge": -6,
+    "after_carboxylate_neutralization_charge": -4,
+    "strict_single": false,
+    "strict_dual": false
+  },
+  {
+    "id": "B30",
+    "input_formal_charge": -2,
+    "after_carboxylate_neutralization_charge": 0,
+    "strict_single": true,
+    "strict_dual": true
+  }
+]

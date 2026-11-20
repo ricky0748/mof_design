@@ -1,0 +1,2 @@
+ICZYVCMKKHALSB-UHFFFAOYSA-L	2	3	InChI=1S/C19H16O4/c1-2-4-11-9-12-7-8-14-13(5-3-6-15(14)18(20)21)16(12)10-17(11)19(22)23/h3,5-10H,2,4H2,1H3,(H,20,21)(H,22,23)/p-2	ICZYVCMKKHALSB	CCCc1cc2ccc3c(c2cc1C(=O)[O-])cccc3C(=O)[O-]	CCC[c]1[cH][c]2[cH][cH][c]3[c]([c]2[cH][c]1[C]([O])[O-])[cH][cH][cH][c]3[C]([O])[O-]
+

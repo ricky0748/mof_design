@@ -1,0 +1,73 @@
+{
+  "A": {
+    "geometry": 2,
+    "converged": 1,
+    "target_recovered": 2,
+    "topology_identified": 0,
+    "joint": 0
+  },
+  "U": {
+    "geometry": 20,
+    "converged": 19,
+    "target_recovered": 20,
+    "topology_identified": 20,
+    "joint": 20
+  },
+  "n": 20,
+  "paired": {
+    "right_only": 20,
+    "exact_mcnemar_p": 1.9073486328125e-06
+  },
+  "novel": 0,
+  "unique_runs": 40,
+  "aliases": {},
+  "audit_pass": true,
+  "expected_pcu": 20,
+  "reread_discrepancies": [
+    {
+      "name": "A_H19",
+      "in_memory": {
+        "natoms": 140,
+        "volume": 2395.428715781922,
+        "dmin": 0.003337542478024382,
+        "fragments": 10
+      },
+      "reread": {
+        "natoms": 139,
+        "volume": 2395.428715781922,
+        "dmin": 0.4585471001364297,
+        "fragments": 10
+      }
+    }
+  ],
+  "old_gate_cross_table": {
+    "20": {
+      "rejected": 19,
+      "rejected_but_joint_pass": 19
+    },
+    "30": {
+      "rejected": 13,
+      "rejected_but_joint_pass": 13
+    },
+    "35": {
+      "rejected": 1,
+      "rejected_but_joint_pass": 1
+    }
+  },
+  "unique_U_frameworks": 20,
+  "reference_processed": 187047,
+  "reference_identified": 171978,
+  "training_matches": {
+    "[\"[O-]C(=O)C12CCC(CC1)(CC2)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]": [
+      "125035"
+    ]
+  },
+  "training_hit_samples": [
+    {
+      "sample": "U_H04",
+      "training_ids": [
+        "125035"
+      ]
+    }
+  ]
+}

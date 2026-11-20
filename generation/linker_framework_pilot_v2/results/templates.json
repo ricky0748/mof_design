@@ -1,0 +1,2664 @@
+[
+  {
+    "name": "bct+N24+E18",
+    "topology": "bct",
+    "node": "N24",
+    "edge": "E18",
+    "profile": {
+      "angles": [
+        0.0037100395623562996,
+        0.0031274427899577,
+        179.9934866744405
+      ],
+      "span": 4.167283528871056
+    },
+    "node_metals": [
+      "Zr"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/bct+N24+E18.cif",
+    "source_sha256": "48b22d8904ba35852a263d5f2020e9ba7e638cbf44f93e26c1625033b9595521",
+    "node_sha256": "9b52b16140021d0f78fb3d22b995339afba255403775bd7fcab5294f1c70b37a",
+    "edge_sha256": "189b4f94c17001bbeea5a4503dad94e0834aa9d58eae32571e35e5bca7fc00e5",
+    "topology_sha256": "852c6c3db5c68c18d0a618ca469d91f82c4fc9f60dc925f2095a7db5c192a012"
+  },
+  {
+    "name": "bcu+N209+E79",
+    "topology": "bcu",
+    "node": "N209",
+    "edge": "E79",
+    "profile": {
+      "angles": [
+        23.882104599787894,
+        41.975838273498304,
+        114.47490595404508
+      ],
+      "span": 3.6927006986757
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/bcu+N209+E79.cif",
+    "source_sha256": "62ae199b63bf10e97bc0bb235d58384b611754cb5fd6291dd2d5b59396e5718b",
+    "node_sha256": "7eae7c73e4fb412405ee076cd7304ab9f274ecbd9c823fcc53c2cd5cc6534cda",
+    "edge_sha256": "1e53332d7b0aecec4220fd1009659b0c33c5e3e8d4673d260da1a4afcdad2e73",
+    "topology_sha256": "98c425196cc524fb9ba7d45ef8a5e19247526dc8b8e7598fb17e4a218ae2847b"
+  },
+  {
+    "name": "bcu+N369+E48",
+    "topology": "bcu",
+    "node": "N369",
+    "edge": "E48",
+    "profile": {
+      "angles": [
+        28.858679540444435,
+        29.268364597798197,
+        121.9684521929427
+      ],
+      "span": 3.7256052944454545
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/bcu+N369+E48.cif",
+    "source_sha256": "f0517bd6c25c112f571ee51cd76a5f97f64c8cb7d240f6a4dd2b7b5e1b291beb",
+    "node_sha256": "b8e2c18859bdb7451ec0a5913a7da960a1679abe4a1f1a26910c35d88fe737c2",
+    "edge_sha256": "b8407225f3d21da24c420250cd3b73381cde47d3f08d8be9ff7791ed38667c75",
+    "topology_sha256": "98c425196cc524fb9ba7d45ef8a5e19247526dc8b8e7598fb17e4a218ae2847b"
+  },
+  {
+    "name": "bcu+N369+E92",
+    "topology": "bcu",
+    "node": "N369",
+    "edge": "E92",
+    "profile": {
+      "angles": [
+        28.65779930178591,
+        29.45175816755207,
+        121.90290165604904
+      ],
+      "span": 3.7233716306595017
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/bcu+N369+E92.cif",
+    "source_sha256": "48a66689817b333f3c9bdffa33ebf77b2be6b4314158a08eaca8da8670526e34",
+    "node_sha256": "b8e2c18859bdb7451ec0a5913a7da960a1679abe4a1f1a26910c35d88fe737c2",
+    "edge_sha256": "6d7f22d9d8a88dd116d6d484a35385e5e6407c7f894e6bfa04b51185148a719c",
+    "topology_sha256": "98c425196cc524fb9ba7d45ef8a5e19247526dc8b8e7598fb17e4a218ae2847b"
+  },
+  {
+    "name": "cds+N417+E112",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E112",
+    "profile": {
+      "angles": [
+        26.830023759817223,
+        26.60016802656524,
+        179.10537038182335
+      ],
+      "span": 6.533028811355418
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+    "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E120",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E120",
+    "profile": {
+      "angles": [
+        12.324892189475648,
+        69.45940548248863,
+        113.18499103453681
+      ],
+      "span": 5.219553245250018
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E120.cif",
+    "source_sha256": "bd32766dc3d9ba7f564c41de086159fb038743225c927d866f0cb2ac9e1957c5",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "d89306445ac231e77d74e96e9c800e8d7cbc7551ca1db78422762f0b1925208b",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E131",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E131",
+    "profile": {
+      "angles": [
+        29.853712823685136,
+        21.841318108649013,
+        171.98561009376107
+      ],
+      "span": 3.8721732825378568
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E131.cif",
+    "source_sha256": "382af6ecc9915bf316ec0b7a9e56d661fb1eafe46b797d211f60e1f6b827b6c8",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "2263304c30d57499202bf8140422da5dd823c1c7722516a4222f1174d04f5d78",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E16",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E16",
+    "profile": {
+      "angles": [
+        0.9304845803164437,
+        2.206148761295096,
+        177.1149002467485
+      ],
+      "span": 4.5833525513536495
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E16.cif",
+    "source_sha256": "f0eafd8b831449b761eb65eb1df476b1c92c8d7cf356011506a276f1b5e84db7",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "f29290d27bd79ed4f73874e80e7b724b159a9266fd4a36326692dcdeaf50f212",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E18",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E18",
+    "profile": {
+      "angles": [
+        0.0037100395623562996,
+        0.0031274427899577,
+        179.9934866744405
+      ],
+      "span": 4.167283528871056
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E18.cif",
+    "source_sha256": "20749313b823da82bb36410905a35504f992bbc3c89d77b6f269f7533e19a728",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "189b4f94c17001bbeea5a4503dad94e0834aa9d58eae32571e35e5bca7fc00e5",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E19",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E19",
+    "profile": {
+      "angles": [
+        23.069879681206896,
+        23.069879681206896,
+        180.0
+      ],
+      "span": 2.8033265596430255
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E19.cif",
+    "source_sha256": "42bfc3dfb5f1c04feb590144e063c5d6ec555fb8761a24fd1e5899a33d387a8e",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "f63eea197a66f82e8e8d0736a4b8429eab431739dd16d2b51ed6bdb41a31d105",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E206",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E206",
+    "profile": {
+      "angles": [
+        4.676219325777004,
+        12.076957585657032,
+        171.8998856720231
+      ],
+      "span": 4.277890822590029
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E206.cif",
+    "source_sha256": "695309429e0cec8684cf8210f1b70f184c68a7c30c0e397d44b7172f76c8a22f",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "e3176252fe0d9e245c0d3038bfbe0132166c494c3ff78ab70a109171a4494e5e",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E217",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E217",
+    "profile": {
+      "angles": [
+        30.425572905139617,
+        30.210112340463393,
+        119.36435127370456
+      ],
+      "span": 3.7076332895797552
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E217.cif",
+    "source_sha256": "9ec81c5ffb9e7980558eef2b8bed826f57ee1d5c9362aa8db48fc0dc78066e35",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "67dd5f975b0d0ddac27b8bf5b790d6451e26a2da6545a636e23e485cdf22bcb6",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E24",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E24",
+    "profile": {
+      "angles": [
+        0.0524111143496086,
+        0.043271366257239895,
+        179.90675806509728
+      ],
+      "span": 7.660086297816755
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E24.cif",
+    "source_sha256": "039f14d41c0431c5cc0e91e191e4561f3738f2aa8aa2cd7a55728c4e3fdbd456",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "6b552c23423c146ab91f38b43f7139676f57e6f5a309cd095b10fee96932318f",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E44",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E44",
+    "profile": {
+      "angles": [
+        0.0005025377244743027,
+        0.0005025377244743027,
+        180.0
+      ],
+      "span": 3.0401726529919317
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E44.cif",
+    "source_sha256": "e8a8e8b1f482071f0367fba401e4c87d20451faed34449edc83ea9058d7f29a4",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "32e261da2c66a80e01a6f7c60fe5badcd513f4367fa5f9381014850d09a1b697",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E72",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E72",
+    "profile": {
+      "angles": [
+        14.89073481136278,
+        11.842199159027723,
+        174.87918736781734
+      ],
+      "span": 4.156674231882985
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E72.cif",
+    "source_sha256": "2bc2bb79f4e9e509366cf9560875c06b9c20103e0880af77809e98f9a439b94a",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "a7f44cf21e97ced14ca7ede10276bd25aa48f9e03b5b379ae103e1db2962d9d7",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E73",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E73",
+    "profile": {
+      "angles": [
+        25.148326174263012,
+        25.145943960844917,
+        179.99752760595788
+      ],
+      "span": 4.16837186800794
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E73.cif",
+    "source_sha256": "89ef579c99e253c35dcfafbc8c3ac1f6b5bec42ded9af2fabdf8b649a8c507e7",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "f9320bc2d80db42d5cfddb478fb6a296a2de5b66fc0471dc3df702f9398bfcdf",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E79",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E79",
+    "profile": {
+      "angles": [
+        23.882104599787894,
+        41.975838273498304,
+        114.47490595404508
+      ],
+      "span": 3.6927006986757
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E79.cif",
+    "source_sha256": "c353344f2c2888b012e26687134a489c08823b3345a6a2196bd7f4b95c8c601b",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "1e53332d7b0aecec4220fd1009659b0c33c5e3e8d4673d260da1a4afcdad2e73",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N417+E92",
+    "topology": "cds",
+    "node": "N417",
+    "edge": "E92",
+    "profile": {
+      "angles": [
+        28.65779930178591,
+        29.45175816755207,
+        121.90290165604904
+      ],
+      "span": 3.7233716306595017
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E92.cif",
+    "source_sha256": "7e79e5c35f24878e74e0b2ce9ec8e49e45a51159b8abeba762839526bf49f1b6",
+    "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+    "edge_sha256": "6d7f22d9d8a88dd116d6d484a35385e5e6407c7f894e6bfa04b51185148a719c",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N87+E127",
+    "topology": "cds",
+    "node": "N87",
+    "edge": "E127",
+    "profile": {
+      "angles": [
+        70.91142459919847,
+        21.509743210941796,
+        104.72372784784714
+      ],
+      "span": 3.3767177169553277
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N87+E127.cif",
+    "source_sha256": "7dc7a1de69eb5d21beb2b829e6392418fd595f9a607eb1f2aa8304486b860db1",
+    "node_sha256": "2e649406fd24fa7c3eac257f12860644bec3c016a0cbf7257c2151423bfc4471",
+    "edge_sha256": "5dc081608883b3dc97fc9b3f8d4b70119b7fe5d32da17d9dbff0daec70503ad5",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "cds+N87+E18",
+    "topology": "cds",
+    "node": "N87",
+    "edge": "E18",
+    "profile": {
+      "angles": [
+        0.0037100395623562996,
+        0.0031274427899577,
+        179.9934866744405
+      ],
+      "span": 4.167283528871056
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N87+E18.cif",
+    "source_sha256": "3c8fd64d2a8b8eb8f2f68592cbb7f6db5aae5191a78b0ac6c633baddcc55ada9",
+    "node_sha256": "2e649406fd24fa7c3eac257f12860644bec3c016a0cbf7257c2151423bfc4471",
+    "edge_sha256": "189b4f94c17001bbeea5a4503dad94e0834aa9d58eae32571e35e5bca7fc00e5",
+    "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+  },
+  {
+    "name": "fcu+N419+E113",
+    "topology": "fcu",
+    "node": "N419",
+    "edge": "E113",
+    "profile": {
+      "angles": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "span": 8.5408
+    },
+    "node_metals": [
+      "Zr"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/fcu+N419+E113.cif",
+    "source_sha256": "c1d13631e6aa0d31b72dedbbbfae1c573399346891ad1133bb6608a65554558f",
+    "node_sha256": "830ffa1ec380737e2fb8ffa9285d2715a078d412492aa9a03162fae04c68754f",
+    "edge_sha256": "74ed53a2f6bf441c6ff95d2d0de6f83f2c5c7649298b8682a33702f7ee681196",
+    "topology_sha256": "2b96f40bad8c9b4b720575c40d2115cbf565a1d5373c19af177eeda3ef61ea5c"
+  },
+  {
+    "name": "fcu+N419+E188",
+    "topology": "fcu",
+    "node": "N419",
+    "edge": "E188",
+    "profile": {
+      "angles": [
+        16.82038106004035,
+        11.912875301667478,
+        154.7806429826701
+      ],
+      "span": 8.350836529953153
+    },
+    "node_metals": [
+      "Zr"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/fcu+N419+E188.cif",
+    "source_sha256": "32648d5a934c27d78e5f6bb7625b123d232290eaf2c3689324a6c5fc0e348f39",
+    "node_sha256": "830ffa1ec380737e2fb8ffa9285d2715a078d412492aa9a03162fae04c68754f",
+    "edge_sha256": "90a80ded26c4a9061b1aecfbddd87ee6ab43f2ffffa5fae210e929fde93cf2c5",
+    "topology_sha256": "2b96f40bad8c9b4b720575c40d2115cbf565a1d5373c19af177eeda3ef61ea5c"
+  },
+  {
+    "name": "fcu+N419+E216",
+    "topology": "fcu",
+    "node": "N419",
+    "edge": "E216",
+    "profile": {
+      "angles": [
+        30.909334623102982,
+        33.38426510215857,
+        115.74078147595097
+      ],
+      "span": 3.738298936682298
+    },
+    "node_metals": [
+      "Zr"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/fcu+N419+E216.cif",
+    "source_sha256": "d5e847603b3cc17edc999414ff0e6a9644b0a75d39e0c275223c1e3c8782ce5e",
+    "node_sha256": "830ffa1ec380737e2fb8ffa9285d2715a078d412492aa9a03162fae04c68754f",
+    "edge_sha256": "9b1099fa6129a2c6773f4b945709d5e45324430ee3c917e22e9123d449d9abe5",
+    "topology_sha256": "2b96f40bad8c9b4b720575c40d2115cbf565a1d5373c19af177eeda3ef61ea5c"
+  },
+  {
+    "name": "fcu+N419+E49",
+    "topology": "fcu",
+    "node": "N419",
+    "edge": "E49",
+    "profile": {
+      "angles": [
+        17.06976493856404,
+        17.06976493856402,
+        180.0
+      ],
+      "span": 8.483000790993716
+    },
+    "node_metals": [
+      "Zr"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/fcu+N419+E49.cif",
+    "source_sha256": "b71479e46b0221519dfdc7c287f305ea02e459140f69ffaf68bec09574ddacf1",
+    "node_sha256": "830ffa1ec380737e2fb8ffa9285d2715a078d412492aa9a03162fae04c68754f",
+    "edge_sha256": "7692b8e8826a2cdd04305d119eca0de2db12c5721334cc2b51b0d0fe2d5a787c",
+    "topology_sha256": "2b96f40bad8c9b4b720575c40d2115cbf565a1d5373c19af177eeda3ef61ea5c"
+  },
+  {
+    "name": "hcp+N419+E113",
+    "topology": "hcp",
+    "node": "N419",
+    "edge": "E113",
+    "profile": {
+      "angles": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "span": 8.5408
+    },
+    "node_metals": [
+      "Zr"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hcp+N419+E113.cif",
+    "source_sha256": "3144a8f577be6bd533cb99d788865e56f324d778f708c3ee6157a45a486b6106",
+    "node_sha256": "830ffa1ec380737e2fb8ffa9285d2715a078d412492aa9a03162fae04c68754f",
+    "edge_sha256": "74ed53a2f6bf441c6ff95d2d0de6f83f2c5c7649298b8682a33702f7ee681196",
+    "topology_sha256": "e8e45f1a7dc3a048861751b1e347c3d4aaec1648413dab54737361738087d7a4"
+  },
+  {
+    "name": "hcp+N419+E14",
+    "topology": "hcp",
+    "node": "N419",
+    "edge": "E14",
+    "profile": {
+      "angles": [
+        0.0007506161149684377,
+        0.0007506161149684377,
+        179.99999914622634
+      ],
+      "span": 4.5800031615709615
+    },
+    "node_metals": [
+      "Zr"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hcp+N419+E14.cif",
+    "source_sha256": "3eac4fc8febc287a05d7b4d91058a8b4ac86e573142d951f970776d957ef9024",
+    "node_sha256": "830ffa1ec380737e2fb8ffa9285d2715a078d412492aa9a03162fae04c68754f",
+    "edge_sha256": "e2fecd16446eb2707827a99799aaedf9421ea45d3d4d10299eb5ea38e7c9667f",
+    "topology_sha256": "e8e45f1a7dc3a048861751b1e347c3d4aaec1648413dab54737361738087d7a4"
+  },
+  {
+    "name": "hcp+N419+E150",
+    "topology": "hcp",
+    "node": "N419",
+    "edge": "E150",
+    "profile": {
+      "angles": [
+        29.185975360399418,
+        15.938942986231043,
+        152.05802295535608
+      ],
+      "span": 7.494556690025101
+    },
+    "node_metals": [
+      "Zr"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hcp+N419+E150.cif",
+    "source_sha256": "9d574c3de70e88ca59eb24b68aaf3dfd8bfd812ec6aeb6fc257e341abe6302a0",
+    "node_sha256": "830ffa1ec380737e2fb8ffa9285d2715a078d412492aa9a03162fae04c68754f",
+    "edge_sha256": "1aaf094e6b5e9de7aed70fbf42ece81c44023f32fb04a3e8293b677f72f491d6",
+    "topology_sha256": "e8e45f1a7dc3a048861751b1e347c3d4aaec1648413dab54737361738087d7a4"
+  },
+  {
+    "name": "hex+N140+E96",
+    "topology": "hex",
+    "node": "N140",
+    "edge": "E96",
+    "profile": {
+      "angles": [
+        61.00088380197161,
+        58.341526546722044,
+        128.3171907275888
+      ],
+      "span": 7.736692270602469
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hex+N140+E96.cif",
+    "source_sha256": "4e9327032020f52d062d6ddcefe0f16ade45fed125113f9c5e495250509ba02e",
+    "node_sha256": "f5913bf9e62b1fc65ef0bf2c1458f39ef8d4f0c3686abff5a32d1c368f710110",
+    "edge_sha256": "606a223c3f46464c1328052a25d23acb32bb0ca0f130117f5a9da70842f5b526",
+    "topology_sha256": "df57e40dd4c5023036a753e675c111686aa6efcfa4c43536f08154e2972ed54d"
+  },
+  {
+    "name": "hex+N369+E113",
+    "topology": "hex",
+    "node": "N369",
+    "edge": "E113",
+    "profile": {
+      "angles": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "span": 8.5408
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hex+N369+E113.cif",
+    "source_sha256": "b84b7df80d8ea6945c294484e77d9489821fcf58469edaefc993d3c781ed0587",
+    "node_sha256": "b8e2c18859bdb7451ec0a5913a7da960a1679abe4a1f1a26910c35d88fe737c2",
+    "edge_sha256": "74ed53a2f6bf441c6ff95d2d0de6f83f2c5c7649298b8682a33702f7ee681196",
+    "topology_sha256": "df57e40dd4c5023036a753e675c111686aa6efcfa4c43536f08154e2972ed54d"
+  },
+  {
+    "name": "hex+N369+E179",
+    "topology": "hex",
+    "node": "N369",
+    "edge": "E179",
+    "profile": {
+      "angles": [
+        12.720751634964046,
+        12.719026286228878,
+        154.56022207880707
+      ],
+      "span": 8.301
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hex+N369+E179.cif",
+    "source_sha256": "52435ac4d518cd88d96fbd7fba3e4c0c8026b66ab57efc48ab6455b19e2c55bd",
+    "node_sha256": "b8e2c18859bdb7451ec0a5913a7da960a1679abe4a1f1a26910c35d88fe737c2",
+    "edge_sha256": "075592e0caf3587d0cc8d8c3c40da6519016ef23ece9f79669242cc22f7a03bf",
+    "topology_sha256": "df57e40dd4c5023036a753e675c111686aa6efcfa4c43536f08154e2972ed54d"
+  },
+  {
+    "name": "hex+N369+E222",
+    "topology": "hex",
+    "node": "N369",
+    "edge": "E222",
+    "profile": {
+      "angles": [
+        56.089937536407454,
+        56.089937536407454,
+        180.0
+      ],
+      "span": 8.17675679288555
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hex+N369+E222.cif",
+    "source_sha256": "279492f9a73a13ecb733faf74dfd0ff688e607edfd7130ca60ea201efef1c9ad",
+    "node_sha256": "b8e2c18859bdb7451ec0a5913a7da960a1679abe4a1f1a26910c35d88fe737c2",
+    "edge_sha256": "7fca6cebc09835d275461b6b8357a29fd9cabc6d843efeda94bb49dba8c8877c",
+    "topology_sha256": "df57e40dd4c5023036a753e675c111686aa6efcfa4c43536f08154e2972ed54d"
+  },
+  {
+    "name": "hex+N369+E224",
+    "topology": "hex",
+    "node": "N369",
+    "edge": "E224",
+    "profile": {
+      "angles": [
+        41.67737317867478,
+        38.109606065337545,
+        176.03927991436038
+      ],
+      "span": 8.305737507289765
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hex+N369+E224.cif",
+    "source_sha256": "5fe5214d23a327b2c79d44aee4d133baf4dbece1234d8bafdaa32b6bfcc50d29",
+    "node_sha256": "b8e2c18859bdb7451ec0a5913a7da960a1679abe4a1f1a26910c35d88fe737c2",
+    "edge_sha256": "5ab21017799020bb8142691a3041acef4c1af93e27f4cff13483884c4c8bd3f6",
+    "topology_sha256": "df57e40dd4c5023036a753e675c111686aa6efcfa4c43536f08154e2972ed54d"
+  },
+  {
+    "name": "hex+N369+E97",
+    "topology": "hex",
+    "node": "N369",
+    "edge": "E97",
+    "profile": {
+      "angles": [
+        12.281100113871732,
+        13.380192477592326,
+        178.8726031165723
+      ],
+      "span": 10.80256076539262
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hex+N369+E97.cif",
+    "source_sha256": "2af35e45261526fcefd9c7818fecbfd5344c56c2239c554fa14b9b2e191f3f4e",
+    "node_sha256": "b8e2c18859bdb7451ec0a5913a7da960a1679abe4a1f1a26910c35d88fe737c2",
+    "edge_sha256": "5cd6bcdc10df009b3d3b096963c6b7e5d11a81fe7a2e7ca4feba2a0072ff86c2",
+    "topology_sha256": "df57e40dd4c5023036a753e675c111686aa6efcfa4c43536f08154e2972ed54d"
+  },
+  {
+    "name": "hex+N632+E150",
+    "topology": "hex",
+    "node": "N632",
+    "edge": "E150",
+    "profile": {
+      "angles": [
+        29.185975360399418,
+        15.938942986231043,
+        152.05802295535608
+      ],
+      "span": 7.494556690025101
+    },
+    "node_metals": [
+      "Cd"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/hex+N632+E150.cif",
+    "source_sha256": "2014188498a668466869a0ee9a5bdc1a2fc2e354ad6ea68a409653503b6f55fa",
+    "node_sha256": "551c7bbd62d028b7ebb3a28ff8e512164094b937fd4b14418b8d6578bbb6644e",
+    "edge_sha256": "1aaf094e6b5e9de7aed70fbf42ece81c44023f32fb04a3e8293b677f72f491d6",
+    "topology_sha256": "df57e40dd4c5023036a753e675c111686aa6efcfa4c43536f08154e2972ed54d"
+  },
+  {
+    "name": "ilc+N369+E24",
+    "topology": "ilc",
+    "node": "N369",
+    "edge": "E24",
+    "profile": {
+      "angles": [
+        0.0524111143496086,
+        0.043271366257239895,
+        179.90675806509728
+      ],
+      "span": 7.660086297816755
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/ilc+N369+E24.cif",
+    "source_sha256": "83fe80f9a51960c15915c6a5672525f2f43cadf24bc209dc2beb164152e64216",
+    "node_sha256": "b8e2c18859bdb7451ec0a5913a7da960a1679abe4a1f1a26910c35d88fe737c2",
+    "edge_sha256": "6b552c23423c146ab91f38b43f7139676f57e6f5a309cd095b10fee96932318f",
+    "topology_sha256": "b935b4d82eb45aced8b64eb94888ddc8b71d6531544b15ff81814c15c7732554"
+  },
+  {
+    "name": "kwh+N599+E44",
+    "topology": "kwh",
+    "node": "N599",
+    "edge": "E44",
+    "profile": {
+      "angles": [
+        0.0005025377244743027,
+        0.0005025377244743027,
+        180.0
+      ],
+      "span": 3.0401726529919317
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/kwh+N599+E44.cif",
+    "source_sha256": "b555a2ee4a8067ef1fb35141f1d37c15d5316769f2553e9ecc0c372c65e8b649",
+    "node_sha256": "ba28fb79d7f9d3f8e0154de0d16b438d4cd116edda51e4b2b78044c2cdc26b85",
+    "edge_sha256": "32e261da2c66a80e01a6f7c60fe5badcd513f4367fa5f9381014850d09a1b697",
+    "topology_sha256": "f952cbd80987788585b771d0b1bd3f24e79144b0e63febe93a3aa874e7a4a305"
+  },
+  {
+    "name": "pcu+N16+E102",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E102",
+    "profile": {
+      "angles": [
+        41.29344110766523,
+        42.572281977119516,
+        101.44511346817079
+      ],
+      "span": 3.448422901849482
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E102.cif",
+    "source_sha256": "06dbba9b750253b6262ef2b04c1080c5c7f035704f6a99ee7eb0e77ca67a13be",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "9e77689df556970903ae1206a0e7476467cdc1baf12961bbe33bab13d5d7f57e",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E112",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E112",
+    "profile": {
+      "angles": [
+        26.830023759817223,
+        26.60016802656524,
+        179.10537038182335
+      ],
+      "span": 6.533028811355418
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E112.cif",
+    "source_sha256": "d40b020191909599aef1cb97bea2488af3d27cd5ee4d41e205d76cba35e86fe7",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E113",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E113",
+    "profile": {
+      "angles": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "span": 8.5408
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E113.cif",
+    "source_sha256": "7c101c55d1bcf2d3b271881d0f42daecc8314f04be023c9d3195f93072c742ea",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "74ed53a2f6bf441c6ff95d2d0de6f83f2c5c7649298b8682a33702f7ee681196",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E131",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E131",
+    "profile": {
+      "angles": [
+        29.853712823685136,
+        21.841318108649013,
+        171.98561009376107
+      ],
+      "span": 3.8721732825378568
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E131.cif",
+    "source_sha256": "86801e71b9af0655d488f9d9ec6f5f5cec544ceb2ff94f0cf57e68f067c293a7",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "2263304c30d57499202bf8140422da5dd823c1c7722516a4222f1174d04f5d78",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E14",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E14",
+    "profile": {
+      "angles": [
+        0.0007506161149684377,
+        0.0007506161149684377,
+        179.99999914622634
+      ],
+      "span": 4.5800031615709615
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E14.cif",
+    "source_sha256": "d515fd51a606da68474ba4489674ef355b9baa5067a928c3679aba9722c5f710",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "e2fecd16446eb2707827a99799aaedf9421ea45d3d4d10299eb5ea38e7c9667f",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E142",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E142",
+    "profile": {
+      "angles": [
+        21.905797634678052,
+        59.61819270163603,
+        109.55707994717497
+      ],
+      "span": 5.815758269563824
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E142.cif",
+    "source_sha256": "ad8b193f1a3e32af843d468f647b84029144aa917256fd42191ebd13eba03d5c",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "fee2d40e63c4a23f9e602185c7400d9c8397f929aaaf5c96037c9232f7ee91b0",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E147",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E147",
+    "profile": {
+      "angles": [
+        11.475542428767032,
+        11.490938065443734,
+        179.9845780878035
+      ],
+      "span": 6.448821911015996
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E147.cif",
+    "source_sha256": "4b8fc8b740a9c5d0fa4dd544ca7e781c2c728f74ae976f161712abf7ecef2358",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "818370adad55d00e9f5d1fe8f1b6b9a940aeae1bcbed8d9de425a7ce8cdf1883",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E16",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E16",
+    "profile": {
+      "angles": [
+        0.9304845803164437,
+        2.206148761295096,
+        177.1149002467485
+      ],
+      "span": 4.5833525513536495
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E16.cif",
+    "source_sha256": "5ba0a12dc7a368a1e99601e98c48f621edc28d9c078b890c3bc774c8d8fb1c33",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f29290d27bd79ed4f73874e80e7b724b159a9266fd4a36326692dcdeaf50f212",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E18",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E18",
+    "profile": {
+      "angles": [
+        0.0037100395623562996,
+        0.0031274427899577,
+        179.9934866744405
+      ],
+      "span": 4.167283528871056
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E18.cif",
+    "source_sha256": "807f3ebc686398d894df0ad53c1ee4a4a70f68c7d4eacf544624a7da21e6526f",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "189b4f94c17001bbeea5a4503dad94e0834aa9d58eae32571e35e5bca7fc00e5",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E185",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E185",
+    "profile": {
+      "angles": [
+        24.801067155295172,
+        17.67326152944392,
+        164.00090918904337
+      ],
+      "span": 4.300524568003304
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E185.cif",
+    "source_sha256": "1daca71a67a1714732aa58e552ff0ae06782aaf72fe7ad6511f3305c608a5ff1",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "19a2807800ff8a70613f01b6b567845dee276642345b95132750ffd5b007c4be",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E188",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E188",
+    "profile": {
+      "angles": [
+        16.82038106004035,
+        11.912875301667478,
+        154.7806429826701
+      ],
+      "span": 8.350836529953153
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E188.cif",
+    "source_sha256": "cb4a32c829ed8a5d17a8879462af131de30279e6ae7a5d294cfa007eb1aa8946",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "90a80ded26c4a9061b1aecfbddd87ee6ab43f2ffffa5fae210e929fde93cf2c5",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E19",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E19",
+    "profile": {
+      "angles": [
+        23.069879681206896,
+        23.069879681206896,
+        180.0
+      ],
+      "span": 2.8033265596430255
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E19.cif",
+    "source_sha256": "7aff05b5275adc7ab4caf12199092a0a3c08fdc37d26ec8e19cabcebee1ca7b1",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f63eea197a66f82e8e8d0736a4b8429eab431739dd16d2b51ed6bdb41a31d105",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E190",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E190",
+    "profile": {
+      "angles": [
+        10.464716900712428,
+        10.073962741453116,
+        159.4925228322588
+      ],
+      "span": 8.35938657677703
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E190.cif",
+    "source_sha256": "d1b4f6ef9809901e255bd276b3d953daa2bc60eaf5b79b28512e79ab31dd460c",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "fcfc4272e2d72dee5d611e798c4eb3fa4a8ef05cfd29ac112075dd4868b503e1",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E202",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E202",
+    "profile": {
+      "angles": [
+        12.425985939390976,
+        22.719908735084207,
+        148.79615753093006
+      ],
+      "span": 3.832518515284695
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E202.cif",
+    "source_sha256": "6aaa3835a2e9c31591d0b638d9a8ef8950297ec2fa5b4a7a604260f7b58b018a",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "6ef60fae5c491e72de267a30bdfca6a51b60caa5a43ff9553f4ae862a9ee5af7",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E204",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E204",
+    "profile": {
+      "angles": [
+        27.17386452097756,
+        28.165213468701516,
+        124.66329380430558
+      ],
+      "span": 3.769607982270836
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E204.cif",
+    "source_sha256": "5ccd993eba0742300ef11dad7801b1ae1fbb3cef691708143ab1a57a9b4abbae",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f23ca407ae08862b1413561e3d0f03974fd61f91eff8d4758b6b6f46b94fc7c4",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E206",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E206",
+    "profile": {
+      "angles": [
+        4.676219325777004,
+        12.076957585657032,
+        171.8998856720231
+      ],
+      "span": 4.277890822590029
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E206.cif",
+    "source_sha256": "26f246b84c398b01b55544322a9a1a3c6d5d957af986965f23312ceb7e2b13fc",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "e3176252fe0d9e245c0d3038bfbe0132166c494c3ff78ab70a109171a4494e5e",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E21",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E21",
+    "profile": {
+      "angles": [
+        6.622018064543788,
+        6.804716173866719,
+        177.6648724683571
+      ],
+      "span": 11.585868219947955
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E21.cif",
+    "source_sha256": "ebb1c632e91381d703ecbd1841389d85ab8da641cc441b602d797f80c1ee9465",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "77233002777ceb501bf065d9a70c158b9c85738da3d41a9555faf732d9fcfa42",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E217",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E217",
+    "profile": {
+      "angles": [
+        30.425572905139617,
+        30.210112340463393,
+        119.36435127370456
+      ],
+      "span": 3.7076332895797552
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E217.cif",
+    "source_sha256": "b8b3534e28df836c902380bd9343a73e5054411aadeca264a87bf5fde3e8141b",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "67dd5f975b0d0ddac27b8bf5b790d6451e26a2da6545a636e23e485cdf22bcb6",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E218",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E218",
+    "profile": {
+      "angles": [
+        36.52203676566438,
+        56.79048354294832,
+        150.48556031016062
+      ],
+      "span": 9.137377412583984
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E218.cif",
+    "source_sha256": "df7c463eda4eae234d740567c2d8c6e4ef9c768da74527f2af2b0bee6e797687",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "07f3214a7c7710dfb7381d9ad0d0487e3de2597b2890110e61922ffcd61d7520",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E221",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E221",
+    "profile": {
+      "angles": [
+        35.327040498312286,
+        52.11094787620937,
+        162.40453851410643
+      ],
+      "span": 7.890893131959144
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E221.cif",
+    "source_sha256": "1b694a82c54171b686c9df6d4670c9f7eba4be603a12acfe8eb4857f59d25f87",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "b8afc201b8353be01a4c3788941562e81f5f49207af98788204cc2d47aede807",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E224",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E224",
+    "profile": {
+      "angles": [
+        41.67737317867478,
+        38.109606065337545,
+        176.03927991436038
+      ],
+      "span": 8.305737507289765
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E224.cif",
+    "source_sha256": "141d2ae3f97f6e03be621e0b9423e087a16aedf155e3d9109f9efefee21e7518",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "5ab21017799020bb8142691a3041acef4c1af93e27f4cff13483884c4c8bd3f6",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E24",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E24",
+    "profile": {
+      "angles": [
+        0.0524111143496086,
+        0.043271366257239895,
+        179.90675806509728
+      ],
+      "span": 7.660086297816755
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E24.cif",
+    "source_sha256": "15b5cb60208d7d35d06097e3335bf7b3e2e963ce1d8281cbe1c1693a61ddb279",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "6b552c23423c146ab91f38b43f7139676f57e6f5a309cd095b10fee96932318f",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E25",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E25",
+    "profile": {
+      "angles": [
+        0.0005004308124766343,
+        0.0005004308124766343,
+        179.99999879258172
+      ],
+      "span": 4.579829957542092
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E25.cif",
+    "source_sha256": "e6832a98b4d51fecbf23f2b99d3e37fdcb658a9eee8eabc7c60256a2326a3cb0",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "00dfd3f6a97c17543716b39b34241d3726e17bdcecb88023c53e37d2470e4353",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E34",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E34",
+    "profile": {
+      "angles": [
+        0.027674942094740723,
+        0.08166668623844346,
+        179.92477404682302
+      ],
+      "span": 9.199674970888918
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E34.cif",
+    "source_sha256": "ef23eb3cb4065d3b13f2cfd91c1f9a8a68f6f9d6e10b1bc294b399231f8bb143",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "a17a1a2ebddd3eedd1128c8b5377ae312bb11d1c0c9ce7e259c181d4f809afb2",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E43",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E43",
+    "profile": {
+      "angles": [
+        0.02071849851811815,
+        0.03891725451575745,
+        179.94449395149417
+      ],
+      "span": 4.433171330999965
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E43.cif",
+    "source_sha256": "2b9d0f269533a684c78de71426183b962f5f16425b287f8669abbb8f99c44ea6",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "ea09e7f0d0d1ce1a8670cec56b66e436b93156183514c07cf32aa41d5970f3d6",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E44",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E44",
+    "profile": {
+      "angles": [
+        0.0005025377244743027,
+        0.0005025377244743027,
+        180.0
+      ],
+      "span": 3.0401726529919317
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E44.cif",
+    "source_sha256": "e1a1abcbaa176de5d2690db9b195acdb5160946ad7d6ee7db98a09e1947af815",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "32e261da2c66a80e01a6f7c60fe5badcd513f4367fa5f9381014850d09a1b697",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E49",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E49",
+    "profile": {
+      "angles": [
+        17.06976493856404,
+        17.06976493856402,
+        180.0
+      ],
+      "span": 8.483000790993716
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E49.cif",
+    "source_sha256": "b764ef816f6451de398479a61565ae4f094d503f947270feeef34480056032a1",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "7692b8e8826a2cdd04305d119eca0de2db12c5721334cc2b51b0d0fe2d5a787c",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E57",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E57",
+    "profile": {
+      "angles": [
+        25.674985349441812,
+        25.674985349441812,
+        180.0
+      ],
+      "span": 4.611324947344309
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E57.cif",
+    "source_sha256": "801408b7c77d543875b82bdc9c2b4e0974f031bb2bdb65c83487541ced94aff9",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "7447abadec2e25bea4463dea74a4faddd5f177cda11f69bd93d5d7d562a60aca",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E71",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E71",
+    "profile": {
+      "angles": [
+        23.224639987777703,
+        23.233042773293956,
+        179.99128378356596
+      ],
+      "span": 3.888140718904088
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E71.cif",
+    "source_sha256": "e46fe4d614a5facb9f7324bff5c14610984fbdeb2205585a779a7d5fca7ca9f3",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "cc2960fe935579627c1e636577b36cdca244da98df58e2fb11062594100f0bc7",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E72",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E72",
+    "profile": {
+      "angles": [
+        14.89073481136278,
+        11.842199159027723,
+        174.87918736781734
+      ],
+      "span": 4.156674231882985
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E72.cif",
+    "source_sha256": "3c83e50114a2a0790a06aa825462a6821342582a8d4166a714243882e12a6898",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "a7f44cf21e97ced14ca7ede10276bd25aa48f9e03b5b379ae103e1db2962d9d7",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E73",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E73",
+    "profile": {
+      "angles": [
+        25.148326174263012,
+        25.145943960844917,
+        179.99752760595788
+      ],
+      "span": 4.16837186800794
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E73.cif",
+    "source_sha256": "130bb4bc86693bf998b68eecf2a70b627cf469b7ff11ce64bd685618c969a219",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f9320bc2d80db42d5cfddb478fb6a296a2de5b66fc0471dc3df702f9398bfcdf",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E81",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E81",
+    "profile": {
+      "angles": [
+        45.12000394468317,
+        17.545137048555812,
+        117.33772934041012
+      ],
+      "span": 6.064404493435443
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E81.cif",
+    "source_sha256": "6df942aedaa836400c34bbab94883f75f1ed6cf41e6f2f6da129da04328a5855",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "6ad6850b6d0a2edea5d4c29ddd31bfc56d875f0bc0114dd813725e6828bf9d52",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E82",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E82",
+    "profile": {
+      "angles": [
+        7.584779921826666,
+        4.349941837148121,
+        170.1363908286457
+      ],
+      "span": 11.150973673182088
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E82.cif",
+    "source_sha256": "93590af57fe684b5cf8f95cab2087211aa2cd4df26b1eb97ebd2941247d77c42",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "ef4b475cd78e5856d0e2b25b7cc3d904dac74926b44bdba7d9f6530d2403ecfd",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E85",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E85",
+    "profile": {
+      "angles": [
+        37.052320253168126,
+        37.052320253168126,
+        179.99999879258172
+      ],
+      "span": 4.861334215007234
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E85.cif",
+    "source_sha256": "dab74bf9d3ae962ff8f60b1e4e50ec36a637ff953df3e82bcb0c48fbc1711dbb",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "a16468865e488635c999a755f16b09c4e872ad00003b7b81039aabb4bd861b2a",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E89",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E89",
+    "profile": {
+      "angles": [
+        3.6391026628214833,
+        3.486402926268642,
+        172.87526851709404
+      ],
+      "span": 4.3376142071419865
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E89.cif",
+    "source_sha256": "f8b9b40f79058033a4119f044e0383141c6356007144b8af21a0643801ee1fda",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "c11a767b67283958090841a727b5cab40a4a33b8e1f70c71b01a9fde2b3bee27",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N16+E97",
+    "topology": "pcu",
+    "node": "N16",
+    "edge": "E97",
+    "profile": {
+      "angles": [
+        12.281100113871732,
+        13.380192477592326,
+        178.8726031165723
+      ],
+      "span": 10.80256076539262
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N16+E97.cif",
+    "source_sha256": "11d66fec37fc64d6a62fe9f337c42ab2ee031af3c25617e168c494f93f39f348",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "5cd6bcdc10df009b3d3b096963c6b7e5d11a81fe7a2e7ca4feba2a0072ff86c2",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N197+E113",
+    "topology": "pcu",
+    "node": "N197",
+    "edge": "E113",
+    "profile": {
+      "angles": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "span": 8.5408
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N197+E113.cif",
+    "source_sha256": "d47370790426e101b2666d7160cb298abfa0536f81b714537c42fab639128dc1",
+    "node_sha256": "6afa242f5cae8cecab33ce938735bbcea673e663ce1fa3060a71d55c29e3e93e",
+    "edge_sha256": "74ed53a2f6bf441c6ff95d2d0de6f83f2c5c7649298b8682a33702f7ee681196",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N283+E131",
+    "topology": "pcu",
+    "node": "N283",
+    "edge": "E131",
+    "profile": {
+      "angles": [
+        29.853712823685136,
+        21.841318108649013,
+        171.98561009376107
+      ],
+      "span": 3.8721732825378568
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N283+E131.cif",
+    "source_sha256": "d0f60ae4e624baeed10e100ba13b84204b096b587128468220a350c208d9d308",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "2263304c30d57499202bf8140422da5dd823c1c7722516a4222f1174d04f5d78",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N283+E138",
+    "topology": "pcu",
+    "node": "N283",
+    "edge": "E138",
+    "profile": {
+      "angles": [
+        32.76908611665764,
+        28.121216188204922,
+        119.48235108270461
+      ],
+      "span": 3.6708715763425994
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N283+E138.cif",
+    "source_sha256": "8545e45746d3a14acd0b606ff8e9a12c66698fdb5c55845f24886df1980886e1",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "091380ca71c57a16e8aa11ea28c5efa4df469fe02b9ac76a285b7ec5b67ce864",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N283+E185",
+    "topology": "pcu",
+    "node": "N283",
+    "edge": "E185",
+    "profile": {
+      "angles": [
+        24.801067155295172,
+        17.67326152944392,
+        164.00090918904337
+      ],
+      "span": 4.300524568003304
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N283+E185.cif",
+    "source_sha256": "b33c3f37f721924fd0555b8c3c98ce97bcc2533380d21c40d39b5467fdf9e1b2",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "19a2807800ff8a70613f01b6b567845dee276642345b95132750ffd5b007c4be",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N283+E195",
+    "topology": "pcu",
+    "node": "N283",
+    "edge": "E195",
+    "profile": {
+      "angles": [
+        9.159483954503635,
+        57.13101460431927,
+        113.71447473537864
+      ],
+      "span": 5.431403167690648
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N283+E195.cif",
+    "source_sha256": "8973b5efd04231244fba44c0322c90858547b75d95b524a6db8a36cdd8f5742a",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "a906cfd8c6b09ef8ef500befc514652a2822ca71738dcc64859ebe00dcd5bfa2",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N283+E206",
+    "topology": "pcu",
+    "node": "N283",
+    "edge": "E206",
+    "profile": {
+      "angles": [
+        4.676219325777004,
+        12.076957585657032,
+        171.8998856720231
+      ],
+      "span": 4.277890822590029
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N283+E206.cif",
+    "source_sha256": "c915a7aaf8c809ccb8205ec2eabe685744e742b0651ebbfa6276e5addc93eec6",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "e3176252fe0d9e245c0d3038bfbe0132166c494c3ff78ab70a109171a4494e5e",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N283+E44",
+    "topology": "pcu",
+    "node": "N283",
+    "edge": "E44",
+    "profile": {
+      "angles": [
+        0.0005025377244743027,
+        0.0005025377244743027,
+        180.0
+      ],
+      "span": 3.0401726529919317
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N283+E44.cif",
+    "source_sha256": "112143865a902f71e9bb1095d236fb66a4860caa54f8ba51acd968c6c31ca7f6",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "32e261da2c66a80e01a6f7c60fe5badcd513f4367fa5f9381014850d09a1b697",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N283+E71",
+    "topology": "pcu",
+    "node": "N283",
+    "edge": "E71",
+    "profile": {
+      "angles": [
+        23.224639987777703,
+        23.233042773293956,
+        179.99128378356596
+      ],
+      "span": 3.888140718904088
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N283+E71.cif",
+    "source_sha256": "20a3a5e0cdc2e7ab4e0c7269553b4a354e6f86af884c67745e2f5aaf42eb0741",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "cc2960fe935579627c1e636577b36cdca244da98df58e2fb11062594100f0bc7",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N283+E97",
+    "topology": "pcu",
+    "node": "N283",
+    "edge": "E97",
+    "profile": {
+      "angles": [
+        12.281100113871732,
+        13.380192477592326,
+        178.8726031165723
+      ],
+      "span": 10.80256076539262
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N283+E97.cif",
+    "source_sha256": "73a040fe6d4f730d19f29d1886ae32de0b1fded84eabbfcce00341729fc214d9",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "5cd6bcdc10df009b3d3b096963c6b7e5d11a81fe7a2e7ca4feba2a0072ff86c2",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N49+E158",
+    "topology": "pcu",
+    "node": "N49",
+    "edge": "E158",
+    "profile": {
+      "angles": [
+        13.953165002790712,
+        14.063740265909946,
+        151.99119281620364
+      ],
+      "span": 3.5983207986503922
+    },
+    "node_metals": [
+      "Co"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N49+E158.cif",
+    "source_sha256": "71522fb419cbe99fd586f829abd0bb8deffe62ed98741b95b068e44705e1b8ab",
+    "node_sha256": "cc39fa329e8834bfcf8d32ad108d8cde5be61d33e41778b6a5140af91fa86f98",
+    "edge_sha256": "693d7bb2cd46c045ce6706e6ef5e42ea03be6dd04ccb0deee6483421cae5570a",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N49+E73",
+    "topology": "pcu",
+    "node": "N49",
+    "edge": "E73",
+    "profile": {
+      "angles": [
+        25.148326174263012,
+        25.145943960844917,
+        179.99752760595788
+      ],
+      "span": 4.16837186800794
+    },
+    "node_metals": [
+      "Co"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N49+E73.cif",
+    "source_sha256": "4a15cd9fc80910131258b2f1d286148af93d008b798b43f15bdf7b8342d84795",
+    "node_sha256": "cc39fa329e8834bfcf8d32ad108d8cde5be61d33e41778b6a5140af91fa86f98",
+    "edge_sha256": "f9320bc2d80db42d5cfddb478fb6a296a2de5b66fc0471dc3df702f9398bfcdf",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N696+E155",
+    "topology": "pcu",
+    "node": "N696",
+    "edge": "E155",
+    "profile": {
+      "angles": [
+        15.688500469182413,
+        6.48725737664865,
+        161.94511889198554
+      ],
+      "span": 8.661120884735416
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N696+E155.cif",
+    "source_sha256": "be1ccd6aa6c5a985fc52699e09b0c457b604573d0e33cfe56b9734843aac9b91",
+    "node_sha256": "791c494c094393f7bea14a21d38465d1f7df34fb1e632576934cfbb4f61dadf2",
+    "edge_sha256": "fedab29332e61084eb023f1a8931adbef60e6a04e260c30fdb74ff00a59910b7",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "pcu+N696+E167",
+    "topology": "pcu",
+    "node": "N696",
+    "edge": "E167",
+    "profile": {
+      "angles": [
+        3.2511789962673303,
+        2.5091098261935003,
+        174.40048009082003
+      ],
+      "span": 4.212232824761708
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/pcu+N696+E167.cif",
+    "source_sha256": "dbbc12a45cefa2cf5a0c709c200dfb25f4736cee9b42b65a1c4a67df55092be8",
+    "node_sha256": "791c494c094393f7bea14a21d38465d1f7df34fb1e632576934cfbb4f61dadf2",
+    "edge_sha256": "db05e10983c9cb717216c47c1f7ad4ee8e2d8fa5eee9497880991ebfbca33fa2",
+    "topology_sha256": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  {
+    "name": "qtz-x+N16+E113",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E113",
+    "profile": {
+      "angles": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "span": 8.5408
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E113.cif",
+    "source_sha256": "5ae3aa8c385597dd1ef0c3e6fde7b414736aaacbe8db69554d8e407ae1a52897",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "74ed53a2f6bf441c6ff95d2d0de6f83f2c5c7649298b8682a33702f7ee681196",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E131",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E131",
+    "profile": {
+      "angles": [
+        29.853712823685136,
+        21.841318108649013,
+        171.98561009376107
+      ],
+      "span": 3.8721732825378568
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E131.cif",
+    "source_sha256": "e021becd74b95c4d8c0a8ae11268c30d352496bba49fb44bdd7578bb956336bd",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "2263304c30d57499202bf8140422da5dd823c1c7722516a4222f1174d04f5d78",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E16",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E16",
+    "profile": {
+      "angles": [
+        0.9304845803164437,
+        2.206148761295096,
+        177.1149002467485
+      ],
+      "span": 4.5833525513536495
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E16.cif",
+    "source_sha256": "359a01c0ce9f818f5b3266a02bf5a83afea69e7b45c6c1d635c0cfea458d0530",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f29290d27bd79ed4f73874e80e7b724b159a9266fd4a36326692dcdeaf50f212",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E163",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E163",
+    "profile": {
+      "angles": [
+        11.836021236803866,
+        27.127663476132604,
+        156.94136204916956
+      ],
+      "span": 8.375898245561487
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E163.cif",
+    "source_sha256": "4d7c388aab8b12000aeeec3a95aee56fb9bda4896c24461969cae9b64347f3c0",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "bf9802b0fe8ba1c66b47d9cdddb0c5ec2553cb78be62ae646f9100e524a5f00a",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E165",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E165",
+    "profile": {
+      "angles": [
+        33.70042591849783,
+        39.0568342061261,
+        117.71244453550172
+      ],
+      "span": 3.763674247328002
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E165.cif",
+    "source_sha256": "b5ff1e7a2d811a7b0fc03a3707494c51d39c86f3cfe40ad71c15e8640ddd62ff",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "3dc8c8a8240bb8d19f415ab2c1645e5f1fcbcaddc43ccda93ff1b013b03b7d48",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E166",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E166",
+    "profile": {
+      "angles": [
+        7.43883174562333,
+        8.1879898460776,
+        178.04315748414749
+      ],
+      "span": 4.035162130571707
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E166.cif",
+    "source_sha256": "8bd3e817205d1f81d946b92256ecce4ded0e921ecc171d57a5b40f34ca23e5d0",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "3646c24abe1a669ea7e98851f1c62b59e0690210ebdf8323ae8332e3b3f10537",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E18",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E18",
+    "profile": {
+      "angles": [
+        0.0037100395623562996,
+        0.0031274427899577,
+        179.9934866744405
+      ],
+      "span": 4.167283528871056
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E18.cif",
+    "source_sha256": "4f6dc31d5677066537160dc1cbe8a21e6ff56a3de4dd50208124b6f2a1fe3705",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "189b4f94c17001bbeea5a4503dad94e0834aa9d58eae32571e35e5bca7fc00e5",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E185",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E185",
+    "profile": {
+      "angles": [
+        24.801067155295172,
+        17.67326152944392,
+        164.00090918904337
+      ],
+      "span": 4.300524568003304
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E185.cif",
+    "source_sha256": "435db776e361d3e6558f6d6e0e414ee782e0239a12972cc6c4d6e594f739d2e3",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "19a2807800ff8a70613f01b6b567845dee276642345b95132750ffd5b007c4be",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E19",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E19",
+    "profile": {
+      "angles": [
+        23.069879681206896,
+        23.069879681206896,
+        180.0
+      ],
+      "span": 2.8033265596430255
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E19.cif",
+    "source_sha256": "838aff074ee47ec89d523342d90a60efecd03610d9fc6c3f7e75f1a07a2dc952",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f63eea197a66f82e8e8d0736a4b8429eab431739dd16d2b51ed6bdb41a31d105",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E204",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E204",
+    "profile": {
+      "angles": [
+        27.17386452097756,
+        28.165213468701516,
+        124.66329380430558
+      ],
+      "span": 3.769607982270836
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E204.cif",
+    "source_sha256": "3c2d6415e69820255bcca4487393b9db6eee3d84adca81d68fa1ad18eda52b9d",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f23ca407ae08862b1413561e3d0f03974fd61f91eff8d4758b6b6f46b94fc7c4",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E206",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E206",
+    "profile": {
+      "angles": [
+        4.676219325777004,
+        12.076957585657032,
+        171.8998856720231
+      ],
+      "span": 4.277890822590029
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E206.cif",
+    "source_sha256": "bf3e1e719959e543e36856b165c5df7cb05e2460365478a3d1b14e6c1362d308",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "e3176252fe0d9e245c0d3038bfbe0132166c494c3ff78ab70a109171a4494e5e",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E212",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E212",
+    "profile": {
+      "angles": [
+        27.43880269979185,
+        25.83382159762102,
+        168.57725375828804
+      ],
+      "span": 2.572673265302067
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E212.cif",
+    "source_sha256": "9afd75dc1020e9cf768c1634ff6261e9631614ee6fddc8a6bb1be1ab538275c1",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "b26d80cbf0258d001e19bcfaa729ef426a12c0b1afa48268df907b2e9c065750",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E218",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E218",
+    "profile": {
+      "angles": [
+        36.52203676566438,
+        56.79048354294832,
+        150.48556031016062
+      ],
+      "span": 9.137377412583984
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E218.cif",
+    "source_sha256": "84686ed04a8ab76da700819e78b213277942dcfe38251a35f9227a4b9df94989",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "07f3214a7c7710dfb7381d9ad0d0487e3de2597b2890110e61922ffcd61d7520",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E28",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E28",
+    "profile": {
+      "angles": [
+        4.996790704598324,
+        4.994406740660389,
+        170.0088128248424
+      ],
+      "span": 13.788488175285933
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E28.cif",
+    "source_sha256": "397b9d2f35a2717c1f9e2746349ad79857e6480e18e2c63c34dd5bc71ce820d6",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f7976fdfcfd3b96287f07a6468b5c5a8160ef92dcffe2fbf80f67e1c2f8ab6ef",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E32",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E32",
+    "profile": {
+      "angles": [
+        0.0010832076282422253,
+        0.0010832076282422253,
+        179.99999879258172
+      ],
+      "span": 10.739256326208068
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E32.cif",
+    "source_sha256": "a8cd2f869a7a633d7f6d3502da86cb291ee90b17f0b0151ac3304ab0a96932b0",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "36ee02ddfee78243282372243052e31b161f0d078bed2fba7288aaa65509789e",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E38",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E38",
+    "profile": {
+      "angles": [
+        0.04697581166081881,
+        0.046597083222349935,
+        179.9064388773329
+      ],
+      "span": 6.1200295513992415
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E38.cif",
+    "source_sha256": "fb29629296979d260941d41c9c92aef93889abe02386291f15451bb4be36f53b",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "dddb64667a0e93b7d29119d7971f97b985d89a9a33cbfffb71304341a42a844d",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E44",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E44",
+    "profile": {
+      "angles": [
+        0.0005025377244743027,
+        0.0005025377244743027,
+        180.0
+      ],
+      "span": 3.0401726529919317
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E44.cif",
+    "source_sha256": "488f7edc3a0931648c3b3a760dc4250e352deb79118f81a7bdd1ccd859ea32e0",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "32e261da2c66a80e01a6f7c60fe5badcd513f4367fa5f9381014850d09a1b697",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E49",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E49",
+    "profile": {
+      "angles": [
+        17.06976493856404,
+        17.06976493856402,
+        180.0
+      ],
+      "span": 8.483000790993716
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E49.cif",
+    "source_sha256": "728fe998b5e7670ed3ccb6a01d7519b9b3a651f92605674a31d403244d6797f4",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "7692b8e8826a2cdd04305d119eca0de2db12c5721334cc2b51b0d0fe2d5a787c",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E72",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E72",
+    "profile": {
+      "angles": [
+        14.89073481136278,
+        11.842199159027723,
+        174.87918736781734
+      ],
+      "span": 4.156674231882985
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E72.cif",
+    "source_sha256": "f5d5864a13a0dbb6d4502af4e78a5810acb8e3b9927b3c03493c9bfb25e628fa",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "a7f44cf21e97ced14ca7ede10276bd25aa48f9e03b5b379ae103e1db2962d9d7",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E73",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E73",
+    "profile": {
+      "angles": [
+        25.148326174263012,
+        25.145943960844917,
+        179.99752760595788
+      ],
+      "span": 4.16837186800794
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E73.cif",
+    "source_sha256": "1ebc7291466046b09ba9855a4dad4ee92488cd6acb5b9732147f5871e16a1615",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f9320bc2d80db42d5cfddb478fb6a296a2de5b66fc0471dc3df702f9398bfcdf",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E79",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E79",
+    "profile": {
+      "angles": [
+        23.882104599787894,
+        41.975838273498304,
+        114.47490595404508
+      ],
+      "span": 3.6927006986757
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E79.cif",
+    "source_sha256": "3152d94e1d8244997390aa492e0c92b4bd8db02a5dce3663ba0dbc4d14eac543",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "1e53332d7b0aecec4220fd1009659b0c33c5e3e8d4673d260da1a4afcdad2e73",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E84",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E84",
+    "profile": {
+      "angles": [
+        10.283998958725482,
+        11.840320778638874,
+        176.1614201473479
+      ],
+      "span": 4.439656737857106
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E84.cif",
+    "source_sha256": "8129c0e15f649ee21459712420d692468fb50445014802afb5fba84fbc0044f7",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "d73acab501ac4c7a7d168b7251c3940b9fc8767221518e50ef5987aa899c7ffd",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N16+E92",
+    "topology": "qtz-x",
+    "node": "N16",
+    "edge": "E92",
+    "profile": {
+      "angles": [
+        28.65779930178591,
+        29.45175816755207,
+        121.90290165604904
+      ],
+      "span": 3.7233716306595017
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N16+E92.cif",
+    "source_sha256": "eeeb160e7d979e06878d53051f3b65f0bd146be03f3eccaab48fc0ab22bf28ad",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "6d7f22d9d8a88dd116d6d484a35385e5e6407c7f894e6bfa04b51185148a719c",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N283+E138",
+    "topology": "qtz-x",
+    "node": "N283",
+    "edge": "E138",
+    "profile": {
+      "angles": [
+        32.76908611665764,
+        28.121216188204922,
+        119.48235108270461
+      ],
+      "span": 3.6708715763425994
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N283+E138.cif",
+    "source_sha256": "5fc918e63b28dbe9fe884b15d5d404cda7e6ea378fe15d25043643bf4085be34",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "091380ca71c57a16e8aa11ea28c5efa4df469fe02b9ac76a285b7ec5b67ce864",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N283+E38",
+    "topology": "qtz-x",
+    "node": "N283",
+    "edge": "E38",
+    "profile": {
+      "angles": [
+        0.04697581166081881,
+        0.046597083222349935,
+        179.9064388773329
+      ],
+      "span": 6.1200295513992415
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N283+E38.cif",
+    "source_sha256": "8b3cb9899c113ee73d9aed2a59a13d55b99ca6003cb3bcbe2ba05915f3c951ff",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "dddb64667a0e93b7d29119d7971f97b985d89a9a33cbfffb71304341a42a844d",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N283+E72",
+    "topology": "qtz-x",
+    "node": "N283",
+    "edge": "E72",
+    "profile": {
+      "angles": [
+        14.89073481136278,
+        11.842199159027723,
+        174.87918736781734
+      ],
+      "span": 4.156674231882985
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N283+E72.cif",
+    "source_sha256": "fd835f2dde62e539382039e90c67d87f0454fd6072b3609ec029cb33b5aa9156",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "a7f44cf21e97ced14ca7ede10276bd25aa48f9e03b5b379ae103e1db2962d9d7",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N283+E73",
+    "topology": "qtz-x",
+    "node": "N283",
+    "edge": "E73",
+    "profile": {
+      "angles": [
+        25.148326174263012,
+        25.145943960844917,
+        179.99752760595788
+      ],
+      "span": 4.16837186800794
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N283+E73.cif",
+    "source_sha256": "6eb69c9eda9c124fa28df81799ecf42bb195f0f92f007222ce5ddff8fc8d204c",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "f9320bc2d80db42d5cfddb478fb6a296a2de5b66fc0471dc3df702f9398bfcdf",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N696+E113",
+    "topology": "qtz-x",
+    "node": "N696",
+    "edge": "E113",
+    "profile": {
+      "angles": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "span": 8.5408
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N696+E113.cif",
+    "source_sha256": "03c661b72b0b5437234277118122a6b542d9c2c1e72d80052ddd571f554a9a0d",
+    "node_sha256": "791c494c094393f7bea14a21d38465d1f7df34fb1e632576934cfbb4f61dadf2",
+    "edge_sha256": "74ed53a2f6bf441c6ff95d2d0de6f83f2c5c7649298b8682a33702f7ee681196",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qtz-x+N696+E204",
+    "topology": "qtz-x",
+    "node": "N696",
+    "edge": "E204",
+    "profile": {
+      "angles": [
+        27.17386452097756,
+        28.165213468701516,
+        124.66329380430558
+      ],
+      "span": 3.769607982270836
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qtz-x+N696+E204.cif",
+    "source_sha256": "76989a40e364076ee9e9ac81b862ba8ddb888dee9adc2d9af8e73a4d8bf7d25d",
+    "node_sha256": "791c494c094393f7bea14a21d38465d1f7df34fb1e632576934cfbb4f61dadf2",
+    "edge_sha256": "f23ca407ae08862b1413561e3d0f03974fd61f91eff8d4758b6b6f46b94fc7c4",
+    "topology_sha256": "e0f262f6feaf9b9208a632c05d9dc3087f838be6299ee0901d7be67865ae39ac"
+  },
+  {
+    "name": "qzd+N409+E18",
+    "topology": "qzd",
+    "node": "N409",
+    "edge": "E18",
+    "profile": {
+      "angles": [
+        0.0037100395623562996,
+        0.0031274427899577,
+        179.9934866744405
+      ],
+      "span": 4.167283528871056
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/qzd+N409+E18.cif",
+    "source_sha256": "616862606bc066623b2b0c95e1f954bae6dec3c370e7cef3a3d3fbb16f88c8b4",
+    "node_sha256": "7f1ed01b98eaa279939f5b5d0601c79840addfc7bfc910f16c3994c792573717",
+    "edge_sha256": "189b4f94c17001bbeea5a4503dad94e0834aa9d58eae32571e35e5bca7fc00e5",
+    "topology_sha256": "bfca6eec2de8146bb0cab9a1acaf54f81fe884ea47b1da46b4ef0e7c645a8be4"
+  },
+  {
+    "name": "rob+N16+E185",
+    "topology": "rob",
+    "node": "N16",
+    "edge": "E185",
+    "profile": {
+      "angles": [
+        24.801067155295172,
+        17.67326152944392,
+        164.00090918904337
+      ],
+      "span": 4.300524568003304
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/rob+N16+E185.cif",
+    "source_sha256": "40785d7349e73af9fe90038819b7d02caa34271b54882f3f245372f6494e71e6",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "19a2807800ff8a70613f01b6b567845dee276642345b95132750ffd5b007c4be",
+    "topology_sha256": "57d911474f8c5e70289c1116849d90ab19385fe090879d368b4cbf0f3a17a51e"
+  },
+  {
+    "name": "rob+N16+E19",
+    "topology": "rob",
+    "node": "N16",
+    "edge": "E19",
+    "profile": {
+      "angles": [
+        23.069879681206896,
+        23.069879681206896,
+        180.0
+      ],
+      "span": 2.8033265596430255
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/rob+N16+E19.cif",
+    "source_sha256": "f7cb741ed74c08d6c7f2c888b215e5d19dbdc443dfd1d50c2a4e501435e695ed",
+    "node_sha256": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "edge_sha256": "f63eea197a66f82e8e8d0736a4b8429eab431739dd16d2b51ed6bdb41a31d105",
+    "topology_sha256": "57d911474f8c5e70289c1116849d90ab19385fe090879d368b4cbf0f3a17a51e"
+  },
+  {
+    "name": "rob+N283+E131",
+    "topology": "rob",
+    "node": "N283",
+    "edge": "E131",
+    "profile": {
+      "angles": [
+        29.853712823685136,
+        21.841318108649013,
+        171.98561009376107
+      ],
+      "span": 3.8721732825378568
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/rob+N283+E131.cif",
+    "source_sha256": "546dedc6d51b6d9dc7b76ceeb9424baaead86cead4ee12dd123e861115e837b5",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "2263304c30d57499202bf8140422da5dd823c1c7722516a4222f1174d04f5d78",
+    "topology_sha256": "57d911474f8c5e70289c1116849d90ab19385fe090879d368b4cbf0f3a17a51e"
+  },
+  {
+    "name": "rob+N283+E72",
+    "topology": "rob",
+    "node": "N283",
+    "edge": "E72",
+    "profile": {
+      "angles": [
+        14.89073481136278,
+        11.842199159027723,
+        174.87918736781734
+      ],
+      "span": 4.156674231882985
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/rob+N283+E72.cif",
+    "source_sha256": "a59b3a6c3ee51564ea14d72ad1d13e0b2a49bea7ecce8a8c599bec8891725ade",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "a7f44cf21e97ced14ca7ede10276bd25aa48f9e03b5b379ae103e1db2962d9d7",
+    "topology_sha256": "57d911474f8c5e70289c1116849d90ab19385fe090879d368b4cbf0f3a17a51e"
+  },
+  {
+    "name": "rob+N690+E138",
+    "topology": "rob",
+    "node": "N690",
+    "edge": "E138",
+    "profile": {
+      "angles": [
+        32.76908611665764,
+        28.121216188204922,
+        119.48235108270461
+      ],
+      "span": 3.6708715763425994
+    },
+    "node_metals": [
+      "Zn"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/rob+N690+E138.cif",
+    "source_sha256": "ce9e803d0899aacb37a9202b34a778d4e04d2f08fa319e40e78e02a0d0da977b",
+    "node_sha256": "9971c726a2d544cabed7f42ebd4673029bf1628b14f915ca1a48a23c590d9bb8",
+    "edge_sha256": "091380ca71c57a16e8aa11ea28c5efa4df469fe02b9ac76a285b7ec5b67ce864",
+    "topology_sha256": "57d911474f8c5e70289c1116849d90ab19385fe090879d368b4cbf0f3a17a51e"
+  },
+  {
+    "name": "sxc+N283+E217",
+    "topology": "sxc",
+    "node": "N283",
+    "edge": "E217",
+    "profile": {
+      "angles": [
+        30.425572905139617,
+        30.210112340463393,
+        119.36435127370456
+      ],
+      "span": 3.7076332895797552
+    },
+    "node_metals": [
+      "Cu"
+    ],
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/sxc+N283+E217.cif",
+    "source_sha256": "4f17137ec6c209b2775d43c39b28d75ddcb9344c9dbd75cce1876081d67a59b7",
+    "node_sha256": "38cbe482380058ddcdc0066f4e0e44f5ddf4ed100c0bf89c649f8167144362a8",
+    "edge_sha256": "67dd5f975b0d0ddac27b8bf5b790d6451e26a2da6545a636e23e485cdf22bcb6",
+    "topology_sha256": "37b055ecd573d0a9e6b89231ee625d121d4c14ec770ce486c648f9d38e3ed04b"
+  }
+]

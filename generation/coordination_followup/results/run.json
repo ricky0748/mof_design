@@ -1,0 +1,17 @@
+{
+  "canonical_jobs": [
+    "U_L12",
+    "U_H05",
+    "U_H12",
+    "U_H01",
+    "control_C_BDC"
+  ],
+  "aliases": {},
+  "fingerprints": {
+    "U_L12": "e449c2121920b588a894b39f7b29c5aa864e32e602de5daf855381bef9f27ca0",
+    "U_H05": "24fcb5ad4ce17af0e9b5fe0f4f276707cdb30d57ab883fa59745c1d262f4fae7",
+    "U_H12": "115bcb145c5039c304ba9e3e3e5809d473526a4c5f04131f63276112cdf516e7",
+    "U_H01": "46d4d28e7533e952bb9b755ebbcf5e38308b847d0b62959638b00b2781dd8462",
+    "control_C_BDC": "3406418f195d8dc16d338b8352b5473d3db1dd9a00abd72622e9f4a209941aa5"
+  }
+}

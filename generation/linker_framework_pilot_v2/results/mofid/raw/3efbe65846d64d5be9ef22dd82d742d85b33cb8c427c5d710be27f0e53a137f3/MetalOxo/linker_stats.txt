@@ -1,0 +1,2 @@
+JRZZIBYZCSVWKK-UHFFFAOYSA-L	2	4	InChI=1S/C16H10O5/c17-13-6-5-11(16(20)21)10-4-3-8-1-2-9(15(18)19)7-12(8)14(10)13/h1-7,17H,(H,18,19)(H,20,21)/p-2	JRZZIBYZCSVWKK	[O-]C(=O)c1ccc2c(c1)c1c(O)ccc(c1cc2)C(=O)[O-]	[O-][C]([c]1[cH][cH][c]2[c]([cH]1)[c]1[c](O)[cH][cH][c]([c]1[cH][cH]2)[C]([O])[O-])[O]
+

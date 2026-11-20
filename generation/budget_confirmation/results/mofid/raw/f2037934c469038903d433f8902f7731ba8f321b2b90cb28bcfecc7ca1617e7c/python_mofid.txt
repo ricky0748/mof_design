@@ -1,0 +1,1 @@
+[O-]C(=O)c1c(ccc2c1ccc1c2cc(cc1)C(=O)[O-])N(=O)=O.[Zn][O]([Zn])([Zn])[Zn] MOFid-v1.pcu.cat0.NO_REF;S300_B26

@@ -1,0 +1,51 @@
+{
+  "cif": "/share/rickyswork/ai_mof/generation/coordination_followup_20261113/raw/U_H01.cif",
+  "out": "/share/rickyswork/ai_mof/generation/coordination_followup_20261113/relaxed/U_H01.cif",
+  "status": "completed",
+  "before": {
+    "natoms": 101,
+    "volume": 4223.764258465824,
+    "dmin": 1.0782880675696715,
+    "fragments": 1
+  },
+  "after": {
+    "natoms": 101,
+    "volume": 3872.2508459218943,
+    "dmin": 1.0865807114924906,
+    "fragments": 1
+  },
+  "converged": true,
+  "steps": 125,
+  "volume_ratio": 0.9167772178952979,
+  "geometry_valid": true,
+  "seconds": 86.391,
+  "calculation_signature": {
+    "schema": 1,
+    "input_sha256": "a4965d7fcc88797570118b75964cf8fb7d28df49e5b636776c09c0f153ba1035",
+    "model_sha256": "01bfe22100139f424713cf921144e5509cbe353d67aa9fa1be9c6e1e0ed35845",
+    "scripts": {
+      "common.py": "ce9194d7bdf4af309d8b5a9f2072b629518c593164f3bd6d0d6bb6cd5fc27514",
+      "compute_config.py": "9328041f7a545d85a1be18a60c76fd3cf1f95a049ac1ea49011c36ea785463f5",
+      "freeze.py": "f21446dfb2e63b0591f56425e37af8f533c20ad6f30758c2134f3c34ff6de58f",
+      "provenance.py": "208d6e126536953ec4b9d22f62bdad5b2297c3d0697393eae45b8cc9c06bca0d",
+      "relax_one.py": "eb2a8d163710b3e9c9ae93cfa419d87efdf04d677860e5b52c1bbf0b04d8307d",
+      "report.py": "ce863aaa59c0545f0119aa49d1897373e3a01dee1be4bd937eabbc5f401c5f31",
+      "run.py": "d55743496e15baf5ddaa767776254835ac6adc11261f2948b0bcd0cd52da403e"
+    },
+    "settings": {
+      "steps": 300,
+      "fmax": 0.05,
+      "maxstep": 0.05,
+      "timeout": 600,
+      "atom_limit": 1000,
+      "dtype": "float64",
+      "threads": 2,
+      "neighbor_multiplier": 1.15,
+      "neighbor_skin": 0.0,
+      "minimum_distance": 0.9,
+      "minimum_volume_ratio": 0.75,
+      "maximum_volume_ratio": 1.25
+    }
+  },
+  "output_sha256": "9d0dfa01927f910816c5f522f645b525aa876233de3cd4d7f978b1fa35bfad8c"
+}

@@ -1,0 +1,730 @@
+[
+  {
+    "sequence_index": 0,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 1,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 2,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 4,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 5,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 6,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 7,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 8,
+    "reason": "chemical_filter:lt2_binding"
+  },
+  {
+    "sequence_index": 9,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 10,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 11,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 12,
+    "reason": "chemical_filter:radicals1"
+  },
+  {
+    "sequence_index": 13,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 14,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 15,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 16,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 17,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 18,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 19,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 20,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 21,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 22,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 23,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 24,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 26,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 28,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 30,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 31,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 33,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 34,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 35,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 37,
+    "reason": "previously_tested_identity"
+  },
+  {
+    "sequence_index": 38,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 39,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 40,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 41,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 42,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 43,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 44,
+    "reason": "previously_tested_identity"
+  },
+  {
+    "sequence_index": 45,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 46,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 47,
+    "reason": "chemical_filter:lt2_binding,charge_below_anions"
+  },
+  {
+    "sequence_index": 48,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 49,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 51,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 52,
+    "reason": "chemical_filter:lt2_binding,charge_below_anions"
+  },
+  {
+    "sequence_index": 53,
+    "reason": "previously_tested_identity"
+  },
+  {
+    "sequence_index": 54,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 55,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 56,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 57,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 58,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 59,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 60,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 61,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 62,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 64,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 65,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 66,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 67,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 68,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 70,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 71,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 72,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 73,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 74,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 75,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 76,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 77,
+    "reason": "chemical_filter:lt2_binding"
+  },
+  {
+    "sequence_index": 78,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 79,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 80,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 81,
+    "reason": "previously_tested_identity"
+  },
+  {
+    "sequence_index": 82,
+    "reason": "previously_tested_identity"
+  },
+  {
+    "sequence_index": 83,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 84,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 85,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 86,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 87,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 90,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 91,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 92,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 93,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 94,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 95,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 96,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 97,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 98,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 99,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 100,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 101,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 102,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 103,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 104,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 105,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 106,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 107,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 108,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 109,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 110,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 111,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 112,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 113,
+    "reason": "chemical_filter:lt2_binding"
+  },
+  {
+    "sequence_index": 114,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 115,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 116,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 117,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 118,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 119,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 120,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 121,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 122,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 123,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 124,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 125,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 126,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 127,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 128,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 129,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 130,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 131,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 132,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 133,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 134,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 135,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 136,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 137,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 138,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 139,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 140,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 141,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 142,
+    "reason": "chemical_filter:lt2_binding,charge_below_anions"
+  },
+  {
+    "sequence_index": 143,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 144,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 145,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 146,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 147,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 148,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 149,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 150,
+    "reason": "not_two_carboxylates"
+  },
+  {
+    "sequence_index": 151,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 152,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 153,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 155,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 156,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 157,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 158,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 159,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 160,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 163,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 164,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 165,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 166,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 167,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 168,
+    "reason": "previously_tested_identity"
+  },
+  {
+    "sequence_index": 169,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 170,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 172,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 173,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 174,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 175,
+    "reason": "chemical_filter:radicals1"
+  },
+  {
+    "sequence_index": 176,
+    "reason": "previously_tested_identity"
+  },
+  {
+    "sequence_index": 178,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 179,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 180,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 181,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 182,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 183,
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "sequence_index": 184,
+    "reason": "previously_tested_identity"
+  },
+  {
+    "sequence_index": 185,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 186,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 187,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 188,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 189,
+    "reason": "duplicate_identity_in_fresh_batch"
+  },
+  {
+    "sequence_index": 190,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 191,
+    "reason": "not_single_organic_linker"
+  },
+  {
+    "sequence_index": 192,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 193,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 196,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 197,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 198,
+    "reason": "non_mof_guest"
+  },
+  {
+    "sequence_index": 199,
+    "reason": "not_single_organic_linker"
+  }
+]

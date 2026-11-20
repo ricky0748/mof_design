@@ -1,0 +1,6 @@
+variant_id,seed,smiles,n_connections,topo,node,build,dev_max,dev_ok,rmsd,rmsd_ok,n_clash,n_bad_bond,n_atoms,success,cif,error,min_clash,max_bond
+N0000,Nexerra,O=C([O-])c1ncc(C=CC=Cc2cc(C=CC=Cc3cnc(C(=O)[O-])nc3)c(C=CC=Cc3cnc(C(=O)[O-])nc3)cn2)cn1,3,tbo,N17,True,31.1,False,0.387,False,5,96,2176,False,,,1.1737049485460453,3.684
+N0001,Nexerra,O=C([O-])c1cc(OC=CC=Cc2cc(C=CC=COc3ccnc(C(=O)[O-])c3)c(C=CC=COc3ccnc(C(=O)[O-])c3)cn2)ccn1,3,tbo,N17,True,45.5,False,0.18,True,5,83,2368,False,,,1.3917542760921218,3.426
+N0002,Nexerra,O=C([O-])c1cc(C=CC=Cc2cc(C=CC=Cc3ccnc(C(=O)[O-])c3)c(C=CC=Cc3ccnc(C(=O)[O-])c3)cn2)ccn1,3,tbo,N17,True,52.5,False,0.382,False,27,88,2272,False,,,1.109286839565629,3.253
+N0003,Nexerra,CC(C=C=CCc1cc(CC=C=CC(C)c2ccnc(C(=O)[O-])c2)c(CC=C=CC(C)c2ccnc(C(=O)[O-])c2)cn1)c1ccnc(C(=O)[O-])c1,3,tbo,N17,True,142.3,False,0.275,True,255,76,2848,False,,,0.08571960491958586,4.161
+N0004,Nexerra,O=C([O-])c1cc(-c2cc(-c3coc(C(=O)[O-])c3)c(-c3coc(C(=O)[O-])c3)cn2)co1,3,tbo,N17,True,28.8,False,0.258,True,0,62,1312,False,,,,2.775

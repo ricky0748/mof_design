@@ -1,0 +1,2 @@
+ILVIDTNIKJTMEC-UHFFFAOYSA-L	2	3	InChI=1S/C17H10O5/c18-8-11-6-9-4-5-10(16(19)20)7-14(9)12-2-1-3-13(15(11)12)17(21)22/h1-8H,(H,19,20)(H,21,22)/p-2	ILVIDTNIKJTMEC	O=Cc1cc2ccc(cc2c2c1c(ccc2)C(=O)[O-])C(=O)[O-]	[O][CH][c]1[cH][c]2[cH][cH][c]([cH][c]2[c]2[c]1[c]([cH][cH][cH]2)[C]([O])[O-])[C]([O])[O-]
+

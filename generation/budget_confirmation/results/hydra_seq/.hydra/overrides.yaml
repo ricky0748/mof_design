@@ -1,0 +1,6 @@
+- inference.ckpt_path=/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/seq_module_cond/ckpt.pt
+- inference.seed=1301
+- inference.total_samples=600
+- inference.temperature=1.0
+- inference.target_property=5.0
+- inference.batch_size=50

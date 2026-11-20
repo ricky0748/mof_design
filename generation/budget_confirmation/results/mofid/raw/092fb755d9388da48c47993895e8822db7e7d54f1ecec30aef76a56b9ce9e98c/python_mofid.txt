@@ -1,0 +1,1 @@
+COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])[CH]C=CC1=O.COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])cccc1OC.COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])cccc1O[CH2].[Zn][O]([Zn])([Zn])[Zn] MOFid-v1.pcu.cat0.NO_REF;S300_B15

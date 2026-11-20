@@ -1,0 +1,2 @@
+KHIPRSUAEOTXMC-UHFFFAOYSA-L	2	3	InChI=1S/C17H12O7/c1-6-2-9(17(23)24)8-5-12(19)14-10(13(8)15(6)20)3-7(16(21)22)4-11(14)18/h2-5,18-20H,1H3,(H,21,22)(H,23,24)/p-2	KHIPRSUAEOTXMC	[O-]C(=O)c1cc(O)c2c(c1)c1c(O)c(C)cc(c1cc2O)C(=O)[O-]	[O-][C]([c]1[cH][c](O)[c]2[c]([cH]1)[c]1[c](O)[c](C)[cH][c]([c]1[cH][c]2O)[C]([O])[O-])[O]
+

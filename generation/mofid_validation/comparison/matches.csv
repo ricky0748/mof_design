@@ -1,0 +1,1182 @@
+id,cohort,extraction_status,framework_match,reference_hits,chemistry_match,extracted_linkers,unmatched_linkers
+mofflow2s_000,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_005,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_001,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_007,mofflow2_raw,partial,unresolved,,False,1,"[""[C][C][C]([CH]C1[C]2[CH][CH]C=CC2[C]2c3c1c(ccc3C=CO[C]C2=O)[C]C(=O)[O-])[C]CC=C(C(=O)[O]([VH][O])[O])[CH2]""]"
+mofflow2s_003,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_004,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc2c3c4c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)c4cc(c3c1c3c2c(NC)cc2c3c(c(c1)OCC)C(=O)N(C2=O)c1ccc(cc1)C(=O)[O-])NC""]"
+mofflow2s_006,mofflow2_raw,partial,unresolved,,False,1,"[""O=C1O[V]2([O])O[C](O2)c2ccc3C4C5c6ccc1cc6-c1ccc6c(c1[CH]5)cc(cc6)C15O[O]1[V]1([O]5[O]1C(=O)c1cc5c([CH]4)c(-c3c2)ccc5cc1)O""]"
+mofflow2s_010,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_011,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_012,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_008,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_018,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_002,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_009,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_013,mofflow2_raw,partial,unresolved,,False,3,"[""[O]O[C](c1ccc(c2c1CC2)C(=O)[O-])OOC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_014,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_020,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_015,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_016,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_017,mofflow2_raw,partial,unresolved,,False,1,"[""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)[C]123O[V]453[O]31[O]24[V]3O5""]"
+mofflow2s_026,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_027,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_019,mofflow2_raw,partial,unresolved,,False,2,"[""CCOc1ccc2c(c1C(=O)[O-])ccc1c2cc(cc1)C(=O)O[O]"", ""CC[NH]1O[V]2[O]3[O]2C(=O)c2c1ccc1c2ccc2c1cc(cc2)C(=O)OOC(=O)c1c2c(c4cc([C]5O[V](O[C]3c3ccc6c(c3)c3ccc(c(c3cc6)C(=O)[O-])NC)O5)ccc4cc2)ccc1NC""]"
+mofflow2s_021,mofflow2_raw,partial,unresolved,,False,3,"[""[O]O[C](c1ccc(c2c1CC2)C(=O)O[O])OOC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_022,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_023,mofflow2_raw,partial,unresolved,,False,3,"[""O=Cc1cc2C(=O)N(c3ccc(cc3O)C(=O)[O-])C(=O)c3c2c2c1c1ccc4c5c1c(c2cc3)c(cc5C(=O)N(C4=O)c1ccc(cc1O)C(=O)[O-])C=O""]"
+mofflow2s_030,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_024,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3N(=O)=O)[C]1OO[C](OO1)c1ccc(c2c1CC2)C(=O)O[O].[O]""]"
+mofflow2s_031,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_028,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_029,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_032,mofflow2_raw,partial,unresolved,,False,1,"[""[C]O[CH]c1c2cc(ccc2ccc1C12[C]C3C(C2(C1[CH2])[C]=O)[C]1C3[C]1[C])C(=O)[O-].[CH]OC=[C].[O].[O]""]"
+mofflow2s_025,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_033,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_034,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_035,mofflow2_raw,partial,unresolved,,False,1,"[""O=[V]OC(=O)c1ccc2c(-c3cccc4c3C([CH]2)C2C(=C[CH]c3c2c2cccc(c2cc3)C(=O)[O-])O[C][C]O4)c1.[O].[O]""]"
+mofflow2s_036,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_040,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_038,mofflow2_raw,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_037,mofflow2_raw,partial,unresolved,,False,2,"[""Oc1cc2c3cc(ccc3ccc2c(c1)C1([O])OO1)C(=O)[O-]"", ""[O-]C(=O)C(=[CH])c1ccc2=CC=[C]C=c2c1[CH].[O-]C(=O)c1ccc2c(c1)c([CH])c(cc2)C(=[CH])C(=O)[O-].[O][C]1OO1""]"
+mofflow2s_041,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_042,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C1(O)OC2[CH]C(=C(C(=C2C(=O)[O-])C1)[CH])C(=O)[O-]"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_044,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_045,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_039,mofflow2_raw,partial,unresolved,,False,2,"[""[CH2]OC(=C1C(=O)N(C(=O)c2c1c([C])c(c(c2)[O])C(=O)N(c1ccc(c(c1OC)NC)C(=O)[O-])[C]=O)c1ccc(c(c1OC)NC)C(=O)OOC(=O)C=CC(=O)[O-])[CH2]""]"
+mofflow2s_046,mofflow2_raw,partial,unresolved,,False,1,"[""O[CH]OC12[CH]C3=CC=C1C=Cc1c2c2c(cc1C(=O)[O-])[CH]C1([C]2[C]([O])[C]1OC([CH])[C][C]([C]1[C]([CH]24[O]5678C3([O])[O]392([C]5[O](C473)[V][O])C6([O])[O]2[V]89([O])[O]2C(=O)c2ccc3c(c2)c2c(ccc(c2cc3)C(=O)[O-])C(=O)O)C1)[C](C(C=C[C][C](OC(=O)[O-])[C][CH])[CH])[C][CH]C([C][C])[C])[O]""]"
+mofflow2s_043,mofflow2_raw,identified,no_match_in_processed_reference,,False,3,"[""O[CH]C1=C(C(=O)[O-])C2C(C(=C1[CH2])C(=O)[O-])O2"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_049,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_048,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_052,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_050,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_051,mofflow2_raw,partial,unresolved,,False,3,"[""O=Cc1cc2c3ccc4c5c3c(c3c2c2c1C(=O)N(C1=CCC(=C([CH]1)C1=C[C]=CC=C1)C(=O)[O-])C(=O)c2cc3)cc(c5C(=O)N(C4=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-])C=O""]"
+mofflow2s_047,mofflow2_raw,partial,unresolved,,False,3,"[""O=Cc1cc2c3ccc4c5c3c(c3c2c2c1C(=O)N(C1=CC(=C([C]=C1)C(=O)O)C1=CC=[C]C[CH]1)C(=O)c2cc3)cc(c5C(=O)N(C4=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-])C=O""]"
+mofflow2s_053,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_054,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_056,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_055,mofflow2_raw,partial,unresolved,,False,2,"[""[NH]NOC(=O)c1cc(O)c2c(c1)c1ccc3c(c1cc2)c(O)c(cc3C=O)C(=O)[O-]""]"
+mofflow2s_057,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_062,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_058,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_063,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_065,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_060,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_066,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_061,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_059,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_068,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_070,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_064,mofflow2_raw,partial,unresolved,,False,2,"[""[O]O[C](c1ccc(c2c1CC2)C(=O)[O-])OOO[C](c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_071,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_073,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_074,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_067,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_069,mofflow2_raw,partial,unresolved,,False,1,"[""O=[V]OC(=O)c1ccc(c2c1CC2)[C]1OOO1""]"
+mofflow2s_075,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_076,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_072,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_079,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_082,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_077,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)C1=C(O[CH][C]c2ccc3c(c2)c2cc(N(=O)=O)c4c(c2cc3)cc(cc4)C(=O)[O-])[C]=C(C=C1)[C]1O[V]2[O]1O2"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)O[O]""]"
+mofflow2s_078,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)C1=C[CH]C(=CC1[O])N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1)C(=O)[O-]"", ""[O]O[C]c1ccc(cc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1)C(=O)[O-].[O]O[C]O[CH][CH]C(=O)[O-].[O]""]"
+mofflow2s_080,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)[CH][C]1C([CH]3)[O]231[C](O[V]14[O]56C72[V]35([O]167)[O]4[O])c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_081,mofflow2_raw,partial,unresolved,,False,3,"[""[C]O[O].[O]"", ""[O-]C(=O)C1=Cc2c([C]=C1)ccc1c2cccc1C(=O)[O-].[OH]"", ""[O]OC(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-]""]"
+mofflow2s_083,mofflow2_raw,partial,unresolved,,False,3,"[""[CH2]Oc1cc2C(=O)N(c3ccc(cc3)C(=O)[O-])C(=O)c3c2c2c1c1ccc4c5c1c(c2cc3)c(cc5C(=O)N(C4=O)c1ccc(cc1)C(=O)[O-])OC""]"
+mofflow2s_084,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_085,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2O)cc(cc3)C(=O)[O-]"", ""[O]O[C]=O""]"
+mofflow2s_086,mofflow2_raw,partial,unresolved,,False,3,"[""[O]O[C](C1=Cc2c(C=[C]1)ccc1c2ccc2c1cc(cc2)C(=O)[O-])OOC(=O)[C](C1=C(CC1)C(=[CH])C(=O)[O-])[CH2]""]"
+mofflow2s_091,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_087,mofflow2_raw,partial,unresolved,,False,1,"[""COc1cc(C(=O)OOC(=O)c2ccc3c(c2)c2cc(OC)cc(c2cc3)C(=O)[O-])c2c(c1)c1cc(ccc1cc2)C(=O)O[O]""]"
+mofflow2s_088,mofflow2_raw,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S([O])(O)[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S([O])(O)[O])C(=O)[O-]""]"
+mofflow2s_094,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_090,mofflow2_raw,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S([O])([O])O)C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S([O])([O])O)C(=O)[O-]""]"
+mofflow2s_089,mofflow2_raw,partial,unresolved,,False,1,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_093,mofflow2_raw,partial,unresolved,,False,2,"[""CCCOc1cc(cc2c1[CH]C1[C]3[C](O2)C=C[CH]C23[C](O[O])OC34C5=[C]C=CC1([C]=O)[C]5C2C=C3C(=CC(=C4)C(=O)[O-])OC[CH2])C(=O)[O-]"", ""CCCOc1cc(cc2c1ccc1c2cccc1C(=O)O[V][O])C(=O)[O-]""]"
+mofflow2s_092,mofflow2_raw,partial,unresolved,,False,1,"[""CCCC1=C[C]2[CH][C]3C([C])[C]4[C]3[C]C3(C5([C]6C2=[C]C6([C]2[C]1C=CC1([C]6C2C16[C])C(OO[C]C1=CC=C([C]=[C]1)C=C[C][CH]C(=CC1=C2C[C](C=CC2=C(C=[C]1)CCC)C1([O])OO1)[C][V]1[CH]C=C([CH]1)[C]1O[V]2[O]1O2)[O])C([CH2])C(=C[C]35)[CH2])C[CH]C)C1C2C4(C([O])[O])C2[C]([CH]1)C(=O)[O-]""]"
+mofflow2s_096,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_095,mofflow2_raw,partial,unresolved,,False,1,"[""[CH]=C[C](c1ccc2c(c1[CH])[CH]C13C([CH]2)[O]1(C3([O])OOC(=O)c1cccc2c1ccc1c2cc(cc1)C(=O)[O-])[V])C(=O)[O-]""]"
+mofflow2s_097,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_099,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc(ccc1C(=O)[O-])N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)C(=[CH])[CH]C(=[C]C(=O)[O-])O[CH2]""]"
+mofflow2s_103,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_100,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_098,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""O=C1N(c2ccc(c(c2)S(O)([O])[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1S(O)([O])[O])S([O])(O)[O])C(=O)[O-]""]"
+mofflow2s_101,mofflow2_raw,partial,unresolved,,True,1,[]
+mofflow2s_102,mofflow2_raw,partial,unresolved,,False,2,"[""[CH2][C][C]1[CH][C]2[CH][C]3[CH]C4C3(C3([CH][C]5C67C81[C]([C]1[C]8C([CH]1)(C=C7)[CH][C]1[C][C]1[C]C([O])[O])C6[CH]C5([C]2)C43)C(=O)[O-])[N]1([O])OO1.[O-][C]=O"", ""[O]N1OO1""]"
+mofflow2s_109,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_104,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_105,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_106,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_107,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1cc2c(cc1F)ccc1c2ccc2c1cc(c(c2)F)C(=O)[O-]""]"
+mofflow2s_108,mofflow2_raw,partial,unresolved,,False,1,"[""[O]COC1=CC=c2c(=[C]1)ccc1c2cc(cc1)C(=O)[O-].[CH3]""]"
+mofflow2s_110,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_111,mofflow2_raw,partial,unresolved,,False,1,"[""COc1cc2c3C=C([C]=Cc3ccc2c2c1ccc(c2)C(=O)OOC(=O)C=CC(=O)[O-])C(=O)[O-].[OH]""]"
+mofflow2s_112,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_114,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)C(=C[C]1[CH]C([CH]C2=[C]C=CC=C12)[C](C(=[C][C]1[C][C]1[C]1C23C1(O2)O3)[CH])[CH][C]C12OC2(O1)[CH][C]1[C][CH][C][C][C]1)[C]"", ""[O][C]1OO1.[O][C]OC(=O)c1cccc2c1ccc1c2cc(c(c1)[CH])C(=O)[O-]""]"
+mofflow2s_118,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_115,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_116,mofflow2_raw,partial,unresolved,,False,3,"[""[O]O[C](c1ccc2c(c1)c1cc(F)c3c(c1cc2)cc(cc3)C(=O)[O-])O[O]""]"
+mofflow2s_117,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(cc1)N1C(=O)c2ccc3c4c2c(C1=O)cc(c4c1c2c3c(O)cc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1O)C(=O)[O-])O""]"
+mofflow2s_113,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-].[O]""]"
+mofflow2s_123,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_119,mofflow2_raw,partial,unresolved,,True,2,[]
+mofflow2s_122,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_124,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_120,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_125,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)C1=[C]c2c(C=C1)ccc1=C(C=[C]C=c21)C(=O)[O-]""]"
+mofflow2s_127,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_126,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""OOS(C1C([S]([O])[O])c2c1c(ccc2C(=O)[O-])C(=O)[O-])(O)[O]""]"
+mofflow2s_128,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_121,mofflow2_raw,partial,unresolved,,False,2,"[""[O]O[C](c1ccc(c2c1CC2)C(=O)O[O])OOC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_129,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_134,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_131,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_130,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_132,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_133,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_138,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_136,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_139,mofflow2_raw,partial,unresolved,,False,1,"[""[O]O[C]=O""]"
+mofflow2s_137,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_144,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_135,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(OOC(=O)c1ccc(cc1S(O)([O])[O])N1C(=O)c2ccc3c4c2c(C1=O)cc(c4c1c2c3c(F)cc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)S(O)([O])[O])C(=O)[O-])F)C=CC(=O)[O-]""]"
+mofflow2s_146,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_141,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)c1ccc2c(c1)c1ccc3=CC=[C]C=c3c1c(c2)C1[C]2C3=CC45C6C78C92C1(C=CC8(C7[C]4)C1C(=C[CH][C]O[CH]1)[C]56)[CH]C1C24C9C3(C=C[C](OC4=O)C=CC(=[CH])C34OOC4(O3)[O])[C]2C1.[O][C](OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])[O]""]"
+mofflow2s_142,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""C=CC=C(C(=[C]C(=O)[O-])[CH]C(=[CH])N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)C1=CC2C3C=C[C]=C(C(=C2C(=O)O)[CH]1)[CH]3)[CH].N=N""]"
+mofflow2s_149,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_145,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_140,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)C=CC(=O)[O]1[OH]2[Cu]3451OC(=O)C=CC(=O)[O]3[O]5S2(N4[N]S([O])(O)[O])[O]""]"
+mofflow2s_143,mofflow2_raw,partial,unresolved,,False,1,"[""[C]C[CH]C1(C(=O)OOC(=O)C(=C(C(=O)O[V])C)C)[V]2[C]([CH]C3OC3([CH])C(=O)[O-])N3C(=c4ccc5c(c4[C]=C3OOC3=NC(=O)[C]c4c3ccc3c4c([CH])c4c6c3C=C[C]3c6c(cc4)C(=O)N(C3=O)c3ccc(cc3)C(=O)[O-])c(=[CH])c3c4c5ccc5c4[C](C=C3)C(=O)N(C5=O)c3ccc(cc3)C(=O)[O-])[O]32C1C3[C]""]"
+mofflow2s_152,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_147,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_148,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_154,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_150,mofflow2_raw,partial,unresolved,,False,3,"[""COc1cc2c3cc([O])c4c5c3c(c3c2c2c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)c2c(c3)OC)cc(c5C(=O)N(C4=O)c1ccc(cc1)C(=O)[O-])[O]""]"
+mofflow2s_151,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(c1ccc(c2c1CC2)C(=O)[O-])OOOC(=O)c1ccc(c2c1CC2)C(=O)[O-].[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2O)cc(cc3)C(=O)[O-]""]"
+mofflow2s_159,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_153,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_160,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_155,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc2c3c4c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)C4=[C]C=c3c1c3c2cc(O)c2c3c(c(c1)OC)C(=O)N(C2=O)c1ccc(cc1)C(=O)[O-]""]"
+mofflow2s_156,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_157,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_158,mofflow2_raw,partial,unresolved,,False,1,"[""O=C1OC2(C1C13C=CC45[C]6[CH]C1C16[C]3C(=C[CH]C41[CH]5)C=C2)C(=O)[O-].[O]""]"
+mofflow2s_164,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_166,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_162,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_161,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""CCc1cc2C(=O)N(c3ccc(cc3)C(=O)[O-])C(=O)c3c2c2c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)c2cc3[CH2]""]"
+mofflow2s_163,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_170,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_167,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_169,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_168,mofflow2_raw,partial,unresolved,,False,1,"[""[O]OC(=O)[C](CC([C]1[C]2[C][C]C([C])C=C(C(=O)O)C3O[C]3C3([OH](C4=[C][C]([CH][C](C2[C]1[CH]C(=[CH])C(=O)[O-])C=C4C(=O)O)[C])([V][O])C3=O)[O])[C])[CH2]""]"
+mofflow2s_171,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc(cc(c1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1c(OCC)cc(cc1OCC)C(=O)[O-])OC)C(=O)[O-]""]"
+mofflow2s_176,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_172,mofflow2_raw,partial,unresolved,,False,1,"[""O=C(C1=Cc2c(C3C1O3)ccc1c2ccc2c1C=C([C]=C2)C1(O)OO1)OC1[CH]O[C][CH]c2c1ccc1c2ccc2c1cc(cc2)C(=O)[O-]""]"
+mofflow2s_177,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_173,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_175,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_174,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[CH2][C][C](C1C2=[C]C=C3[C]=C2[CH]C(=[C])C(=O)O[V]24([O]C5(C(C1[C])[CH])O[O]25[C](O[V]O4)C1=C[C]3C([C])([C][O])[CH]O[CH]1)[O])C([CH]C1=[C]C=C(c2c1cc(cc2)C(=O)OOC(=O)C(=[C]C)C)[CH2])C.[O]O[C]O"", ""[O-]C(=O)[CH]""]"
+mofflow2s_180,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_182,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_165,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)O[O]"", ""[O]OC(=O)c1ccc2c(c1)c1cc(O)c3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_178,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc(c(c1)S([O])(O)[O])N1C(=O)C2=C[C]=c3c4=C2C(=C[C]=c4c2c4c3ccc3c4c(cc2S([O])([O])[O])C(=O)N(C3=O)c2ccc(cc2S([O])([O])O)C(=O)[O-])C1=O.N=N""]"
+mofflow2s_179,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc(ccc1C(=O)[O-])N1C(=O)c2ccc3c4c2c(C1=O)c(OCC)cc4c1c2c3cc(OCC)c3c2c(cc1)C(=O)N(C3=O)C(=[CH])[CH]C(=[C]C(=O)[O-])O[CH2]""]"
+mofflow2s_187,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_181,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_188,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_183,mofflow2_raw,partial,unresolved,,False,3,"[""[C]O[CH][C]([CH][C]1C=CC=C2C3[C]1C1[C]=CC=C4[C]([C]31)C1C3([C]2C=[C]C(=O)[O-])C1C3(C=C4)C1C([C]1[O])O[O])[O]"", ""[O]OC(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-]""]"
+mofflow2s_184,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_190,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_185,mofflow2_raw,partial,unresolved,,False,2,"[""CNc1c(cc2c3c1C14[CH]C(=C([CH]C4[CH]C(C3[CH]1)([C])[C]1[C]C3([C]2C=C[CH][C](O3)C23OOC42[O]253[O]4([OH]2)[V]5)C1=O)C(=O)[O-])[NH])C(=O)[O-]"", ""CNc1cc2ccc3c(c2cc1C(=O)[O-])cccc3[C]1O[V]O1""]"
+mofflow2s_186,mofflow2_raw,partial,unresolved,,False,3,"[""O=C(c1ccc(c2c1CC2)C(=O)[O-])OOOC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O][V]O[C](c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3CCC)C(=O)[O-])O[O]""]"
+mofflow2s_195,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_189,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_192,mofflow2_raw,partial,unresolved,,False,3,"[""[CH2]O[C]=C1C(=O)N(c2ccc(cc2)C(=O)[O-])C(=O)c2c1c1[C]=c3c([O])cc4c5c3=C(c1c(c2)O[CH2])C=C([C]5C(=O)N([C]4O)c1ccc(cc1)C(=O)[O-])[O]""]"
+mofflow2s_199,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_194,mofflow2_raw,partial,unresolved,,False,3,"[""CNc1ccc2-c3cc(ccc3C3[CH]c2c1C(=O)OOC(=O)C1=CC3c2ccc3c(c2[CH]1)ccc(c3C(=O)[O-])NC)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc(c(c1cc2)C(=O)[O-])NC""]"
+mofflow2s_193,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_191,mofflow2_raw,partial,unresolved,,False,1,"[""[O][CH][O]""]"
+mofflow2s_196,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_197,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_198,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_202,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_204,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_208,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_203,mofflow2_raw,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_205,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_206,mofflow2_raw,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_209,mofflow2_raw,partial,unresolved,,False,2,"[""CCOc1cc2ccc3c(c2cc1C(=O)[O-])ccc1c3cc(C(=O)[O-])c(c1)O[CH2]"", ""[O-]C(=O)C=CC(=O)O""]"
+mofflow2s_213,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_207,mofflow2_raw,partial,unresolved,,False,1,"[""[C][CH][C](C(=C[CH])CC)C=C[C]([C](C(=O)O[O])[O])[O]""]"
+mofflow2s_201,mofflow2_raw,partial,unresolved,,False,3,"[""CCc1cc2[CH]C([NH])c3c(-c2cc1C(=O)[O-])c(NC)cc1c3cc(C(=O)[O-])c(c1)C[CH2].[CH3]""]"
+mofflow2s_212,mofflow2_raw,partial,unresolved,,False,3,"[""O=Cc1cc(cc(c1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1c(O)cc(cc1O)C(=O)[O-])O)C(=O)[O-]""]"
+mofflow2s_200,mofflow2_raw,partial,unresolved,,False,2,"[""O[C]=C[C](C(=O)OC1(O)C=C([CH]c2c1ccc1c2ccc2c1cc(cc2O)C(=O)[O-])C(=O)[O-])[CH].[O]""]"
+mofflow2s_210,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[NH]NOC(=O)c1ccc(cc1c1ccccc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1c1ccccc1)c1ccccc1)C(=O)[O-]""]"
+mofflow2s_217,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_214,mofflow2_raw,partial,unresolved,,False,3,"[""CCOC(=C(C(=O)[O-])O[CH2])C(=O)[O-]""]"
+mofflow2s_211,mofflow2_raw,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OC1[C]=Cc2c([CH]1)ccc1c2ccc2c1cc(cc2)C(=O)[O-]"", ""[O]O[C]O[O]""]"
+mofflow2s_218,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_215,mofflow2_raw,partial,unresolved,,False,3,"[""COC1=C2C(=O)N(c3ccc(cc3)C(=O)[O-])[C](C3=C2C(=C(C(=[C]3)OC)C(=O)N(c2ccc(cc2)C(=O)[O-])[CH])[C]=[C]1)O""]"
+mofflow2s_216,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)c1ccc2c(c1)c1cc(O)c(c(c1cc2O)C(=[C]C1OO1)O)[CH2].[O]""]"
+mofflow2s_222,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_219,mofflow2_raw,partial,unresolved,,False,3,"[""Nc1cc(C(=O)[O-])c2c(c1)c1cc(ccc1cc2)[C]1[O]2O[V]34562[O]1[O]123[O]375[O]61(C23[O])[C]7O4"", ""[C]O[O].[O]"", ""[O]OC(=O)c1cc(N)cc2c1ccc1c2cc(cc1)C(=O)[O-]""]"
+mofflow2s_220,mofflow2_raw,partial,unresolved,,False,3,"[""[O]C(c1ccc2c(c1)c1cc(O)c3c(c1cc2)cc(cc3)C(=O)[O-])OC12[CH]CC2=C([CH]C=C1C(=O)[O-])C(=O)[O-]"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_227,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_223,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(c1ccc(c2c1CC2)C(=O)[O-])OOOC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1C)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_221,mofflow2_raw,partial,unresolved,,False,3,"[""[CH]C=CC1=[C][CH][C](O[C](C(=O)[C]1)[CH])C(=O)[O-].[O]"", ""[C]=[C][CH][C]1C(=CC=C2[C]3C1C3([C])[CH]C(C1(C2=CC(=C[CH]1)C(=O)[O-])[CH])C(=C[CH])C(=O)[O-])C=[CH]"", ""[O]O[C]=O""]"
+mofflow2s_228,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_226,mofflow2_raw,partial,unresolved,,False,1,"[""C[CH]CC1=CC(=[C]c2c1c(ccc2)C(=O)O)C=C[CH]C(=O)OOC(=O)c1ccc2c(c1)C13[CH]C=C[C](C3(O1)C(=C2)CC)C(=O)[O-]""]"
+mofflow2s_224,mofflow2_raw,partial,unresolved,,False,2,"[""[CH2]C=C(C12[O]3[V]42([O]1O4)([O]3)[O]12[C]C32[C]1(C=C(C([C])[C])C=[CH])O3)C=[C]c1ccc2c(c1[CH][C])cc(cc2)C(=O)OC(c1ccc2c(c1)c([CH2])c(cc2)C1=C[C]=CC(=C1)C(=O)[O-])([O])[O]"", ""[O-][C]=O""]"
+mofflow2s_225,mofflow2_raw,partial,unresolved,,False,2,"[""[C][C][C][C]C(=O)[C]([CH]C=C[CH])O"", ""[O]OC(=O)C1=C[C]2C3C2[CH][C]2[C]C([CH]1)([CH]3)[C]C1([CH2])[C][C]3[C]1C([CH][C][C]2)([C]3)[C]""]"
+mofflow2s_229,mofflow2_raw,partial,unresolved,,False,1,"[""[O]O[C][O]""]"
+mofflow2s_236,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_231,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[CH]OC1=C([C]=CC(=C1[CH2])C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_232,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2O)cc(cc3)C(=O)[O-]""]"
+mofflow2s_233,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_230,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)C=CC(=O)ON[NH]""]"
+mofflow2s_234,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_235,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)C1=CC2=C3[CH]C1C1C=C(C(=O)[O-])C4=C([C]1O)c1cc(C(=O)O[V]5=C([C](C2=C5O)C=C3)C(=O)[O-])ccc1[C]=C4"", ""[O]O[C](c1ccc2c(c1)c1[C]=CC=C(c1cc2)C(=O)[O-])OOOC(=O)c1ccc2c(c1)c1c(O)ccc(c1cc2)C(=O)[O-]""]"
+mofflow2s_239,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_242,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_237,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)C1=COC=C(C2=C1CC2)C(=O)O[V]O[V]"", ""[O-]C(=O)c1ccc2c(c1)c1cc(O)c3c(c1cc2)C=[C]C=C3""]"
+mofflow2s_240,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_241,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_238,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_243,mofflow2_raw,partial,unresolved,,False,3,"[""CCc1cc(ccc1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1OC)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_244,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_245,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_246,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_247,mofflow2_raw,partial,unresolved,,False,3,"[""CCCc1cc(cc(c1C(=O)[O-])F)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1cc(F)c(c(c1)CCC)C(=O)[O-]""]"
+mofflow2s_252,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_253,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_254,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_249,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_250,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc2c3c4c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)c4ccc3c1c3c2ccc2c3c(c(c1)O[CH2])C(=O)N(C2=O)c1ccc(cc1)C(=O)[O-]""]"
+mofflow2s_256,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_258,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_248,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_251,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_260,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_255,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_262,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_257,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_259,mofflow2_raw,partial,unresolved,,False,1,"[""[O]O[C]=O""]"
+mofflow2s_263,mofflow2_raw,partial,unresolved,,False,1,"[""CNc1cc(cc2c1ccc1=C([C]=CC=c21)C(=O)[O-])C(=O)[O-].[OH]""]"
+mofflow2s_261,mofflow2_raw,partial,unresolved,,True,1,[]
+mofflow2s_264,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(c1)c1C=[C]c3c(-c1cc2)cc(cc3)[C]1OOC(O1)([O])c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]"", ""[O]OC(=O)C1=CC[C]C=Cc2c([C]=C1)ccc1c2cc(cc1)C(=O)[O-]""]"
+mofflow2s_265,mofflow2_raw,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_266,mofflow2_raw,partial,unresolved,,False,1,"[""[V]1[O][V]O1.[C][C][C][CH]C=C[C]=C[C]([C]([C][C]([C]([C](OC1C=C2C3C(C(=C[C]2c2c1c1cc(ccc1cc2)C(=O)[O-])C(=O)[O-])C1C3C(=Cc2c1ccc1c2ccc2c1cc(cc2)C(=O)O[O])C(=O)[O-])O)[CH]C(=C[CH][C]([C][CH]C=C(C(=O)[O-])[CH2])[CH])[C])[CH][C][CH])[O])O""]"
+mofflow2s_267,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_272,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_273,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_269,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_268,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)C1=C2C=Cc3c(C2([CH]C=C1)OC(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-])cc(cc3)C(=O)[O-]""]"
+mofflow2s_275,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_270,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_271,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_280,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_274,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_281,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_276,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(OOC(=O)c1c2[CH]C3C=Cc2c(c2c1cc(C3[O])cc2)C(=O)[O-])C=CC(=O)[O-]""]"
+mofflow2s_277,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-].[O]""]"
+mofflow2s_278,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_283,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_279,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_284,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_286,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_282,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)c1cc(O)c(cc1C)N1C(=O)c2ccc3c4c2c(C1=O)c(O)cc4c1c2c3cc(O)c3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1O)C)C(=O)[O-]""]"
+mofflow2s_289,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_287,mofflow2_raw,partial,unresolved,,False,2,"[""[O]O[C]O[O]"", ""[O][C]([CH]C=C(C1=CC=C(C=[C]1)C1=[C]C(=CC(=C1)C(=O)[O-])O)O)[CH][C]=C(C(=O)[O-])[CH]C(=[C][C]1C2C1[CH]2)C1=CC=c2c(=[C]1)c(O)c(cc2O)C(=O)[O-]""]"
+mofflow2s_288,mofflow2_raw,partial,unresolved,,False,2,"[""[CH2][C]=[CH].[O]"", ""[C][CH]c1ccc2c(c1[CH])ccc1c2cc(cc1)C(=O)[O-].[C]O""]"
+mofflow2s_294,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_290,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_292,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_296,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_293,mofflow2_raw,partial,unresolved,,False,3,"[""[O]O[C]=O""]"
+mofflow2s_291,mofflow2_raw,partial,unresolved,,False,2,"[""[O]O[C][C]1C=CC2=CC3C45[C]6C72C1C12[CH]C(=CC(=O)C1=C[CH]C18C72[CH]C3C25C8(C61)C([CH])C13[C]5C4([CH])C2[C]1C35[CH2])C(=O)[O-].[OH]""]"
+mofflow2s_285,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""O=C(OOC(=O)c1c(c(c(c(c1S([O])(O)[O])S([O])(O)[O])C(=O)[O-])S(O)([O])[O])S(O)([O])[O])C#CC(=O)[O-]""]"
+mofflow2s_302,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_297,mofflow2_raw,partial,unresolved,,False,1,"[""[V]O[V]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_295,mofflow2_raw,partial,unresolved,,False,1,"[""[O][V]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C12[O]3[V]451([O]12[O]24[O]51[C]2[O])O3""]"
+mofflow2s_298,mofflow2_raw,partial,unresolved,,False,3,"[""COc1ccc2c(c1)c(C(=O)OOO[C](c1cc([CH])c3c(c1)ccc1=CC(=C[C]=c31)C(=O)[O-])O[O])c1c(c2C(=O)[O-])cccc1"", ""[O-]C(=O)C1=Cc2c([C]=C1)c1c([CH])cc(cc1cc2[O])C(=O)[O-]"", ""[O]c1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])cccc1""]"
+mofflow2s_299,mofflow2_raw,partial,unresolved,,False,3,"[""[N][N]""]"
+mofflow2s_305,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_301,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_303,mofflow2_raw,partial,unresolved,,False,3,"[""[CH2]COC1=C2C(=O)N(c3ccc(cc3)C(=O)[O-])C(=O)C(=C[CH2])C2=[C]C(=C1)C1=CC[C]2C3=C1[C]=CC(=C3C(=O)N(C2=O)c1ccc(cc1)C(=O)[O-])O[CH]""]"
+mofflow2s_308,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_304,mofflow2_raw,partial,unresolved,,False,1,"[""COC1=C2[CH]C=C(C3[C]2C24C(=C1)C15C6C78C2C2(C95[C]6[CH]C9C5C69C1[O]156([C]9)C56[V]9%10%111([O]5[O]9[O])[OH]6([O]1%11[O]%10[C]1[O])C([C]1[C]C1[CH])[C])C8([CH]O2)C(=C[C]1C47[CH]C(=C2C31[CH][C](C=C2)OC(=O)[O-])OC)[O])[C]=O""]"
+mofflow2s_311,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_306,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_307,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)C1=Cc2c(C=[C]1)ccc1c2cccc1C(=O)[O-].O=[C]OOC(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)OO""]"
+mofflow2s_300,mofflow2_raw,partial,unresolved,,False,3,"[""CCO[C]=C1C(=O)N(c2ccc(cc2)C(=O)[O-])C(=O)c2c1c1[C]C(=O)N(C(=O)c1c(c2)O[CH2])c1ccc(cc1)C(=O)[O-]""]"
+mofflow2s_310,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_309,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(cc1O)N1C(=O)c2ccc3c4c2c(C1=O)c(N)cc4c1c2c3cc(N)c3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)O)C(=O)[O-]""]"
+mofflow2s_317,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_312,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_318,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_319,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_314,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_315,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_316,mofflow2_raw,partial,unresolved,,False,1,"[""[CH]O[C][C]1N(C2=CC=C(C=[C]2)C(=O)[O-])C(=O)[C]2C34C5([C]1C(=C[CH][NH])c1ccc6c7c1c5ccc7C(=O)N(C6=O)C1=C(N)[C]=C(C=C1)C(=O)O[V])[C]3C4=C(C=C2)c1ccc2c3c1[C]=CC=C3C(=O)N(C2=O)c1ccc(cc1N)C(=O)O""]"
+mofflow2s_321,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_313,mofflow2_raw,partial,unresolved,,False,1,"[""[C]C=CC1=CC=C(C=[C]1)[C]C(=O)[O-]""]"
+mofflow2s_323,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_325,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_324,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_327,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_320,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)C(=CC[C])[CH]""]"
+mofflow2s_322,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_331,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_332,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_330,mofflow2_raw,partial,unresolved,,False,4,"[""[O]O[C](c1ccc(c2c1CC2)C(=O)[O-])O[O]""]"
+mofflow2s_328,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)c1ccc(cc1C)N1C(=O)c2ccc3c4c2c(C1=O)cc(c4c1c2c3c(O)cc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)C)C(=O)[O-])O""]"
+mofflow2s_333,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_334,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_335,mofflow2_raw,partial,unresolved,,False,2,"[""COC1=C2[CH]C=C3C(C2=[C]C(=C1)c1cc(ccc1[CH])C(=O)[O-])[O](C(=O)C1=CC=C(C(=[C]1)[CH2])C(=O)[O-])[V]124C3([O]1[O])[O]2O4""]"
+mofflow2s_326,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)c1ccc(c2c1cccc2)[C]1OO[C](OO1)c1ccc(c2c1cccc2)C(=O)[O-]""]"
+mofflow2s_329,mofflow2_raw,partial,unresolved,,False,3,"[""OC(=O)c1ccc(cc1C1=[C]C=CC=C1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-]""]"
+mofflow2s_336,mofflow2_raw,partial,unresolved,,False,1,"[""[O][V]OC(=O)c1ccc2c(c1)c1cc3O[CH]COc4cc(C5(OOC(=O)c(c1cc2)c3)O[O]5[V])c1c(c4)c2cc(ccc2cc1)C(=O)[O-]""]"
+mofflow2s_337,mofflow2_raw,partial,unresolved,,False,2,"[""O=[C]OC1[C]([C]=CC=C1C(=O)[O-])C(=[CH])C(=[CH])[C]C=[C]C(=O)[O-].[C].[OH]"", ""[O]OC(=O)C(=[CH])C=C(c1ccc2c(c1[CH])cc(cc2)C(=O)[O-])[C]""]"
+mofflow2s_344,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_338,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)C(=[CH])[CH]C1=c2ccc3c(c2=CC=[C]1)cc(cc3S(OC1[CH]c2ccc3c(c2C=C1C(=O)[O-])ccc1c3cc(cc1[S]([O])[O])C(=O)[O-])([O])O)C(=O)[O-]"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_339,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_340,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_346,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_342,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)c1ccc(c2c1CC2)C(=O)OOOC(=O)c1ccc(c2c1CC2)C(=O)O[V]O[V][O]""]"
+mofflow2s_343,mofflow2_raw,partial,unresolved,,False,4,"[""[O-]C(=O)c1c([CH])c(C(=[CH])O)c(c2c1cccc2)C(=O)[O-]"", ""[O]OC(=O)c1cc2ccc3c4c2c(c1O)ccc4cc(c3)C(=O)[O-]""]"
+mofflow2s_341,mofflow2_raw,partial,unresolved,,False,1,"[""[O]O[C]=O""]"
+mofflow2s_348,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_345,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_352,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_347,mofflow2_raw,partial,unresolved,,False,3,"[""Fc1cc2C(=O)N(c3ccc(c(c3)S(O)([O])[O])C(=O)[O-])C(=O)c3c2c2c1c1ccc4c5c1c(c2cc3)c(cc5C(=O)N(C4=O)c1ccc(c(c1)S([O])(O)[O])C(=O)[O-])F""]"
+mofflow2s_349,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_351,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)C1=[C][C]=C(C=C1)C(=O)[O-]""]"
+mofflow2s_350,mofflow2_raw,partial,unresolved,,False,2,"[""CCOc1cc(ccc1C(=O)OOC(=O)C=CC(=O)[O-])N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)OCC)C(=O)[O-]""]"
+mofflow2s_357,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_353,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_359,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_355,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(cc1)N1C(=O)c2cc([O])c3c4c2c(C1=O)c([O])cc4C(=O)N(C3=O)c1ccc(cc1)C(=O)[O-]""]"
+mofflow2s_356,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_354,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_365,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_360,mofflow2_raw,partial,unresolved,,False,1,"[""[V]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_361,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_362,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_358,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_363,mofflow2_raw,partial,unresolved,,False,3,"[""O=Cc1cc2C(=O)N(c3ccc(cc3O)C(=O)[O-])C(=O)c3c2c2c1c1ccc4c5c1c(c2cc3)c(cc5C(=O)N(C4=O)c1ccc(cc1O)C(=O)[O-])C=O""]"
+mofflow2s_370,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_366,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_364,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""COc1cc2c(c(c1[CH])[CH][CH]C(=O)[O-])cc(c1c2cc(cc1)C(=O)[O-])O[CH2]""]"
+mofflow2s_367,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_373,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_368,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_369,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_374,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_377,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_371,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)C1=CC2OC(=O)[C]3C4C1[C]1C52C=CC26C71C1([CH]4)[C](C35)C32[CH]C=C2C45C8C96C6([CH]C7C1C6[C]39)[CH][CH]C5[C](C(=O)[O-])[O]13[O]5C2C2([C]48)[O]46[O]72([V]214O[O]2C67c1ccc2c(c1)c1ccc4c(c1cc2)cc(cc4)C(=O)[O-])[C]35""]"
+mofflow2s_372,mofflow2_raw,partial,unresolved,,False,1,"[""[O]OC(=O)c1cc2c(cc1O)ccc1c2ccc2c1cc(c(c2)[O])[C]1O[V]O[V]2[O]1[OH]2c1cc2ccc3c(c2cc1C(=O)[O-])ccc1c3cc(C(=O)[O-])c(c1)O""]"
+mofflow2s_378,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_379,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_376,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_375,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_380,mofflow2_raw,partial,unresolved,,False,3,"[""[CH2]Oc1cc2C(=O)N(c3ccc(cc3O)C(=O)[O-])C(=O)c3c2c2c1c1cc(O)c4c5=C(C=[C]c(c15)c2cc3O)C(=O)N(C4=O)c1ccc(cc1O)C(=O)[O-]""]"
+mofflow2s_383,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_382,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_384,mofflow2_raw,partial,unresolved,,False,1,"[""[CH]O[CH][C]1[C]C2(C1([C]1[CH][CH][C]([CH2])[C]([C]C[C])[C]3[CH]C([C]([C]1)[C]=O)[C]3)C1[C](C(=O)O)C3C4(C1[CH]2)[C]=CC1(C([C][C]4[C]3O)[O])OC1([O])[O])[C]C=[C]C(=O)[O-]""]"
+mofflow2s_385,mofflow2_raw,partial,unresolved,,False,3,"[""OC(=O)c1cc(ccc1C(=O)[O-])N1C(=O)C2=C3C(=[C]C=c4c3c(C=[C]2)c2=C[C]=C3C5=C([C]=Cc4c25)C(=O)N(C3=O)c2ccc(c(c2)C(=O)O)C(=O)[O-])C1=O""]"
+mofflow2s_381,mofflow2_raw,partial,unresolved,,False,2,"[""Cc1cc(C(=O)[O-])c2c(c1)c1[CH]C(=[C]C(c1cc2)C1(C=Cc2c([CH]1)c1cc(C)cc(c1cc2)C(=O)[O-])C(=O)O)C(=O)[O-]"", ""Cc1cc2C(=[C]C=Cc2c(c1)C12O[V]32([O]21C1([O]32[V](O1)[O])c1ccc2c(c1)c1=C[C]=CC(=c1cc2)C(=O)[O-])[O])[CH]C(=[CH])C(=O)[O-]""]"
+mofflow2s_389,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_386,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_387,mofflow2_raw,partial,unresolved,,True,1,[]
+mofflow2s_388,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_395,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_390,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_391,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_393,mofflow2_raw,partial,unresolved,,False,3,"[""[CH]C=C(C1=CC(=CC=[C]1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-])[C]=[CH].O[C]O.[C]""]"
+mofflow2s_392,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_394,mofflow2_raw,partial,unresolved,,False,2,"[""O=C[C]=C(C=C[C]c1cc(ccc1[CH])C(=O)[O-])CC"", ""[CH2]c1ccc2c(c1[C]1OO[C](OO1)c1c([CH2])ccc3c1ccc1=CC=[C]C=c31)ccc1c2cc(cc1)[C]1OOO[C]OO1""]"
+mofflow2s_396,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_397,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_402,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_398,mofflow2_raw,partial,unresolved,,False,3,"[""OC(=O)c1ccc(cc1C1=[C]C=CC=C1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-]""]"
+mofflow2s_403,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_399,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_400,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_401,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_407,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_409,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_404,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_406,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_410,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_408,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_414,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_405,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_415,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_412,mofflow2_raw,partial,unresolved,,False,2,"[""COc1cc(cc2c1ccc1c2ccc(c1C=[C]C12[O]3[V]42([O]1[O]4C(=O)C1=[C]C(=C(C=C1)C(=O)[O-])[CH2])O3)[CH])C(=O)[O-]"", ""COc1cc(cc2c1ccc1c2ccc2c1cc(cc2)C1OC1([C])O[C]1CCC1=C(C(=O)[O-])[CH])C(=O)[O-]""]"
+mofflow2s_411,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(-c3ccc4c5c3C([CH]2)C2[CH]c3c(C6=C[C]7[C](C5C7C=C26)C=C4)ccc2c3cc(cc2)C(=O)[O-])c1.[O]O[C][C]OOOC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C1(O[O])OO1""]"
+mofflow2s_417,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_413,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)[C]C1=C(CC1)[C]C(=O)O[V]O"", ""[O]OOC1(OO1)[C]c1ccc(c2c1CC2)C(=O)O[V][O].[O]""]"
+mofflow2s_423,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_419,mofflow2_raw,partial,unresolved,,False,1,"[""[O]O[C]([OH](c1cc(cc2c1ccc1c2ccc(c1C(=O)[O-])C)C(=O)[O-])[V][O])c1ccc2c(c1)c1ccc(c(c1cc2)C(=O)[O-])C""]"
+mofflow2s_416,mofflow2_raw,partial,unresolved,,False,1,"[""[O]N1OC([O])([O])c2ccc3c(c2)c2cc(cc(c2cc3)C(=O)[O-])N([O]23O[C](c4cc5c6cc1cc(C(=O)[O-])c6ccc5cc4)O[V]1O[V]3[O]21)[O]""]"
+mofflow2s_422,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_426,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_420,mofflow2_raw,partial,unresolved,,False,2,"[""[CH][CH][CH]C=C1[C]=CC(C=C1C(=O)[O-])C1[CH]c2c(cccc2-c2c1c([O])cc(c2)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_424,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(cc1O)N1C(=O)c2ccc3c4c2c(C1=O)c(N)cc4c1c2c3cc(N)c3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)O)C(=O)[O-]""]"
+mofflow2s_421,mofflow2_raw,partial,unresolved,,False,2,"[""CCCC12C=C3[C]4C=C(C=CC4C(C4[O]567[V]89%10%11%12[O]%13%14%151C28[O]9%15([C]%14)C(=O)C1([CH]C2=[C]C(=CC(=C2[CH2])C2=C([CH])CC=C([CH]2)C(=O)[O-])[CH2])[CH][C](C[C]6%11([C]35)[O]2%12[V](O[C]%13)(O%10)[O]2[C]47)[C]1C(=C=O)O)C1=[C]C=Cc2c1c1cc(CCC)c3c(c1cc2)cc(cc3)C(=O)[O-])C(=O)[O-]"", ""[O]O[C]=O""]"
+mofflow2s_428,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_425,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)c1ccc(cc1C1=CC=C[C]=C1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1S([O])(O)[O])C1=CC=C[C]=C1)C(=O)O""]"
+mofflow2s_418,mofflow2_raw,partial,unresolved,,False,4,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)O[O]"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2N)cc(cc3)C(=O)[O-]""]"
+mofflow2s_431,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_427,mofflow2_raw,partial,unresolved,,False,1,"[""O1[O]2[V]341C2(O3)O4""]"
+mofflow2s_434,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_430,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_432,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_433,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_429,mofflow2_raw,partial,unresolved,,False,2,"[""[O]O[C]C1(OO1)c1ccc2c(c1)C1(C(=C3[C]C45[CH]C1([CH]C=C4C=CC1(C([CH]3)([CH][CH]C[CH]C3=C1[C]=C(C=C3)C(=O)[O-])C(=O)O)[C]5)C(=O)[O-])C=C2)[C]1Cc2c3C=[C]C=Cc3ccc2C2=C(C1[CH])[C]=CC(=C2)C(=O)[O-].[O]""]"
+mofflow2s_435,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_436,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_437,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_439,mofflow2_raw,partial,unresolved,,False,1,"[""[O]OC(=O)c1ccc2=[C]C=c3c(=c2c1)cccc3[C]1[O]2O[C]([O]3[O]1[V]23)c1ccc2c(c1)c1c(O)ccc(c1cc2OC)C(=O)[O-]""]"
+mofflow2s_441,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_445,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_442,mofflow2_raw,partial,unresolved,,False,3,"[""[CH2]C=CC=[C]c1cc2c(c3c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)[C]3)c([CH])c1c(c2[CH])c([C])c(c(c1)C(=CC=C[CH][CH])[CH])C(=O)N(c1ccc(cc1)C(=O)[O-])[C]=O.[CH]""]"
+mofflow2s_438,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_440,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_443,mofflow2_raw,identified,no_match_in_processed_reference,,False,1,"[""O=C1[C][C]2C3C4=[C]c5c(C=C4)c4c(c([C]6C=C7C82[CH]C(O1)c1ccc(cc1C8[CH]O[CH]C37C=C6)C(=O)[O-])c5)ccc(c4)[C]123[O]4567[O]83[V]39%105([O]1([O]23[C]78%10[O]49)[O])C16C=CC2=CC=C3C4(C2=C1)O[C]([C]4[O])[CH]C1=C3C=[C]C=C1""]"
+mofflow2s_448,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_449,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_444,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[C][C]C(=C[CH2])C1=C([C]O)[C]=CC(=C1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-].[C]O""]"
+mofflow2s_452,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_453,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_447,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C12[O]345[O]61(C4(O6)c1ccc(c4c1CC4)C(=O)[O-])[V]15[O]23O1""]"
+mofflow2s_456,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_450,mofflow2_raw,partial,unresolved,,False,2,"[""COC1=CC2=[C]C(=C1)C(=O)OOC(=O)c1cc(OC)cc3c1ccc1c3cc([C]3[O]45[V]67C(C8=C[C][C](C(C2=C8)([O])C2C[C]8C92[C][C]=C(C=C9c2c([CH]8)c(O)cc(c2)C(=O)[O-])OC)[O])(O6)[O]47[V]5([O])O3)cc1O"", ""[O]OC(=O)c1cc(OC)cc2c1ccc1c2cc(cc1O)C(=O)[O-]""]"
+mofflow2s_451,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_446,mofflow2_raw,identified,no_match_in_processed_reference,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc(c2c1CC2)C1([O])OO1""]"
+mofflow2s_454,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_455,mofflow2_raw,partial,unresolved,,False,3,"[""[CH]Oc1cc2cc(cc3c2c2c1cc(cc2[C]C3[O])C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_457,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_461,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_462,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_458,mofflow2_raw,partial,unresolved,,False,1,"[""CCOC12C3C4C2(C25C1C16C78C93C4(OOC9=O)C7C21C1(C26[CH]C(=C[CH]C2=C[CH]8)C(=O)O[O])[CH]C(=C[CH]C1=C[CH]5)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_464,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_459,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_460,mofflow2_raw,partial,unresolved,,True,2,[]
+mofflow2s_471,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_463,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)[CH]C=C1OO[C]OOOO1""]"
+mofflow2s_465,mofflow2_raw,partial,unresolved,,False,2,"[""O=[V]OC(=O)C1=c2ccc3c(c2=CC(=[C]1)O[CH2])cc(cc3)C(=O)[O-]"", ""[CH2]Oc1cc(C(=O)[O-])c2c(c1)c1cc(ccc1cc2)C(=O)[O-]""]"
+mofflow2s_466,mofflow2_raw,partial,unresolved,,False,1,"[""[O][C][CH]c1ccc(cc1[C]C=CC1=[C]C=CC=C1)C(=O)[O-].[O]""]"
+mofflow2s_467,mofflow2_raw,partial,unresolved,,False,3,"[""[CH2]CC(=[C][CH])[C]1OC1([C]=O)C(=O)O[O].[O]O[C]=O""]"
+mofflow2s_468,mofflow2_raw,partial,unresolved,,False,1,"[""O[C]OO[C][C]=Cc1c([CH])ccc2c1ccc1c2cc(cc1)[C]1OO[C](OO1)[C]=C[C](C1=[C]C=C(C=C1)C=C[CH][C])C([C][CH]C1[C]C2[C]=[C]C(=C[C]2C2=CC=C3C([C]12)[C]C(C=C3)C(=O)O)C(=O)O[O])[C]""]"
+mofflow2s_469,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_472,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_476,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_470,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_474,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_473,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_475,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_477,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)[C]1[C]=C([CH2])C2=CC1OC(=O)c1ccc3c(c1)c1ccc4c(c1cc3)cc(C(=O)OOC2=O)cc4""]"
+mofflow2s_478,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)C1=C(C)[C]=c2c(=C1)c1ccc3c(c1cc2)cc(c(c3C)N)C(=O)[O-]"", ""[O]OC(=O)c1cc2c(c(c1N)C)ccc1c2ccc2c1cc(c(c2C)C)C(=O)[O-]""]"
+mofflow2s_479,mofflow2_raw,partial,unresolved,,False,3,"[""CNc1cc2c3ccc4c5c3c(c3c2c2c1C(=O)N(C1=[C]C=C(C=C1C1=CC=CC[CH]1)C(=O)[O-])C(=O)c2cc3)cc(c5C(=O)N(C4=O)c1ccc(cc1c1ccccc1)C(=O)[O-])NC""]"
+mofflow2s_482,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_480,mofflow2_raw,partial,unresolved,,False,2,"[""O1[O]2[V]31[O]1[C]2[O]31"", ""[C][CH][CH][CH]c1c(ccc2c1cc(cc2OC)C(=O)OC1C=C([CH]C2=[C]C(=CC=C12)C1=[C]C=CC(=C1)C(=O)OOC(=O)c1ccc2c(c1)[C]=C(C=C2)[C]1C2[C]3[C]=CC41[CH]C1C4[C]4C2(C=CC2(C34C[C]=C[C](O2)OC)[C][O])c2cc(cc(c12)OC)C(=O)[O-])C(=O)[O-])c1cc(OC)cc(c1)C(=O)O[O]""]"
+mofflow2s_481,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-])OOC(=O)[C]1C([V])C=Cc2c1ccc1c2cc(cc1)C([O])([O])[O]"", ""[O-]C(=O)C1=[C]C2[C]3C45C1C1C62[C]C=CC=C6C26C3[CH]C37C85C2(C41)C3[C]1C7(C=C[CH]8)[V]OC(=O)C1=C6""]"
+mofflow2s_487,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_483,mofflow2_raw,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S(O)([O])[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S(O)([O])[O])C(=O)[O-]""]"
+mofflow2s_484,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_485,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_489,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_491,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_492,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_490,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_488,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_495,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_494,mofflow2_raw,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S([O])([O])O)C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S([O])([O])O)C(=O)[O-]""]"
+mofflow2s_486,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc(ccc1C(=O)[O-])N1C(=O)c2ccc3c4c2c(C1=O)cc(c4c1c2c3c(O)cc3c2c(cc1)C(=O)N(C3=O)C1=C[C]=C(C(=C1)O[CH2])C(=O)[O-])O""]"
+mofflow2s_496,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(cc1)N1C(=O)C2=C3C(=[C]C=c4c3c(C=[C]2)c2cc3C([O])O[CH]c5cc4c2c2c3C(=O)N(C(=O)c52)c2ccc(cc2)C(=O)[O-])C1=O""]"
+mofflow2s_498,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_493,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_497,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""CCCOc1cc2c3c4c1C(=O)N(c1ccc(cc1)C(=O)ON[NH])C(=O)c4ccc3c1c3c2ccc2c3c(c(c1)OCCC)C(=O)N(C2=O)c1ccc(cc1)C(=O)[O-]""]"
+mofflow2s_499,mofflow2_raw,partial,unresolved,,False,1,"[""[O]O[C]=O""]"
+mofflow2s_500,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc2c(c1)c1ccc(c(c1cc2)C1([O])[O]2[O]1[V]2)N(=O)=O"", ""[O]OC(=O)C12C=Cc3c([CH]2)c2ccc(c(c2cc3)C(=O)[O-])N([O])OOC(=O)C2=C[C]3C45[N]6(C78C9C([C]%10c%11cc(C(=O)O1)ccc%11C=COC%10([C])[C]7C(=O)O)C9(C=C5)[C]C48[C]=CC3(O6)C=C2)[O]"", ""[O]ON=O""]"
+mofflow2s_501,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_502,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(c1)[CH]C1C([CH]2)(O1)C1([O])OO1.O=[C]C1=C[CH]C23[C]4C1C1([CH]C3[C]3C5(C64C=CC47C89[C]6C([CH]2)C3[CH]C29[C]5C4C3C7C4C(=C8)C(=O)OC5(C=C2C34C=C5)C(=O)[O-])[CH]1)C(=O)[O-]""]"
+mofflow2s_508,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_505,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_503,mofflow2_raw,partial,unresolved,,False,2,"[""[C][CH]C([CH]c1c([C]C=[C]C(=O)[O-])ccc2c1cc(cc2)[C]123[O]([V]451[O]162[O]34([O]51)C6([O])C=CC(=O)[O-])[O])[CH]"", ""[O-]C(=O)[C]C[CH]c1ccc2c(c1C[C]1C3[C]1[C]3OC(=O)[C]=CC(=O)[O-])[C]1OC(=O)C34C51C([CH]2)C3[CH]C1=C([C]4C5(O)[O])C2=CC=C3C4(C2(C=C1)O4)C=C(C=C3)C(=O)[O-]""]"
+mofflow2s_504,mofflow2_raw,identified,no_match_in_processed_reference,,False,1,"[""[O-]C(=O)c1cc2c(cc1[O])ccc1c2ccc2c1cc(c(c2)[O])C(=O)[O-]""]"
+mofflow2s_510,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_506,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_507,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_514,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_515,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_509,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_511,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc2[CH]CC3=[C]C(=CC=C3c2cc1C(=O)[O-])[CH]C(=[C]C(=O)[O-])O[CH]""]"
+mofflow2s_512,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_513,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1cccc2c1ccc1c2cc(cc1)C(=O)[O-]"", ""[O]O[C](c1ccc(c2c1CC2)C(=O)[O-])OOC(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-].[O]""]"
+mofflow2s_517,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_516,mofflow2_raw,partial,unresolved,,False,1,"[""[V]OC(=O)C1=CC2=C([C]=C1)C1[CH]c3c2ccc2c3cc(cc2)C(=O)OC2C=CC=C3C4(C5=C(C=C[C]C(C6C1[CH]c1ccc7c(c1[CH]6)ccc(c7[CH])[CH])([O])[C]5O)C(=C23)C(=O)[O-])OOC4=O""]"
+mofflow2s_521,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_522,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_518,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1c(NC)ccc2c1ccc1c2cc(cc1)C(=O)[O-]""]"
+mofflow2s_524,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_519,mofflow2_raw,partial,unresolved,,False,1,"[""[CH]OOC(=O)[C]=C(C=C([C]1C([CH][C]1C(=[CH])C(=O)OO[CH]c1cc2ccc3c(c2cc1[C]1OO[C](OO1)c1ccc2c(c1)cc(c(c2)C(=O)[O-])C=O)ccc1c3cc(cc1)C(=O)[O-])C([C]C=C[C]1C([C])C([C]=O)O[CH]c2c1cc(cc2)C(=O)[O-])[C]=[C])[CH])C=O""]"
+mofflow2s_526,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_520,mofflow2_raw,partial,unresolved,,False,2,"[""O=[V]OC1(O[V]1[O])c1ccc2c(c1)c1c(O)ccc(c1cc2)C(=O)[O-]""]"
+mofflow2s_523,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_531,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_530,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_525,mofflow2_raw,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2N(=O)=O)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)O[O]""]"
+mofflow2s_527,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_535,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_529,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_537,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_528,mofflow2_raw,partial,unresolved,,False,1,"[""[CH]=C[C]C(=O)OOC(=O)c1ccc2c(c1)c1[C]=CC=C(c1cc2[CH]OC(c1ccc2c(c1)c1cccc(c1cc2[CH]O)C(=O)[O-])([O])[O])C(=O)[O-]""]"
+mofflow2s_532,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_539,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_534,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_533,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_536,mofflow2_raw,partial,unresolved,,False,1,"[""O=[C]c1cc2c3cc(ccc3ccc2c2c1ccc(c2)C(=O)[O-])C12[O]3O[V]43[O]31([O]24[C]3[O])[O]""]"
+mofflow2s_538,mofflow2_raw,partial,unresolved,,False,2,"[""[O]O[C](c1c2ccccc2c(c2c1cccc2N)C(=O)[O-])OOC(=O)C1=C[C]=C2C(=C1)[C]=CC1=CC(=C[C]=C21)C(=O)[O-]""]"
+mofflow2s_540,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_542,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_547,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_543,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_545,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_544,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_546,mofflow2_raw,partial,unresolved,,False,3,"[""O=[C]c1ccc(c2c1CC2)C(=O)[O-].[O]OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3C)C(=O)[O-]""]"
+mofflow2s_541,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_548,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)O[O]""]"
+mofflow2s_550,mofflow2_raw,partial,unresolved,,False,2,"[""COc1cc2ccc3c(c2cc1C(=O)OC(c1ccc(c2c1CC2)C(=O)[O-])(OOOC(=O)c1ccc(c2c1CC2)C(=O)[O-])[O])ccc1c3cc(cc1)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(c(c3)OC)C(=O)[O-]""]"
+mofflow2s_551,mofflow2_raw,partial,unresolved,,False,1,"[""[CH2][CH]Oc1cc(cc2c1ccc1c2C=CC(=[C]1)[C](C(=O)O)C=[C][C]=O)C(=O)[O-].CC[CH]Oc1cc(cc2c1ccc1c2ccc(c1[CH][CH])[C]C(C1([CH]c2c([CH]O[O])ccc3c2C=CC2=C(C=C([CH]C32)C(=O)[O-])C(=O)O)O[C]1C(=O)O[O])[C])C1(OOC(=O)C2=Cc3c([C]=C2)ccc2c3ccc3c2cc(cc3C(=O)O)C(=O)[O-])OO1.[C][CH][O].[C].[OH]""]"
+mofflow2s_552,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_553,mofflow2_raw,partial,unresolved,,False,1,"[""[C]O[O]""]"
+mofflow2s_549,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_554,mofflow2_raw,partial,unresolved,,False,3,"[""COc1cc(ccc1C(=O)[O-])N1C(=O)c2cc(OC)c3c4c2c(C1=O)c([O])cc4C(=O)N(C3=O)c1ccc(c(c1)OC)C(=O)[O-]""]"
+mofflow2s_555,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(c1)c1cccc(c1cc2)[C]123[O]4[V]53([O]1[O]25)[O]4C(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-]"", ""[O]O[C](c1cccc2c1ccc1c2cc(cc1)C(=O)O[O])OOC(=O)c1ccc2c(c1)ccc(c2)C(=O)[O-]""]"
+mofflow2s_561,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_556,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_557,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(C12CCC(CC1)(CC2)C(=O)[O-])OOC(=O)C12CCC(CC1)(CC2)C(=O)[O-]"", ""[O-]C(=O)[C]1CC[C](CC1)C(=O)[O-]""]"
+mofflow2s_558,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_560,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_562,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_563,mofflow2_raw,partial,unresolved,,False,2,"[""O=N(=O)c1cc2ccc3c(c2cc1C(=O)OOC(=O)c1ccc(c2c1CC2)C(=O)[O-])ccc1c3cc(cc1)C(=O)[O-].[O]OC(=O)c1cc2c(cc1N(=O)=O)ccc1c2ccc2c1cc(cc2)C(=O)[O-]"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_565,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_569,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_564,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""COc1cc([CH])c(cc1C(=O)[O-])C1=[C]c2c(C=C1)cc(c(c2)C(=O)[O-])[O]""]"
+mofflow2s_567,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(c1ccc(c2c1CC2)C(=O)[O-])OO[C](c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_568,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)C1=[C]C(=C(C=[C]1)C(=O)[O-])[CH2]"", ""[O]OC(=O)c1cc2c(cc1O)ccc1c2ccc2c1cc(cc2)C(=O)[O-]""]"
+mofflow2s_566,mofflow2_raw,identified,no_match_in_processed_reference,,False,3,"[""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C1([O])OO1"", ""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)[C]1OO[C](OO1)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_559,mofflow2_raw,partial,unresolved,,False,2,"[""CCOc1cc2c3c4c1C(=O)N(c1ccc(c(c1)OCC)C(=O)OC(C=CC(=O)[O-])([O])[O])C(=O)c4ccc3c1c3c2ccc2c3c(c(c1)OCC)C(=O)N(C2=O)c1ccc(c(c1)OCC)C(=O)[O-]""]"
+mofflow2s_575,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_574,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_571,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_573,mofflow2_raw,partial,unresolved,,False,2,"[""O1OO1.O=[C]c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-].O=[C]C=C(C=CC(=O)[O-])OC"", ""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC1(OO1)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_570,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_572,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1ccc(cc1)C12O[V]2O1"", ""[O]O[C](OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])[O].[O][V]OC(=O)C1=CC=[C]C([CH]1)OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_576,mofflow2_raw,partial,unresolved,,False,3,"[""[O]O[C](c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_577,mofflow2_raw,partial,unresolved,,False,3,"[""OOS(c1cc2[C]3OOS(c4c(N3C(=O)c3c2c2c1c1ccc5c6c1c(c2cc3)c(cc6C(=O)N(C5=O)c1ccc(cc1S(O)([O])[O])C(=O)[O-])[S]([O])[O])ccc(c4)C(=O)[O-])(O)[O])(O)[O]""]"
+mofflow2s_578,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_579,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)O[O]""]"
+mofflow2s_583,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc(ccc1C(=O)[O-])N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)C1=CCC(=C([CH]1)O[CH2])C(=O)[O-]""]"
+mofflow2s_580,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_582,mofflow2_raw,partial,unresolved,,False,2,"[""[CH][CH]c1c([C]=CC(=[CH])C(=O)[O-])ccc(c1[O]12345[O]6[C]1[O]173[C]2[O]27[V]341O[V]56[O]23)C=O"", ""[O]OC(=O)C12[C]3C=CC45C67[C]3C38C9C1(O9)[C]1C92C(C19)C1[C]3C1[CH]C12C68C5C3C4C4[C](C71)[C]2C34C=O.[C]=O""]"
+mofflow2s_581,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[CH2]OC(=C(C(=O)[O-])O[CH2])C(=O)[O-]"", ""[CH2]OC(=[C]C(=O)[O-])[CH]C(=[CH])N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)C(=[CH])[CH]C(=[C]C(=O)[O-])O[CH2]""]"
+mofflow2s_587,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_584,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_585,mofflow2_raw,partial,unresolved,,False,3,"[""[O][S](c1c(ccc(c1[S]([O])[O])N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N1[C]3OOS2(c3c1ccc(c3S(OO2)(O)[O])C(=O)[O-])O)C(=O)[O-])[O]""]"
+mofflow2s_590,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_589,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_592,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_594,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_586,mofflow2_raw,partial,unresolved,,False,1,"[""[V]OC(=C[CH]C(=O)[O-])O[V]""]"
+mofflow2s_596,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_588,mofflow2_raw,partial,unresolved,,False,1,"[""[Ni]C1[N]N2C=C1c1ccc3c(c1)ccc(c3)[C]=CN1C([N]1([N])[N])[C]c1cc3ccc(C4[CH]N2N=C4)cc3cc1""]"
+mofflow2s_597,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_591,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1cc(N)cc2c1ccc1c2c(N)c(cc1)C(=O)[O-]""]"
+mofflow2s_598,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_595,mofflow2_raw,partial,unresolved,,False,2,[]
+mofflow2s_601,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_605,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_599,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_600,mofflow2_raw,partial,unresolved,,False,2,"[""[CH]=C[CH][C]1C(=O)OOC1([O])[C]([C][C]CC=C1C=CC([C]=[C][CH]C21[CH][C][C]2)C1([C]=C2OO[C]2O[O])[C]([C]1[C][CH2])[OH]([V][O])C)[O].[O]""]"
+mofflow2s_593,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_602,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)C1=C([CH2])[C]=C(C(=C1)O)C(=O)[O-]""]"
+mofflow2s_607,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_603,mofflow2_raw,partial,unresolved,,False,1,"[""[CH]C1=[C]C2=CC=[C]C(=C2C=C1)[C]1[O]2O[V]32[O]1O3""]"
+mofflow2s_606,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_613,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_610,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_604,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_612,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_608,mofflow2_raw,partial,unresolved,,False,1,"[""[O][V]O[C]C1(Cl)OC=[C][C](C23C41[C]2C12C54C4C1[CH]C16C4([CH]C4C75C2(C2(C5C3C5C72)Cl)C14C=C(C=[C]6)C(=O)[O-])C(=O)O)C(=O)[O-]""]"
+mofflow2s_615,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_619,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_618,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_620,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_614,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""O=c1ccc(=O)o[nH][nH]o1""]"
+mofflow2s_616,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_622,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_609,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(c1ccc(c2c1CC2)C(=O)[O-])OOOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_611,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(C=CC(=O)[O-])OOC(=O)c1ccc(cc1c1ccccc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1[S]([O])[O])C1=CC=CC=[C]1)C(=O)[O-]""]"
+mofflow2s_623,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_617,mofflow2_raw,partial,unresolved,,False,1,"[""[CH]C=C(C(=O)[O-])C=[C]C1=C(O)C=CC(=[C]1)[C]1OO[C]([O]2[O]1[V]2[O])C1=[C]C(=C(C=C1)O)C1=[C]C=CC(=C1)C(=O)[O-]""]"
+mofflow2s_628,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_621,mofflow2_raw,partial,unresolved,,False,1,"[""[O][C]1c2ccc3c(c2)c2c(cc3)C3=C(C4C2C2[CH]c5c6C1O[C]C=Cc6ccc5C(=C2[N+](O4)[O-])C(=O)[O-])N([O])[O]1[V]2([O](C3=O)[O]2C2(OO2)c2ccc3c(c2)c2ccc(c(c2cc3)C(=O)[O-])N(=O)=O)O1""]"
+mofflow2s_630,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_624,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_625,mofflow2_raw,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_626,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_627,mofflow2_raw,partial,unresolved,,False,1,"[""[CH2]CC1=C2C=CC3=[C]C2=CC(=[C]1)C(=O)OOC(=O)c1cc([C]=O)c2c(c1)c([CH])c([C]1[C]4[C](C[C][CH]3)C4[C](O)C(=C1)C(=O)[O-])cc2.[CH][CH]OCC1(C=[C][C]2[O]3O[VH]43[O]2O4)c2ccc3c(c2C(C1[C])(C[CH2])C1=[C]c2c(C=C1)c1cc(cc(c1cc2)C(=O)O)C(=O)[O-])ccc1c3cc(cc1C(=O)O)C(=O)[O-]""]"
+mofflow2s_637,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_631,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_629,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_632,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-])OOC(=O)c1cccc2c1ccc1c2cc(cc1)C(=O)[O-]"", ""[C]C=Cc1ccc2c(c1[CH])C(C=C[C]2C(=O)[O-])C1[CH]C2=[C]C=CC=C2c2c1ccc(c2)C(=O)[O-].[O]O[C][C]O[O].[O]""]"
+mofflow2s_638,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_633,mofflow2_raw,partial,unresolved,,False,3,"[""[C]O[O].[O]"", ""[O-][C]=O"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-].[O]O[C]C1([C]2[C]3C4(C56C1C2(O)[C](C12C35C3C([C]4)(C45C61C1(C2C([C]34)(C25C(=C1O)[CH]C(=[C][C]2)O)O)O)O)O)[C][CH])[C]1[C][C]=[C]C(=CC1(O)[C]O)O.[OH]""]"
+mofflow2s_635,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc(c2c1CC2)C(=O)[O-].[O]OC(c1ccc2c(c1)c1cc(O)c3c(c1cc2)cc(cc3)C(=O)[O-])(OC(=O)c1ccc(c2c1CC2)C(=O)[O-])[O]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2O)cc(cc3)C(=O)[O-]""]"
+mofflow2s_634,mofflow2_raw,partial,unresolved,,False,1,"[""O=Cc1cc2C(OC(=O)C#CC#CC(=O)[O-])[CH]c3c(-c2cc1C(=O)[O-])ccc1c3cc(C(=O)[O-])c(c1)C=O""]"
+mofflow2s_636,mofflow2_raw,partial,unresolved,,False,1,"[""[V]OC(=O)c1ccc(cc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1)C(=O)[O]1[O]2C1(O[V]2)C=CC(=O)[O-]""]"
+mofflow2s_642,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_639,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_640,mofflow2_raw,partial,unresolved,,False,3,"[""[C][CH]C=CC=C(C(=[C]C(=O)[O-])C=C(N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-])[CH2])[CH]""]"
+mofflow2s_646,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_641,mofflow2_raw,partial,unresolved,,False,2,"[""CCC(=CC(=O)[O-])C=CC1([O])OO1"", ""CCCOC(=CC1(OOC(=O)c2ccc3c(c2)c2ccc4c(c2cc3)cc(cc4)C(=O)O[V](=O)O[V])OO1)C=CC(=O)[O-]""]"
+mofflow2s_644,mofflow2_raw,partial,unresolved,,False,1,"[""[O]OC(=O)C(=[CH])[C]O[C][C]OC(C(=[CH])C(=O)[O-])[CH2]""]"
+mofflow2s_645,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)C=CC(O[N][NH])[O]""]"
+mofflow2s_647,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_643,mofflow2_raw,partial,unresolved,,False,2,"[""[CH]C1[CH]C2C3[C]2[C]([C][C][C]1[C])[C]1[C](C21[C]1C4([CH]3)C([C]1)C1(C4[CH][CH][C]1C2[CH])C(=O)[O-])[CH].[C][C]O.[O]"", ""[O-][C]=O""]"
+mofflow2s_653,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_648,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_649,mofflow2_raw,partial,unresolved,,False,3,"[""CCOc1cc(cc(c1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1c(N)cc(cc1[O])C(=O)[O-])NC)C(=O)[O-]""]"
+mofflow2s_651,mofflow2_raw,partial,unresolved,,False,1,"[""[O]O[C]=O""]"
+mofflow2s_652,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_654,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_655,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_659,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_656,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_650,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)[C]1OO[C](OO1)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]O[C](c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_657,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_660,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_661,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_666,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_662,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_669,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_658,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)O[O]""]"
+mofflow2s_663,mofflow2_raw,partial,unresolved,,False,3,"[""CO[C]c1cc(cc2c1c1[C]CC(=Cc1c(c2)[O])C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_664,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_665,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_671,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_667,mofflow2_raw,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S([O])(O)[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S([O])(O)[O])C(=O)[O-]""]"
+mofflow2s_674,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_673,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_668,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""COC(=C(C(=O)[O-])OC)C(=O)[O-].CO[N][N][O]""]"
+mofflow2s_676,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_670,mofflow2_raw,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(cc1S(O)([O])[O])N1C(=O)c2ccc3c4c2c(C1=O)c(Cl)cc4c1c2c3cc(Cl)c3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)S([O])([O])O)C(=O)[O-]""]"
+mofflow2s_675,mofflow2_raw,partial,unresolved,,False,1,"[""[C]O[CH]C(=CC(=O)OO[C][O])N""]"
+mofflow2s_681,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_682,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_678,mofflow2_raw,partial,unresolved,,False,3,"[""COc1cc(cc2c1ccc1c2ccc2c1C=[C]C=C2C(=O)O)C1([O])OO1"", ""[C]1OO[C]O1.[O]"", ""[O]O[C]=O""]"
+mofflow2s_679,mofflow2_raw,partial,unresolved,,True,1,[]
+mofflow2s_677,mofflow2_raw,partial,unresolved,,False,1,"[""[O][C]OO[C][O]""]"
+mofflow2s_672,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_680,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_689,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_683,mofflow2_raw,partial,unresolved,,False,1,"[""O=C1OOC(=O)c2cc3c(cc2N)ccc2c3cccc2C23[O]45(c6c7c(c8cc1c(N)cc8cc7)ccc6)[O]1[V]65([O]24O3)[C]1O6""]"
+mofflow2s_690,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_684,mofflow2_raw,partial,unresolved,,False,3,"[""COc1cc(c2c(c1C(=O)[O-])CC2)C12[O]3[V]42([O]1O4)O3"", ""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)[C]1[O]2[V]34567[O]81[O]4[O]58C7([O]23O6)c1cc([O])c(c2c1C[CH]2)C(=O)[O-]""]"
+mofflow2s_685,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_686,mofflow2_raw,partial,unresolved,,False,1,"[""[O-]C(=O)c1ccc2c(c1)c1cccc(c1cc2)[C]1[O]2[O]3[V]452[O]1[O]124[V]43[O]51C2(O4)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-]""]"
+mofflow2s_691,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_687,mofflow2_raw,partial,unresolved,,False,2,"[""O=C(OOC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])C=CC(=O)[O-]""]"
+mofflow2s_694,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_695,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_698,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_688,mofflow2_raw,partial,unresolved,,False,3,"[""O=C1OOC(=O)C2=CC(=[C]C=C2)c2ccc3c(c2[CH])cc(C2(OC(c4cc5c(c(C6=[C]C=CC1=C6)ccc5cc4)[CH])([O])O2)[O])cc3"", ""[O-]C(=O)[C]=[CH]"", ""[O][C]1[C]O[C][CH]C2=CC=C[CH][C]3[C]([C]1)[C]23.[OH]""]"
+mofflow2s_693,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_700,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_701,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_692,mofflow2_raw,partial,unresolved,,False,1,"[""Oc1c(cccc1C1(CC=CC=C1)C1=C[C]=C(C=C1[C]1C=NN=C1)c1ccccc1)C1=CC(=C(C2C1(C1=CN=N[CH]1)N1C=C([C]N21)C1=[C]C=CC(=[C]1)C1=CN=N[CH]1)C1=CC=C[C]=C1)C1=CN=N[CH]1""]"
+mofflow2s_697,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(c1)c1cccc(c1cc2)C12O[V]32[O]1O3"", ""[O]O[C](c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-])O[O]""]"
+mofflow2s_696,mofflow2_raw,partial,unresolved,,False,2,"[""COc1cc(C(=O)OOC(=O)c2cc(OC)cc3c2ccc2c3c(OC)c(cc2)C(=O)[O-])c2c(c1)c1c(cc2)ccc(c1OC)C(=O)[O-]"", ""[O]O[C]=O.[C]=O""]"
+mofflow2s_699,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_705,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_706,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_702,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_707,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_704,mofflow2_raw,partial,unresolved,,False,1,"[""[O][V][O](C(=O)c1ccc2c(c1)c1ccc(c(c1cc2)C(=O)[O-])C(=O)O)OC(=O)c1c(ccc2c1C=[C]C1(OC2=C[CH]C(=O)OOC(O)([O])c2ccc3c(c2C(=O)OC2(C(=[C]C=C[C][C][CH]1)C=C(C=C2)C(=O)[O-])[CH][CH])ccc1c3cc(cc1)C(=O)[O-])[C])C(=O)O""]"
+mofflow2s_709,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_703,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[CH]=C[C](c1cc(ccc1[C]=O)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)C1=C[C]=[C]C(=C1)C1=CC=[C]C[CH]1)C=[CH].O[C]=O.[C].[OH]""]"
+mofflow2s_710,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)[C]=C[C]c1ccc2c(c1)cc(cc2)OC(=O)[C]([O])[O].[O]""]"
+mofflow2s_708,mofflow2_raw,partial,unresolved,,False,1,"[""[O-][C]=O""]"
+mofflow2s_713,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_715,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_712,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_711,mofflow2_raw,partial,unresolved,,False,1,"[""CO[C]([C](C=CC(=O)OOC(=O)c1cc2c(cc1C=O)ccc1c2ccc2c1cc(c(c2)C=O)C(=O)[O-])N)[O]""]"
+mofflow2s_717,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_718,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_720,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_722,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_716,mofflow2_raw,partial,unresolved,,False,1,"[""[O]OC(=O)c1ccc2c(c1)c1ccc(c(c1cc2)[C]=O)OC""]"
+mofflow2s_714,mofflow2_raw,partial,unresolved,,False,1,"[""[O][V]OC(=O)c1ccc2c(c1)c1cc(O[CH2])cc(c1cc2)C(=O)[O-]""]"
+mofflow2s_719,mofflow2_raw,partial,unresolved,,False,3,"[""O[CH][CH]OC1=C([CH])C(=C[C]=C1C(=O)[O-])C(=O)[O-]"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_721,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[V]OOC(=O)c1ccc2c(c1)c1c(cc3c(c1cc2)cc(cc3)C(=O)[O-])[S]([O])[O]""]"
+mofflow2s_723,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_724,mofflow2_raw,partial,unresolved,,False,3,"[""[CH2]CC1=CC(=C[C]=C1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1C(=O)O)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_725,mofflow2_raw,partial,unresolved,,False,1,"[""OC(=O)[C]c1ccc2c(c1C(=[CH])O)cc(cc2)C(=O)[O-].[O-]C(=O)[C]C1=CC=C2C(=[C]1)C(OC(=O)c1ccc(c3-c4cc(ccc4C4C([CH]c13)(O)[CH]4)[C](OOC(=O)C1=[C]C=C(C(=[C]1)c1cc(ccc1[CH])C(=O)[O-])O)[O])O)C(=C[CH]2)C(=O)[O-].[C]O.[O]""]"
+mofflow2s_726,mofflow2_raw,partial,unresolved,,False,1,[]
+mofflow2s_727,mofflow2_raw,partial,unresolved,,False,3,"[""O[C]N(C(=O)c1c(O[CH2])cc2c(c1[C])c([CH][CH])c1c(c2[CH])c2[C]C(=O)N(C(=O)c2c(c1)[O])c1ccc(cc1)C(=O)[O-])c1ccc(cc1)C(=O)[O-]""]"
+mofflow2s_730,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_728,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_731,mofflow2_raw,partial,unresolved,,False,1,"[""O=C(c1ccc2c(c1)ccc(c2)C(=O)[O-])OO[C]1OOC(=O)c2ccc3c(c2)c2c(C)ccc(c2cc3)C(=O)OOC(=O)c2c3c(c4cc1ccc4cc3)c(C)cc2.[O]""]"
+mofflow2s_732,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_734,mofflow2_raw,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2N(=O)=O)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_735,mofflow2_raw,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S(O)([O])[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S(O)([O])[O])C(=O)[O-]""]"
+mofflow2s_736,mofflow2_raw,partial,unresolved,,False,3,"[""O=[C]c1cc2C(=O)N(c3ccc(c(c3C(=O)O)N)C(=O)[O-])C(=O)c3c2c2c1c1cc(N)c4c5c1c(c2cc3N)c(cc5C(=O)N(C4=O)c1ccc(c(c1C(=O)O)N)C(=O)[O-])C(=O)O""]"
+mofflow2s_729,mofflow2_raw,partial,unresolved,,False,2,"[""[CH]C=CC=[C]c1c(ccc2c1[C]C([CH]C=[CH])O[C]1N2C(=O)c2ccc3c4c2c1ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)c1ccccc1)C(=O)OOC(=O)C=CC(=O)[O-])C(=O)[O-]""]"
+mofflow2s_740,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_737,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)C(=CC=[C]C(=O)[O-])[C]O[C]"", ""[O]O[C](c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OOC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_738,mofflow2_raw,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(-c3ccc4c(c3C[CH]2)cc(cc4)C(=O)[O-])c1"", ""[O]OC(=O)c1ccc2c(c1)[C]=C(C=C2)[C]C=C(C(=O)[O-])C=C[C]1[C]2C1C1C(=C3C(C2[C])C=CC(=C3)C(=O)[O-])C=Cc2c1cc(cc2)C(=O)OOC(=O)c1ccc2c(c1)c1C=[C]c3c(-c1cc2)cc(cc3)C(=O)[O-].[O]""]"
+mofflow2s_733,mofflow2_raw,partial,unresolved,,False,2,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_745,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_741,mofflow2_raw,partial,unresolved,,False,3,"[""[O]OC(=O)c1ccc(c2c1CC2)C(=O)[O-]"", ""[O]O[C](c1ccc(c2c1CC2)C(=O)[O-])OOC(=O)c1cc2c3ccc4c(c3ccc2c(c1)N(=O)=O)cc(cc4)C(=O)[O-]""]"
+mofflow2s_746,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_739,mofflow2_raw,identified,no_match_in_processed_reference,,False,3,"[""O=Cc1cc(cc(c1N1C(=O)c2ccc3c4c2c(C1=O)ccc4C(=O)N(C3=O)c1ccc(cc1)C(=O)[O-])c1ccccc1)C(=O)[O-]""]"
+mofflow2s_742,mofflow2_raw,partial,unresolved,,True,3,[]
+mofflow2s_747,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_743,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_748,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_753,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_751,mofflow2_raw,partial,unresolved,,False,0,[]
+mofflow2s_744,mofflow2_raw,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)c1ccc(c2c1CC2S(=O)[O])C(=O)[O-]""]"
+mofflow2s_750,mofflow2_raw,partial,unresolved,,False,3,[]
+mofflow2s_752,mofflow2_raw,partial,unresolved,,False,3,"[""O=C[C]1C(=O)OOC=C1C(=O)[O-]""]"
+mofflow2s_001,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_000,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_002,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_749,mofflow2_raw,partial,unresolved,,False,3,"[""OOC(=O)c1ccc(c(c1[S]([O])[O])[S]([O])[O])N1C(=O)c2ccc3c4c2c([C]1OO)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1S([O])(O)[O])S(O)([O])[O])C(=O)[O-]""]"
+mofflow2s_003,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_004,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""CCOc1cc2c3c4c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)c4cc(c3c1c3c2c([NH2]C)cc2c3c(c(c1)OCC)C(=O)N(C2=O)c1ccc(cc1)C(=O)[O-])N[CH2]""]"
+mofflow2s_005,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_006,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(c1)[C]1C3C4[CH]c5c([C]6C7C2C2C1=C1[C]8C3C3[C]([C]46)[C](C72)C2C1C1([CH]C8C3(C(=O)[O-])C21)C(=O)[O-])cc(cc5)C(=O)[O-]""]"
+mofflow2s_009,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_013,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_014,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_007,mofflow2_relaxed_valid,partial,unresolved,,False,1,"[""[V]O[V]1([O])O[C](O1)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-]""]"
+mofflow2s_012,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_016,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_021,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_022,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_023,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=Cc1cc2C(=O)N(c3ccc(cc3O)C(=O)[O-])C(=O)c3c2c2c1c1ccc4c5c1c(c2cc3)c(cc5C(=O)N(C4=O)c1ccc(cc1O)C(=O)[O-])C=O"", ""[NH][NH]""]"
+mofflow2s_024,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_015,mofflow2_relaxed_valid,identified,matched,164312;193742;239050,True,2,[]
+mofflow2s_025,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_019,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CC[NH](c1ccc2c(c1C(=O)[O-])ccc1c2cc(cc1)C(=O)[O-])[O]""]"
+mofflow2s_029,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[N][C][N][N][C][N]""]"
+mofflow2s_033,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_028,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_034,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_038,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_039,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCOc1cc2C(=O)N(c3ccc(c(c3OC)NC)C(=O)[O-])C(=O)c3c2c2c1C(=O)N(c1ccc(c(c1OC)NC)C(=O)[O-])C(=O)c2cc3OCC"", ""[NH][NH]""]"
+mofflow2s_042,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OC1[CH][C](C(=O)[O-])C2=C([C]1C(=O)[O-])CC2""]"
+mofflow2s_044,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_047,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=Cc1cc2c3c4c1C(=O)N(c1ccc(c(c1)c1ccccc1)C(=O)[O-])C(=O)c4ccc3c1c3c2ccc2c3c(c(c1)C=O)C(=O)N(C2=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-]"", ""[NH][NH]""]"
+mofflow2s_045,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_048,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_041,mofflow2_relaxed_valid,identified,matched,164312;193742;239050,True,2,[]
+mofflow2s_049,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_050,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_051,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""O=Cc1cc2c3c4c1C(=O)N(c1ccc(c(c1)C1=CC=CC=[C]1)C(=O)O)C(=O)c4ccc3c1c3c2ccc2c3c(c(c1)C=O)C(=O)N(C2=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-]""]"
+mofflow2s_054,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_059,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_058,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_060,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_056,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)c1cc2ccc3c4c2c(c1S([O])([O])O)ccc4cc(c3S([O])([O])O)C(=O)[O-]""]"
+mofflow2s_057,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_055,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[NH]NOC(=O)c1cc(O)c2c(c1)c1ccc3c(c1cc2)c(O)c(cc3C=O)C(=O)[O-]""]"
+mofflow2s_062,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CC[N][N]C""]"
+mofflow2s_064,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_069,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""COc1cc2c3cc(ccc3ccc2c2c1ccc(c2)C(=O)[O-])C(=O)OC1[CH]C(=C2C(=C1C(=O)[O-])CC2)C(=O)[O-]""]"
+mofflow2s_061,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_071,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_072,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_078,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)[CH][CH]C(=O)[O-]"", ""[O-]C(=O)c1ccc(cc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)C1=C[CH][C](C2C1O2)C(=O)[O-]""]"
+mofflow2s_084,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_068,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""CCCc1ccc2c(c1C([O])([O])[O])ccc1c2cc(cc1)C(=O)[O-]""]"
+mofflow2s_085,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_086,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_088,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_089,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_090,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_093,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCCO[C]1C([O])[C]([CH]c2c1ccc1c2cccc1C(=O)[O-])C(=O)[O-]"", ""CCCO[C]1[CH]C(=CC23[C]1[CH]C1c4c3cccc4C(=O)OC34[C]5[C](C1(C(=O)O2)[CH][CH][CH]5)C=C[C]3C(=CC(=C4)C(=O)[O-])OCCC)C(=O)[O-]""]"
+mofflow2s_094,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_097,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_098,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S(O)([O])[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1S(O)([O])[O])S(O)([O])[O])C(=O)[O-]""]"
+mofflow2s_087,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""COC1=CC(c2c([CH]1)c1cc(ccc1cc2)C(=O)[O-])(OC(=O)c1ccc2c(c1)c1cc(OC)cc(c1cc2)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_100,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_096,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_107,mofflow2_relaxed_valid,partial,unresolved,,False,1,[]
+mofflow2s_106,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_105,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_110,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_104,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,True,2,[]
+mofflow2s_111,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CO[C]1c2ccc(cc2[C]2C(C1[CH][CH]C(=O)[O-])(OC(=O)[O-])[C]1C(=C[CH]2)C=CC2(C1O2)C(=O)[O-])C(=O)[O-]"", ""[O-]C(=O)[CH][CH]C(=O)[O-]""]"
+mofflow2s_112,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_115,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_116,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_121,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_122,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_123,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_127,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""O=[C]c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]""]"
+mofflow2s_117,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)c1ccc(cc1)N1C(=O)c2ccc3c4c2c(C1=O)cc(c4c1c2c3c(O)cc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1O)C(=O)[O-])O""]"
+mofflow2s_120,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_128,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_129,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_130,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_131,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_132,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_135,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_136,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_138,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_154,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_137,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_139,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_145,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_157,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_153,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_147,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_162,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_163,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_165,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_161,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""CCc1cc2C(=O)N(c3ccc(cc3)C(=O)[O-])C(=O)c3c2c2c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)c2cc3[CH2]""]"
+mofflow2s_169,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""COc1cc2c(c3c1C=CC([CH]3)C(=O)[O-])cc(c1c2cc(cc1)C(=O)[O-])O[CH2]""]"
+mofflow2s_173,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_175,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_181,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_178,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(c(c1)S([O])(O)[O])N1C(=O)c2ccc3c4c2c(C1=O)cc(c4c1c2c3c(cc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1S([O])([O])O)C(=O)[O-])S([O])([O])O)S([O])([O])O""]"
+mofflow2s_171,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""CCOc1cc(cc(c1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1c(OCC)cc(cc1OCC)C(=O)[O-])OC)C(=O)[O-]""]"
+mofflow2s_187,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_189,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_190,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""CO[C]([C](C(=O)[O-])OC)[CH][CH]C(=O)[O-]"", ""CO[C]1C2C3[CH]c4ccc5c(c4C=C3C(=O)OC1([CH]c1c2ccc2c1ccc1c2cc(cc1)C(=O)[O-])C(=O)[O-])ccc1c5cc(C(=O)[O-])c(c1)OC""]"
+mofflow2s_186,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_192,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCOc1cc2C(=O)N(c3ccc(cc3)C(=O)[O-])C(=O)c3c2c2c1c1cc(OCC)c4c5=C([CH]C(=O)c(c15)c2cc3OCC)C(=O)N(C4=O)c1ccc(cc1)C(=O)[O-]""]"
+mofflow2s_183,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)[C]1C2O[CH]C3(C2=O)c2c1ccc1c2cc(cc1)C1([O])OC2([CH]c4c5c(C3C=C[CH]5)ccc4[CH]C1O2)C(=O)[O-]""]"
+mofflow2s_196,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_193,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_197,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_198,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_203,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_205,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_206,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_209,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""OC(=O)C=CC(=O)O""]"
+mofflow2s_201,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""CCc1cc2[CH][C]([NH])c3c(-c2cc1C(=O)[O-])c(NC)cc1c3cc(C(=O)OC)c(c1)CC""]"
+mofflow2s_210,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]"", ""[O-]C(=O)c1ccc(cc1c1ccccc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1c1ccccc1)c1ccccc1)C(=O)[O-]""]"
+mofflow2s_214,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_212,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""O=Cc1cc(cc(c1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1c(O)cc(cc1O)C(=O)[O-])O)C(=O)[O-]""]"
+mofflow2s_228,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_215,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCOC1=C2C(=O)N(c3ccc(cc3)C(=O)[O-])C(=O)c3c2c2c4C1CCOc(c3)c2c(=O)n(c4O)c1ccc(cc1)C(=O)[O-]""]"
+mofflow2s_220,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(c2c1C[CH]2)C(=O)[O-]""]"
+mofflow2s_222,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)[CH]C1[CH][CH]C2O[C]([CH][C]3O[V]45([O]6[C]2[C](c2c1ccc(c2)C(=O)[O-])C=C[C]1[C]6[CH]C5(C(=O)O4)C=[C]1)O3)C(=O)[O-]""]"
+mofflow2s_223,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_227,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_232,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_233,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_238,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_230,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[N]NOC(=O)C=CC(=O)O""]"
+mofflow2s_235,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(c1)c1C(=COC=C(c1cc2)C(=O)[O-])O""]"
+mofflow2s_234,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_240,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_243,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCc1cc(ccc1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1OC)C(=O)[O-])C(=O)[O-]"", ""[NH][NH]""]"
+mofflow2s_241,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_246,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""O=C(C1=C[C]2OC3(C=C1)C(=O)[C]1C4C3C3c5c2cccc5C(=O)C2c5c(C13)c([CH]4)ccc5[C]([CH][CH]O2)C(=O)[O-])OC1(C=C[CH]c2c1ccc1c2cc(cc1)C(=O)[O-])C(=O)[O-]"", ""[O-]C(=O)c1cccc2c1ccc1c2[CH]C2(C([CH]1)O2)C(=O)[O-]""]"
+mofflow2s_247,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCCc1cc(cc(c1C(=O)[O-])F)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1cc(F)c(c(c1)CCC)C(=O)[O-]"", ""[NH][NH]""]"
+mofflow2s_245,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_250,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_248,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_249,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_254,mofflow2_relaxed_valid,partial,unresolved,,False,1,"[""[O][V]O[C]1O[V](C23C1([O])c1cc(C=O)cc4c1C1C3[C]3C(=CC5c6c3cc(cc6C(=O)OC3C6=C(C([C](C=C6C(=O)O5)C=O)[O])c5c([CH]3)ccc(c5)C(=O)[O-])C3OC5([CH][C]4[C]([CH]1)[CH]C35)C(=O)[O-])[CH][CH]2)([O])[O]""]"
+mofflow2s_257,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_251,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""O=C1N(c2ccc(c(c2)S(O)([O])[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S(O)([O])[O])C(=O)[O-]"", ""[O-]C(=O)[CH][CH]C(=O)[O-]""]"
+mofflow2s_261,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""O=C1Oc2ccc3c(c2)c2c(-c4cc(ccc4C4C2C2C56[C]7C=C(C(=O)O1)C1C8[CH]C9%10C%117C1C8(C=C%10c1c(C(C59)C6(C=C%11)c5c(C42)ccc(c5)C(=O)[O-])c2cc(ccc2cc1)C(=O)[O-])C(=O)[O-])C(=O)[O-])cc3""]"
+mofflow2s_255,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_263,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""CNc1cc(cc2c1ccc1c2ccc(c1C(=O)[O-])O)C(=O)[O-]""]"
+mofflow2s_267,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_265,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_275,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_271,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_273,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O[CH][C]1C(=O)OC(=O)[C]1C(=O)[O-]""]"
+mofflow2s_269,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_274,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S(O)([O])[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S(O)([O])[O])C(=O)[O-]"", ""[NH][NH]""]"
+mofflow2s_270,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_277,mofflow2_relaxed_valid,partial,unresolved,,False,1,[]
+mofflow2s_289,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_276,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,3,"[""[NH][NH]""]"
+mofflow2s_282,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)c1cc(O)c(cc1C)N1C(=O)c2ccc3c4c2c(C1=O)c(O)cc4c1c2c3cc(O)c3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1O)C)C(=O)[O-]""]"
+mofflow2s_290,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_279,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_291,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)C1=C[C]2c3ccc4c(c3[CH]C3[C]2C2(C1)O[C]([C]1[C]2[CH]c2c(C31)c1ccc3c(c1cc2)cc(cc3O)C(=O)[O-])O)cc(cc4)C(=O)[O-]""]"
+mofflow2s_285,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_278,mofflow2_relaxed_valid,identified,matched,164312;193742;239050,True,2,[]
+mofflow2s_292,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_296,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_293,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_295,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)C=[C]C=C3""]"
+mofflow2s_300,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_301,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_303,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_299,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_307,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""O=[C]C(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-]"", ""[O-]C(=O)c1ccc2c(c1)c1=CC=CO[C]=c1cc2""]"
+mofflow2s_309,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(cc1O)N1C(=O)c2ccc3c4c2c(C1=O)c(N)cc4c1c2c3cc(N)c3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)O)C(=O)[O-]""]"
+mofflow2s_312,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_306,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_318,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_319,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_314,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_315,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_329,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_322,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_328,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(cc1C)N1C(=O)c2ccc3c4c2c(C1=O)cc(c4c1c2c3c(O)cc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)C)C(=O)[O-])O""]"
+mofflow2s_330,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_323,mofflow2_relaxed_valid,partial,unresolved,,False,1,"[""O=[V]O[VH]C(c1cc(C(=O)OC2(CC)[CH][C](C(=O)[O-])c3c([CH]2)c2cc(ccc2cc3)C(=O)[O-])c2c(c1)C1=CC(=CC3C41C1C2C2C=C(C=C5C12C4C3c1c5cc(cc1C(=O)[O-])CC)C(=O)[O-])C(=O)[O-])C""]"
+mofflow2s_337,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_333,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""O=C1N(c2ccc(c(c2)S([O])(O)[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S([O])(O)[O])C(=O)[O-]""]"
+mofflow2s_342,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_326,mofflow2_relaxed_valid,identified,matched,115290;284797;51636,True,2,[]
+mofflow2s_335,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_338,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)c1cc(O)c2c(c1)c1ccc3c(c1cc2)cc(cc3S([O])(O)[O])C(=O)[O-]"", ""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3S(=O)=O)C(=O)[O-]""]"
+mofflow2s_343,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_340,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_345,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_347,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""Fc1cc2C(=O)N(c3ccc(c(c3)S(O)([O])[O])C(=O)[O-])C(=O)c3c2c2c1c1ccc4c5c1c(c2cc3)c(cc5C(=O)N(C4=O)c1ccc(c(c1)S(O)([O])[O])C(=O)[O-])F"", ""[NH][NH]""]"
+mofflow2s_349,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""Oc1cc(ccc1N1C(=O)c2ccc3c4c2c(C1=O)c(N)cc4c1c2c3cc(N)c3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1O)C(=O)[O-])C(=O)[O-]"", ""[NH][NH]""]"
+mofflow2s_350,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_354,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[NH][NH]""]"
+mofflow2s_355,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""C[CH]Oc1cc2C(=O)N(c3ccc(cc3)C(=O)[O-])C(=O)c3c2c2c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)c2cc3OC"", ""[NH][NH]""]"
+mofflow2s_356,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_359,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""COc1cc2ccc3c(c2cc1C(=O)[O-])ccc1c3cc(cc1)[C]1O[CH][C](O[C](C(=C([CH]1)C(=O)[O-])[CH2])[CH2])C(=O)[O-]""]"
+mofflow2s_353,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""O=C(c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-])OC1([CH]C=C2C3(C1O3)c1cccc(c1C=C2)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_358,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_363,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=Cc1cc2C(=O)N(c3ccc(cc3O)C(=O)[O-])C(=O)c3c2c2c1c1ccc4c5c1c(c2cc3)c(cc5C(=O)N(C4=O)c1ccc(cc1O)C(=O)[O-])C=O""]"
+mofflow2s_362,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_360,mofflow2_relaxed_valid,partial,unresolved,,False,1,[]
+mofflow2s_365,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""CCC1=C(C(=O)[O-])c2c(C([CH]1)[O])c1cc(ccc1cc2)C(=O)[O-]""]"
+mofflow2s_364,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""COc1cc2c(c3c1C=CC([CH]3)C(=O)[O-])cc(c1c2cc(cc1)C(=O)[O-])O[CH2]""]"
+mofflow2s_367,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_369,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_374,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_372,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""OC(=O)c1cc2c(cc1[O])ccc1c2ccc2c1cc(c(c2)[O])C(=O)O"", ""[O-]C(=O)c1cc2c(cc1O)ccc1c2ccc2c1cc(c(c2)[O])C(=O)[O-]""]"
+mofflow2s_375,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_380,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[CH2]COc1cc2C(=O)N(c3ccc(cc3O)C(=O)[O-])C(=O)c3c2c2c1c1cc(O)c4c5c1c(=[C]C=C5C(=O)N(C4=O)c1ccc(cc1O)C(=O)[O-])c2cc3O"", ""[NH][NH]""]"
+mofflow2s_368,mofflow2_relaxed_valid,identified,matched,164312;193742;239050,True,2,[]
+mofflow2s_381,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""Cc1cc(C(=O)OC(=O)c2ccc3c(c2)c2cc(C)cc(c2cc3)C(=O)[O-])c2c(c1)c1cc(ccc1cc2)C(=O)[O-]""]"
+mofflow2s_382,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_383,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_387,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_385,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""OCC(=O)c1cc2c3c4c1C(=O)N(c1ccc(c(c1)C(=O)O)C(=O)[O-])C(=O)c4ccc3c1c3c2cc([CH2])c2c3c(c(c1)[C](O)O)C(=O)N(C2=O)c1ccc(c(c1)C(=O)O)C(=O)[O-]"", ""[NH][NH]""]"
+mofflow2s_386,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_393,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[NH][NH]""]"
+mofflow2s_391,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_388,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_389,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)[CH][CH]C(=O)[O-]""]"
+mofflow2s_392,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_396,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_398,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""OC(=O)c1ccc(cc1C1=CC=CC=[C]1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-]""]"
+mofflow2s_399,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_401,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_404,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_408,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_405,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_412,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_400,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)[CH][CH]C(=O)[O-]""]"
+mofflow2s_410,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_406,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_409,mofflow2_relaxed_valid,partial,unresolved,,False,1,"[""O=CC1[C][C]([CH]C2[C][C]2C2O[CH]C(=C2)C(=O)[O-])[C]2C3([CH]1)OC1C3([O])C3C([CH]2)([CH]C13)C(=O)[O-]""]"
+mofflow2s_418,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_423,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=[C]c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_425,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""NNc1cccc(c1)c1cc(ccc1C(=O)[O-])N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1S(O)([O])[O])c1ccccc1)C(=O)[O-]""]"
+mofflow2s_432,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCOc1cc2c3c4c1C(=O)N(c1ccc(cc1OC)C(=O)[O-])C(=O)c4ccc3c1c3c2ccc2c3c(c(c1)OCC)C(=O)N(C2=O)c1ccc(cc1OC)C(=O)[O-]"", ""[NH][NH]""]"
+mofflow2s_422,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""O=CC1=[C]c2cc(cc3c2c2c1cc(cc2cc3[CH]O)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_424,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)c1ccc(cc1O)N1C(=O)c2ccc3c4c2c(C1=O)c(N)cc4c1c2c3cc(N)c3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)O)C(=O)[O-]""]"
+mofflow2s_430,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_435,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_416,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)C1=CC(ON(c2cc(C(=O)[O-])c3c(c2)c2cc(ccc2cc3)C(=O)[O-])[O])c2c([CH]1)c1cc(cc(c1cc2)C(=O)[O-])N(=O)=O""]"
+mofflow2s_433,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_438,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_436,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_441,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)c1cc(C)c2c(c1)c1c(C)cc3c(c1c(c2)C)c(C)c(cc3)C(=O)[O-]"", ""[O-]C(=O)c1cc(C)c2c(c1)c1c(C)cc3c(c1cc2)c(C)c(cc3)C(=O)[O-]""]"
+mofflow2s_437,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_440,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_446,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc(c2c1CC2)C([O])([O])[O]""]"
+mofflow2s_447,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_450,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""COc1cc(C(=O)[O-])c2c(c1)c1cc(cc(c1cc2)O)C(=O)[O-]"", ""COc1cc2c3c(-c4cc(cc(c4[CH]C3C3C4[C]2OC24O[C](O)C=C([CH][C]2c2c3c(cc(c2)OC)C(=O)[O-])C(=O)[O-])O)C(=O)[O-])c1"", ""[O]OC(=O)c1cc(OC)cc2c1ccc1c2cc(cc1O)C(=O)[O-]""]"
+mofflow2s_444,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[NH][NH2]C1=C[C]2C=CC1OC(=O)c1c2cc(cc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-]""]"
+mofflow2s_451,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_452,mofflow2_relaxed_valid,partial,unresolved,,False,1,"[""O=Cc1cc(cc2c1ccc1c2ccc2c1cc(cc2C=O)C(=O)O)C(=O)[O-]""]"
+mofflow2s_454,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_459,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_457,mofflow2_relaxed_valid,partial,unresolved,,False,1,"[""[O-]C(=O)[C]1[CH]C2C3c4c(cccc4-c4c(C3C2c2c1ccc1c2cc(cc1)C(=O)[O-])ccc(c4)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_463,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)[CH][CH]C(=O)[O-]"", ""[O-]C(=O)c1ccc(cc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)C1=C[C]2C(C=C1)(OC2(O)c1ccc(cc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_465,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""CCOC1(CCOc2cc(C(=O)[O-])c3c(c2)c2cc(ccc2cc3)C(=O)[O-])C[C](C(=O)[O-])c2c([C]1)c1[C]=C(C=Cc1cc2)C(=O)[O-]""]"
+mofflow2s_467,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)[C]1C=CC(=O)C2([C]1C[CH]O2)[C](c1ccc2c(c1)c1cc(N(=O)=O)c3c(c1cc2)cc(cc3)C(=O)O)C(=O)[O-]""]"
+mofflow2s_469,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_470,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_472,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_460,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_478,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)c1cc2c3ccc4c(c3ccc2c(c1C)C)cc(c(c4C)N)C(=O)[O-]""]"
+mofflow2s_482,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_480,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""COC(=O)C1C(=O)[C]2[CH]c3c(C4C2C([C]1C(=O)[O-])C1=[C]C=CC2=C1C4[CH]c1c2cc(cc1OC)C(=O)[O-])ccc1c3ccc2c1cc(cc2)C(=O)[O-]""]"
+mofflow2s_483,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S([O])(O)[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S([O])(O)[O])C(=O)[O-]"", ""[NH][NH]""]"
+mofflow2s_484,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_485,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_488,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_486,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""CCOc1cc(ccc1C(=O)[O-])N1C(=O)c2ccc3c4c2c(C1=O)cc(c4c1c2c3c(O)cc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)O[CH2])C(=O)[O-])O""]"
+mofflow2s_493,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_494,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C1N(c2ccc(c(c2)S([O])(O)[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S([O])(O)[O])C(=O)[O-]"", ""[NH][NH]""]"
+mofflow2s_496,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_497,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCCOc1cc2c3c4c1C(=O)N(c1ccc(cc1)C(=O)[O-])C(=O)c4ccc3c1c3c2ccc2c3c(c(c1)OCCC)C(=O)N(C2=O)c1ccc(cc1)C(=O)O"", ""[N]=N""]"
+mofflow2s_501,mofflow2_relaxed_valid,partial,unresolved,,False,1,[]
+mofflow2s_498,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_502,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OC1(C=Cc2c([CH]1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])C(=O)[O-]"", ""[O-]C(=O)c1ccc2c(c1)[CH]C1C([CH]2)(O1)C(=O)[O-]""]"
+mofflow2s_504,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)C=CC(=O)ON[NH]""]"
+mofflow2s_477,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])OC1[CH][C](C(=O)[O-])C2=C([C]1C(=O)[O-])CC2""]"
+mofflow2s_505,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_509,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]"", ""[O-]C(=O)c1ccc(cc1)N1C(=O)[C]2[CH][CH][C]3c4c2c(C1=O)c(cc4-c1c2c3cc(c3ccccc3)c3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1)C(=O)[O-])c1ccccc1""]"
+mofflow2s_512,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_507,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_513,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_523,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_517,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_530,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""CO[C]1C=C(C(=O)[O-])[C]2C([C]1C(=O)[O-])(CC2)OC(=O)c1ccc2c(-c3ccc4c(c3C3C2C2[CH]c5c(C6=C2C3[CH]C(=C6)C(=O)[O-])ccc2c5cc(cc2)C(=O)[O-])cc(cc4)C(=O)[O-])c1""]"
+mofflow2s_525,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_506,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_518,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O]OC(=O)c1c(NC)ccc2c1ccc1c2cc(cc1)C(=O)[O-]""]"
+mofflow2s_527,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_532,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_529,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_534,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_536,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=CC(=CC(=O)[O-])[CH][CH]C(=O)[O-]""]"
+mofflow2s_535,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]"", ""[O-]C(=O)[CH][CH]C(=O)[O-]""]"
+mofflow2s_538,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_541,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_540,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_543,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_544,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_546,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_548,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)[C]1OCc2c(c(O1)cc(c2[CH2])C(=O)[O-])C(=O)O""]"
+mofflow2s_547,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""CCOc1cc(cc2c1ccc1c2ccc2c1cc(cc2OCC)C(=O)[O-])C(=O)O[O]""]"
+mofflow2s_554,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_556,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_549,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_552,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_559,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_558,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_555,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_562,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_563,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_550,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_560,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_564,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_569,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_565,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_566,mofflow2_relaxed_valid,partial,unresolved,,True,1,[]
+mofflow2s_573,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_570,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_576,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_571,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_574,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)O""]"
+mofflow2s_577,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""OOS(c1cc2[C]3OOS(c4c(N3C(=O)c3c2c2c1c1ccc5c6c1c(c2cc3)c(cc6C(=O)N(C5=O)c1ccc(cc1S([O])(O)[O])C(=O)[O-])[S]([O])[O])ccc(c4)C(=O)[O-])(O)[O])(O)[O]"", ""[NH][NH]""]"
+mofflow2s_567,mofflow2_relaxed_valid,identified,matched,164312;193742;239050,True,2,[]
+mofflow2s_578,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_579,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_580,mofflow2_relaxed_valid,partial,unresolved,,False,1,[]
+mofflow2s_581,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_584,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_591,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_585,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C1c2ccc3c4c2c(C(=O)N1c1ccc(c(c1[S]([O])[O])S([O])([O])[O])C(=O)[O-])ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1S([O])(O)[O])S([O])(O)[O])C(=O)[O-]""]"
+mofflow2s_595,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_608,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_593,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_611,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_599,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_602,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C(c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-])Cc1c(cc(c(c1[CH2])C(=O)[O-])O)C(=O)[O-]""]"
+mofflow2s_609,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=[C]c1ccc(c2c1CC2)C(=O)[O-]""]"
+mofflow2s_621,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_610,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_616,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_604,mofflow2_relaxed_valid,identified,matched,164312;193742;239050,True,2,[]
+mofflow2s_612,mofflow2_relaxed_valid,partial,unresolved,,False,1,[]
+mofflow2s_614,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)C=CC(=O)O""]"
+mofflow2s_625,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_629,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_631,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_645,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_626,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_634,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""O=Cc1cc2C(OC(=O)C#CC#CC(=O)[O-])[CH]c3c(-c2cc1C(=O)[O-])ccc1c3cc(C(=O)[O-])c(c1)C=O"", ""O=Cc1cc2ccc3c(c2cc1C(=O)O[C](C(=O)[O-])C#C[C]C(=O)[O-])ccc1c3cc(C(=O)[O-])c(c1)C=O""]"
+mofflow2s_635,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_641,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCCOC(=C[CH]C(=O)[O-])[CH]OC(=O)[O-]""]"
+mofflow2s_640,mofflow2_relaxed_valid,partial,unresolved,,False,3,[]
+mofflow2s_651,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_639,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_647,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_650,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_648,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_649,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""CCOc1cc(cc(c1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1c(N)cc(cc1OC(C)C)C(=O)[O-])NC)C(=O)[O-]""]"
+mofflow2s_652,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""COc1cc(OC(=O)[O-])c2c(c1)c1cc(ccc1cc2)C(=O)[O-]""]"
+mofflow2s_655,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_654,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""O=C1N(c2ccc(c(c2)S([O])(O)[O])C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S([O])(O)[O])C(=O)[O-]""]"
+mofflow2s_658,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_663,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_662,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[NH][NH]""]"
+mofflow2s_656,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_665,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_667,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_671,mofflow2_relaxed_valid,partial,unresolved,,True,1,[]
+mofflow2s_672,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_664,mofflow2_relaxed_valid,identified,matched,164312;193742;239050,True,2,[]
+mofflow2s_669,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""O=C1N(c2ccc(c(c2)S([O])([O])O)C(=O)[O-])C(=O)c2c3c1ccc1c3c(cc2)c2c3c1ccc1c3c(cc2)C(=O)N(C1=O)c1ccc(c(c1)S([O])([O])O)C(=O)[O-]""]"
+mofflow2s_679,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_670,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[O-]C(=O)c1ccc(cc1S(O)([O])[O])N1C(=O)c2ccc3c4c2c(C1=O)c(Cl)cc4c1c2c3cc(Cl)c3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)S([O])(O)[O])C(=O)[O-]""]"
+mofflow2s_680,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_681,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""COc1cc(C(=O)[O-])c2c(c1)c1cc(ccc1cc2C)C(=O)[O-]"", ""OCOC1=C(C)c2c3[C]([CH]1)C(=O)OC1[C](OC)C=C4C5(Cc3cc3c2C=C(C(=O)[O-])C2C3C3(C=CC(=CC5C)[C]4[CH]3)C(=O)O2)[C]1C(=O)[O-]""]"
+mofflow2s_682,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_684,mofflow2_relaxed_valid,partial,unresolved,,True,2,[]
+mofflow2s_685,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_687,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_686,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)[C]1[CH]c2ccc(cc2[CH]C1OC(=O)c1ccc2c(c1)c1cccc(c1cc2)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_694,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""CCc1cc2c(c3c1ccc(c3)C(=O)[O-])cc(c1c2cc(cc1)C(=O)O)CC""]"
+mofflow2s_693,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_705,mofflow2_relaxed_valid,partial,unresolved,,False,0,[]
+mofflow2s_702,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_703,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C1OC2C=C[C](c3c1ccc(c3)N1C(=O)c3ccc4c5c3c(C1=O)ccc5c1c3c4ccc4c3c(cc1)C(=O)N(C4=O)c1ccc(c(c1)c1ccccc1)C(=O)[O-])C=C2""]"
+mofflow2s_699,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_707,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_704,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)C1=CC2OC(=O)c3c4ccc5c(c4ccc3C(O)([O])OC(C3=CC46C(=O)C7(c8c(c([CH]1)c2cc8)C=C[C]7C(=O)O)C([CH]3)[C](C=Cc1c6ccc(c1C(=O)[O-])C(=O)[O-])O4)([O])[O])cc(cc5)C(=O)O""]"
+mofflow2s_712,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_716,mofflow2_relaxed_valid,partial,unresolved,,False,1,[]
+mofflow2s_718,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_721,mofflow2_relaxed_valid,partial,unresolved,,False,4,"[""[O-]C(=O)c1ccc(c2c1CC2)C(=O)O"", ""[O-]C(=O)c1ccc2c(c1)c1c(cc2)c2cc(ccc2cc1S([O])([O])[O])C(=O)[O-]""]"
+mofflow2s_713,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""O=C(c1ccc(cc1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1)C(=O)[O-])OC1[CH]C(=CC=C1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1)C(=O)[O-])C(=O)[O-]"", ""O=[C][CH][CH]C(=O)[O-]""]"
+mofflow2s_723,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_726,mofflow2_relaxed_valid,partial,unresolved,,False,1,[]
+mofflow2s_724,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""[CH2]Cc1cc(ccc1N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(cc1C(=O)O)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_729,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[N]=N"", ""[O-]C(=O)c1ccc(c2c1[C]1C=CC=CC1C1C2=C[CH]C=C1)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1)c1ccccc1)C(=O)O""]"
+mofflow2s_731,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_728,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_733,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_730,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""O=C1OC([O])([O])C23C4[C]1[CH]c1c5cccc6c5ccc1C4C([CH]2)[CH]c1c3ccc2c1cc(cc2)C(=O)OC6=O"", ""O=[V]O[C]1O[V]2(C31C=CC2[C]1[C]3[CH]C(C2[CH]c3c(cccc3-c3c2ccc(c3)C(=O)[O-])C(=O)[O-])c2c1cc(cc2)C(=O)[O-])[O]""]"
+mofflow2s_732,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_734,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_735,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]""]"
+mofflow2s_739,mofflow2_relaxed_valid,partial,unresolved,,False,1,"[""[O-]C(=O)[CH][CH]C(=O)[O-]""]"
+mofflow2s_738,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""[O-]C(=O)c1ccc2c(-c3ccc4c(c3C3C2C2C3c3ccc(cc3-c3c2c2cc(ccc2cc3)C(=O)[O-])C(=O)[O-])cc(cc4)C(=O)[O-])c1""]"
+mofflow2s_741,mofflow2_relaxed_valid,partial,unresolved,,False,2,[]
+mofflow2s_736,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,"[""OC(=O)c1c(N)c(ccc1N1C(=O)c2cc(C(=O)O)c3c4c2c(C1=O)c(N)cc4c1c2c3cc(N)c3c2c(cc1C(=O)O)C(=O)N(C3=O)c1ccc(c(c1C(=O)O)N)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_742,mofflow2_relaxed_valid,partial,unresolved,,True,3,[]
+mofflow2s_743,mofflow2_relaxed_valid,partial,unresolved,,False,2,"[""O=C(c1ccc2c(c1)c1ccc3c(c1c(c2)Cl)cc(cc3)C(=O)[O-])OC12CC[C]1[C](C=C[C]2C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_748,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""O=C(c1ccc(c2c1CC2)C(=O)[O-])Oc1ccc2c(c1)c1c(N)ccc(c1cc2)C(=O)[O-]""]"
+mofflow2s_737,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""OC(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)[C]1C(=C)[C]([CH][CH][C](C1=O)C(=O)[O-])C(=O)[O-]""]"
+mofflow2s_749,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[NH][NH]"", ""[O-]C(=O)c1ccc(c(c1S(O)([O])[O])S([O])([O])O)N1C(=O)c2ccc3c4c2c(C1=O)ccc4c1c2c3ccc3c2c(cc1)C(=O)N(C3=O)c1ccc(c(c1S([O])([O])O)S([O])([O])O)C(=O)[O-]""]"
+mofflow2s_750,mofflow2_relaxed_valid,partial,unresolved,,False,3,"[""[N][C][N][N][C][N]""]"
+mofflow2s_752,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,2,[]
+mofflow2s_744,mofflow2_relaxed_valid,identified,no_match_in_processed_reference,,False,3,"[""Oc1cnc2c(n1)CC2""]"

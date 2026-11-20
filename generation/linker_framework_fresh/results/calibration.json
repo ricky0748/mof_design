@@ -1,0 +1,36 @@
+{
+  "control_BDC7": {
+    "status": "completed",
+    "geometry": true,
+    "converged": true,
+    "target_recovered": true,
+    "topology_identified": true,
+    "joint": true,
+    "topology": "pcu",
+    "mofid_status": "identified",
+    "reused_from": null,
+    "seconds": 28.02,
+    "steps": 6,
+    "dmin": 1.086550126075054,
+    "fragments": 1,
+    "volume_ratio": 1.0009236942662003,
+    "target_key": "O=C(O)c1ccc(C(=O)O)cc1"
+  },
+  "control_BDC19": {
+    "status": "completed",
+    "geometry": true,
+    "converged": true,
+    "target_recovered": true,
+    "topology_identified": true,
+    "joint": true,
+    "topology": "pcu",
+    "mofid_status": "identified",
+    "reused_from": null,
+    "seconds": 39.9,
+    "steps": 6,
+    "dmin": 1.086782305226391,
+    "fragments": 1,
+    "volume_ratio": 1.0009299505195353,
+    "target_key": "O=C(O)c1ccc(C(=O)O)cc1"
+  }
+}

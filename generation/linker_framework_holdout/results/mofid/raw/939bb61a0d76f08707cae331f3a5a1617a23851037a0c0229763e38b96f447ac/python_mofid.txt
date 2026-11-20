@@ -1,0 +1,1 @@
+CNc1cc2c(c3c1ccc(c3)C(=O)[O-])ccc1c2cc(cc1)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn] MOFid-v1.pcu.cat0.NO_REF;U_H02

@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "F01",
+    "smiles": "Nc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "sequence_index": 25,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F01_7.xyz",
+        "sha256": "f856ad1a15ff51133a7501e3ca0434c72f66d825d0601f72fd46efe5bbf0bc96",
+        "profile": {
+          "angles": [
+            28.255887146539322,
+            31.125074172172035,
+            177.05226218296497
+          ],
+          "span": 7.489811386810752
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F01_19.xyz",
+        "sha256": "e15fa0771845418ec9fd88b3418e57ae5a36d098c02a5403d09913f142f3d929",
+        "profile": {
+          "angles": [
+            26.801104201364733,
+            31.265234133287166,
+            174.54490924467552
+          ],
+          "span": 7.486054429404049
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 123.739,
+      "steps": 150,
+      "dmin": 0.526061377864794,
+      "fragments": 22,
+      "volume_ratio": 0.9733531460196884,
+      "target_key": "Nc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 35.485,
+      "steps": 28,
+      "dmin": 1.0088438394438035,
+      "fragments": 1,
+      "volume_ratio": 1.0008434604901164,
+      "target_key": "Nc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 46.011,
+      "steps": 32,
+      "dmin": 1.008910665350325,
+      "fragments": 1,
+      "volume_ratio": 1.0015668241680418,
+      "target_key": "Nc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    }
+  },
+  {
+    "id": "F02",
+    "smiles": "COc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12",
+    "sequence_index": 29,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F02_7.xyz",
+        "sha256": "7f9fbd2cfbdf43418c7233c0b9d024f6b47d09ec3f7ac6f12f338ced32d108e2",
+        "profile": {
+          "angles": [
+            27.91882134837228,
+            27.343309580570136,
+            179.32323458258455
+          ],
+          "span": 7.510008458051163
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F02_19.xyz",
+        "sha256": "efba2fddc1a983cb25835e8fad48021dda720bf310010436a793e92e9d0c081f",
+        "profile": {
+          "angles": [
+            31.65507648506672,
+            26.221604749619782,
+            174.1227078200783
+          ],
+          "span": 7.490521386392272
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 131.246,
+      "steps": 150,
+      "dmin": 0.319235074468611,
+      "fragments": 28,
+      "volume_ratio": 0.9676445345413163,
+      "target_key": "COc1cc2ccc(C(=O)O)cc2c2cccc(C(=O)O)c12"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 50.601,
+      "steps": 33,
+      "dmin": 1.085340276036852,
+      "fragments": 1,
+      "volume_ratio": 0.9984772654573595,
+      "target_key": "COc1cc2ccc(C(=O)O)cc2c2cccc(C(=O)O)c12"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 35.999,
+      "steps": 27,
+      "dmin": 1.087340127866263,
+      "fragments": 1,
+      "volume_ratio": 1.0027185424168903,
+      "target_key": "COc1cc2ccc(C(=O)O)cc2c2cccc(C(=O)O)c12"
+    }
+  },
+  {
+    "id": "F03",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1",
+    "sequence_index": 3,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F03_7.xyz",
+        "sha256": "62ec7228f9352f06242322013887a95e0afa52cd7a7a0d108e4824cda4127445",
+        "profile": {
+          "angles": [
+            31.21666649593243,
+            26.8932508136712,
+            175.3181299698216
+          ],
+          "span": 7.492800846812893
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F03_19.xyz",
+        "sha256": "5d82a47e80a46bbb9b288e7279e108a385079c0d9e5eb1d689cd9f96c5ca1db2",
+        "profile": {
+          "angles": [
+            31.08740543998203,
+            28.366998663984695,
+            176.65835123256232
+          ],
+          "span": 7.496231400510526
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 111.801,
+      "steps": 150,
+      "dmin": 0.10464035826171,
+      "fragments": 27,
+      "volume_ratio": 0.9876689083338838,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)cccc3c2c1"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 35.886,
+      "steps": 17,
+      "dmin": 1.0833943261301653,
+      "fragments": 1,
+      "volume_ratio": 1.0026995148764104,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)cccc3c2c1"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 35.654,
+      "steps": 28,
+      "dmin": 1.0846675611605086,
+      "fragments": 1,
+      "volume_ratio": 0.9998774379232712,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)cccc3c2c1"
+    }
+  },
+  {
+    "id": "F04",
+    "smiles": "COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OC)c3ccc21",
+    "sequence_index": 88,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F04_7.xyz",
+        "sha256": "02811f05350d234d78c92f48fd25af5c9e2687c919ec471a409ee3ce54ec382f",
+        "profile": {
+          "angles": [
+            28.121193626027495,
+            32.15998606456107,
+            175.96118143835824
+          ],
+          "span": 10.004871601375003
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F04_19.xyz",
+        "sha256": "dda4a3d9bac8e072949b12434a2e97b58d5494b7dae61be6f3173e44939e2dab",
+        "profile": {
+          "angles": [
+            28.387035302216148,
+            28.387865378175952,
+            179.9923176108914
+          ],
+          "span": 10.031197099548987
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 165.12,
+      "steps": 150,
+      "dmin": 0.13933531824584533,
+      "fragments": 41,
+      "volume_ratio": 0.9885289870196167,
+      "target_key": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OC)c3ccc21"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 34.824,
+      "steps": 17,
+      "dmin": 1.0850225256941963,
+      "fragments": 1,
+      "volume_ratio": 1.0016475407767138,
+      "target_key": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OC)c3ccc21"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 64.882,
+      "steps": 51,
+      "dmin": 1.0852164941506295,
+      "fragments": 1,
+      "volume_ratio": 1.0009780151464382,
+      "target_key": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OC)c3ccc21"
+    }
+  },
+  {
+    "id": "F05",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc([N+](=O)[O-])c3c2c1",
+    "sequence_index": 50,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F05_7.xyz",
+        "sha256": "df262097d066cd9fe31a052fea73b728d83dd031e6d9855eea68e272e63f410e",
+        "profile": {
+          "angles": [
+            29.57356874624923,
+            31.505841103082176,
+            171.00660313378017
+          ],
+          "span": 7.554169860414842
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F05_19.xyz",
+        "sha256": "70985595f9d7ce5020dcfb115b12eb4fc35bec86f7d28328262e06e9f4920dea",
+        "profile": {
+          "angles": [
+            29.571617715751906,
+            31.51131864269429,
+            171.0017832218992
+          ],
+          "span": 7.5541168305765565
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 120.794,
+      "steps": 150,
+      "dmin": 0.3595552096629093,
+      "fragments": 17,
+      "volume_ratio": 0.9780217178921686,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc([N+](=O)[O-])c3c2c1"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 61.014,
+      "steps": 62,
+      "dmin": 1.0805662491400858,
+      "fragments": 1,
+      "volume_ratio": 0.9750709615589592,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc([N+](=O)[O-])c3c2c1"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 50.689,
+      "steps": 53,
+      "dmin": 1.082815584133145,
+      "fragments": 1,
+      "volume_ratio": 0.9821966615311755,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc([N+](=O)[O-])c3c2c1"
+    }
+  },
+  {
+    "id": "F06",
+    "smiles": "COc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "sequence_index": 32,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F06_7.xyz",
+        "sha256": "87f697130df1f76bd0c89869011e833216b49bb6ac09786f790a1bf704a8852e",
+        "profile": {
+          "angles": [
+            27.02895364002549,
+            31.205164236682997,
+            175.48329840204713
+          ],
+          "span": 7.487631127399372
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F06_19.xyz",
+        "sha256": "236b84a094bb8ce2183ba704c31fc97761cd8f698d83c46405211263dab5d94f",
+        "profile": {
+          "angles": [
+            28.74199401503328,
+            27.423819877671477,
+            177.69549701394558
+          ],
+          "span": 7.517665788660733
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 134.193,
+      "steps": 150,
+      "dmin": 0.4094561624325769,
+      "fragments": 47,
+      "volume_ratio": 0.9936172530293842,
+      "target_key": "COc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 45.925,
+      "steps": 30,
+      "dmin": 1.0855713788789512,
+      "fragments": 1,
+      "volume_ratio": 1.000790430525231,
+      "target_key": "COc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 34.425,
+      "steps": 29,
+      "dmin": 1.0848818983307391,
+      "fragments": 1,
+      "volume_ratio": 1.000135061639218,
+      "target_key": "COc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    }
+  },
+  {
+    "id": "F07",
+    "smiles": "O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-]",
+    "sequence_index": 63,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F07_7.xyz",
+        "sha256": "b817f34d02217118747bed0b8ca5d441a7d6ee4d12d40fcfe4121a15827f1118",
+        "profile": {
+          "angles": [
+            31.343318885820427,
+            32.64961241402733,
+            173.77278570725466
+          ],
+          "span": 9.983920445396189
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F07_19.xyz",
+        "sha256": "af4eaa201df32ee2eb502306aa3524921bd0162cf4e7652b93251a696e97976e",
+        "profile": {
+          "angles": [
+            33.484960250280174,
+            31.26697087465288,
+            174.85848220008842
+          ],
+          "span": 9.987680325781358
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 162.198,
+      "steps": 150,
+      "dmin": 0.20169606156708034,
+      "fragments": 33,
+      "volume_ratio": 0.9972329415832919,
+      "target_key": "O=Cc1cc2ccc3c4cc(C(=O)O)c(C=O)cc4ccc3c2cc1C(=O)O"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 58.865,
+      "steps": 57,
+      "dmin": 1.0867678416476474,
+      "fragments": 1,
+      "volume_ratio": 0.9964822165270746,
+      "target_key": "O=Cc1cc2ccc3c4cc(C(=O)O)c(C=O)cc4ccc3c2cc1C(=O)O"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 52.44,
+      "steps": 48,
+      "dmin": 1.0849918023000982,
+      "fragments": 1,
+      "volume_ratio": 0.9979277241866312,
+      "target_key": "O=Cc1cc2ccc3c4cc(C(=O)O)c(C=O)cc4ccc3c2cc1C(=O)O"
+    }
+  },
+  {
+    "id": "F08",
+    "smiles": "O=C([O-])c1ccc2cc(O)c3c4cc(C(=O)[O-])ccc4cc(O)c3c2c1",
+    "sequence_index": 194,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F08_7.xyz",
+        "sha256": "bbebc7cd0412f3fd01a00add3f8ca876981d4c4078787da0003770d290152821",
+        "profile": {
+          "angles": [
+            31.464324509767923,
+            27.456322341106198,
+            175.99198813266597
+          ],
+          "span": 10.127734104428297
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F08_19.xyz",
+        "sha256": "3a73e8093c792c247861fe2d2b73fb309d687c7128679e808066b059b39f8540",
+        "profile": {
+          "angles": [
+            27.457210222656837,
+            31.459243865064348,
+            175.99796635757212
+          ],
+          "span": 10.127839234999735
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 153.3,
+      "steps": 150,
+      "dmin": 0.503525986732834,
+      "fragments": 39,
+      "volume_ratio": 0.9919632367819531,
+      "target_key": "O=C(O)c1ccc2cc(O)c3c4cc(C(=O)O)ccc4cc(O)c3c2c1"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 29.778,
+      "steps": 22,
+      "dmin": 0.969705499356378,
+      "fragments": 1,
+      "volume_ratio": 1.0008538556960598,
+      "target_key": "O=C(O)c1ccc2cc(O)c3c4cc(C(=O)O)ccc4cc(O)c3c2c1"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 47.84,
+      "steps": 34,
+      "dmin": 0.9684024960707226,
+      "fragments": 1,
+      "volume_ratio": 0.996854714716424,
+      "target_key": "O=C(O)c1ccc2cc(O)c3c4cc(C(=O)O)ccc4cc(O)c3c2c1"
+    }
+  },
+  {
+    "id": "F09",
+    "smiles": "CNc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(NC)c3ccc21",
+    "sequence_index": 195,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F09_7.xyz",
+        "sha256": "0bfc7389c1c5b7f34673fc9b8e52cfe65b4ddfdd028ddd79f0238b33fdcef52f",
+        "profile": {
+          "angles": [
+            28.428844324161815,
+            32.48106171825252,
+            173.4196695959802
+          ],
+          "span": 9.989736592122938
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F09_19.xyz",
+        "sha256": "d3956d2d62457a542669f4f1a910c449870d087f8c1c33150f3062339c65426f",
+        "profile": {
+          "angles": [
+            28.428746050865417,
+            32.48367197321861,
+            173.40425681628847
+          ],
+          "span": 9.989780340928423
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 134.646,
+      "steps": 150,
+      "dmin": 0.2663600962781474,
+      "fragments": 52,
+      "volume_ratio": 0.985856668754838,
+      "target_key": "CNc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(NC)c3ccc21"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 42.474,
+      "steps": 17,
+      "dmin": 1.00971295911106,
+      "fragments": 1,
+      "volume_ratio": 1.0013057610205183,
+      "target_key": "CNc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(NC)c3ccc21"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 36.027,
+      "steps": 16,
+      "dmin": 1.0088566010504139,
+      "fragments": 1,
+      "volume_ratio": 1.0012786371314764,
+      "target_key": "CNc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(NC)c3ccc21"
+    }
+  },
+  {
+    "id": "F10",
+    "smiles": "Cc1cc2c3cc(C(=O)[O-])ccc3c(C)cc2c2cc(C(=O)[O-])ccc12",
+    "sequence_index": 154,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F10_7.xyz",
+        "sha256": "1c329854206a10b4942ac49d4881fab59ccd44bd8e22811c511c98c6d6dac0fd",
+        "profile": {
+          "angles": [
+            31.926942238383198,
+            31.92772368113624,
+            179.99227285011537
+          ],
+          "span": 9.985871242911156
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F10_19.xyz",
+        "sha256": "566501dfa0a8187a855203ee633f1a380d18ea096fbbf83978ffb648dcaa202b",
+        "profile": {
+          "angles": [
+            28.46948005509588,
+            28.46948005509588,
+            180.0
+          ],
+          "span": 10.038997083872474
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 71.901,
+      "steps": 90,
+      "dmin": 1.0808420754871493,
+      "fragments": 3,
+      "volume_ratio": 0.9902719533207561,
+      "target_key": "Cc1cc2c3cc(C(=O)O)ccc3c(C)cc2c2cc(C(=O)O)ccc12"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 41.53,
+      "steps": 16,
+      "dmin": 1.084788163633341,
+      "fragments": 1,
+      "volume_ratio": 1.0016480052707006,
+      "target_key": "Cc1cc2c3cc(C(=O)O)ccc3c(C)cc2c2cc(C(=O)O)ccc12"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 29.866,
+      "steps": 14,
+      "dmin": 1.0852051754229584,
+      "fragments": 1,
+      "volume_ratio": 1.0011513201523436,
+      "target_key": "Cc1cc2c3cc(C(=O)O)ccc3c(C)cc2c2cc(C(=O)O)ccc12"
+    }
+  },
+  {
+    "id": "F11",
+    "smiles": "CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "sequence_index": 177,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F11_7.xyz",
+        "sha256": "85178d700eb1f693057cbab0a1d0f9b21a7dfeb0db9a9df5dd66c5b455604a2c",
+        "profile": {
+          "angles": [
+            26.951296078311742,
+            31.209061607607556,
+            175.4641718373958
+          ],
+          "span": 7.490691272506163
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F11_19.xyz",
+        "sha256": "c0c0d1cdc0675d7684272f819391fb85aecefe08506e794736c96d2dce5a72c2",
+        "profile": {
+          "angles": [
+            27.294908809587312,
+            27.581690296904647,
+            178.35432886104974
+          ],
+          "span": 7.515944931943022
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 149.701,
+      "steps": 150,
+      "dmin": 0.18044148129624746,
+      "fragments": 34,
+      "volume_ratio": 0.9911350440309487,
+      "target_key": "CCCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": false,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 104.633,
+      "steps": 150,
+      "dmin": 0.3324152906799806,
+      "fragments": 13,
+      "volume_ratio": 0.9980184651703055,
+      "target_key": "CCCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 24.062,
+      "steps": 18,
+      "dmin": 1.0852902468684245,
+      "fragments": 1,
+      "volume_ratio": 1.0017760565315887,
+      "target_key": "CCCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+    }
+  },
+  {
+    "id": "F12",
+    "smiles": "CCOc1cc2c3cc(C(=O)[O-])ccc3cc(OCC)c2c2cc(C(=O)[O-])ccc12",
+    "sequence_index": 89,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F12_7.xyz",
+        "sha256": "c117098c516ce74fde49bb810cc121acaa88453e487804dcd5850e7cd79c7859",
+        "profile": {
+          "angles": [
+            32.39316260236371,
+            30.78624396927389,
+            174.8022990688702
+          ],
+          "span": 10.033282823184045
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F12_19.xyz",
+        "sha256": "dba11ea4aa69099b02704af4b5ccfd0c5ec0add986baa7c7d6d9e7491aebaa55",
+        "profile": {
+          "angles": [
+            32.386609454923885,
+            30.792424006147343,
+            174.81182845533414
+          ],
+          "span": 10.033264979058412
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 206.238,
+      "steps": 150,
+      "dmin": 0.19468911499159794,
+      "fragments": 34,
+      "volume_ratio": 0.9939154956671202,
+      "target_key": "CCOc1cc2c3cc(C(=O)O)ccc3cc(OCC)c2c2cc(C(=O)O)ccc12"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 51.373,
+      "steps": 26,
+      "dmin": 1.0831637588329994,
+      "fragments": 1,
+      "volume_ratio": 1.001685562395321,
+      "target_key": "CCOc1cc2c3cc(C(=O)O)ccc3cc(OCC)c2c2cc(C(=O)O)ccc12"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 35.478,
+      "steps": 26,
+      "dmin": 1.0831219236161722,
+      "fragments": 1,
+      "volume_ratio": 1.0017570468843098,
+      "target_key": "CCOc1cc2c3cc(C(=O)O)ccc3cc(OCC)c2c2cc(C(=O)O)ccc12"
+    }
+  },
+  {
+    "id": "F13",
+    "smiles": "CCOc1cc(C(=O)[O-])c2cc(OCC)c3c(OCC)cc(C(=O)[O-])cc3c2c1",
+    "sequence_index": 161,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F13_7.xyz",
+        "sha256": "444025a48aedac25b72af43ca1fe811b7d70e033a9e47827873e1a252bbdee41",
+        "profile": {
+          "angles": [
+            28.114102938930927,
+            28.883359575967674,
+            176.66034138011324
+          ],
+          "span": 7.515865225641024
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F13_19.xyz",
+        "sha256": "d0ab4987b272f6fa67375006cee07f4f9c6f0d7d59b0cc20ce9d9805e3585731",
+        "profile": {
+          "angles": [
+            27.774140398670614,
+            32.4823369783833,
+            174.11515818565942
+          ],
+          "span": 7.489807673765729
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 192.615,
+      "steps": 150,
+      "dmin": 0.486744242513131,
+      "fragments": 45,
+      "volume_ratio": 0.9988600314080769,
+      "target_key": "CCOc1cc(C(=O)O)c2cc(OCC)c3c(OCC)cc(C(=O)O)cc3c2c1"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 68.394,
+      "steps": 77,
+      "dmin": 1.0846191365500428,
+      "fragments": 1,
+      "volume_ratio": 0.9990891883371485,
+      "target_key": "CCOc1cc(C(=O)O)c2cc(OCC)c3c(OCC)cc(C(=O)O)cc3c2c1"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 46.321,
+      "steps": 31,
+      "dmin": 1.0815194484890986,
+      "fragments": 1,
+      "volume_ratio": 1.0017507905155416,
+      "target_key": "CCOc1cc(C(=O)O)c2cc(OCC)c3c(OCC)cc(C(=O)O)cc3c2c1"
+    }
+  },
+  {
+    "id": "F14",
+    "smiles": "CCCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "sequence_index": 162,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F14_7.xyz",
+        "sha256": "2aaf00e579b58961103d171f19a2f55b3a4e4d37dad12d56c9548d553a3f5838",
+        "profile": {
+          "angles": [
+            26.99816447806572,
+            29.77484073285227,
+            176.4655754747452
+          ],
+          "span": 7.511543762769408
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F14_19.xyz",
+        "sha256": "814d425c6cc16a56f10154c8a542df7e1195d4efbd0cb1695317b9f3f7c69bf6",
+        "profile": {
+          "angles": [
+            28.33925759526234,
+            32.68434575334751,
+            174.92650696466254
+          ],
+          "span": 7.478343081191181
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": true,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 85.05,
+      "steps": 150,
+      "dmin": 0.9775818691686555,
+      "fragments": 1,
+      "volume_ratio": 1.0106892042203857,
+      "target_key": "CCCOc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 121.154,
+      "steps": 150,
+      "dmin": 0.26411850947916377,
+      "fragments": 22,
+      "volume_ratio": 0.971099862431231,
+      "target_key": "CCCOc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 82.987,
+      "steps": 73,
+      "dmin": 1.0824375251138858,
+      "fragments": 1,
+      "volume_ratio": 1.0066035563320102,
+      "target_key": "CCCOc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O"
+    }
+  },
+  {
+    "id": "F15",
+    "smiles": "CCCOc1cc2c3cc(C(=O)[O-])ccc3c(OCCC)cc2c2cc(C(=O)[O-])ccc12",
+    "sequence_index": 27,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F15_7.xyz",
+        "sha256": "c3c0300b3c6df2071d8f5cea5fe88dadad2b20acbfff13b27af74357ecc0e082",
+        "profile": {
+          "angles": [
+            28.33592521286738,
+            28.33592521286738,
+            180.0
+          ],
+          "span": 10.043332112899584
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F15_19.xyz",
+        "sha256": "2fbf4dba955ab16547f5648f3331a43594a9db8a6a9ac964e2482224885a9710",
+        "profile": {
+          "angles": [
+            28.45793872157508,
+            28.083269495115594,
+            178.87991829068523
+          ],
+          "span": 10.047554363127377
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 207.579,
+      "steps": 150,
+      "dmin": 0.14534761697761173,
+      "fragments": 34,
+      "volume_ratio": 0.9944690560701233,
+      "target_key": "CCCOc1cc2c3cc(C(=O)O)ccc3c(OCCC)cc2c2cc(C(=O)O)ccc12"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 32.45,
+      "steps": 16,
+      "dmin": 1.085102234502397,
+      "fragments": 1,
+      "volume_ratio": 1.0007860878572277,
+      "target_key": "CCCOc1cc2c3cc(C(=O)O)ccc3c(OCCC)cc2c2cc(C(=O)O)ccc12"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 51.311,
+      "steps": 16,
+      "dmin": 1.0854799822370969,
+      "fragments": 1,
+      "volume_ratio": 1.001034901956323,
+      "target_key": "CCCOc1cc2c3cc(C(=O)O)ccc3c(OCCC)cc2c2cc(C(=O)O)ccc12"
+    }
+  },
+  {
+    "id": "F16",
+    "smiles": "O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1",
+    "sequence_index": 36,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F16_7.xyz",
+        "sha256": "706c9a38c364b1928648516544131b72629dd47c2ecef636b01211c71163c686",
+        "profile": {
+          "angles": [
+            27.589557380707777,
+            31.569197111994463,
+            176.02036008002278
+          ],
+          "span": 10.016571787293296
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F16_19.xyz",
+        "sha256": "323c9d55793a88a5fd68967164032b20783035687d78b81bfb5689dcacf774cb",
+        "profile": {
+          "angles": [
+            27.587045371552716,
+            31.566025146502803,
+            176.02101989421857
+          ],
+          "span": 10.016525472438035
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 103.558,
+      "steps": 144,
+      "dmin": 1.0861057751299934,
+      "fragments": 2,
+      "volume_ratio": 0.9380473780605206,
+      "target_key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4ccc3c2c1"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 40.028,
+      "steps": 41,
+      "dmin": 1.0833872967620022,
+      "fragments": 1,
+      "volume_ratio": 0.9943237558634775,
+      "target_key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4ccc3c2c1"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 46.835,
+      "steps": 17,
+      "dmin": 1.085178203830744,
+      "fragments": 1,
+      "volume_ratio": 1.0021929144617352,
+      "target_key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4ccc3c2c1"
+    }
+  },
+  {
+    "id": "F17",
+    "smiles": "O=C([O-])c1ccc2c(O)cc3c(C(=O)[O-])cc(O)cc3c2c1",
+    "sequence_index": 69,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F17_7.xyz",
+        "sha256": "6574e19c5c76e02fe0388e604213435840d914deae0d6e7c1e5defc5e349cb93",
+        "profile": {
+          "angles": [
+            31.579896275075974,
+            28.096900909307106,
+            176.06944229674647
+          ],
+          "span": 7.501960547083676
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F17_19.xyz",
+        "sha256": "3e26eafa277ec7b7ad47165e7af602f3308e793184ac45def52876f81459cdf4",
+        "profile": {
+          "angles": [
+            31.944208574084033,
+            26.79908598491833,
+            174.70401766321652
+          ],
+          "span": 7.492193341071759
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 106.303,
+      "steps": 150,
+      "dmin": 0.5164278432770699,
+      "fragments": 25,
+      "volume_ratio": 0.9893993204533279,
+      "target_key": "O=C(O)c1ccc2c(O)cc3c(C(=O)O)cc(O)cc3c2c1"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 43.211,
+      "steps": 16,
+      "dmin": 0.969263479436726,
+      "fragments": 1,
+      "volume_ratio": 1.0026102330340187,
+      "target_key": "O=C(O)c1ccc2c(O)cc3c(C(=O)O)cc(O)cc3c2c1"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 43.014,
+      "steps": 35,
+      "dmin": 0.9704145565476748,
+      "fragments": 1,
+      "volume_ratio": 1.0000438680882093,
+      "target_key": "O=C(O)c1ccc2c(O)cc3c(C(=O)O)cc(O)cc3c2c1"
+    }
+  },
+  {
+    "id": "F18",
+    "smiles": "CCOc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OCC)c3ccc21",
+    "sequence_index": 171,
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F18_7.xyz",
+        "sha256": "3efd14563d4ed028075bdc750a2020ebb1a290c6b94f925e503246904ad984c4",
+        "profile": {
+          "angles": [
+            32.162779495921285,
+            28.09992436782061,
+            175.89779979914854
+          ],
+          "span": 10.00461433739452
+        }
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/bb/F18_19.xyz",
+        "sha256": "993c2486b54ae594dfea7d2f8e73d9e81572c9e046aeefdbb466153544668f04",
+        "profile": {
+          "angles": [
+            28.114433643928006,
+            32.16428704042198,
+            175.95014546445057
+          ],
+          "span": 10.004835967171076
+        }
+      }
+    },
+    "A": {
+      "status": "completed",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "reused_from": null,
+      "seconds": 233.639,
+      "steps": 150,
+      "dmin": 0.3751965381677422,
+      "fragments": 69,
+      "volume_ratio": 0.9929637134800957,
+      "target_key": "CCOc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OCC)c3ccc21"
+    },
+    "U7": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 55.272,
+      "steps": 18,
+      "dmin": 1.0850657565439965,
+      "fragments": 1,
+      "volume_ratio": 1.0014139251653766,
+      "target_key": "CCOc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OCC)c3ccc21"
+    },
+    "U19": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 53.179,
+      "steps": 16,
+      "dmin": 1.085030463631679,
+      "fragments": 1,
+      "volume_ratio": 1.0012233230862735,
+      "target_key": "CCOc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OCC)c3ccc21"
+    }
+  }
+]

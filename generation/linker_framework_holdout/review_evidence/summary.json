@@ -1,0 +1,18 @@
+{
+  "n": 20,
+  "gate_rejected": 19,
+  "rejected_but_passed": 19,
+  "geometry_decision_changes": 0,
+  "connectivity_changes": {
+    "A": 17,
+    "U": 0
+  },
+  "accepted_default": {
+    "A": 2,
+    "U": 20
+  },
+  "accepted_skin0": {
+    "A": 2,
+    "U": 20
+  }
+}

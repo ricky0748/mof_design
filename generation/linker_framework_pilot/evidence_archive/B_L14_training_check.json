@@ -1,0 +1,6 @@
+{
+  "training_expected": 187047,
+  "training_identified": 171978,
+  "matches": [],
+  "framework_key": "[\"CCOc1cc2cc(cc(c2cc1C(=O)[O-])OCC)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]"
+}

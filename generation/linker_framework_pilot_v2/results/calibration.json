@@ -1,0 +1,56 @@
+{
+  "linear_positive_pass": true,
+  "results": {
+    "C_BDC": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 7.722,
+      "steps": 6,
+      "dmin": 1.0865501260750585,
+      "fragments": 1,
+      "volume_ratio": 1.0009236942662467,
+      "target_key": "O=C(O)c1ccc(C(=O)O)cc1"
+    },
+    "C_IPC": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint": true,
+      "topology": "cds",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 13.138,
+      "steps": 42,
+      "dmin": 1.0846392200639596,
+      "fragments": 1,
+      "volume_ratio": 1.0105334730147992,
+      "target_key": "O=C(O)c1cccc(C(=O)O)c1"
+    },
+    "C_STOCK": {
+      "status": "completed",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": false,
+      "topology_identified": true,
+      "joint": false,
+      "topology": "cds",
+      "mofid_status": "identified",
+      "reused_from": null,
+      "seconds": 12.094,
+      "steps": 19,
+      "dmin": 1.0870847348231258,
+      "fragments": 1,
+      "volume_ratio": 1.0057327182583926,
+      "target_key": null
+    }
+  }
+}

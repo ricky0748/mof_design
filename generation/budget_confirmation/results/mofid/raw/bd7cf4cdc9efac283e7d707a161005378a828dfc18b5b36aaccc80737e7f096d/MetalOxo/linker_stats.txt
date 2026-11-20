@@ -1,0 +1,2 @@
+YCCMOCUTHWBPPD-UHFFFAOYSA-L	2	3	InChI=1S/C19H16O4/c1-2-4-12-9-11-7-8-13(18(20)21)10-16(11)14-5-3-6-15(17(12)14)19(22)23/h3,5-10H,2,4H2,1H3,(H,20,21)(H,22,23)/p-2	YCCMOCUTHWBPPD	CCCc1cc2ccc(cc2c2c1c(ccc2)C(=O)[O-])C(=O)[O-]	CCC[c]1[cH][c]2[cH][cH][c]([cH][c]2[c]2[c]1[c]([cH][cH][cH]2)[C]([O])[O-])[C]([O])[O-]
+

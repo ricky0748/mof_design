@@ -1,0 +1,402 @@
+[
+  {
+    "name": "A_H01",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H01.cif",
+    "status": "built"
+  },
+  {
+    "id": "H01",
+    "arm": "U",
+    "name": "U_H01",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H01.cif",
+    "natoms": 101,
+    "sha256": "838a8aed84c3e2c683c357bfbb7cff4016ca569d98a78ced5b05ecd593aa3446",
+    "seconds": 1.446
+  },
+  {
+    "name": "A_H02",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H02.cif",
+    "status": "built"
+  },
+  {
+    "id": "H02",
+    "arm": "U",
+    "name": "U_H02",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H02.cif",
+    "natoms": 122,
+    "sha256": "236df248944b4ac090d0d973bcc71820297887c7e772aede9ad1fb9c6f4b7062",
+    "seconds": 0.348
+  },
+  {
+    "name": "A_H03",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H03.cif",
+    "status": "built"
+  },
+  {
+    "id": "H03",
+    "arm": "U",
+    "name": "U_H03",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H03.cif",
+    "natoms": 119,
+    "sha256": "2fa7f0d639913e6562f9f2fcecdbd9c618d51520e28c51a1ef72b83a9a529e10",
+    "seconds": 0.444
+  },
+  {
+    "name": "A_H04",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H04.cif",
+    "status": "built"
+  },
+  {
+    "id": "H04",
+    "arm": "U",
+    "name": "U_H04",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H04.cif",
+    "natoms": 83,
+    "sha256": "da9be281b6093fe395e8f24fe48d59c43bf1586971c1945ae5e06772661600cc",
+    "seconds": 0.386
+  },
+  {
+    "name": "A_H05",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H05.cif",
+    "status": "built"
+  },
+  {
+    "id": "H05",
+    "arm": "U",
+    "name": "U_H05",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H05.cif",
+    "natoms": 104,
+    "sha256": "14fc2597edfcd0565ca11383979d0f0a1c0f0af27937d69d2929d87a30cbc70c",
+    "seconds": 0.644
+  },
+  {
+    "name": "A_H06",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H06.cif",
+    "status": "built"
+  },
+  {
+    "id": "H06",
+    "arm": "U",
+    "name": "U_H06",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H06.cif",
+    "natoms": 92,
+    "sha256": "26fbc67d3ed40a0060eecb3f5f65c200c32e79261298926537e0eacd9be3bbf4",
+    "seconds": 0.411
+  },
+  {
+    "name": "A_H07",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H07.cif",
+    "status": "built"
+  },
+  {
+    "id": "H07",
+    "arm": "U",
+    "name": "U_H07",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H07.cif",
+    "natoms": 119,
+    "sha256": "c1e3f224ed4b9182644b8a05b31738d13dac5226074c0ca722e5892caab04113",
+    "seconds": 0.432
+  },
+  {
+    "name": "A_H08",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H08.cif",
+    "status": "built"
+  },
+  {
+    "id": "H08",
+    "arm": "U",
+    "name": "U_H08",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H08.cif",
+    "natoms": 89,
+    "sha256": "12ca1bdee1a8b50dee622ec622ac44b7bab68503c28125674d3f4d2a8e96fe97",
+    "seconds": 0.524
+  },
+  {
+    "name": "A_H09",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H09.cif",
+    "status": "built"
+  },
+  {
+    "id": "H09",
+    "arm": "U",
+    "name": "U_H09",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H09.cif",
+    "natoms": 131,
+    "sha256": "9bac8b567ce2743499fdb92218a1604d01a8eefaa6558e8b311b2cf3cef9dad6",
+    "seconds": 0.345
+  },
+  {
+    "name": "A_H10",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H10.cif",
+    "status": "built"
+  },
+  {
+    "id": "H10",
+    "arm": "U",
+    "name": "U_H10",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H10.cif",
+    "natoms": 98,
+    "sha256": "2dd603415f10b398e1379fc5f708c0bdb79ffd7b41705902849199c44db052b2",
+    "seconds": 0.476
+  },
+  {
+    "name": "A_H11",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H11.cif",
+    "status": "built"
+  },
+  {
+    "id": "H11",
+    "arm": "U",
+    "name": "U_H11",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H11.cif",
+    "natoms": 167,
+    "sha256": "4b7c24bec1da921e8ba6defa9500f8d8d553203f5f964bff7f1b9d7e69f9d713",
+    "seconds": 0.458
+  },
+  {
+    "name": "A_H12",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H12.cif",
+    "status": "built"
+  },
+  {
+    "id": "H12",
+    "arm": "U",
+    "name": "U_H12",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H12.cif",
+    "natoms": 143,
+    "sha256": "489d978cb7b233be7a0221a0bf2517c4ed3ecced2edfdd51f15e416cfb805468",
+    "seconds": 0.611
+  },
+  {
+    "name": "A_H13",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H13.cif",
+    "status": "built"
+  },
+  {
+    "id": "H13",
+    "arm": "U",
+    "name": "U_H13",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H13.cif",
+    "natoms": 101,
+    "sha256": "61ccd286ddbeddbd6023001a69b99c1c22d120bdf7762ef2da659d481d58b7e0",
+    "seconds": 0.539
+  },
+  {
+    "name": "A_H14",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H14.cif",
+    "status": "built"
+  },
+  {
+    "id": "H14",
+    "arm": "U",
+    "name": "U_H14",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H14.cif",
+    "natoms": 119,
+    "sha256": "ac9f8584b9fe333c25197bfb0c3f72f22544938067e8ff7b889e8de87eab89bd",
+    "seconds": 0.444
+  },
+  {
+    "name": "A_H15",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H15.cif",
+    "status": "built"
+  },
+  {
+    "id": "H15",
+    "arm": "U",
+    "name": "U_H15",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H15.cif",
+    "natoms": 89,
+    "sha256": "b9e0b6fa3a42464e76ae4a806e38633213d2802ac186f5fac511005b18fe4d5c",
+    "seconds": 0.347
+  },
+  {
+    "name": "A_H16",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H16.cif",
+    "status": "built"
+  },
+  {
+    "id": "H16",
+    "arm": "U",
+    "name": "U_H16",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H16.cif",
+    "natoms": 110,
+    "sha256": "de1dbc3c16249ac613c6530fe9d54e563888d1fa4a9b5add348a968a538c869b",
+    "seconds": 0.366
+  },
+  {
+    "name": "A_H17",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H17.cif",
+    "status": "built"
+  },
+  {
+    "id": "H17",
+    "arm": "U",
+    "name": "U_H17",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H17.cif",
+    "natoms": 95,
+    "sha256": "b5a4c0d34c365d46a0716af1afd23e945d3e719755f05da484a6e69114a2cfc3",
+    "seconds": 0.52
+  },
+  {
+    "name": "A_H18",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H18.cif",
+    "status": "built"
+  },
+  {
+    "id": "H18",
+    "arm": "U",
+    "name": "U_H18",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H18.cif",
+    "natoms": 113,
+    "sha256": "066dbce61ec03f6e3d834d53c67c2e8cea4555a787d35972b396aa26beab56b2",
+    "seconds": 0.403
+  },
+  {
+    "name": "A_H19",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H19.cif",
+    "status": "built"
+  },
+  {
+    "id": "H19",
+    "arm": "U",
+    "name": "U_H19",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H19.cif",
+    "natoms": 104,
+    "sha256": "07163e180b723df5d4163ab09b8bad9f4eb836bb3458d2f719decaaa2f95ade3",
+    "seconds": 0.371
+  },
+  {
+    "name": "A_H20",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/A_H20.cif",
+    "status": "built"
+  },
+  {
+    "id": "H20",
+    "arm": "U",
+    "name": "U_H20",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/U_H20.cif",
+    "natoms": 131,
+    "sha256": "3aff6dd9f722fbed52e33105e7680ca1cfbe282dabbf78dcf7d2a11530c7c9b1",
+    "seconds": 0.331
+  }
+]

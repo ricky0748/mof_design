@@ -1,0 +1,4 @@
+MKJMIVQADFJBGV-UHFFFAOYSA-M	3	1	InChI=1S/C18H13O5/c1-22-11-7-15-12(16(8-11)18(20)21)3-4-13-14(15)5-10(9-19)6-17(13)23-2/h3-8H,1-2H3,(H,20,21)/p-1	MKJMIVQADFJBGV	COc1cc(C(=O)[O-])c2c(c1)c1cc([C]=O)cc(c1cc2)OC	CO[c]1[cH][c]([C]([O])[O-])[c]2[c]([cH]1)[c]1[cH][c]([C][O])[cH][c]([c]1[cH][cH]2)OC
+HSCASBTXQRUYOO-UHFFFAOYSA-L	2	1	InChI=1S/C18H13O7/c1-24-13-6-8(17(20)21)5-11-9(13)3-4-10-12(11)7-14(25-2)16(19)15(10)18(22)23/h3-7H,1-2H3,(H,20,21)(H,22,23)/p-2	HSCASBTXQRUYOO	CO[C]1[CH]c2c([C](C1=O)C(=O)[O-])ccc1c2cc(cc1OC)C(=O)[O-]	CO[C]1[CH][c]2[c]([C]([C]1[O])[C]([O])[O-])[cH][cH][c]1[c]2[cH][c]([cH][c]1OC)[C]([O])[O-]
+DCXUQVZQLLYGIK-UHFFFAOYSA-L	3	1	InChI=1S/C18H14O6/c1-23-10-7-14-11(15(8-10)18(21)22)3-4-12-13(14)5-9(17(19)20)6-16(12)24-2/h3-8H,1-2H3,(H,19,20)(H,21,22)/p-2	DCXUQVZQLLYGIK	COc1cc(C(=O)[O-])c2c(c1)c1cc(cc(c1cc2)OC)C(=O)[O-]	CO[c]1[cH][c]([C]([O])[O-])[c]2[c]([cH]1)[c]1[cH][c]([cH][c]([c]1[cH][cH]2)OC)[C]([O])[O-]
+

@@ -1,0 +1,2 @@
+node	[Zn][O]([Zn])([Zn])[Zn]
+linker	[O-]C(=O)c1cc2c(cc1N)ccc1c2cccc1C(=O)[O-]

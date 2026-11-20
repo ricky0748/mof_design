@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "C001",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C001/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.609469802255695,
+      31.52799854162063,
+      31.67251266258138
+    ],
+    "input_sha256": "9b598d377b022f6f206ff7469cf53a7a18fa33fde1043c3cf349b2c7b79bfff6",
+    "cif_sha256": "ae033072bf9ddf1f3134c7550b462b20ffe9283316f81917b0795008b425cb5d"
+  },
+  {
+    "id": "C001",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C001/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.609469802255695,
+      31.52799854162063,
+      31.67251266258138
+    ],
+    "input_sha256": "6c2a830bb387e13197c1c29950b79361f9692753899461109585f472d4da7e2c",
+    "cif_sha256": "ae033072bf9ddf1f3134c7550b462b20ffe9283316f81917b0795008b425cb5d"
+  },
+  {
+    "id": "C001",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C001/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.609469802255695,
+      31.52799854162063,
+      31.67251266258138
+    ],
+    "input_sha256": "84a5a58d8803b22be1b7c9ec7902bfc177f17442459298c279df6e3b8729a9cd",
+    "cif_sha256": "ae033072bf9ddf1f3134c7550b462b20ffe9283316f81917b0795008b425cb5d"
+  },
+  {
+    "id": "C001",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C001/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.609469802255695,
+      31.52799854162063,
+      31.67251266258138
+    ],
+    "input_sha256": "d766e3fb59a7105b3205694583503565f7285eb11698155c4ab2a7dac28283a4",
+    "cif_sha256": "ae033072bf9ddf1f3134c7550b462b20ffe9283316f81917b0795008b425cb5d"
+  },
+  {
+    "id": "C002",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C002/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.247794593269738,
+      31.33042789928728,
+      31.355996051449424
+    ],
+    "input_sha256": "99ccd4c39faca8ca899b88397c899924aa411452110931916ceb27d689a26333",
+    "cif_sha256": "c362af4439ca04947b92307baf0d36daf624d535ac636327a19e3343704a56f8"
+  },
+  {
+    "id": "C002",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C002/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.247794593269738,
+      31.33042789928728,
+      31.355996051449424
+    ],
+    "input_sha256": "5b9a3c00c71b388d260e5fec442eb9828439fe9a665de67212c0e2fccabab706",
+    "cif_sha256": "c362af4439ca04947b92307baf0d36daf624d535ac636327a19e3343704a56f8"
+  },
+  {
+    "id": "C002",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C002/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.247794593269738,
+      31.33042789928728,
+      31.355996051449424
+    ],
+    "input_sha256": "e4786353e922876308ae155980f1119b9b121e08279ff0ef6009fb1c86acf796",
+    "cif_sha256": "c362af4439ca04947b92307baf0d36daf624d535ac636327a19e3343704a56f8"
+  },
+  {
+    "id": "C002",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C002/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.247794593269738,
+      31.33042789928728,
+      31.355996051449424
+    ],
+    "input_sha256": "419a1ba5f4354520d8f2f249ac5548c6fceca0106d7e314a7d063cc88786ff1e",
+    "cif_sha256": "c362af4439ca04947b92307baf0d36daf624d535ac636327a19e3343704a56f8"
+  },
+  {
+    "id": "C003",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C003/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.671835161091717,
+      32.021715233779375,
+      31.59532400540122
+    ],
+    "input_sha256": "d38fcbe58c40f31dd234a828e7c78f5b5070af7a5f219d8a30c98083afb18532",
+    "cif_sha256": "edac924141ae4db464f907b8836a71e826d70d83f535db777fa31ef895594757"
+  },
+  {
+    "id": "C003",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C003/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.671835161091717,
+      32.021715233779375,
+      31.59532400540122
+    ],
+    "input_sha256": "adb47186a4372eb0b815be8a7245df8e5de9299cdf3dab0b60cac3461ddb9663",
+    "cif_sha256": "edac924141ae4db464f907b8836a71e826d70d83f535db777fa31ef895594757"
+  },
+  {
+    "id": "C003",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C003/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.671835161091717,
+      32.021715233779375,
+      31.59532400540122
+    ],
+    "input_sha256": "649a41943bfa4bc0edeb3390a727d46f1e2822843c4cec3a21c425135f24f0d6",
+    "cif_sha256": "edac924141ae4db464f907b8836a71e826d70d83f535db777fa31ef895594757"
+  },
+  {
+    "id": "C003",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C003/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.671835161091717,
+      32.021715233779375,
+      31.59532400540122
+    ],
+    "input_sha256": "f5d322b7cc3231af4b5a71b5727fcc268788272d8895e269ca1fdb120f28565e",
+    "cif_sha256": "edac924141ae4db464f907b8836a71e826d70d83f535db777fa31ef895594757"
+  },
+  {
+    "id": "C004",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C004/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.63746357301884,
+      31.34761172072124,
+      31.394450623783055
+    ],
+    "input_sha256": "4e818046e9865b1180d9ed1b04c0814b4f8e494ec9717d8b51703b6f70f1347d",
+    "cif_sha256": "24b63b2a0132988b82519afe4978f978adcbd135875a871b908e9af009297eec"
+  },
+  {
+    "id": "C004",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C004/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.63746357301884,
+      31.34761172072124,
+      31.394450623783055
+    ],
+    "input_sha256": "1b72e93a1544ed5693f7c6d1fde5c862c3864a3464231bd98826d8e57a86a895",
+    "cif_sha256": "24b63b2a0132988b82519afe4978f978adcbd135875a871b908e9af009297eec"
+  },
+  {
+    "id": "C004",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C004/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.63746357301884,
+      31.34761172072124,
+      31.394450623783055
+    ],
+    "input_sha256": "a54a0b14b660fa16a82bbfe64e60db134251f8afd384574eb5a78bc2ae183747",
+    "cif_sha256": "24b63b2a0132988b82519afe4978f978adcbd135875a871b908e9af009297eec"
+  },
+  {
+    "id": "C004",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C004/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.63746357301884,
+      31.34761172072124,
+      31.394450623783055
+    ],
+    "input_sha256": "7396b5d0ed1702a84a9a69421ad323ae7afd122276a09df6ede5250fb64fea6b",
+    "cif_sha256": "24b63b2a0132988b82519afe4978f978adcbd135875a871b908e9af009297eec"
+  },
+  {
+    "id": "C006",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C006/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.276948548906987,
+      31.326737145630315,
+      31.320582773274005
+    ],
+    "input_sha256": "b576686f9961455610f290e4569cea5089e3f95e3bbe0447f1023c1bf2139297",
+    "cif_sha256": "6a52214f815520d1cd37ffa7c3918f9ea8627dd0f25564be6339e8d66df87dee"
+  },
+  {
+    "id": "C006",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C006/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.276948548906987,
+      31.326737145630315,
+      31.320582773274005
+    ],
+    "input_sha256": "50c8ee71da653f3ae4141806d07fa320a5ad032996d9c4fa1e5d6981e0e81646",
+    "cif_sha256": "6a52214f815520d1cd37ffa7c3918f9ea8627dd0f25564be6339e8d66df87dee"
+  },
+  {
+    "id": "C006",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C006/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.276948548906987,
+      31.326737145630315,
+      31.320582773274005
+    ],
+    "input_sha256": "07f75df0064ec2def96d234e0bb5a3bde4dcdb36c217b547f8efe726b60ffa3b",
+    "cif_sha256": "6a52214f815520d1cd37ffa7c3918f9ea8627dd0f25564be6339e8d66df87dee"
+  },
+  {
+    "id": "C006",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C006/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.276948548906987,
+      31.326737145630315,
+      31.320582773274005
+    ],
+    "input_sha256": "e55d789cde8de2a6445791d768d2a5a7d0e35d2cafd8570311c081c427711cbb",
+    "cif_sha256": "6a52214f815520d1cd37ffa7c3918f9ea8627dd0f25564be6339e8d66df87dee"
+  },
+  {
+    "id": "C008",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C008/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.445267422560065,
+      31.45648963605268,
+      31.134232180813793
+    ],
+    "input_sha256": "a58647a459dd7cb6c3ad48af2291815e19f400ad75ff523824ec54926d71a2a6",
+    "cif_sha256": "757d6f44e9d71d5b15f902fc587e27a92879977dcbe771d58418a2a6f6158ccd"
+  },
+  {
+    "id": "C008",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C008/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.445267422560065,
+      31.45648963605268,
+      31.134232180813793
+    ],
+    "input_sha256": "3412ca30e73c4dfef6f8febd2c79fedfcec2e49cad2cb46c615af1c18ce908e1",
+    "cif_sha256": "757d6f44e9d71d5b15f902fc587e27a92879977dcbe771d58418a2a6f6158ccd"
+  },
+  {
+    "id": "C008",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C008/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.445267422560065,
+      31.45648963605268,
+      31.134232180813793
+    ],
+    "input_sha256": "c34ec7fa65ac6ba6359c6fe57b157af91348ed836eff8f44a445211f8a79d1d2",
+    "cif_sha256": "757d6f44e9d71d5b15f902fc587e27a92879977dcbe771d58418a2a6f6158ccd"
+  },
+  {
+    "id": "C008",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C008/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.445267422560065,
+      31.45648963605268,
+      31.134232180813793
+    ],
+    "input_sha256": "1d19202a9a912f3b98faec3b6d1aaaf9e5d63deabc556ef3635bc7c7919f38a6",
+    "cif_sha256": "757d6f44e9d71d5b15f902fc587e27a92879977dcbe771d58418a2a6f6158ccd"
+  },
+  {
+    "id": "C009",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C009/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.40081647576048,
+      36.62746710466536,
+      36.617959542736095
+    ],
+    "input_sha256": "6c4a978e0b0c12e9cdbc30635779eda1c9528ea8391bf5f21433205d345bfa74",
+    "cif_sha256": "4fb896d5c99f2a0195f847e33bdc5af95367661be9bbe29ba40aea82b67589fe"
+  },
+  {
+    "id": "C009",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C009/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.40081647576048,
+      36.62746710466536,
+      36.617959542736095
+    ],
+    "input_sha256": "46c7060d2c6edae35a5da107fd96f1a3c8adfcbb35cd484112683b2f0ebdcdf0",
+    "cif_sha256": "4fb896d5c99f2a0195f847e33bdc5af95367661be9bbe29ba40aea82b67589fe"
+  },
+  {
+    "id": "C009",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C009/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.40081647576048,
+      36.62746710466536,
+      36.617959542736095
+    ],
+    "input_sha256": "8d6522cba87dd8477b19ee78fd772851b06c7c52c0aa21a1dfd7cafc64254bdb",
+    "cif_sha256": "4fb896d5c99f2a0195f847e33bdc5af95367661be9bbe29ba40aea82b67589fe"
+  },
+  {
+    "id": "C009",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C009/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.40081647576048,
+      36.62746710466536,
+      36.617959542736095
+    ],
+    "input_sha256": "95891158276d9b13c7920ee34236e4518e4d5716ef688ba4fd478456355071d7",
+    "cif_sha256": "4fb896d5c99f2a0195f847e33bdc5af95367661be9bbe29ba40aea82b67589fe"
+  },
+  {
+    "id": "C010",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C010/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.427517850765433,
+      31.329689393365662,
+      31.43144086973816
+    ],
+    "input_sha256": "8daf1c05f5fff9fce7db5ae600adf90791cbf0e1bdca8d54fa4f3502038993a5",
+    "cif_sha256": "4d436ec23d391aff69f06f46bb5374515d5310b74e650a0f14f0595433763292"
+  },
+  {
+    "id": "C010",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C010/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.427517850765433,
+      31.329689393365662,
+      31.43144086973816
+    ],
+    "input_sha256": "79cfab1a5ba692d263d815a6e80a32413dac9d5fc863a14104c30542787d2934",
+    "cif_sha256": "4d436ec23d391aff69f06f46bb5374515d5310b74e650a0f14f0595433763292"
+  },
+  {
+    "id": "C010",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C010/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.427517850765433,
+      31.329689393365662,
+      31.43144086973816
+    ],
+    "input_sha256": "015e1e135c92e27b3220e1f088daaa99d9fa4cd0e6f9ee368a6c61e4eeecf232",
+    "cif_sha256": "4d436ec23d391aff69f06f46bb5374515d5310b74e650a0f14f0595433763292"
+  },
+  {
+    "id": "C010",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C010/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.427517850765433,
+      31.329689393365662,
+      31.43144086973816
+    ],
+    "input_sha256": "fe5265a15d983d8545c1ab15f4bc64f1fdcbaa10b4f53ac7b9b9215dfbc6365a",
+    "cif_sha256": "4d436ec23d391aff69f06f46bb5374515d5310b74e650a0f14f0595433763292"
+  },
+  {
+    "id": "C011",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C011/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      32.07106724782291,
+      32.051503517141015,
+      32.17710102626484
+    ],
+    "input_sha256": "695d10cbe42884b2a821e2e46577d0cc433633b0a1fa7ef4a638a9145bb842c6",
+    "cif_sha256": "d267699f45e3eacacbea011f7dbb0faa94790fda36e35f84790d757c770bd53b"
+  },
+  {
+    "id": "C011",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C011/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      32.07106724782291,
+      32.051503517141015,
+      32.17710102626484
+    ],
+    "input_sha256": "3486691398d35013d2bac742c6212134136f3df7960ac9835063b5c76986f7f7",
+    "cif_sha256": "d267699f45e3eacacbea011f7dbb0faa94790fda36e35f84790d757c770bd53b"
+  },
+  {
+    "id": "C011",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C011/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      32.07106724782291,
+      32.051503517141015,
+      32.17710102626484
+    ],
+    "input_sha256": "9bb006ba664f4a0d69c159d2dc4179887aefa6d4dacb18ef5c146dbd5ac8b413",
+    "cif_sha256": "d267699f45e3eacacbea011f7dbb0faa94790fda36e35f84790d757c770bd53b"
+  },
+  {
+    "id": "C011",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C011/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      32.07106724782291,
+      32.051503517141015,
+      32.17710102626484
+    ],
+    "input_sha256": "598389e9b17aecb6fca02db987751511f99a3016d75106467efd08568a40e534",
+    "cif_sha256": "d267699f45e3eacacbea011f7dbb0faa94790fda36e35f84790d757c770bd53b"
+  },
+  {
+    "id": "C012",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C012/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.32543074743247,
+      36.31565469054411,
+      36.1239041347538
+    ],
+    "input_sha256": "1afcaa42ad41225057b87332662e9d778c2ee205af2ff52f5937f0b910f78226",
+    "cif_sha256": "db8019b0bf6bb1f7fc0f761e035a5fb2e6795dd01d84943071bc0b4e9592f161"
+  },
+  {
+    "id": "C012",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C012/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.32543074743247,
+      36.31565469054411,
+      36.1239041347538
+    ],
+    "input_sha256": "2ba5cd89768b70c14620d52f1f414bc036ecf83ee8713b0795e76b3049aa8af9",
+    "cif_sha256": "db8019b0bf6bb1f7fc0f761e035a5fb2e6795dd01d84943071bc0b4e9592f161"
+  },
+  {
+    "id": "C012",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C012/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.32543074743247,
+      36.31565469054411,
+      36.1239041347538
+    ],
+    "input_sha256": "d9892da2d4aa466b9b80adfbe562c0ae9e7d842767c2b7e0005cb58d92a8c389",
+    "cif_sha256": "db8019b0bf6bb1f7fc0f761e035a5fb2e6795dd01d84943071bc0b4e9592f161"
+  },
+  {
+    "id": "C012",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C012/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.32543074743247,
+      36.31565469054411,
+      36.1239041347538
+    ],
+    "input_sha256": "a01c95e20fbb1cf6152f0efdee0afd752327bd257bef46a790c7d0a58bc629f9",
+    "cif_sha256": "db8019b0bf6bb1f7fc0f761e035a5fb2e6795dd01d84943071bc0b4e9592f161"
+  },
+  {
+    "id": "C014",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C014/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      25.804379083901235,
+      25.804597953409726,
+      25.805278179535115
+    ],
+    "input_sha256": "42ea01f2af9bd020269c508973f7ddadc28605cb02c905859f6253a95691b452",
+    "cif_sha256": "865fca2369d64032d53bcc2f442d26da1cb8ace98d8248d5baf7be5db494e306"
+  },
+  {
+    "id": "C014",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C014/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      25.804379083901235,
+      25.804597953409726,
+      25.805278179535115
+    ],
+    "input_sha256": "ad82bddb8fbdbbb07a415d41505023d7b25afdc42a2a262cc8354a0a103079ac",
+    "cif_sha256": "865fca2369d64032d53bcc2f442d26da1cb8ace98d8248d5baf7be5db494e306"
+  },
+  {
+    "id": "C014",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C014/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      25.804379083901235,
+      25.804597953409726,
+      25.805278179535115
+    ],
+    "input_sha256": "e5819226058a9d92a75f354bf2a14b20497c53d5dd5eb40373c6b91b0f115ef7",
+    "cif_sha256": "865fca2369d64032d53bcc2f442d26da1cb8ace98d8248d5baf7be5db494e306"
+  },
+  {
+    "id": "C014",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C014/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      25.804379083901235,
+      25.804597953409726,
+      25.805278179535115
+    ],
+    "input_sha256": "95f440e3fca0a09f2f0ba2036dc2df561aa8a44491b7506e7a7caf5fe38edb9c",
+    "cif_sha256": "865fca2369d64032d53bcc2f442d26da1cb8ace98d8248d5baf7be5db494e306"
+  },
+  {
+    "id": "C015",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C015/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.38255504892215,
+      36.44594421763909,
+      36.228546353748165
+    ],
+    "input_sha256": "9e7b7a44ead1b0213c20ddeb0a7a56ae947931bda1a0e351a935ddf6405ab264",
+    "cif_sha256": "6346df36be7edc858a28d6baa36063a85bd5a281820aa0a4708cd7e95eb8b609"
+  },
+  {
+    "id": "C015",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C015/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.38255504892215,
+      36.44594421763909,
+      36.228546353748165
+    ],
+    "input_sha256": "2d3a78a443f8340ea3ea4a9d021895fed335a5f5cb19fa5015f039e5e20ef163",
+    "cif_sha256": "6346df36be7edc858a28d6baa36063a85bd5a281820aa0a4708cd7e95eb8b609"
+  },
+  {
+    "id": "C015",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C015/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.38255504892215,
+      36.44594421763909,
+      36.228546353748165
+    ],
+    "input_sha256": "283d477c3aa9d87cb7f00346b753dd2b871d1fb03b39b52f808c91a386eca1bc",
+    "cif_sha256": "6346df36be7edc858a28d6baa36063a85bd5a281820aa0a4708cd7e95eb8b609"
+  },
+  {
+    "id": "C015",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C015/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.38255504892215,
+      36.44594421763909,
+      36.228546353748165
+    ],
+    "input_sha256": "b767fa76c8d1105020d07d4d51f96a0ae6fe0829223dfe6a3a5be27f21186d51",
+    "cif_sha256": "6346df36be7edc858a28d6baa36063a85bd5a281820aa0a4708cd7e95eb8b609"
+  },
+  {
+    "id": "C016",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C016/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.498346888296997,
+      31.97770911114291,
+      31.69685579933166
+    ],
+    "input_sha256": "7aed48b648dcf8a09a977a1cb19ec1de69e8e6c7162a385cf5c28ad64af4181c",
+    "cif_sha256": "eb531bcdce1ae2a3ca59a41ad8e5a8e40113cf1b2a31176cf756f4a13c8354ec"
+  },
+  {
+    "id": "C016",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C016/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.498346888296997,
+      31.97770911114291,
+      31.69685579933166
+    ],
+    "input_sha256": "8bceefa32205b6133d630e8ff7da06536e0180824b75838a792d69f53e7ba5b2",
+    "cif_sha256": "eb531bcdce1ae2a3ca59a41ad8e5a8e40113cf1b2a31176cf756f4a13c8354ec"
+  },
+  {
+    "id": "C016",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C016/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.498346888296997,
+      31.97770911114291,
+      31.69685579933166
+    ],
+    "input_sha256": "0347a61494b807396c515c9e462fa585628021b21dd95952a4c7018559322ff5",
+    "cif_sha256": "eb531bcdce1ae2a3ca59a41ad8e5a8e40113cf1b2a31176cf756f4a13c8354ec"
+  },
+  {
+    "id": "C016",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C016/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.498346888296997,
+      31.97770911114291,
+      31.69685579933166
+    ],
+    "input_sha256": "07aafe41278cc689c96260046c0e3715e084e101429f4de15aa8f68fc54d76ec",
+    "cif_sha256": "eb531bcdce1ae2a3ca59a41ad8e5a8e40113cf1b2a31176cf756f4a13c8354ec"
+  },
+  {
+    "id": "C017",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C017/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.70062413431924,
+      31.781236727933855,
+      31.636996806375542
+    ],
+    "input_sha256": "a562ed59fca91fdcb83a784fc7e7146feb1ceeaf65353fb22dd267fead80bfe7",
+    "cif_sha256": "2197491e570f458e0680c8df004349042f78683763c6fc75386149a25a8fdb85"
+  },
+  {
+    "id": "C017",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C017/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.70062413431924,
+      31.781236727933855,
+      31.636996806375542
+    ],
+    "input_sha256": "b647d4d009594934668f005dd4741d201b6494ffe75abbb149f3520a23c93e94",
+    "cif_sha256": "2197491e570f458e0680c8df004349042f78683763c6fc75386149a25a8fdb85"
+  },
+  {
+    "id": "C017",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C017/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.70062413431924,
+      31.781236727933855,
+      31.636996806375542
+    ],
+    "input_sha256": "5addb3467147bb0c4b218a6f9add7d8cd480c828d8d83cbf2e5f42eec9435f11",
+    "cif_sha256": "2197491e570f458e0680c8df004349042f78683763c6fc75386149a25a8fdb85"
+  },
+  {
+    "id": "C017",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C017/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.70062413431924,
+      31.781236727933855,
+      31.636996806375542
+    ],
+    "input_sha256": "9523a88a0161dbcc1f26c22ff942d2053e1d133cb21aa771dc618af4e518d4f6",
+    "cif_sha256": "2197491e570f458e0680c8df004349042f78683763c6fc75386149a25a8fdb85"
+  },
+  {
+    "id": "C018",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C018/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.555284620665358,
+      31.560757842792942,
+      31.51269147726718
+    ],
+    "input_sha256": "c1b533da90524b66f980c334fbe08e53b20707fe94c5515cdcca7fd8d3324a0d",
+    "cif_sha256": "e69e3c1b8a4ec2a7ea6baad0fc2aa995d0a8be48b2831cb33c3cd0449c1d50f1"
+  },
+  {
+    "id": "C018",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C018/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.555284620665358,
+      31.560757842792942,
+      31.51269147726718
+    ],
+    "input_sha256": "6c79bbbd32ba16d09bf4b1a2157baf7dff105c0ec47b778baf59952be1665275",
+    "cif_sha256": "e69e3c1b8a4ec2a7ea6baad0fc2aa995d0a8be48b2831cb33c3cd0449c1d50f1"
+  },
+  {
+    "id": "C018",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C018/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.555284620665358,
+      31.560757842792942,
+      31.51269147726718
+    ],
+    "input_sha256": "c39c76a4c71d6a62df68901aec01fd19e9ec1cb884103038c6d03e939c102ae8",
+    "cif_sha256": "e69e3c1b8a4ec2a7ea6baad0fc2aa995d0a8be48b2831cb33c3cd0449c1d50f1"
+  },
+  {
+    "id": "C018",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C018/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.555284620665358,
+      31.560757842792942,
+      31.51269147726718
+    ],
+    "input_sha256": "a38d82627ed2f3b035c59baf5e7eee1e76f0dd69f7c6938c0fbd0aed288e85d7",
+    "cif_sha256": "e69e3c1b8a4ec2a7ea6baad0fc2aa995d0a8be48b2831cb33c3cd0449c1d50f1"
+  },
+  {
+    "id": "C019",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C019/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.509848813302856,
+      31.466794700339257,
+      31.551422954454612
+    ],
+    "input_sha256": "06e957b67d5fb594274e5150955736c52b23f9ee420ff3678b4bbbfb93ef7ef9",
+    "cif_sha256": "d6958acc1e01dd6c2c31d9ad0230c9cde494f0925a753e16f329de384c1018fc"
+  },
+  {
+    "id": "C019",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C019/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.509848813302856,
+      31.466794700339257,
+      31.551422954454612
+    ],
+    "input_sha256": "f1e06bde4aa21def59112087363b79aa308d8873461c3e044e216394cba3be77",
+    "cif_sha256": "d6958acc1e01dd6c2c31d9ad0230c9cde494f0925a753e16f329de384c1018fc"
+  },
+  {
+    "id": "C019",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C019/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.509848813302856,
+      31.466794700339257,
+      31.551422954454612
+    ],
+    "input_sha256": "be6b71750e893a4e02a2fc8d1bebb2723b988376e4c6b126924f0a172a5a6ed4",
+    "cif_sha256": "d6958acc1e01dd6c2c31d9ad0230c9cde494f0925a753e16f329de384c1018fc"
+  },
+  {
+    "id": "C019",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C019/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.509848813302856,
+      31.466794700339257,
+      31.551422954454612
+    ],
+    "input_sha256": "060c09913364407d53cc5afbfbc182ab1adfee91b927f80b850ca4b35db4ba2b",
+    "cif_sha256": "d6958acc1e01dd6c2c31d9ad0230c9cde494f0925a753e16f329de384c1018fc"
+  },
+  {
+    "id": "C020",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C020/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      26.002110536927038,
+      26.10199514839313,
+      26.170932501549316
+    ],
+    "input_sha256": "159bc83bbc3bd7f4d97f7f2d8a210ccaf1ae6286e9b04e28724a2cc1f8e9be70",
+    "cif_sha256": "ca86aa80a3074aa3ed8d92083380ffe4a9374c4271831a2495c9f6a1f0bba029"
+  },
+  {
+    "id": "C020",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C020/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      26.002110536927038,
+      26.10199514839313,
+      26.170932501549316
+    ],
+    "input_sha256": "346e77c1e7ec8ec6e9533f03143d2ef33667a0949e3ddd6af87c8677f608386c",
+    "cif_sha256": "ca86aa80a3074aa3ed8d92083380ffe4a9374c4271831a2495c9f6a1f0bba029"
+  },
+  {
+    "id": "C020",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C020/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      26.002110536927038,
+      26.10199514839313,
+      26.170932501549316
+    ],
+    "input_sha256": "e46f48f4a0b69e2f6bcf347249c31284e0761d30ed4e79eeab5d2a47a87c0840",
+    "cif_sha256": "ca86aa80a3074aa3ed8d92083380ffe4a9374c4271831a2495c9f6a1f0bba029"
+  },
+  {
+    "id": "C020",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C020/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      26.002110536927038,
+      26.10199514839313,
+      26.170932501549316
+    ],
+    "input_sha256": "e39c05b42e6ac15b27e2b9414d0043f609632631e6bc6c10f173fc3d2901e13d",
+    "cif_sha256": "ca86aa80a3074aa3ed8d92083380ffe4a9374c4271831a2495c9f6a1f0bba029"
+  },
+  {
+    "id": "C021",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C021/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.151433117484967,
+      31.512288903667727,
+      31.19461823201069
+    ],
+    "input_sha256": "6a780857aa4ddb12c1dda02440d11ced4adffa0bd43521d2d3ec69b7e4aa5913",
+    "cif_sha256": "445c931b790e53907426154f3f07b45bc967259e2757b184bfa27a82b66406b3"
+  },
+  {
+    "id": "C021",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C021/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.151433117484967,
+      31.512288903667727,
+      31.19461823201069
+    ],
+    "input_sha256": "1a171f812f40acdd52a2acd141c4715e6e37d9f1cc48a171f1b466052acfe97d",
+    "cif_sha256": "445c931b790e53907426154f3f07b45bc967259e2757b184bfa27a82b66406b3"
+  },
+  {
+    "id": "C021",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C021/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.151433117484967,
+      31.512288903667727,
+      31.19461823201069
+    ],
+    "input_sha256": "98c02933e824259d840ef5f9e305dc8e2384e32377a5a8273fac37e3445cb227",
+    "cif_sha256": "445c931b790e53907426154f3f07b45bc967259e2757b184bfa27a82b66406b3"
+  },
+  {
+    "id": "C021",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C021/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.151433117484967,
+      31.512288903667727,
+      31.19461823201069
+    ],
+    "input_sha256": "f3ff302a5e10ef094f66d4234e8bc954ffc1a5c1dbda7d5045b24b94656c1753",
+    "cif_sha256": "445c931b790e53907426154f3f07b45bc967259e2757b184bfa27a82b66406b3"
+  },
+  {
+    "id": "C023",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C023/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.31270209418151,
+      36.089665908853014,
+      36.26963219415477
+    ],
+    "input_sha256": "6f405cae88d4e0d662f93e68f0f4649896afa741d9705efc04d17d49382b636f",
+    "cif_sha256": "c4c4f28edff1eb04850526685190f23dd26b8fa66e28486aa14a6de9f5a099d1"
+  },
+  {
+    "id": "C023",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C023/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.31270209418151,
+      36.089665908853014,
+      36.26963219415477
+    ],
+    "input_sha256": "8cd1e4721d92dd7642eed296224c2eae406c8b24c489dda22d2ac172a27191c5",
+    "cif_sha256": "c4c4f28edff1eb04850526685190f23dd26b8fa66e28486aa14a6de9f5a099d1"
+  },
+  {
+    "id": "C023",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C023/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.31270209418151,
+      36.089665908853014,
+      36.26963219415477
+    ],
+    "input_sha256": "ba3661e4a677d1a88cca03aaf98170a0585ba9da025d5bba4f87e08a40c9f26d",
+    "cif_sha256": "c4c4f28edff1eb04850526685190f23dd26b8fa66e28486aa14a6de9f5a099d1"
+  },
+  {
+    "id": "C023",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C023/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.31270209418151,
+      36.089665908853014,
+      36.26963219415477
+    ],
+    "input_sha256": "686839f5a0adb5741a7a860fc73d58188f846ab0ff3a18fae5f2be2d6bb0d1ff",
+    "cif_sha256": "c4c4f28edff1eb04850526685190f23dd26b8fa66e28486aa14a6de9f5a099d1"
+  },
+  {
+    "id": "C024",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C024/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.3590308076557,
+      36.790528278845755,
+      36.57822759971647
+    ],
+    "input_sha256": "6f762c4c58b3637d739d40aa553fc61dfc93648b84b72570f58529671b1e3f12",
+    "cif_sha256": "c2f8328778c71307d878f9a7fa7b35e676cb365e2b7e8a25e2f3ef20823a0810"
+  },
+  {
+    "id": "C024",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C024/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.3590308076557,
+      36.790528278845755,
+      36.57822759971647
+    ],
+    "input_sha256": "f7163cf714b1cf3f48f201da39faa587c8bc1dac1f2ca1067de62e9bf7752025",
+    "cif_sha256": "c2f8328778c71307d878f9a7fa7b35e676cb365e2b7e8a25e2f3ef20823a0810"
+  },
+  {
+    "id": "C024",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C024/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.3590308076557,
+      36.790528278845755,
+      36.57822759971647
+    ],
+    "input_sha256": "b827bb2e10adc721a099b0b59ca7fabd57586200713f6f9905b98052c61269f4",
+    "cif_sha256": "c2f8328778c71307d878f9a7fa7b35e676cb365e2b7e8a25e2f3ef20823a0810"
+  },
+  {
+    "id": "C024",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C024/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.3590308076557,
+      36.790528278845755,
+      36.57822759971647
+    ],
+    "input_sha256": "4d02383b598df21176477b41d926070f6e5ace934e5bdb1818f909cb16ebd86a",
+    "cif_sha256": "c2f8328778c71307d878f9a7fa7b35e676cb365e2b7e8a25e2f3ef20823a0810"
+  },
+  {
+    "id": "C025",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C025/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.206407186463174,
+      36.26379217822121,
+      36.32549705873915
+    ],
+    "input_sha256": "2560c700171a9cf3151142705a465f8148c0f897c01379ee80d40fd554920353",
+    "cif_sha256": "68873ffaae80aca3d4a1dca73f7971a0b96d308e656c4caadf917ed00d72d1f1"
+  },
+  {
+    "id": "C025",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C025/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.206407186463174,
+      36.26379217822121,
+      36.32549705873915
+    ],
+    "input_sha256": "6514d8cbda40bacaa3a92d5e4c0511b54b5009082e15bbd92158522a12a568d1",
+    "cif_sha256": "68873ffaae80aca3d4a1dca73f7971a0b96d308e656c4caadf917ed00d72d1f1"
+  },
+  {
+    "id": "C025",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C025/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.206407186463174,
+      36.26379217822121,
+      36.32549705873915
+    ],
+    "input_sha256": "4050589ebe3866ddc3fee8309f13357cd1689240fc19cb491105dc3da84dfb79",
+    "cif_sha256": "68873ffaae80aca3d4a1dca73f7971a0b96d308e656c4caadf917ed00d72d1f1"
+  },
+  {
+    "id": "C025",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C025/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.206407186463174,
+      36.26379217822121,
+      36.32549705873915
+    ],
+    "input_sha256": "a388b6dac1c169c4aa5f86808d38066b1b5e0c55c7998bc4f1744e051ce0b9ca",
+    "cif_sha256": "68873ffaae80aca3d4a1dca73f7971a0b96d308e656c4caadf917ed00d72d1f1"
+  },
+  {
+    "id": "C027",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C027/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      34.4876928222154,
+      34.596819218058066,
+      34.55697098702202
+    ],
+    "input_sha256": "f6de0b22f8a514338e15705724dff75e5c37d1f163ef663c6c517edd8ab7bca6",
+    "cif_sha256": "032b67fd214c347c7dc30b0d35ae68d53759cd4e83b9c54b750515dc4b53190c"
+  },
+  {
+    "id": "C027",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C027/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      34.4876928222154,
+      34.596819218058066,
+      34.55697098702202
+    ],
+    "input_sha256": "66f7dddacf2d9f25cd0ccc63c6dc00097d951a163ab4eb7d310a8e375d6f9523",
+    "cif_sha256": "032b67fd214c347c7dc30b0d35ae68d53759cd4e83b9c54b750515dc4b53190c"
+  },
+  {
+    "id": "C027",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C027/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      34.4876928222154,
+      34.596819218058066,
+      34.55697098702202
+    ],
+    "input_sha256": "1503c295e46cf2e36acc6be7c4cabacba1ded3e16dae3434d8060ca114be56b9",
+    "cif_sha256": "032b67fd214c347c7dc30b0d35ae68d53759cd4e83b9c54b750515dc4b53190c"
+  },
+  {
+    "id": "C027",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C027/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      34.4876928222154,
+      34.596819218058066,
+      34.55697098702202
+    ],
+    "input_sha256": "f3ebc78cb08475e7e41b6b5ed7555678b15bc2ddd97c4a4cbfe335429c61d103",
+    "cif_sha256": "032b67fd214c347c7dc30b0d35ae68d53759cd4e83b9c54b750515dc4b53190c"
+  },
+  {
+    "id": "C028",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C028/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.622662213448166,
+      31.741146239977418,
+      31.977266742686673
+    ],
+    "input_sha256": "ab36d7d8ef9e094079eab5b23fd3892a6971466e75d7bf1b1626ceae6b05c036",
+    "cif_sha256": "162b61a8e875debc7fa8381c23f82f173228a30cc297e07cdf047af924cd389d"
+  },
+  {
+    "id": "C028",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C028/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.622662213448166,
+      31.741146239977418,
+      31.977266742686673
+    ],
+    "input_sha256": "ac89b54ad045bd5546449de2dea7377d336e3603c4cde98902c6e8d72835776e",
+    "cif_sha256": "162b61a8e875debc7fa8381c23f82f173228a30cc297e07cdf047af924cd389d"
+  },
+  {
+    "id": "C028",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C028/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.622662213448166,
+      31.741146239977418,
+      31.977266742686673
+    ],
+    "input_sha256": "515c5abbae11e2d28545371b5fdc90eaa27de07f386bed79cd757d85026d7d85",
+    "cif_sha256": "162b61a8e875debc7fa8381c23f82f173228a30cc297e07cdf047af924cd389d"
+  },
+  {
+    "id": "C028",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C028/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      31.622662213448166,
+      31.741146239977418,
+      31.977266742686673
+    ],
+    "input_sha256": "acf716d360295dd8d0880e1c0d4209998c4254ae23e4425beecd30fe1e57c08b",
+    "cif_sha256": "162b61a8e875debc7fa8381c23f82f173228a30cc297e07cdf047af924cd389d"
+  },
+  {
+    "id": "C029",
+    "seed": 1701,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C029/1701/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.49876783184939,
+      36.51710828660901,
+      36.514675842180075
+    ],
+    "input_sha256": "37d274924d95765c46572523749282bd613723684235bc96b06a9eba7dd59681",
+    "cif_sha256": "74f4b911b571b3cd90c0e594edc20258de6d43badad2d1621d2ac12b23b9ff69"
+  },
+  {
+    "id": "C029",
+    "seed": 1701,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C029/1701/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.49876783184939,
+      36.51710828660901,
+      36.514675842180075
+    ],
+    "input_sha256": "8b6a2c1a156325ecd39131df1b0b5ba0a87d6e01baf3202fa6414bc2bb470619",
+    "cif_sha256": "74f4b911b571b3cd90c0e594edc20258de6d43badad2d1621d2ac12b23b9ff69"
+  },
+  {
+    "id": "C029",
+    "seed": 1702,
+    "kind": "widom",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C029/1702/widom",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.49876783184939,
+      36.51710828660901,
+      36.514675842180075
+    ],
+    "input_sha256": "a9881ea84cc4422ff09cb4847342be345030035b53e3483b60ec9c858c6a02f5",
+    "cif_sha256": "74f4b911b571b3cd90c0e594edc20258de6d43badad2d1621d2ac12b23b9ff69"
+  },
+  {
+    "id": "C029",
+    "seed": 1702,
+    "kind": "gcmc",
+    "directory": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/performance/runs/C029/1702/gcmc",
+    "unit_cells": [
+      2,
+      2,
+      2
+    ],
+    "supercell_heights": [
+      36.49876783184939,
+      36.51710828660901,
+      36.514675842180075
+    ],
+    "input_sha256": "8253764aaa4a25466fcd2152c6014fb2f15f080d7fbb10fc3d82bce3f6b45b12",
+    "cif_sha256": "74f4b911b571b3cd90c0e594edc20258de6d43badad2d1621d2ac12b23b9ff69"
+  }
+]

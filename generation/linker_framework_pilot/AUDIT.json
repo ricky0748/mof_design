@@ -1,0 +1,13 @@
+{
+  "frozen_selected_sha256": "44554ecc794be7f28dcfc4550b04bddcb0f88f179f956ab97442edf34e4512a4",
+  "n_unique_neutral_ligands": 20,
+  "completed_relaxations_including_controls": 23,
+  "formal_mofid_records": 21,
+  "primary_A": 0,
+  "primary_B": 1,
+  "B_incompatible": 19,
+  "final_analysis_sha256": "0db67bfde89e2ccb73f9abf320005b7fcd8efbefec92f73d3778894216deb700",
+  "evidence_archive": "evidence_archive/",
+  "bundle_sha256": "e68a1671234dccf7b8ea53ef900eefd8d876eb7a12d66ab0762ccfde42d80e00",
+  "verified": true
+}

@@ -1,0 +1,630 @@
+[
+  {
+    "name": "bcu+N715+E158",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "bcu+N715+E18",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "bnn+N599+E142",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "bnn+N85+E92",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "cds+N93+E162",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N192+E216",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N192+E43",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N192+E79",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N262+E179",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N262+E72",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N331+E102",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N507+E89",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N629+E79",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N699+E36",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N715+E206",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "hex+N78+E149",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "kag+N214+E131",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "nce+N419+E120",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "pcu+N148+E120",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E131",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E142",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E149",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E151",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E162",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E165",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E167",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E181",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E185",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E187",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E188",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E19",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E206",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E21",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E217",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E224",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E234",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E25",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E28",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E44",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E48",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E68",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E72",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N148+E92",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N209+E131",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "pcu+N209+E134",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "pcu+N209+E19",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "pcu+N209+E204",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "pcu+N214+E113",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E131",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E158",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E16",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E179",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E190",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E195",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E199",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E27",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E72",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N214+E92",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N222+E48",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N264+E206",
+    "reason": "no_supported_metal_in_node"
+  },
+  {
+    "name": "pcu+N264+E79",
+    "reason": "no_supported_metal_in_node"
+  },
+  {
+    "name": "pcu+N284+E131",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N284+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N314+E224",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E111",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E119",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E131",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E184",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E185",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E206",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E216",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E217",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E224",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E25",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E28",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E44",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E49",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E72",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E84",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N336+E92",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N529+E160",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N529+E185",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N599+E131",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "pcu+N599+E185",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "pcu+N694+E113",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E131",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E163",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E184",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E188",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E19",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E206",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E211",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E224",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E25",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E44",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E48",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E49",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E89",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N694+E98",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E131",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E14",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E142",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E149",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E158",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E181",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E204",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E206",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E25",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E28",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E29",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E43",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E44",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E72",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E84",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E85",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "pcu+N85+E92",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N148+E112",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N148+E179",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N148+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N209+E48",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "qtz-x+N209+E73",
+    "reason": "not_single_matching_node_type"
+  },
+  {
+    "name": "qtz-x+N214+E21",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N214+E24",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N214+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N336+E113",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N336+E131",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N336+E199",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N336+E206",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N336+E38",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N336+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N37+E44",
+    "reason": "no_supported_metal_in_node"
+  },
+  {
+    "name": "qtz-x+N694+E224",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N694+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "qtz-x+N85+E113",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "rob+N85+E151",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "rob+N85+E158",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "rob+N85+E19",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "sev+N284+E131",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "smu+N560+E49",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "snp+N148+E72",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "snp+N336+E24",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "snp+N336+E25",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "snp+N694+E72",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "snp+N85+E150",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "sxa+N234+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "sxa+N336+E16",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "sxa+N336+E181",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "sxa+N336+E224",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "sxa+N336+E43",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "sxa+N336+E73",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "sxb+N559+E202",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "tsi+N262+E18",
+    "reason": "node_not_all_carboxylate_connectors"
+  },
+  {
+    "name": "wkj+N702+E199",
+    "reason": "node_not_all_carboxylate_connectors"
+  }
+]

@@ -1,0 +1,82 @@
+{
+ "fcu/chem": {
+  "n": 149,
+  "build": 1.0,
+  "dev_ok": 0.329,
+  "rmsd_ok": 1.0,
+  "no_clash": 0.336,
+  "success": 0.208,
+  "chem_correct": 1.0,
+  "success_and_correct": 0.208
+ },
+ "fcu/geom": {
+  "n": 149,
+  "build": 1.0,
+  "dev_ok": 0.51,
+  "rmsd_ok": 1.0,
+  "no_clash": 0.732,
+  "success": 0.396,
+  "chem_correct": 0.483,
+  "success_and_correct": 0.228
+ },
+ "nbo/chem": {
+  "n": 149,
+  "build": 1.0,
+  "dev_ok": 0.329,
+  "rmsd_ok": 1.0,
+  "no_clash": 0.564,
+  "success": 0.268,
+  "chem_correct": 1.0,
+  "success_and_correct": 0.268
+ },
+ "nbo/geom": {
+  "n": 149,
+  "build": 1.0,
+  "dev_ok": 0.51,
+  "rmsd_ok": 1.0,
+  "no_clash": 0.899,
+  "success": 0.456,
+  "chem_correct": 0.483,
+  "success_and_correct": 0.255
+ },
+ "pcu/chem": {
+  "n": 149,
+  "build": 1.0,
+  "dev_ok": 0.329,
+  "rmsd_ok": 1.0,
+  "no_clash": 0.711,
+  "success": 0.302,
+  "chem_correct": 1.0,
+  "success_and_correct": 0.302
+ },
+ "pcu/geom": {
+  "n": 149,
+  "build": 1.0,
+  "dev_ok": 0.51,
+  "rmsd_ok": 1.0,
+  "no_clash": 0.966,
+  "success": 0.503,
+  "chem_correct": 0.483,
+  "success_and_correct": 0.268
+ },
+ "tbo/chem": {
+  "n": 80,
+  "build": 1.0,
+  "dev_ok": 0.375,
+  "rmsd_ok": 0.762,
+  "no_clash": 0.638,
+  "success": 0.2,
+  "chem_correct": 1.0,
+  "success_and_correct": 0.2
+ },
+ "tbo/geom": {
+  "n": 80,
+  "build": 1.0,
+  "dev_ok": 0.388,
+  "rmsd_ok": 0.675,
+  "no_clash": 0.812,
+  "success": 0.25,
+  "chem_correct": 0.512,
+  "success_and_correct": 0.162
+ }
+}

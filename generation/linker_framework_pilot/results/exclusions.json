@@ -1,0 +1,1272 @@
+[
+  {
+    "seq_idx": 9,
+    "source_name": "mofflow2s_008",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 16,
+    "source_name": "mofflow2s_013",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 19,
+    "source_name": "mofflow2s_015",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 22,
+    "source_name": "mofflow2s_017",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 24,
+    "source_name": "mofflow2s_019",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 25,
+    "source_name": "mofflow2s_020",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 26,
+    "source_name": "mofflow2s_021",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 30,
+    "source_name": "mofflow2s_024",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 32,
+    "source_name": "mofflow2s_025",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 34,
+    "source_name": "mofflow2s_027",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 38,
+    "source_name": "mofflow2s_031",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 43,
+    "source_name": "mofflow2s_034",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 48,
+    "source_name": "mofflow2s_038",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 51,
+    "source_name": "mofflow2s_041",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 53,
+    "source_name": "mofflow2s_042",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 54,
+    "source_name": "mofflow2s_043",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 58,
+    "source_name": "mofflow2s_046",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 62,
+    "source_name": "mofflow2s_050",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 64,
+    "source_name": "mofflow2s_052",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 83,
+    "source_name": "mofflow2s_064",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 85,
+    "source_name": "mofflow2s_066",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 88,
+    "source_name": "mofflow2s_069",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 89,
+    "source_name": "mofflow2s_070",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 93,
+    "source_name": "mofflow2s_073",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 98,
+    "source_name": "mofflow2s_076",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 100,
+    "source_name": "mofflow2s_077",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 101,
+    "source_name": "mofflow2s_078",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 102,
+    "source_name": "mofflow2s_079",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 109,
+    "source_name": "mofflow2s_085",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 110,
+    "source_name": "mofflow2s_086",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 113,
+    "source_name": "mofflow2s_089",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 115,
+    "source_name": "mofflow2s_091",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 116,
+    "source_name": "mofflow2s_092",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 118,
+    "source_name": "mofflow2s_094",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 129,
+    "source_name": "mofflow2s_102",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 131,
+    "source_name": "mofflow2s_104",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 137,
+    "source_name": "mofflow2s_109",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 139,
+    "source_name": "mofflow2s_111",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 140,
+    "source_name": "mofflow2s_112",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 142,
+    "source_name": "mofflow2s_113",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 145,
+    "source_name": "mofflow2s_116",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 147,
+    "source_name": "mofflow2s_118",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 151,
+    "source_name": "mofflow2s_121",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 154,
+    "source_name": "mofflow2s_124",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 157,
+    "source_name": "mofflow2s_127",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 161,
+    "source_name": "mofflow2s_131",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 162,
+    "source_name": "mofflow2s_132",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 164,
+    "source_name": "mofflow2s_134",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 171,
+    "source_name": "mofflow2s_139",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 176,
+    "source_name": "mofflow2s_143",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 179,
+    "source_name": "mofflow2s_146",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 183,
+    "source_name": "mofflow2s_149",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 185,
+    "source_name": "mofflow2s_151",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 188,
+    "source_name": "mofflow2s_154",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 193,
+    "source_name": "mofflow2s_158",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 194,
+    "source_name": "mofflow2s_159",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 199,
+    "source_name": "mofflow2s_164",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 202,
+    "source_name": "mofflow2s_165",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 203,
+    "source_name": "mofflow2s_166",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 205,
+    "source_name": "mofflow2s_168",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 216,
+    "source_name": "mofflow2s_174",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 222,
+    "source_name": "mofflow2s_180",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 224,
+    "source_name": "mofflow2s_182",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 231,
+    "source_name": "mofflow2s_186",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 232,
+    "source_name": "mofflow2s_187",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 235,
+    "source_name": "mofflow2s_190",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 250,
+    "source_name": "mofflow2s_203",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 252,
+    "source_name": "mofflow2s_204",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 253,
+    "source_name": "mofflow2s_205",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 255,
+    "source_name": "mofflow2s_206",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 257,
+    "source_name": "mofflow2s_208",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 264,
+    "source_name": "mofflow2s_211",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 266,
+    "source_name": "mofflow2s_213",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 272,
+    "source_name": "mofflow2s_216",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 275,
+    "source_name": "mofflow2s_219",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 276,
+    "source_name": "mofflow2s_220",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 278,
+    "source_name": "mofflow2s_222",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 279,
+    "source_name": "mofflow2s_223",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 282,
+    "source_name": "mofflow2s_226",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 284,
+    "source_name": "mofflow2s_228",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 287,
+    "source_name": "mofflow2s_231",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 288,
+    "source_name": "mofflow2s_232",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 294,
+    "source_name": "mofflow2s_237",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 296,
+    "source_name": "mofflow2s_239",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 309,
+    "source_name": "mofflow2s_252",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 318,
+    "source_name": "mofflow2s_260",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 324,
+    "source_name": "mofflow2s_265",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 331,
+    "source_name": "mofflow2s_271",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 333,
+    "source_name": "mofflow2s_273",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 335,
+    "source_name": "mofflow2s_275",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 338,
+    "source_name": "mofflow2s_278",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 344,
+    "source_name": "mofflow2s_283",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 347,
+    "source_name": "mofflow2s_286",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 348,
+    "source_name": "mofflow2s_287",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 350,
+    "source_name": "mofflow2s_289",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 354,
+    "source_name": "mofflow2s_293",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 360,
+    "source_name": "mofflow2s_298",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 365,
+    "source_name": "mofflow2s_302",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 381,
+    "source_name": "mofflow2s_316",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 382,
+    "source_name": "mofflow2s_317",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 386,
+    "source_name": "mofflow2s_321",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 396,
+    "source_name": "mofflow2s_330",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 500,
+    "source_name": "mofflow2s_332",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 505,
+    "source_name": "mofflow2s_335",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 509,
+    "source_name": "mofflow2s_338",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 512,
+    "source_name": "mofflow2s_341",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 513,
+    "source_name": "mofflow2s_342",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 515,
+    "source_name": "mofflow2s_343",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 521,
+    "source_name": "mofflow2s_348",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 525,
+    "source_name": "mofflow2s_351",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 533,
+    "source_name": "mofflow2s_359",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 542,
+    "source_name": "mofflow2s_368",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 545,
+    "source_name": "mofflow2s_370",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 550,
+    "source_name": "mofflow2s_374",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 555,
+    "source_name": "mofflow2s_378",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 556,
+    "source_name": "mofflow2s_379",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 565,
+    "source_name": "mofflow2s_388",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 572,
+    "source_name": "mofflow2s_395",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 579,
+    "source_name": "mofflow2s_402",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 584,
+    "source_name": "mofflow2s_407",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 586,
+    "source_name": "mofflow2s_409",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 589,
+    "source_name": "mofflow2s_412",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 590,
+    "source_name": "mofflow2s_413",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 591,
+    "source_name": "mofflow2s_414",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 592,
+    "source_name": "mofflow2s_415",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 597,
+    "source_name": "mofflow2s_418",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 602,
+    "source_name": "mofflow2s_423",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 605,
+    "source_name": "mofflow2s_426",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 607,
+    "source_name": "mofflow2s_428",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 619,
+    "source_name": "mofflow2s_438",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 622,
+    "source_name": "mofflow2s_441",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 624,
+    "source_name": "mofflow2s_443",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 627,
+    "source_name": "mofflow2s_446",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 628,
+    "source_name": "mofflow2s_447",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 636,
+    "source_name": "mofflow2s_454",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 645,
+    "source_name": "mofflow2s_460",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 647,
+    "source_name": "mofflow2s_462",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 648,
+    "source_name": "mofflow2s_463",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 649,
+    "source_name": "mofflow2s_464",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 652,
+    "source_name": "mofflow2s_467",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 656,
+    "source_name": "mofflow2s_471",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 657,
+    "source_name": "mofflow2s_472",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 661,
+    "source_name": "mofflow2s_476",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 662,
+    "source_name": "mofflow2s_477",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 663,
+    "source_name": "mofflow2s_478",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 665,
+    "source_name": "mofflow2s_480",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 675,
+    "source_name": "mofflow2s_487",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 680,
+    "source_name": "mofflow2s_489",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 681,
+    "source_name": "mofflow2s_490",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 683,
+    "source_name": "mofflow2s_492",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 694,
+    "source_name": "mofflow2s_502",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 695,
+    "source_name": "mofflow2s_503",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 698,
+    "source_name": "mofflow2s_506",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 703,
+    "source_name": "mofflow2s_510",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 706,
+    "source_name": "mofflow2s_513",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 709,
+    "source_name": "mofflow2s_516",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 713,
+    "source_name": "mofflow2s_519",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 715,
+    "source_name": "mofflow2s_521",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 717,
+    "source_name": "mofflow2s_522",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 718,
+    "source_name": "mofflow2s_523",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 719,
+    "source_name": "mofflow2s_524",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 720,
+    "source_name": "mofflow2s_525",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 725,
+    "source_name": "mofflow2s_530",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 727,
+    "source_name": "mofflow2s_531",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 729,
+    "source_name": "mofflow2s_532",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 730,
+    "source_name": "mofflow2s_533",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 733,
+    "source_name": "mofflow2s_536",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 734,
+    "source_name": "mofflow2s_537",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 735,
+    "source_name": "mofflow2s_538",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 740,
+    "source_name": "mofflow2s_541",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 746,
+    "source_name": "mofflow2s_546",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 747,
+    "source_name": "mofflow2s_547",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 748,
+    "source_name": "mofflow2s_548",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 750,
+    "source_name": "mofflow2s_550",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 751,
+    "source_name": "mofflow2s_551",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 756,
+    "source_name": "mofflow2s_555",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 765,
+    "source_name": "mofflow2s_563",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 769,
+    "source_name": "mofflow2s_567",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 770,
+    "source_name": "mofflow2s_568",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 771,
+    "source_name": "mofflow2s_569",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 775,
+    "source_name": "mofflow2s_572",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 776,
+    "source_name": "mofflow2s_573",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 778,
+    "source_name": "mofflow2s_575",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 779,
+    "source_name": "mofflow2s_576",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 782,
+    "source_name": "mofflow2s_579",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 789,
+    "source_name": "mofflow2s_586",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 793,
+    "source_name": "mofflow2s_589",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 795,
+    "source_name": "mofflow2s_591",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 797,
+    "source_name": "mofflow2s_592",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 799,
+    "source_name": "mofflow2s_594",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 802,
+    "source_name": "mofflow2s_596",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 803,
+    "source_name": "mofflow2s_597",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 804,
+    "source_name": "mofflow2s_598",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 808,
+    "source_name": "mofflow2s_602",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 810,
+    "source_name": "mofflow2s_604",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 811,
+    "source_name": "mofflow2s_605",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 813,
+    "source_name": "mofflow2s_607",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 817,
+    "source_name": "mofflow2s_609",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 823,
+    "source_name": "mofflow2s_615",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 826,
+    "source_name": "mofflow2s_618",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 828,
+    "source_name": "mofflow2s_620",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 832,
+    "source_name": "mofflow2s_622",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 836,
+    "source_name": "mofflow2s_625",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 838,
+    "source_name": "mofflow2s_627",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 845,
+    "source_name": "mofflow2s_633",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 846,
+    "source_name": "mofflow2s_634",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 847,
+    "source_name": "mofflow2s_635",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 848,
+    "source_name": "mofflow2s_636",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 850,
+    "source_name": "mofflow2s_637",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 855,
+    "source_name": "mofflow2s_641",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 856,
+    "source_name": "mofflow2s_642",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 858,
+    "source_name": "mofflow2s_644",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 860,
+    "source_name": "mofflow2s_646",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 864,
+    "source_name": "mofflow2s_650",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 865,
+    "source_name": "mofflow2s_651",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 867,
+    "source_name": "mofflow2s_653",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 874,
+    "source_name": "mofflow2s_658",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 882,
+    "source_name": "mofflow2s_664",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 893,
+    "source_name": "mofflow2s_672",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 894,
+    "source_name": "mofflow2s_673",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 897,
+    "source_name": "mofflow2s_675",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 902,
+    "source_name": "mofflow2s_677",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 903,
+    "source_name": "mofflow2s_678",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 904,
+    "source_name": "mofflow2s_679",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 906,
+    "source_name": "mofflow2s_681",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 911,
+    "source_name": "mofflow2s_684",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 913,
+    "source_name": "mofflow2s_686",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 918,
+    "source_name": "mofflow2s_689",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 925,
+    "source_name": "mofflow2s_695",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 928,
+    "source_name": "mofflow2s_698",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 930,
+    "source_name": "mofflow2s_700",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 931,
+    "source_name": "mofflow2s_701",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 934,
+    "source_name": "mofflow2s_704",
+    "reason": "not_exactly_two_carboxylate_anchors"
+  },
+  {
+    "seq_idx": 936,
+    "source_name": "mofflow2s_705",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 944,
+    "source_name": "mofflow2s_711",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 946,
+    "source_name": "mofflow2s_713",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 949,
+    "source_name": "mofflow2s_715",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 951,
+    "source_name": "mofflow2s_717",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 952,
+    "source_name": "mofflow2s_718",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 953,
+    "source_name": "mofflow2s_719",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 954,
+    "source_name": "mofflow2s_720",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 955,
+    "source_name": "mofflow2s_721",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 971,
+    "source_name": "mofflow2s_731",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 973,
+    "source_name": "mofflow2s_733",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 974,
+    "source_name": "mofflow2s_734",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 978,
+    "source_name": "mofflow2s_737",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 984,
+    "source_name": "mofflow2s_740",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 985,
+    "source_name": "mofflow2s_741",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 987,
+    "source_name": "mofflow2s_743",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 988,
+    "source_name": "mofflow2s_744",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 989,
+    "source_name": "mofflow2s_745",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 990,
+    "source_name": "mofflow2s_746",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 991,
+    "source_name": "mofflow2s_747",
+    "reason": "not_single_unique_organic_linker"
+  },
+  {
+    "seq_idx": 993,
+    "source_name": "mofflow2s_748",
+    "reason": "not_single_unique_organic_linker"
+  }
+]

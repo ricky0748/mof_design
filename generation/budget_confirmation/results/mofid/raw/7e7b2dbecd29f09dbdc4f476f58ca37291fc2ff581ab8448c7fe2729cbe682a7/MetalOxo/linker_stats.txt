@@ -1,0 +1,2 @@
+KAJNWBAEWFCLLJ-UHFFFAOYSA-M	2	1	InChI=1S/C16H8NO6.O.V/c18-15(19)9-2-1-8-3-4-11-10(12(8)7-9)5-6-13(23-17-22)14(11)16(20)21;;/h1-7H,(H,18,19);;/q;;+1/p-1	KAJNWBAEWFCLLJ	O=[V]OC(=O)c1ccc2c(c1)c1ccc(c(c1cc2)[C]([O])[O])O[N][O]	[O][V]O[C]([c]1[cH][cH][c]2[c]([cH]1)[c]1[cH][cH][c]([c]([c]1[cH][cH]2)[C]([O])[O])O[N][O])[O]
+

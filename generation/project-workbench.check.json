@@ -1,0 +1,93 @@
+{
+  "entry": "http://127.0.0.1:8765/generation/project-workbench.html",
+  "artifact": {
+    "sha256": "984d04bb9d0d1c275fe1d4046807cad579ad649e56b0a7d0939385c6f89d6d3e",
+    "bytes": 74711
+  },
+  "views": [
+    {
+      "view": "overview",
+      "nodes": 12,
+      "edges": 13,
+      "bodyOverflow": false,
+      "clipped": [],
+      "nodeRouteCollisions": []
+    },
+    {
+      "view": "generation",
+      "nodes": 15,
+      "edges": 10,
+      "bodyOverflow": false,
+      "clipped": [],
+      "nodeRouteCollisions": []
+    },
+    {
+      "view": "quality",
+      "nodes": 11,
+      "edges": 13,
+      "bodyOverflow": false,
+      "clipped": [],
+      "nodeRouteCollisions": []
+    },
+    {
+      "view": "identity",
+      "nodes": 10,
+      "edges": 8,
+      "bodyOverflow": false,
+      "clipped": [],
+      "nodeRouteCollisions": []
+    },
+    {
+      "view": "performance",
+      "nodes": 11,
+      "edges": 11,
+      "bodyOverflow": false,
+      "clipped": [],
+      "nodeRouteCollisions": []
+    },
+    {
+      "view": "research",
+      "nodes": 9,
+      "edges": 9,
+      "bodyOverflow": false,
+      "clipped": [],
+      "nodeRouteCollisions": []
+    }
+  ],
+  "interaction": {
+    "inspector": true,
+    "trace": true,
+    "search": true,
+    "notes": true,
+    "fit": true,
+    "export": true
+  },
+  "screenshots": [
+    "project-workbench.overview.png",
+    "project-workbench.generation.png",
+    "project-workbench.quality.png",
+    "project-workbench.identity.png",
+    "project-workbench.performance.png",
+    "project-workbench.research.png",
+    "project-workbench.detail.png",
+    "project-workbench.overview-1440.png",
+    "project-workbench.overview-1920.png",
+    "project-workbench.narrow-900.png",
+    "project-workbench.narrow-600.png"
+  ],
+  "narrow": [
+    {
+      "width": 900,
+      "bodyOverflow": false,
+      "mapFits": true,
+      "zoom": 0.721551724137931
+    },
+    {
+      "width": 600,
+      "bodyOverflow": false,
+      "mapFits": true,
+      "zoom": 0.46293103448275863
+    }
+  ],
+  "ok": true
+}

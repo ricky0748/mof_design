@@ -1,0 +1,1 @@
+C[CH]CC(=CC[CH]C(=[C])[C])[C][C]([O])[O].[O]O[C]O[O].[V] MOFid-v1.ERROR.cat0.NO_REF;A_H12

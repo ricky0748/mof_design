@@ -1,0 +1,2 @@
+JVWQTDBHORNHPQ-UHFFFAOYSA-L	2	3	InChI=1S/C17H12O5/c1-22-11-7-14-12(15(8-11)17(20)21)5-4-9-2-3-10(16(18)19)6-13(9)14/h2-8H,1H3,(H,18,19)(H,20,21)/p-2	JVWQTDBHORNHPQ	COc1cc(C(=O)[O-])c2c(c1)c1cc(ccc1cc2)C(=O)[O-]	CO[c]1[cH][c]([C]([O])[O-])[c]2[c]([cH]1)[c]1[cH][c]([cH][cH][c]1[cH][cH]2)[C]([O])[O-]
+

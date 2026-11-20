@@ -1,0 +1,11 @@
+{
+  "stage": "before_formal_build",
+  "hashes": {
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/metals/metal_lib_train.pkl": "178519ee21030e161dd7f102b5b1a176cb6b5f6867321e83f38b21a8678096fb",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/seqs/vocab.json": "7c6b0a7ba53f9ccfc6ea34487bf3e6004978a58164d095f089d39045b08ead87",
+    "/share/rickyswork/ai_mof/generation/pilots/EGMOF/.venv/lib/python3.12/site-packages/pormake/database/bbs/N16.xyz": "8d96b0c4acadafc488d7887e1e2c744b52ff932461d2f0eedb39c57a825ff7c9",
+    "/share/rickyswork/ai_mof/generation/pilots/EGMOF/.venv/lib/python3.12/site-packages/pormake/database/topologies/pcu.cgd": "a92ed8f9045c565f7e5b7d373dece214dad9424369b0bbe3121ea5ca04526202"
+  },
+  "pormake": "0.2.2",
+  "rdkit": "2025.9.6"
+}

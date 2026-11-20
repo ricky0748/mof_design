@@ -1,0 +1,1 @@
+CC(Cc1ccc2c(c1C(=O)[O-])ccc1c2cc(cc1)C(=O)[O-])O.CCCc1ccc2c(c1C(=O)[O-])ccc1c2cc(cc1)C(=O)[O-].[O].[V] MOFid-v1.ERROR.cat0.NO_REF;A300_B30

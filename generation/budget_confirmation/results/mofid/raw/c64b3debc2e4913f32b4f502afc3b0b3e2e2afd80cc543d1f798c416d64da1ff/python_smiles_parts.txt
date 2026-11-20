@@ -1,0 +1,6 @@
+node	[O][V]
+node	[O][V][O]
+node	[V]O[V]
+linker	CCCc1cc(cc2c1ccc1c2cccc1C(=O)[O-])C(=O)OC(=O)c1cccc2c1ccc1c2cc(cc1CCC)C(=O)[O-]
+linker	CCCc1cc(cc2c1ccc1c2cccc1C(=O)[O-])C(=O)[O-]
+linker	[O-]C(=O)[O-]

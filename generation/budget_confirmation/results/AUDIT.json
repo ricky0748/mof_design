@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "generated_sequences": 600,
+  "selected": 30,
+  "prior_identities_excluded": 58,
+  "source_hashes_verified": true,
+  "signed_logical_records": 120,
+  "physical_formal_jobs": 92,
+  "derived_D7_records": 28,
+  "derived_budgets_valid": true,
+  "native_mappings": 30,
+  "reread_discrepancies": [
+    {
+      "name": "A300_B04",
+      "in_memory": {
+        "natoms": 148,
+        "volume": 2262.3244160939744,
+        "dmin": 0.0018339349365823158,
+        "fragments": 62
+      },
+      "reread": {
+        "natoms": 147,
+        "volume": 2262.3244160939744,
+        "dmin": 0.2761483581034752,
+        "fragments": 62
+      },
+      "geometry_changed": false
+    },
+    {
+      "name": "S300_B25",
+      "in_memory": {
+        "natoms": 119,
+        "volume": 3771.725271236161,
+        "dmin": 0.013955560903274683,
+        "fragments": 31
+      },
+      "reread": {
+        "natoms": 118,
+        "volume": 3771.7252712361674,
+        "dmin": 0.5158916365763341,
+        "fragments": 33
+      },
+      "geometry_changed": false
+    }
+  ],
+  "report_totals_verified": true
+}

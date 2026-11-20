@@ -1,0 +1,2 @@
+MSVQFPRZRBDGSI-UHFFFAOYSA-L	2	3	InChI=1S/C17H12O5/c1-22-15-7-9-5-6-11-10(3-2-4-12(11)16(18)19)13(9)8-14(15)17(20)21/h2-8H,1H3,(H,18,19)(H,20,21)/p-2	MSVQFPRZRBDGSI	COc1cc2ccc3c(c2cc1C(=O)[O-])cccc3C(=O)[O-]	CO[c]1[cH][c]2[cH][cH][c]3[c]([c]2[cH][c]1[C]([O])[O-])[cH][cH][cH][c]3[C]([O])[O-]
+

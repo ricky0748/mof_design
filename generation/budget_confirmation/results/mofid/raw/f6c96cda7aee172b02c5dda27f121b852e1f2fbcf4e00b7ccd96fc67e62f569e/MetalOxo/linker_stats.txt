@@ -1,0 +1,2 @@
+CHLRMPHKUOCTGC-UHFFFAOYSA-L	2	3	InChI=1S/C23H18O5/c1-2-9-28-21-12-20-16(19-11-15(23(26)27)6-8-17(19)21)7-5-13-3-4-14(22(24)25)10-18(13)20/h3-8,10-12H,2,9H2,1H3,(H,24,25)(H,26,27)/p-2	CHLRMPHKUOCTGC	CCCOc1cc2c3cc(ccc3ccc2c2c1ccc(c2)C(=O)[O-])C(=O)[O-]	CCCO[c]1[cH][c]2[c]3[cH][c]([cH][cH][c]3[cH][cH][c]2[c]2[c]1[cH][cH][c]([cH]2)[C]([O])[O-])[C]([O])[O-]
+

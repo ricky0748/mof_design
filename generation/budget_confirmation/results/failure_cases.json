@@ -1,0 +1,189 @@
+[
+  {
+    "id": "B02",
+    "smiles": "CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12",
+    "branches": {
+      "S300": {
+        "geometry": false,
+        "strict_joint": false,
+        "converged": false,
+        "dmin": 0.4271883368127021,
+        "fragments": 29,
+        "topology": "NA",
+        "target_recovered": false,
+        "exact_linker_set": false,
+        "observed_linkers": []
+      },
+      "D7": {
+        "geometry": false,
+        "strict_joint": false,
+        "converged": false,
+        "dmin": 0.4034986059528813,
+        "fragments": 16,
+        "topology": "sql",
+        "target_recovered": false,
+        "exact_linker_set": false,
+        "observed_linkers": [
+          "CCCc1cc2ccc(cc2c2c1c(ccc2)C(=O)[O-])C(=O)O[O]",
+          "[CH][CH][CH]c1cc2ccc(cc2c2c1c(ccc2)[C]([O])[O])C(=O)[O-]"
+        ]
+      },
+      "D19": {
+        "geometry": true,
+        "strict_joint": true,
+        "converged": true,
+        "dmin": 1.086879319014324,
+        "fragments": 1,
+        "topology": "pcu",
+        "target_recovered": true,
+        "exact_linker_set": true,
+        "observed_linkers": [
+          "CCCc1cc2ccc(cc2c2c1c(ccc2)C(=O)[O-])C(=O)[O-]"
+        ]
+      }
+    }
+  },
+  {
+    "id": "B15",
+    "smiles": "COc1ccc2c(C(=O)[O-])c3cccc(OC)c3c(C(=O)[O-])c2c1",
+    "branches": {
+      "S300": {
+        "geometry": true,
+        "strict_joint": false,
+        "converged": true,
+        "dmin": 1.0838523314730877,
+        "fragments": 1,
+        "topology": "pcu",
+        "target_recovered": true,
+        "exact_linker_set": false,
+        "observed_linkers": [
+          "COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])[CH]C=CC1=O",
+          "COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])cccc1OC",
+          "COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])cccc1O[CH2]"
+        ]
+      },
+      "D7": {
+        "geometry": true,
+        "strict_joint": false,
+        "converged": true,
+        "dmin": 1.0838523314730877,
+        "fragments": 1,
+        "topology": "pcu",
+        "target_recovered": true,
+        "exact_linker_set": false,
+        "observed_linkers": [
+          "COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])[CH]C=CC1=O",
+          "COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])cccc1OC",
+          "COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])cccc1O[CH2]"
+        ]
+      },
+      "D19": {
+        "geometry": true,
+        "strict_joint": true,
+        "converged": true,
+        "dmin": 1.0813652953465904,
+        "fragments": 1,
+        "topology": "pcu",
+        "target_recovered": true,
+        "exact_linker_set": true,
+        "observed_linkers": [
+          "COc1ccc2c(c1)c(C(=O)[O-])c1c(c2C(=O)[O-])cccc1OC"
+        ]
+      }
+    }
+  },
+  {
+    "id": "B25",
+    "smiles": "CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "branches": {
+      "S300": {
+        "geometry": false,
+        "strict_joint": false,
+        "converged": false,
+        "dmin": 0.5158916365763341,
+        "fragments": 33,
+        "topology": "ERROR",
+        "target_recovered": false,
+        "exact_linker_set": false,
+        "observed_linkers": [
+          "[O]O[C]c1c([O])ccc2c1ccc1c2C=C([CH][CH]1)C(=O)[O-]"
+        ]
+      },
+      "D7": {
+        "geometry": false,
+        "strict_joint": false,
+        "converged": false,
+        "dmin": 0.062144026116396536,
+        "fragments": 16,
+        "topology": "sql",
+        "target_recovered": false,
+        "exact_linker_set": false,
+        "observed_linkers": [
+          "C[CH]COc1ccc2c(c1C(=O)O[O])ccc1c2cc(cc1)C(=O)[O-]",
+          "[Zn]OC(=O)c1ccc2c(c1)c1[CH][C][C][C](c1cc2)[C]1OO1"
+        ]
+      },
+      "D19": {
+        "geometry": false,
+        "strict_joint": false,
+        "converged": false,
+        "dmin": 0.21253862144672744,
+        "fragments": 23,
+        "topology": "ERROR",
+        "target_recovered": false,
+        "exact_linker_set": false,
+        "observed_linkers": [
+          "[CH][CH][C]=CC(=O)[O-]",
+          "[O][C]C(C1=CC=c2c1ccc1c2=C[C]([O])C(=O)[CH][CH]1)([O])[O]"
+        ]
+      }
+    }
+  },
+  {
+    "id": "B29",
+    "smiles": "O=C([O-])c1ccc2cc(S([O-])([O-])O)c3c4cc(C(=O)[O-])ccc4cc(S([O-])([O-])O)c3c2c1",
+    "branches": {
+      "S300": {
+        "geometry": true,
+        "strict_joint": false,
+        "converged": true,
+        "dmin": 0.9784229380488338,
+        "fragments": 1,
+        "topology": "pcu",
+        "target_recovered": false,
+        "exact_linker_set": false,
+        "observed_linkers": [
+          "[O-]C(=O)c1ccc2c(c1)c1c(cc3c(c1c(c2)S([O])([O])O)cc(cc3)C(=O)[O-])S(O)([O])[O]"
+        ]
+      },
+      "D7": {
+        "geometry": true,
+        "strict_joint": false,
+        "converged": true,
+        "dmin": 0.9784229380488338,
+        "fragments": 1,
+        "topology": "pcu",
+        "target_recovered": false,
+        "exact_linker_set": false,
+        "observed_linkers": [
+          "[O-]C(=O)c1ccc2c(c1)c1c(cc3c(c1c(c2)S([O])([O])O)cc(cc3)C(=O)[O-])S(O)([O])[O]"
+        ]
+      },
+      "D19": {
+        "geometry": true,
+        "strict_joint": false,
+        "converged": true,
+        "dmin": 0.976751388400082,
+        "fragments": 1,
+        "topology": "pcu",
+        "target_recovered": false,
+        "exact_linker_set": false,
+        "observed_linkers": [
+          "[O-]C(=O)c1ccc2c(c1)c1c(cc3c(c1c(c2)S(O)([O])[O])cc(cc3)C(=O)[O-])S(O)([O])[O]",
+          "[O-]C(=O)c1ccc2c(c1)c1c(cc3c(c1c(c2)S([O])(O)[O])cc(cc3)C(=O)[O-])S(O)([O])[O]",
+          "[O-]C(=O)c1ccc2c(c1)c1c(cc3c(c1c(c2)S([O])([O])O)cc(cc3)C(=O)[O-])S(O)([O])[O]"
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,335 @@
+{
+  "verified": true,
+  "samples": 20,
+  "audited_arms": 40,
+  "details": [
+    {
+      "name": "U_L01",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L01",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L02",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L02",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L03",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L03",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L04",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L04",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": true,
+      "topology": "ERROR",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L05",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L05",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L06",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L06",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L07",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L07",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L08",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L08",
+      "geometry": false,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L09",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L09",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L10",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L10",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L11",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L11",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L12",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L12",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L13",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L13",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L14",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L14",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "U_L15",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L15",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L16",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L16",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L17",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L17",
+      "geometry": false,
+      "converged": false,
+      "target_recovered": false,
+      "topology": "NA",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L18",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L18",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L19",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L19",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "cds",
+      "intended": "cds"
+    },
+    {
+      "name": "U_L20",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "pcu",
+      "intended": "pcu"
+    },
+    {
+      "name": "M_L20",
+      "geometry": true,
+      "converged": true,
+      "target_recovered": true,
+      "topology": "qtz-x",
+      "intended": "qtz-x"
+    }
+  ],
+  "unique_U_frameworks": 20,
+  "reference_processed": 187047,
+  "reference_identified": 171978,
+  "training_matches": {},
+  "unique_formal_runs": 39,
+  "aliases": {
+    "M_L14": "U_L14"
+  }
+}

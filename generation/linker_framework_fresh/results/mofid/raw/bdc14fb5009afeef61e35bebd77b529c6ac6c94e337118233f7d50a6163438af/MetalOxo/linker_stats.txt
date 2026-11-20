@@ -1,0 +1,2 @@
+CAWZDTOBMBTFQY-UHFFFAOYSA-L	2	3	InChI=1S/C20H12O6/c21-15-7-9-1-3-11(19(23)24)5-13(9)17-16(22)8-10-2-4-12(20(25)26)6-14(10)18(15)17/h1-8,21-22H,(H,23,24)(H,25,26)/p-2	CAWZDTOBMBTFQY	[O-]C(=O)c1ccc2c(c1)c1c(O)cc3c(c1c(c2)O)cc(cc3)C(=O)[O-]	[O-][C]([c]1[cH][cH][c]2[c]([cH]1)[c]1[c](O)[cH][c]3[c]([c]1[c]([cH]2)O)[cH][c]([cH][cH]3)[C]([O])[O-])[O]
+

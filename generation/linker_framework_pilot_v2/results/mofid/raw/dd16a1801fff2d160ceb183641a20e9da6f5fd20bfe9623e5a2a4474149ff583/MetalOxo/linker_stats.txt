@@ -1,0 +1,2 @@
+LRNGENRQBQRPKI-UHFFFAOYSA-L	2	4	InChI=1S/C16H11NO4/c17-14-6-8-4-5-10-9(2-1-3-11(10)15(18)19)12(8)7-13(14)16(20)21/h1-7H,17H2,(H,18,19)(H,20,21)/p-2	LRNGENRQBQRPKI	[O-]C(=O)c1cc2c(cc1N)ccc1c2cccc1C(=O)[O-]	[O-][C]([c]1[cH][c]2[c]([cH][c]1N)[cH][cH][c]1[c]2[cH][cH][cH][c]1[C]([O])[O-])[O]
+

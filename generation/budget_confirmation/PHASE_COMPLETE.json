@@ -1,0 +1,12 @@
+{
+  "phase_complete": true,
+  "recommendation": "S300",
+  "n": 30,
+  "delivered_candidates": 26,
+  "audit_passed": true,
+  "delivery_audit_passed": true,
+  "delivered_converged": 26,
+  "workbench_checks_passed": true,
+  "candidate_zip_sha256": "172a305e50e439db1b5120fc2ada64dc437b7ccfea49b63ee0ee4d25e7a93f6f",
+  "independent_review_passed": true
+}

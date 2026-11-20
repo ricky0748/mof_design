@@ -1,0 +1,146 @@
+[
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)cccc3c2c1",
+    "sequence_index": 3,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "35a3a70151ca5a8f9bc0b24eee2a1de61948fa4c65b64e32aaf057a06fa9e201",
+    "id": "F03"
+  },
+  {
+    "smiles": "Nc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "key": "Nc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "sequence_index": 25,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].Nc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.Nc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.Nc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.Nc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "03996f76b7579cfc0a8170753648f2942262920196cf10d35c2c083222c5379a",
+    "id": "F01"
+  },
+  {
+    "smiles": "CCCOc1cc2c3cc(C(=O)[O-])ccc3c(OCCC)cc2c2cc(C(=O)[O-])ccc12",
+    "key": "CCCOc1cc2c3cc(C(=O)O)ccc3c(OCCC)cc2c2cc(C(=O)O)ccc12",
+    "sequence_index": 27,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCOc1cc2c3cc(C(=O)[O-])ccc3c(OCCC)cc2c2cc(C(=O)[O-])ccc12.CCCOc1cc2c3cc(C(=O)[O-])ccc3c(OCCC)cc2c2cc(C(=O)[O-])ccc12.CCCOc1cc2c3cc(C(=O)[O-])ccc3c(OCCC)cc2c2cc(C(=O)[O-])ccc12.CCCOc1cc2c3cc(C(=O)[O-])ccc3c(OCCC)cc2c2cc(C(=O)[O-])ccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "a9994333ef8e93969ab428365196d4f3d8222d44ad5726b7374e4a5e278d3e65",
+    "id": "F15"
+  },
+  {
+    "smiles": "COc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12",
+    "key": "COc1cc2ccc(C(=O)O)cc2c2cccc(C(=O)O)c12",
+    "sequence_index": 29,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.COc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.COc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.COc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "091c5ee3c23da86bfd3417b2c02d6b290a68f8a7e08322faa0cc65a011e131ee",
+    "id": "F02"
+  },
+  {
+    "smiles": "COc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "key": "COc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "sequence_index": 32,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "39fd0c6a14ab757bf363aa000ea5f153cab20a1cc0f82726c86909e80a4e3eef",
+    "id": "F06"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1",
+    "key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4ccc3c2c1",
+    "sequence_index": 36,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1.O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1.O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1.O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "af9e78d988116ea51eedbea095acb14b30560bd71e140e01eeb3c7ffc8469d03",
+    "id": "F16"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc([N+](=O)[O-])c3c2c1",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc([N+](=O)[O-])c3c2c1",
+    "sequence_index": 50,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc([N+](=O)[O-])c3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc([N+](=O)[O-])c3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc([N+](=O)[O-])c3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc([N+](=O)[O-])c3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "386db6cf44bc1d335e2bf43f5bda0831f43ea5586a853015b2e0ec6e95d0ecd3",
+    "id": "F05"
+  },
+  {
+    "smiles": "O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-]",
+    "key": "O=Cc1cc2ccc3c4cc(C(=O)O)c(C=O)cc4ccc3c2cc1C(=O)O",
+    "sequence_index": 63,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-].O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-].O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-].O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "4a2883bbd297d753b92fe6619e98b673fc474a408cb68ff17be315ceffc26d03",
+    "id": "F07"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2c(O)cc3c(C(=O)[O-])cc(O)cc3c2c1",
+    "key": "O=C(O)c1ccc2c(O)cc3c(C(=O)O)cc(O)cc3c2c1",
+    "sequence_index": 69,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2c(O)cc3c(C(=O)[O-])cc(O)cc3c2c1.O=C([O-])c1ccc2c(O)cc3c(C(=O)[O-])cc(O)cc3c2c1.O=C([O-])c1ccc2c(O)cc3c(C(=O)[O-])cc(O)cc3c2c1.O=C([O-])c1ccc2c(O)cc3c(C(=O)[O-])cc(O)cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "b793677f20cf85c9f5fee685b767f8f60263e9037ad20dde90ecc1679342bd7f",
+    "id": "F17"
+  },
+  {
+    "smiles": "COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OC)c3ccc21",
+    "key": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OC)c3ccc21",
+    "sequence_index": 88,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OC)c3ccc21.COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OC)c3ccc21.COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OC)c3ccc21.COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OC)c3ccc21<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "38548fdc2f2035942edad87afbddec9d5a166935f627f225afca5070d710754b",
+    "id": "F04"
+  },
+  {
+    "smiles": "CCOc1cc2c3cc(C(=O)[O-])ccc3cc(OCC)c2c2cc(C(=O)[O-])ccc12",
+    "key": "CCOc1cc2c3cc(C(=O)O)ccc3cc(OCC)c2c2cc(C(=O)O)ccc12",
+    "sequence_index": 89,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCOc1cc2c3cc(C(=O)[O-])ccc3cc(OCC)c2c2cc(C(=O)[O-])ccc12.CCOc1cc2c3cc(C(=O)[O-])ccc3cc(OCC)c2c2cc(C(=O)[O-])ccc12.CCOc1cc2c3cc(C(=O)[O-])ccc3cc(OCC)c2c2cc(C(=O)[O-])ccc12.CCOc1cc2c3cc(C(=O)[O-])ccc3cc(OCC)c2c2cc(C(=O)[O-])ccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "96eb988ef8c4f0d16b5a356b227e406242f9559ff59b77f1fc890e128d835f48",
+    "id": "F12"
+  },
+  {
+    "smiles": "Cc1cc2c3cc(C(=O)[O-])ccc3c(C)cc2c2cc(C(=O)[O-])ccc12",
+    "key": "Cc1cc2c3cc(C(=O)O)ccc3c(C)cc2c2cc(C(=O)O)ccc12",
+    "sequence_index": 154,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].Cc1cc2c3cc(C(=O)[O-])ccc3c(C)cc2c2cc(C(=O)[O-])ccc12.Cc1cc2c3cc(C(=O)[O-])ccc3c(C)cc2c2cc(C(=O)[O-])ccc12.Cc1cc2c3cc(C(=O)[O-])ccc3c(C)cc2c2cc(C(=O)[O-])ccc12.Cc1cc2c3cc(C(=O)[O-])ccc3c(C)cc2c2cc(C(=O)[O-])ccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "897f0a4ee34c60940f7a6673ec8a81f27ad298d2e55bba72ca7cce5bec69c925",
+    "id": "F10"
+  },
+  {
+    "smiles": "CCOc1cc(C(=O)[O-])c2cc(OCC)c3c(OCC)cc(C(=O)[O-])cc3c2c1",
+    "key": "CCOc1cc(C(=O)O)c2cc(OCC)c3c(OCC)cc(C(=O)O)cc3c2c1",
+    "sequence_index": 161,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCOc1cc(C(=O)[O-])c2cc(OCC)c3c(OCC)cc(C(=O)[O-])cc3c2c1.CCOc1cc(C(=O)[O-])c2cc(OCC)c3c(OCC)cc(C(=O)[O-])cc3c2c1.CCOc1cc(C(=O)[O-])c2cc(OCC)c3c(OCC)cc(C(=O)[O-])cc3c2c1.CCOc1cc(C(=O)[O-])c2cc(OCC)c3c(OCC)cc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "98201ef2c6e1ee201f7e4ee2a77a5b85a0e0add4ee36478f4b578bbdb95db00d",
+    "id": "F13"
+  },
+  {
+    "smiles": "CCCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "key": "CCCOc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "sequence_index": 162,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].CCCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].CCCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].CCCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "9887a87edc85aaa1e1b3dec391b8220f0607c787ac99dbd52f4f11b114da7bdf",
+    "id": "F14"
+  },
+  {
+    "smiles": "CCOc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OCC)c3ccc21",
+    "key": "CCOc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OCC)c3ccc21",
+    "sequence_index": 171,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCOc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OCC)c3ccc21.CCOc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OCC)c3ccc21.CCOc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OCC)c3ccc21.CCOc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OCC)c3ccc21<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "c5422190362846b70a93a7380fd6f875dd279e2f21388f7b567dc7ae73626d79",
+    "id": "F18"
+  },
+  {
+    "smiles": "CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "key": "CCCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "sequence_index": 177,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "96c8d2b9f7cd9576e2dceb6ad2e9e83e4050331c11234b381761b2db769f7739",
+    "id": "F11"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2cc(O)c3c4cc(C(=O)[O-])ccc4cc(O)c3c2c1",
+    "key": "O=C(O)c1ccc2cc(O)c3c4cc(C(=O)O)ccc4cc(O)c3c2c1",
+    "sequence_index": 194,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2cc(O)c3c4cc(C(=O)[O-])ccc4cc(O)c3c2c1.O=C([O-])c1ccc2cc(O)c3c4cc(C(=O)[O-])ccc4cc(O)c3c2c1.O=C([O-])c1ccc2cc(O)c3c4cc(C(=O)[O-])ccc4cc(O)c3c2c1.O=C([O-])c1ccc2cc(O)c3c4cc(C(=O)[O-])ccc4cc(O)c3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "6212df4cf522440215ae487a2a3562acdba77d0e250ccc317b407d1eb9a3293d",
+    "id": "F08"
+  },
+  {
+    "smiles": "CNc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(NC)c3ccc21",
+    "key": "CNc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(NC)c3ccc21",
+    "sequence_index": 195,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CNc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(NC)c3ccc21.CNc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(NC)c3ccc21.CNc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(NC)c3ccc21.CNc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(NC)c3ccc21<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "6aa708433f7e84f9a2f67eed1f17fcdf2cd202151dae57a76f67c907a021b958",
+    "id": "F09"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "A": {
+    "geometry_valid": 7,
+    "converged": 1,
+    "target_recovered": 5,
+    "topology_identified": 0,
+    "joint_success": 0,
+    "n": 20,
+    "relax_status": {
+      "completed": 20
+    },
+    "joint_wilson95": [
+      0,
+      0.16113012549493322
+    ]
+  },
+  "B": {
+    "geometry_valid": 1,
+    "converged": 1,
+    "target_recovered": 1,
+    "topology_identified": 1,
+    "joint_success": 1,
+    "n": 20,
+    "relax_status": {
+      "incompatible": 19,
+      "completed": 1
+    },
+    "joint_wilson95": [
+      0.008881219432873136,
+      0.23613589351256675
+    ]
+  },
+  "joint_pairs": {
+    "neither": 19,
+    "B_only": 1,
+    "exact_mcnemar_p": 1
+  },
+  "geometry_pairs": {
+    "A_only": 7,
+    "neither": 12,
+    "B_only": 1,
+    "exact_mcnemar_p": 0.0703125
+  },
+  "B_builds": {
+    "incompatible": 19,
+    "built": 1
+  },
+  "strata": {
+    "True": {
+      "A": 0,
+      "B": 0,
+      "n": 8
+    },
+    "False": {
+      "A": 0,
+      "B": 1,
+      "n": 12
+    }
+  }
+}

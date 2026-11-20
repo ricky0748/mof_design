@@ -1,0 +1,2 @@
+PGTCYGXAYOFCJW-UHFFFAOYSA-L	2	3	InChI=1S/C22H22O4/c1-3-5-14-11-19(22(25)26)17-10-9-13-7-8-15(21(23)24)12-18(13)20(17)16(14)6-4-2/h7-12H,3-6H2,1-2H3,(H,23,24)(H,25,26)/p-2	PGTCYGXAYOFCJW	CCCc1c(CCC)cc(c2c1c1cc(ccc1cc2)C(=O)[O-])C(=O)[O-]	CCC[c]1[c](CCC)[cH][c]([c]2[c]1[c]1[cH][c]([cH][cH][c]1[cH][cH]2)[C]([O])[O-])[C]([O])[O-]
+

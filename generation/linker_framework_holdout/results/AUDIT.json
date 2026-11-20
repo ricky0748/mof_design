@@ -1,0 +1,30 @@
+{
+  "frozen_calculation_and_inputs_verified": true,
+  "report_original_preserved": true,
+  "geometry_classification_verified": true,
+  "reread_discrepancies": [
+    {
+      "name": "A_H19",
+      "in_memory": {
+        "natoms": 140,
+        "volume": 2395.428715781922,
+        "dmin": 0.003337542478024382,
+        "fragments": 10
+      },
+      "reread": {
+        "natoms": 139,
+        "volume": 2395.428715781922,
+        "dmin": 0.4585471001364297,
+        "fragments": 10
+      }
+    }
+  ],
+  "training_hit_samples": [
+    {
+      "sample": "U_H04",
+      "training_ids": [
+        "125035"
+      ]
+    }
+  ]
+}

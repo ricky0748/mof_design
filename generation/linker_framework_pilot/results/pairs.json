@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "L01",
+    "source": "mofflow2s_450",
+    "seq_idx": 632,
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1",
+    "direction_degrees": [
+      28.014403980227886,
+      31.942927636121667
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": false,
+      "steps": 150,
+      "target_key": "COc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+      "extracted_keys": [
+        "COc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+        "COc1cc2c(c(C(=O)O)c1)C1C3[CH]c4c(O)cc(C(=O)O)cc4-c4cc(OC)cc(c43)[C]3OC4(O[C](O)C=C(C(=O)O)[CH][C]24)C31",
+        "COc1cc(C(=O)O[O])c2ccc3c(O)cc(C(=O)O)cc3c2c1"
+      ],
+      "target_recovered": true,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 41.168,
+      "reason": null,
+      "raw_atoms": 140,
+      "final_atoms": 140,
+      "dmin": 0.9728408384087245,
+      "fragments": 1,
+      "volume_ratio": 1.019975493049981
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "COc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L02",
+    "source": "mofflow2s_036",
+    "seq_idx": 46,
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(C#N)c3ccc21",
+    "direction_degrees": [
+      27.983683520049343,
+      32.396281937523135
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(C#N)c3ccc21",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 44.89,
+      "reason": null,
+      "raw_atoms": 164,
+      "final_atoms": 164,
+      "dmin": 0.1549497119165327,
+      "fragments": 7,
+      "volume_ratio": 0.9764656025017133
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(C#N)c3ccc21",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L03",
+    "source": "mofflow2s_630",
+    "seq_idx": 841,
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "CCc1cc(C(=O)[O-])c2cc([N+](=O)[O-])c3ccc(C(=O)[O-])cc3c2c1",
+    "direction_degrees": [
+      28.463008993822086,
+      28.340780294131093
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "CCc1cc(C(=O)O)c2cc([N+](=O)O)c3ccc(C(=O)O)cc3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "seconds": 42.386,
+      "reason": null,
+      "raw_atoms": 152,
+      "final_atoms": 152,
+      "dmin": 0.439991739903432,
+      "fragments": 2,
+      "volume_ratio": 0.9894154398486201
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "CCc1cc(C(=O)O)c2cc([N+](=O)O)c3ccc(C(=O)O)cc3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L04",
+    "source": "mofflow2s_067",
+    "seq_idx": 86,
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "O=C([O-])c1cc(Cl)c2ccc3c(C(=O)[O-])cc(Cl)cc3c2c1",
+    "direction_degrees": [
+      28.390320957807234,
+      28.332392613988755
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "O=C(O)c1cc(Cl)c2ccc3c(C(=O)O)cc(Cl)cc3c2c1",
+      "extracted_keys": [
+        "[C]=C([C]Cl)[C][C]O[C]O[O]"
+      ],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 34.485,
+      "reason": null,
+      "raw_atoms": 120,
+      "final_atoms": 120,
+      "dmin": 0.49105242194146964,
+      "fragments": 2,
+      "volume_ratio": 0.9847262253032929
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "O=C(O)c1cc(Cl)c2ccc3c(C(=O)O)cc(Cl)cc3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L05",
+    "source": "mofflow2s_499",
+    "seq_idx": 691,
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "CCOc1cc(C(=O)[O-])c2cc(OCC)c3cc(O)c(C(=O)[O-])cc3c2c1",
+    "direction_degrees": [
+      26.984397676249294,
+      29.014846169182054
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "CCOc1cc(C(=O)O)c2cc(OCC)c3cc(O)c(C(=O)O)cc3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "seconds": 50.644,
+      "reason": null,
+      "raw_atoms": 180,
+      "final_atoms": 180,
+      "dmin": 0.18879567910341621,
+      "fragments": 1,
+      "volume_ratio": 0.9983274584489339
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "CCOc1cc(C(=O)O)c2cc(OCC)c3cc(O)c(C(=O)O)cc3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L06",
+    "source": "mofflow2s_377",
+    "seq_idx": 554,
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "direction_degrees": [
+      32.56686549762376,
+      28.945132709863717
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)O)cc32)c1C(=O)O",
+      "extracted_keys": [
+        "CNc1cc(O)c2c(ccc3c(C=O)cc(C(=O)O)cc32)c1C(=O)O",
+        null
+      ],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 41.054,
+      "reason": null,
+      "raw_atoms": 148,
+      "final_atoms": 148,
+      "dmin": 0.9749570831728447,
+      "fragments": 2,
+      "volume_ratio": 1.005231570096191
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)O)cc32)c1C(=O)O",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L07",
+    "source": "mofflow2s_199",
+    "seq_idx": 246,
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cc([N+](=O)[O-])cc12",
+    "direction_degrees": [
+      28.04213615259476,
+      28.646126769916023
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cc([N+](=O)O)cc12",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "seconds": 50.489,
+      "reason": null,
+      "raw_atoms": 168,
+      "final_atoms": 168,
+      "dmin": 0.37900379328819883,
+      "fragments": 4,
+      "volume_ratio": 0.9906660741813799
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cc([N+](=O)O)cc12",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L08",
+    "source": "mofflow2s_561",
+    "seq_idx": 763,
+    "novel": true,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])ccc(O)c12",
+    "direction_degrees": [
+      27.268701927705873,
+      28.813977302100632
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)ccc(O)c12",
+      "extracted_keys": [
+        "[O]O[C]O"
+      ],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 46.845,
+      "reason": null,
+      "raw_atoms": 164,
+      "final_atoms": 164,
+      "dmin": 0.5350165758106769,
+      "fragments": 10,
+      "volume_ratio": 0.994677583109975
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)ccc(O)c12",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L09",
+    "source": "mofflow2s_107",
+    "seq_idx": 134,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F",
+    "direction_degrees": [
+      31.919635406817772,
+      31.913029666813898
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": false,
+      "steps": 150,
+      "target_key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(F)cc4ccc23)cc1F",
+      "extracted_keys": [
+        "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(F)cc4ccc23)cc1F"
+      ],
+      "target_recovered": true,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 38.851,
+      "reason": null,
+      "raw_atoms": 144,
+      "final_atoms": 144,
+      "dmin": 1.084580820783983,
+      "fragments": 1,
+      "volume_ratio": 1.0052623537739778
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(F)cc4ccc23)cc1F",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L10",
+    "source": "mofflow2s_218",
+    "seq_idx": 274,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(O)c3c2c1",
+    "direction_degrees": [
+      30.166552495210162,
+      28.68522524227415
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(O)c3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 34.999,
+      "reason": null,
+      "raw_atoms": 124,
+      "final_atoms": 124,
+      "dmin": 0.5599303807008735,
+      "fragments": 4,
+      "volume_ratio": 0.9959543871850643
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(O)c3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L11",
+    "source": "mofflow2s_666",
+    "seq_idx": 886,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "Nc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "direction_degrees": [
+      31.109632792547128,
+      29.374485835518684
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": true,
+      "steps": 141,
+      "target_key": "Nc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+      "extracted_keys": [
+        "Nc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+      ],
+      "target_recovered": true,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 34.959,
+      "reason": null,
+      "raw_atoms": 128,
+      "final_atoms": 128,
+      "dmin": 1.0115321451489265,
+      "fragments": 1,
+      "volume_ratio": 0.9877666556812547
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "Nc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L12",
+    "source": "mofflow2s_352",
+    "seq_idx": 526,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "O=C([O-])c1c(O)cc2cc(O)c3c(C(=O)[O-])c(O)ccc3c2c1O",
+    "direction_degrees": [
+      26.345289824605725,
+      29.928969227210146
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "O=C(O)c1c(O)cc2cc(O)c3c(C(=O)O)c(O)ccc3c2c1O",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "seconds": 39.98,
+      "reason": null,
+      "raw_atoms": 136,
+      "final_atoms": 136,
+      "dmin": 0.6786987473909925,
+      "fragments": 5,
+      "volume_ratio": 0.9960292884894159
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "O=C(O)c1c(O)cc2cc(O)c3c(C(=O)O)c(O)ccc3c2c1O",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L13",
+    "source": "mofflow2s_254",
+    "seq_idx": 311,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "O=Cc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "direction_degrees": [
+      27.256621606405307,
+      27.528928693552892
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": false,
+      "steps": 150,
+      "target_key": "O=Cc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+      "extracted_keys": [
+        "[O][V][O][C]1[O][V]([O])([O])[C]23[CH][CH]C4=CC5OC(=O)C6=C[C](C=O)C([O])C7=C6C([CH]c6ccc(C(=O)O)cc67)OC(=O)c6cc7cc(c65)[C]4C2C2[CH][C]4[CH]C5C7OC5(C(=O)O)[CH][C]4c4cc(C=O)cc(c42)C13[O]"
+      ],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 36.387,
+      "reason": null,
+      "raw_atoms": 128,
+      "final_atoms": 128,
+      "dmin": 1.0856041177637135,
+      "fragments": 1,
+      "volume_ratio": 1.0064897910622872
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "O=Cc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L14",
+    "source": "mofflow2s_542",
+    "seq_idx": 742,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "CCOc1cc2cc(C(=O)[O-])cc(OCC)c2cc1C(=O)[O-]",
+    "direction_degrees": [
+      9.380223321646087,
+      13.520239338454266
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "CCOc1cc2cc(C(=O)O)cc(OCC)c2cc1C(=O)O",
+      "extracted_keys": [
+        "CCOc1cc2cc(C(=O)O)cc(OCC)c2cc1C(=O)O"
+      ],
+      "target_recovered": true,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "ERROR",
+      "mofid_status": "partial",
+      "seconds": 43.991,
+      "reason": null,
+      "raw_atoms": 152,
+      "final_atoms": 152,
+      "dmin": 0.48428661617427826,
+      "fragments": 3,
+      "volume_ratio": 0.977493444046144
+    },
+    "B": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": true,
+      "steps": 23,
+      "target_key": "CCOc1cc2cc(C(=O)O)cc(OCC)c2cc1C(=O)O",
+      "extracted_keys": [
+        "CCOc1cc2cc(C(=O)O)cc(OCC)c2cc1C(=O)O"
+      ],
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint_success": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "seconds": 11.026,
+      "reason": null,
+      "raw_atoms": 113,
+      "final_atoms": 113,
+      "dmin": 1.0821617382489184,
+      "fragments": 1,
+      "volume_ratio": 1.0076436659752392
+    }
+  },
+  {
+    "id": "L15",
+    "source": "mofflow2s_323",
+    "seq_idx": 389,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "CCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "direction_degrees": [
+      28.430006670548998,
+      31.073229245784745
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": false,
+      "steps": 150,
+      "target_key": "CCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+      "extracted_keys": [
+        "CCc1cc(C(=O)O)c2c(c1)C1=CC(C(=O)O)=CC3C4c5c(C(=O)OC6(CC)[CH][C](C(=O)O)c7ccc8ccc(C(=O)O)cc8c7[CH]6)cc([CH](C)[VH][O][V]=[O])cc5C5=CC(C(=O)O)=CC6C2C2C56C4C132"
+      ],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "UNKNOWN",
+      "mofid_status": "partial",
+      "seconds": 40.508,
+      "reason": null,
+      "raw_atoms": 144,
+      "final_atoms": 144,
+      "dmin": 1.0827453167404384,
+      "fragments": 1,
+      "volume_ratio": 0.997246139880589
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "CCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L16",
+    "source": "mofflow2s_416",
+    "seq_idx": 594,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc([N+](=O)[O-])cc3c2c1",
+    "direction_degrees": [
+      31.005927175415305,
+      27.24481209907921
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": false,
+      "steps": 150,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)cc([N+](=O)O)cc3c2c1",
+      "extracted_keys": [
+        "[O]N(OC1C=C(C(=O)O)[CH]c2c1ccc1c(C(=O)O)cc([N+](=O)O)cc21)c1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+        "O=C(O)c1ccc2ccc3c(C(=O)O)cc([N+](=O)O)cc3c2c1"
+      ],
+      "target_recovered": true,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "UNKNOWN",
+      "mofid_status": "partial",
+      "seconds": 36.337,
+      "reason": null,
+      "raw_atoms": 128,
+      "final_atoms": 128,
+      "dmin": 1.0828991965866,
+      "fragments": 1,
+      "volume_ratio": 0.9825861631609333
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "O=C(O)c1ccc2ccc3c(C(=O)O)cc([N+](=O)O)cc3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L17",
+    "source": "mofflow2s_114",
+    "seq_idx": 143,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "CCCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "direction_degrees": [
+      26.59903395326286,
+      34.43732518766373
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "CCCc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "seconds": 43.83,
+      "reason": null,
+      "raw_atoms": 156,
+      "final_atoms": 156,
+      "dmin": 0.260945244751308,
+      "fragments": 5,
+      "volume_ratio": 0.9931915650325146
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "CCCc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L18",
+    "source": "mofflow2s_318",
+    "seq_idx": 383,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "O=C([O-])c1ccc2cc(O)c3c(C(=O)[O-])ccc(O)c3c2c1",
+    "direction_degrees": [
+      30.959943354099664,
+      25.771341771078404
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": false,
+      "steps": 150,
+      "target_key": "O=C(O)c1ccc2cc(O)c3c(C(=O)O)ccc(O)c3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "seconds": 35.317,
+      "reason": null,
+      "raw_atoms": 128,
+      "final_atoms": 128,
+      "dmin": 0.9699615174762443,
+      "fragments": 1,
+      "volume_ratio": 1.0071052131774498
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "O=C(O)c1ccc2cc(O)c3c(C(=O)O)ccc(O)c3c2c1",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L19",
+    "source": "mofflow2s_683",
+    "seq_idx": 909,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "Nc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "direction_degrees": [
+      28.186683799889607,
+      33.39157404267227
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "Nc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "seconds": 37.636,
+      "reason": null,
+      "raw_atoms": 128,
+      "final_atoms": 128,
+      "dmin": 0.028015595558158364,
+      "fragments": 2,
+      "volume_ratio": 0.9549321271144499
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "Nc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  },
+  {
+    "id": "L20",
+    "source": "mofflow2s_207",
+    "seq_idx": 256,
+    "novel": false,
+    "source_metals": [
+      "V"
+    ],
+    "target_smiles": "CCc1cc2c(ccc3ccc(C(=O)[O-])c(CC)c32)c2cc(C(=O)[O-])ccc12",
+    "direction_degrees": [
+      21.180910845040295,
+      31.769544904945818
+    ],
+    "A": {
+      "relax_status": "completed",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": 150,
+      "target_key": "CCc1cc2c(ccc3ccc(C(=O)O)c(CC)c32)c2cc(C(=O)O)ccc12",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": "NA",
+      "mofid_status": "partial",
+      "seconds": 56.036,
+      "reason": null,
+      "raw_atoms": 192,
+      "final_atoms": 192,
+      "dmin": 0.4628126434110252,
+      "fragments": 11,
+      "volume_ratio": 0.994733237241957
+    },
+    "B": {
+      "relax_status": "incompatible",
+      "geometry_valid": false,
+      "converged": false,
+      "steps": null,
+      "target_key": "CCc1cc2c(ccc3ccc(C(=O)O)c(CC)c32)c2cc(C(=O)O)ccc12",
+      "extracted_keys": [],
+      "target_recovered": false,
+      "topology_identified": false,
+      "joint_success": false,
+      "topology": null,
+      "mofid_status": "not_run",
+      "seconds": null,
+      "reason": "direction_over_20_degrees",
+      "raw_atoms": null,
+      "final_atoms": null,
+      "dmin": null,
+      "fragments": null,
+      "volume_ratio": null
+    }
+  }
+]

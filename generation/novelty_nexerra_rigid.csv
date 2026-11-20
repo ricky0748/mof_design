@@ -1,0 +1,5 @@
+mof,seed,substituent,topo,node,ligand_ikey,metal,exact_hits,n_exact,toplinker_hits,n_topolinker,metallinker_hits,n_metallinker
+N0000_pcu,Nexerra,nexerra,pcu,N16,YCGAZNXXGKTASZ,Zn,,0,BOKQEZ_ASR_pacman,1,,0
+N0000_fcu,Nexerra,nexerra,fcu,N419,YCGAZNXXGKTASZ,Zr,,0,,0,FIJNIZ_ASR_pacman;FIJNOF_ASR_pacman;FIJNUL_ASR_pacman;FIJPAT_ASR_pacman;OXODAJ_ASR_pacman,9
+N0000_nbo,Nexerra,nexerra,nbo,N17,YCGAZNXXGKTASZ,Cu,,0,,0,,0
+N0001_pcu,Nexerra,nexerra,pcu,N16,VSZJLXSVGVDPMJ,Zn,,0,,0,,0

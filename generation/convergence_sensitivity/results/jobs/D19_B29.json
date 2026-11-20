@@ -1,0 +1,12 @@
+{
+  "name": "D19_B29",
+  "id": "B29",
+  "arm": "D19",
+  "smiles": "O=C([O-])c1ccc2cc(S([O-])([O-])O)c3c4cc(C(=O)[O-])ccc4cc(S([O-])([O-])O)c3c2c1",
+  "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/relaxed/D19_B29.cif",
+  "input_sha256": "6c3c7b380ed07442f04abc0107b208187a4f4d5151584f6a4ac9480aa9b234ae",
+  "original_volume": 6293.711178847002,
+  "baseline_strict": false,
+  "baseline_converged": true,
+  "baseline_steps": 39
+}

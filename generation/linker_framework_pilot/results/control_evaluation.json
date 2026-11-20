@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "results": {
+    "C_BDC": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": true,
+      "steps": 6,
+      "target_key": "O=C(O)c1ccc(C(=O)O)cc1",
+      "extracted_keys": [
+        "O=C(O)c1ccc(C(=O)O)cc1"
+      ],
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint_success": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "seconds": 7.027,
+      "reason": null,
+      "raw_atoms": 53,
+      "final_atoms": 53,
+      "dmin": 1.0865501260750605,
+      "fragments": 1,
+      "volume_ratio": 1.0009236942661914
+    },
+    "C_BPDC": {
+      "relax_status": "completed",
+      "geometry_valid": true,
+      "converged": true,
+      "steps": 6,
+      "target_key": "O=C(O)c1ccc(-c2ccc(C(=O)O)cc2)cc1",
+      "extracted_keys": [
+        "O=C(O)c1ccc(-c2ccc(C(=O)O)cc2)cc1"
+      ],
+      "target_recovered": true,
+      "topology_identified": true,
+      "joint_success": true,
+      "topology": "pcu",
+      "mofid_status": "identified",
+      "seconds": 7.477,
+      "reason": null,
+      "raw_atoms": 83,
+      "final_atoms": 83,
+      "dmin": 1.0884578771632987,
+      "fragments": 1,
+      "volume_ratio": 1.0004229979912382
+    }
+  }
+}

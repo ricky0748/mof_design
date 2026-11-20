@@ -1,0 +1,13 @@
+{
+  "canonical_jobs": [
+    "control_C_BDC",
+    "control_C_IPC",
+    "control_C_STOCK"
+  ],
+  "aliases": {},
+  "fingerprints": {
+    "control_C_BDC": "9bd5129a6855792577f01c39564606f0be4bbcff78b05667395ce60192bb32f0",
+    "control_C_IPC": "850d22b909c2979bc9987730327fa95ebaa1924ed5c169ba6c6f128ae9023bf6",
+    "control_C_STOCK": "934dd04640c1e5bc152e335094321a5a7685e65b9dc5ffc4e691972b69daf82a"
+  }
+}

@@ -1,0 +1,2 @@
+node	[V][V]
+linker	[CH][C]C(=O)O[O]

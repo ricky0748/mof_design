@@ -1,0 +1,253 @@
+{
+ "n_structures": 9835,
+ "n_structures_with_organic": 8544,
+ "n_unique_organic": 1911,
+ "status_counts": {
+  "ok": 1596,
+  "lt2_connections": 251,
+  "parse_failed": 64
+ },
+ "status_weighted_by_occurrence": {
+  "lt2_connections": 1308,
+  "ok": 10436,
+  "parse_failed": 192
+ },
+ "frac_structures_all_linkers_ok": 0.8477,
+ "primary_type_counts_unique": {
+  "carboxylate": 682,
+  "pyridyl": 218,
+  "carboxylate+pyridyl": 155,
+  "imidazolate": 102,
+  "1,2,4-triazolate": 64,
+  "carboxylate+imidazolate": 63,
+  "1,2,4-triazolate+carboxylate": 44,
+  "imidazolate+pyridyl": 36,
+  "1,2,4-triazolate+pyridyl": 30,
+  "carboxylate+pyrazolate": 29,
+  "1,2,3-triazolate+carboxylate": 26,
+  "pyrazolate": 25,
+  "1,2,3-triazolate": 25,
+  "tetrazolate": 22,
+  "pyridyl+tetrazolate": 12
+ },
+ "gap_classes_unique": {
+  "other": 135,
+  "phosphonate": 66,
+  "aliphatic_amine_pillar": 30,
+  "small_ligand": 24,
+  "phenolate/catecholate": 21,
+  "nitrile": 18,
+  "N-oxide": 6,
+  "phosphonate+aliphatic_amine_pillar": 5,
+  "N-oxide+aliphatic_amine_pillar": 4,
+  "phosphonate+phenolate/catecholate": 4,
+  "phosphonate+N-oxide": 1,
+  "phenolate/catecholate+nitrile": 1
+ },
+ "gap_classes_weighted": {
+  "small_ligand": 472,
+  "other": 459,
+  "phosphonate": 190,
+  "aliphatic_amine_pillar": 106,
+  "N-oxide": 78,
+  "nitrile": 74,
+  "phenolate/catecholate": 65,
+  "phosphonate+aliphatic_amine_pillar": 28,
+  "N-oxide+aliphatic_amine_pillar": 12,
+  "phosphonate+N-oxide": 8,
+  "phosphonate+phenolate/catecholate": 7,
+  "phenolate/catecholate+nitrile": 1
+ },
+ "top_lt2_examples": [
+  {
+   "smiles": "[O-]C=O",
+   "n_mofs": 285,
+   "primary_types": ""
+  },
+  {
+   "smiles": "[O-][n+]1ccc(cc1)c1cc[n+](cc1)[O-]",
+   "n_mofs": 60,
+   "primary_types": ""
+  },
+  {
+   "smiles": "[O-]C(=O)C",
+   "n_mofs": 48,
+   "primary_types": "carboxylate"
+  },
+  {
+   "smiles": "C1CN2CCN1CC2",
+   "n_mofs": 34,
+   "primary_types": ""
+  },
+  {
+   "smiles": "C1N2CN3CN1CN(C2)C3",
+   "n_mofs": 27,
+   "primary_types": ""
+  },
+  {
+   "smiles": "[O-]C(=O)[O-]",
+   "n_mofs": 26,
+   "primary_types": ""
+  },
+  {
+   "smiles": "[C]#N",
+   "n_mofs": 23,
+   "primary_types": ""
+  },
+  {
+   "smiles": "CC1=[N]=C(N=N1)CC1=[N]=C(N=N1)C",
+   "n_mofs": 23,
+   "primary_types": ""
+  },
+  {
+   "smiles": "NC1=[N]=CN=N1",
+   "n_mofs": 21,
+   "primary_types": ""
+  },
+  {
+   "smiles": "CC(P(=O)([O])[O])(P(=O)([O])[O])O",
+   "n_mofs": 21,
+   "primary_types": ""
+  },
+  {
+   "smiles": "N#C[N]C#N",
+   "n_mofs": 20,
+   "primary_types": ""
+  },
+  {
+   "smiles": "[O-]C(=O)C([O])C",
+   "n_mofs": 18,
+   "primary_types": "carboxylate"
+  },
+  {
+   "smiles": "OC(c1ccccc1)C(=O)[O-]",
+   "n_mofs": 16,
+   "primary_types": "carboxylate"
+  },
+  {
+   "smiles": "[O-]C(=O)C1CCN(CC1)CP(=O)([O])[O]",
+   "n_mofs": 16,
+   "primary_types": "carboxylate"
+  },
+  {
+   "smiles": "n1ccc(cc1)[C](C1=C[CH]C=N1)C1=NC=C[CH]1",
+   "n_mofs": 14,
+   "primary_types": "pyridyl"
+  },
+  {
+   "smiles": "n1ccc(cc1)[C](C1=CC=C[N]1)C1=CC=C[N]1",
+   "n_mofs": 14,
+   "primary_types": "pyridyl"
+  },
+  {
+   "smiles": "[O-]C(=O)c1cc(O)c(c(c1)O)[O]",
+   "n_mofs": 14,
+   "primary_types": "carboxylate"
+  },
+  {
+   "smiles": "n1ccc(cc1)[C](C1=NC=C[CH]1)C1=CC=C[N]1",
+   "n_mofs": 13,
+   "primary_types": "pyridyl"
+  },
+  {
+   "smiles": "[O]S(c1ccc(cc1)C1=C2C=CC(=C(c3ccc(cc3)S([O])([O])[O])C3=NC(=C(C4=CC=C(C(=C5N=C1C=C5)c1ccc(cc1)S([O])([O])[O])[N]4)c1ccc(cc1)S([O])([O])[O])C=C3)[N]2)([O])[O]",
+   "n_mofs": 13,
+   "primary_types": ""
+  },
+  {
+   "smiles": "n1ccc(cc1)[C](C1=C[CH]C=N1)C1=CC=C[N]1",
+   "n_mofs": 13,
+   "primary_types": "pyridyl"
+  },
+  {
+   "smiles": "O=C1C(=O)C(=O)C1=O",
+   "n_mofs": 12,
+   "primary_types": ""
+  },
+  {
+   "smiles": "[O-][n+]1ccc(cc1)C(=O)[O-]",
+   "n_mofs": 11,
+   "primary_types": "carboxylate"
+  },
+  {
+   "smiles": "Cl[C]1C(=O)C(=O)[C](C(=O)C1=O)Cl",
+   "n_mofs": 11,
+   "primary_types": ""
+  },
+  {
+   "smiles": "[O-]C(=O)C1Cc2c(N1)cccc2",
+   "n_mofs": 10,
+   "primary_types": "carboxylate"
+  },
+  {
+   "smiles": "[O]P(=O)(c1ccc(cc1)P(=O)([O])[O])[O]",
+   "n_mofs": 9,
+   "primary_types": ""
+  }
+ ],
+ "parse_failed_examples": [
+  {
+   "smiles": "[N]1=CN=NC=1",
+   "n_mofs": 31
+  },
+  {
+   "smiles": "c1ncn(c1)[B](n1cncc1)(n1cncc1)n1cncc1",
+   "n_mofs": 17
+  },
+  {
+   "smiles": "[O-]C(=O)C1CC[NH](CC1)CP(=O)([O])[O]",
+   "n_mofs": 12
+  },
+  {
+   "smiles": "OC(=O)C1CC[NH](CC1)CP(=O)([O])[O]",
+   "n_mofs": 10
+  },
+  {
+   "smiles": "OC(=O)c1ccc(cc1)C[NH2]CP(=O)([O])[O]",
+   "n_mofs": 6
+  },
+  {
+   "smiles": "[O-]C(=O)c1ccc(cc1)C[NH2]CP(=O)([O])[O]",
+   "n_mofs": 6
+  },
+  {
+   "smiles": "FC1=CN=[C](=O)N=C1",
+   "n_mofs": 6
+  },
+  {
+   "smiles": "[O]P(=O)(C[NH]1CC[NH](CC1)CP(=O)([O])[O])[O]",
+   "n_mofs": 5
+  },
+  {
+   "smiles": "n1ccc(cc1)C[NH]1CCN(CC1)Cc1ccncc1",
+   "n_mofs": 5
+  },
+  {
+   "smiles": "[O][N]12CC[N](CC1)(CC2)[O]",
+   "n_mofs": 5
+  }
+ ],
+ "geometric_vs_chemical": {
+  "n": 475,
+  "exact_agree_symmetry_aware": 0.4189,
+  "exact_agree_atom_index": 0.3916,
+  "agree_weighted_by_occurrence": 0.6542,
+  "mean_site_overlap": 0.5914,
+  "exact_agree_by_k": {
+   "2": 0.481,
+   "3": 0.579,
+   "4": 0.23,
+   "5": 0.25,
+   "6": 0.133,
+   "8": 0.0
+  },
+  "n_by_k": {
+   "2": 233,
+   "4": 126,
+   "3": 95,
+   "6": 15,
+   "5": 4,
+   "8": 2
+  }
+ }
+}

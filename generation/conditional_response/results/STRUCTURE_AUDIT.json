@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "errors": [],
+  "selected_unique": 29,
+  "scope": "frozen source and output hashes, stage budgets and recorded convergence; no independent force recomputation"
+}

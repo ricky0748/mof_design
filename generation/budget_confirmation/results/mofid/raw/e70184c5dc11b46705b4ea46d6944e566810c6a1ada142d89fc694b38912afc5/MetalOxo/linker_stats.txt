@@ -1,0 +1,2 @@
+SGLRSBMPKVSVAE-UHFFFAOYSA-M	2	1	InChI=1S/C16H8O5/c17-15-6-5-11-12(14(15)8-21-20)4-3-9-1-2-10(16(18)19)7-13(9)11/h1-7H,(H,18,19)/p-1	SGLRSBMPKVSVAE	[O]O[C]c1c([O])ccc2c1ccc1c2C=C([CH][CH]1)C(=O)[O-]	[O]O[C][c]1[c]([O])[cH][cH][c]2[c]1[cH][cH][c]1[c]2[CH][C]([CH][CH]1)[C]([O])[O-]
+

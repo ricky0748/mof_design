@@ -1,0 +1,40 @@
+{
+  "/": {
+    "status": 200,
+    "html": true,
+    "not_empty": true
+  },
+  "/generation/project-workbench.html": {
+    "status": 200,
+    "html": true,
+    "not_empty": true
+  },
+  "/PROJECT_MAP.md": {
+    "status": 200,
+    "html": true,
+    "not_empty": true
+  },
+  "/generation/mofid_validate.py": {
+    "status": 200,
+    "html": true,
+    "not_empty": true
+  },
+  "/worklog.md": {
+    "status": 200,
+    "html": true,
+    "not_empty": true
+  },
+  "/.env": {
+    "status": 404
+  },
+  "/generation/../.env": {
+    "status": 404
+  },
+  "/%2e%2e/secret": {
+    "status": 404
+  },
+  "/generation/workbench-server.json": {
+    "status": 404
+  },
+  "reused_existing_process": true
+}

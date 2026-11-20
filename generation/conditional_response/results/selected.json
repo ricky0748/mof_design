@@ -1,0 +1,583 @@
+[
+  {
+    "key": "COc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+    "smiles": "COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1",
+    "heavy_atoms": 23,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 134,
+    "rank": "0035b88216c67ccc07893a3ae7534262c1a1bd748bc5a302a7a159a169adb383",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 134
+      }
+    ],
+    "id": "C001"
+  },
+  {
+    "key": "CCOc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "smiles": "CCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "heavy_atoms": 23,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 37,
+    "rank": "011c490f2fd42e6fff07eb9b9b79b9f28f243b6cb97db7a2011950f6989ca067",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 37
+      },
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 417
+      }
+    ],
+    "id": "C002"
+  },
+  {
+    "key": "COc1cc2c(C)cc3c(C(=O)O)c(C)ccc3c2cc1C(=O)O",
+    "smiles": "COc1cc2c(C)cc3c(C(=O)[O-])c(C)ccc3c2cc1C(=O)[O-]",
+    "heavy_atoms": 24,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc2c(C)cc3c(C(=O)[O-])c(C)ccc3c2cc1C(=O)[O-].COc1cc2c(C)cc3c(C(=O)[O-])c(C)ccc3c2cc1C(=O)[O-].COc1cc2c(C)cc3c(C(=O)[O-])c(C)ccc3c2cc1C(=O)[O-].COc1cc2c(C)cc3c(C(=O)[O-])c(C)ccc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 473,
+    "rank": "03519eb966f73372bd76637c5d7e350fc277fc3352a942182ca51a7ad9e6dabe",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 473
+      }
+    ],
+    "id": "C003"
+  },
+  {
+    "key": "CCCc1c(O)cc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "smiles": "CCCc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "heavy_atoms": 24,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 262,
+    "rank": "044a0dfebfb7f5bea0f2420db9712f13c5a094c63ddce2950fd6138ab1aaa357",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 262
+      }
+    ],
+    "id": "C004"
+  },
+  {
+    "key": "CCCc1cc2ccc(C(=O)O)cc2c2cccc(C(=O)O)c12",
+    "smiles": "CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12",
+    "heavy_atoms": 23,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 548,
+    "rank": "05299a51197aeb25e78b3e50e473b95a47011aedb4450553ab20fba46fcf61ce",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 548
+      }
+    ],
+    "id": "C005"
+  },
+  {
+    "key": "Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "smiles": "Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "heavy_atoms": 21,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 494,
+    "rank": "062fc1615dd7085f42d10c7755e43c103cab8ec2ed4a272bdd124f49d5218149",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 494
+      }
+    ],
+    "id": "C006"
+  },
+  {
+    "key": "CCCOc1cc2ccc3c4cc(C(=O)O)c(OCCC)cc4ccc3c2cc1C(=O)O",
+    "smiles": "CCCOc1cc2ccc3c4cc(C(=O)[O-])c(OCCC)cc4ccc3c2cc1C(=O)[O-]",
+    "heavy_atoms": 32,
+    "rings": 4,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCOc1cc2ccc3c4cc(C(=O)[O-])c(OCCC)cc4ccc3c2cc1C(=O)[O-].CCCOc1cc2ccc3c4cc(C(=O)[O-])c(OCCC)cc4ccc3c2cc1C(=O)[O-].CCCOc1cc2ccc3c4cc(C(=O)[O-])c(OCCC)cc4ccc3c2cc1C(=O)[O-].CCCOc1cc2ccc3c4cc(C(=O)[O-])c(OCCC)cc4ccc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 345,
+    "rank": "076c16dcee56029075f1d9ec0c93b0f5bbda2556a1aac682fde61df517f13881",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 345
+      },
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 142
+      }
+    ],
+    "id": "C007"
+  },
+  {
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(F)c3c2c1",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(F)c3c2c1",
+    "heavy_atoms": 21,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(F)c3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(F)c3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(F)c3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(F)c3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 39,
+    "rank": "0e0049801e59278635794e78de222df5a0b345fc1dd719d22b6131162ca70c09",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 39
+      }
+    ],
+    "id": "C008"
+  },
+  {
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]",
+    "heavy_atoms": 30,
+    "rings": 4,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]<EOS><PAD>",
+    "sequence_index": 461,
+    "rank": "0eb157bb9d1c39b471e164fe837c6b7959d66d67a331202787486bbc7b297cd4",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 461
+      }
+    ],
+    "id": "C009"
+  },
+  {
+    "key": "CCc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "smiles": "CCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "heavy_atoms": 22,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].CCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].CCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].CCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 584,
+    "rank": "10434a2bbbc1e4258fb45dd087c4061bef8da59cf92ba75a4ff33603e737d128",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 584
+      }
+    ],
+    "id": "C010"
+  },
+  {
+    "key": "COc1cc(C(=O)O)c2c(O)cc3ccc(C(=O)O)cc3c2c1",
+    "smiles": "COc1cc(C(=O)[O-])c2c(O)cc3ccc(C(=O)[O-])cc3c2c1",
+    "heavy_atoms": 23,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc(C(=O)[O-])c2c(O)cc3ccc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2c(O)cc3ccc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2c(O)cc3ccc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2c(O)cc3ccc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 549,
+    "rank": "1088ed762211b1d830e903e93dc30f12e934ec9acd545b9ad4a5188a601f06f6",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 549
+      }
+    ],
+    "id": "C011"
+  },
+  {
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(O)cc4ccc23)cc1O",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O",
+    "heavy_atoms": 26,
+    "rings": 4,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O.O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O.O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O.O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 183,
+    "rank": "1a15fb8dde9f2b25ea3102f31e5fdf88c6883cf17b8156e25e317161ae23b17a",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 183
+      }
+    ],
+    "id": "C012"
+  },
+  {
+    "key": "CCCOc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "smiles": "CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "heavy_atoms": 24,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 46,
+    "rank": "1c955cc0ed1790785e40767f7bccee4f9db02e7ea27075a05b421e7396df4fe6",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 46
+      },
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 109
+      }
+    ],
+    "id": "C013"
+  },
+  {
+    "key": "O=C(O)C12CCC(C(=O)O)(CC1)CC2",
+    "smiles": "O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2",
+    "heavy_atoms": 14,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[Cr+][Cr+][Cr+][O-2].[Cr+][Cr+][Cr+][O-2]<SEP>O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2.O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2.O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2.O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2.O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2.O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 28,
+    "rank": "26d6a1c0712295714c200557ede7d5ed5d316d2a8e95dd615e4ae644fd8345f9",
+    "count": 4,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 4,
+        "sequence_index": 28
+      },
+      {
+        "group": "s1602_t5",
+        "count": 6,
+        "sequence_index": 106
+      }
+    ],
+    "id": "C014"
+  },
+  {
+    "key": "COc1cc2c3cc(C(=O)O)ccc3c(OC)cc2c2cc(C(=O)O)ccc12",
+    "smiles": "COc1cc2c3cc(C(=O)[O-])ccc3c(OC)cc2c2cc(C(=O)[O-])ccc12",
+    "heavy_atoms": 28,
+    "rings": 4,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc2c3cc(C(=O)[O-])ccc3c(OC)cc2c2cc(C(=O)[O-])ccc12.COc1cc2c3cc(C(=O)[O-])ccc3c(OC)cc2c2cc(C(=O)[O-])ccc12.COc1cc2c3cc(C(=O)[O-])ccc3c(OC)cc2c2cc(C(=O)[O-])ccc12.COc1cc2c3cc(C(=O)[O-])ccc3c(OC)cc2c2cc(C(=O)[O-])ccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 523,
+    "rank": "272392ff561d4b3d12f75d9914d53cb7ce4384750d7ede81f5cb087e1caf0a76",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 523
+      }
+    ],
+    "id": "C015"
+  },
+  {
+    "key": "COc1cc2ccc3c(C(=O)O)c(OC)ccc3c2cc1C(=O)O",
+    "smiles": "COc1cc2ccc3c(C(=O)[O-])c(OC)ccc3c2cc1C(=O)[O-]",
+    "heavy_atoms": 24,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc2ccc3c(C(=O)[O-])c(OC)ccc3c2cc1C(=O)[O-].COc1cc2ccc3c(C(=O)[O-])c(OC)ccc3c2cc1C(=O)[O-].COc1cc2ccc3c(C(=O)[O-])c(OC)ccc3c2cc1C(=O)[O-].COc1cc2ccc3c(C(=O)[O-])c(OC)ccc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 538,
+    "rank": "292fcc17ac05ff33b26974c7ef52fe5a638855ff52b135ba1ead66416811c540",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 538
+      }
+    ],
+    "id": "C016"
+  },
+  {
+    "key": "CCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "smiles": "CCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "heavy_atoms": 23,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.CCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.CCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1.CCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 580,
+    "rank": "2a8f67afda2aa696da10f0202423613d72791b436a9233d4d032b0e3184564fd",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 580
+      },
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 322
+      }
+    ],
+    "id": "C017"
+  },
+  {
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)cccc3c2c1",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1",
+    "heavy_atoms": 20,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 2,
+    "rank": "2fb26093f79e0d2ffe0f653fad7bcd966a9ce75406a00d3075c1f551885654b3",
+    "count": 22,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 22,
+        "sequence_index": 2
+      },
+      {
+        "group": "s1602_t5",
+        "count": 22,
+        "sequence_index": 6
+      }
+    ],
+    "id": "C018"
+  },
+  {
+    "key": "COc1cc(C(=O)O)c2cc(OC)c3ccc(C(=O)O)cc3c2c1",
+    "smiles": "COc1cc(C(=O)[O-])c2cc(OC)c3ccc(C(=O)[O-])cc3c2c1",
+    "heavy_atoms": 24,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc2c(C(=O)[O-])cc(OC)cc2c2cc(C(=O)[O-])ccc12.COc1cc2c(C(=O)[O-])cc(OC)cc2c2cc(C(=O)[O-])ccc12.COc1cc2c(C(=O)[O-])cc(OC)cc2c2cc(C(=O)[O-])ccc12.COc1cc2c(C(=O)[O-])cc(OC)cc2c2cc(C(=O)[O-])ccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 505,
+    "rank": "321775d354102f7a96712c95ff15ce5e4e531acf03982b1cc1c82fbe9c87c41e",
+    "count": 2,
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 2,
+        "sequence_index": 505
+      }
+    ],
+    "id": "C019"
+  },
+  {
+    "key": "O=C(O)c1ccc(C(=O)O)c2c1CC2",
+    "smiles": "O=C([O-])c1ccc(C(=O)[O-])c2c1CC2",
+    "heavy_atoms": 14,
+    "rings": 2,
+    "formal_charge": 0,
+    "sequence": "[Cr+][Cr+][Cr+][O-2].[Cr+][Cr+][Cr+][O-2]<SEP>O=C([O-])c1ccc(C(=O)[O-])c2c1CC2.O=C([O-])c1ccc(C(=O)[O-])c2c1CC2.O=C([O-])c1ccc(C(=O)[O-])c2c1CC2.O=C([O-])c1ccc(C(=O)[O-])c2c1CC2.O=C([O-])c1ccc(C(=O)[O-])c2c1CC2.O=C([O-])c1ccc(C(=O)[O-])c2c1CC2<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 400,
+    "rank": "3813e1ab24aef6bc63b4fcef073e03bcf6288241524a97df87bb3c997e16f84a",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t2",
+        "count": 1,
+        "sequence_index": 400
+      }
+    ],
+    "id": "C020"
+  },
+  {
+    "key": "O=Cc1cc(C(=O)O)c2c(C=O)cc3ccc(C(=O)O)cc3c2c1",
+    "smiles": "O=Cc1cc(C(=O)[O-])c2c(C=O)cc3ccc(C(=O)[O-])cc3c2c1",
+    "heavy_atoms": 24,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=Cc1cc(C(=O)[O-])c2c(C=O)cc3ccc(C(=O)[O-])cc3c2c1.O=Cc1cc(C(=O)[O-])c2c(C=O)cc3ccc(C(=O)[O-])cc3c2c1.O=Cc1cc(C(=O)[O-])c2c(C=O)cc3ccc(C(=O)[O-])cc3c2c1.O=Cc1cc(C(=O)[O-])c2c(C=O)cc3ccc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 548,
+    "rank": "3a837b1702f7bc384bd6a516c8c3e89cdaa7102381a0fa634b644a8cef733693",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 548
+      }
+    ],
+    "id": "C021"
+  },
+  {
+    "key": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cccc12",
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12",
+    "heavy_atoms": 24,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12.CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12.CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12.CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 371,
+    "rank": "3db73c3a367576e5c07129c00d35c9ebf7dd083b752b0dca04ff7a7eda323f36",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 371
+      }
+    ],
+    "id": "C022"
+  },
+  {
+    "key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4ccc3c2c1",
+    "smiles": "O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1",
+    "heavy_atoms": 24,
+    "rings": 4,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1.O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1.O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1.O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 20,
+    "rank": "4cbdfa592e411202d23576e0a45f18b16c1c61d9b3d454099921056911ecc0dc",
+    "count": 32,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 32,
+        "sequence_index": 20
+      }
+    ],
+    "id": "C023"
+  },
+  {
+    "key": "O=Cc1cc2ccc3c4cc(C(=O)O)c(C=O)cc4ccc3c2cc1C(=O)O",
+    "smiles": "O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-]",
+    "heavy_atoms": 28,
+    "rings": 4,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+][V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-].O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-].O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-].O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 462,
+    "rank": "53d0ad0246a50ead28df4650d253baed8a1b674c30ded331f1380449fc9c3396",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 462
+      }
+    ],
+    "id": "C024"
+  },
+  {
+    "key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4c(O)cc3c2c1",
+    "smiles": "O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4c(O)cc3c2c1",
+    "heavy_atoms": 25,
+    "rings": 4,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4c(O)cc3c2c1.O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4c(O)cc3c2c1.O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4c(O)cc3c2c1.O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4c(O)cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 407,
+    "rank": "561a9a719899c14c4fb985593139d6ade3de11589359a9b53c60608f1764e28b",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 407
+      }
+    ],
+    "id": "C025"
+  },
+  {
+    "key": "O=C(O)C12CCC(C(=O)O)(CC1)C(S([O-])([O-])O)C2",
+    "smiles": "O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)[C@@H](S([O-])([O-])O)C2",
+    "heavy_atoms": 18,
+    "rings": 3,
+    "formal_charge": -2,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)[C@@H](S([O-])([O-])O)C2.O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)[C@@H](S([O-])([O-])O)C2.O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)[C@@H](S([O-])([O-])O)C2.O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)[C@@H](S([O-])([O-])O)C2<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 582,
+    "rank": "acd27b150588839e5960b3f076a5c64cd44a965b9feca6f90c93923dd3211c73",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t2",
+        "count": 1,
+        "sequence_index": 582
+      }
+    ],
+    "id": "C026"
+  },
+  {
+    "key": "O=C(O)c1cc2ccc3cc(C(=O)O)cc4ccc(c1)c2c34",
+    "smiles": "O=C([O-])c1cc2ccc3cc(C(=O)[O-])cc4ccc(c1)c2c34",
+    "heavy_atoms": 22,
+    "rings": 4,
+    "formal_charge": 0,
+    "sequence": "[Cr+][Cr+][Cr+][O-2].[Cr+][Cr+][Cr+][O-2]<SEP>O=C([O-])c1cc2ccc3cc(C(=O)[O-])cc4ccc(c1)c2c34.O=C([O-])c1cc2ccc3cc(C(=O)[O-])cc4ccc(c1)c2c34.O=C([O-])c1cc2ccc3cc(C(=O)[O-])cc4ccc(c1)c2c34.O=C([O-])c1cc2ccc3cc(C(=O)[O-])cc4ccc(c1)c2c34.O=C([O-])c1cc2ccc3cc(C(=O)[O-])cc4ccc(c1)c2c34.O=C([O-])c1cc2ccc3cc(C(=O)[O-])cc4ccc(c1)c2c34<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 200,
+    "rank": "b42d5859df6f070bcd938f1ac4471e264be86b006ef3817778c1ccf50d0d4730",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1602_t2",
+        "count": 1,
+        "sequence_index": 200
+      }
+    ],
+    "id": "C027"
+  },
+  {
+    "key": "CCc1cc2cc(Br)c3c(C(=O)O)cc(Br)cc3c2cc1C(=O)O",
+    "smiles": "CCc1cc2cc(Br)c3c(C(=O)[O-])cc(Br)cc3c2cc1C(=O)[O-]",
+    "heavy_atoms": 24,
+    "rings": 3,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCc1cc2cc(Br)c3c(C(=O)[O-])cc(Br)cc3c2cc1C(=O)[O-].CCc1cc2cc(Br)c3c(C(=O)[O-])cc(Br)cc3c2cc1C(=O)[O-].CCc1cc2cc(Br)c3c(C(=O)[O-])cc(Br)cc3c2cc1C(=O)[O-].CCc1cc2cc(Br)c3c(C(=O)[O-])cc(Br)cc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 141,
+    "rank": "bc2ff3af0292b5e70ca550a5a6ddd0a89146c5132d7afa04dbdfacc1a7a5dd55",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t2",
+        "count": 1,
+        "sequence_index": 141
+      }
+    ],
+    "id": "C028"
+  },
+  {
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(F)cc4ccc23)cc1F",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F",
+    "heavy_atoms": 26,
+    "rings": 4,
+    "formal_charge": 0,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F.O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F.O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F.O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "sequence_index": 210,
+    "rank": "d8262bb5d12fe8be0e910ea2444594c3c0dc6b84176cdca7e7dbd42faff3a668",
+    "count": 1,
+    "memberships": [
+      {
+        "group": "s1601_t2",
+        "count": 1,
+        "sequence_index": 210
+      }
+    ],
+    "id": "C029"
+  }
+]

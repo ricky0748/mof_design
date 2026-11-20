@@ -1,0 +1,17 @@
+[
+  {
+    "id": "C_BDC",
+    "arm": "control",
+    "name": "control_C_BDC",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/control_C_BDC.cif",
+    "natoms": 53,
+    "sha256": "13025fd7cbe2e0fe0ee6bc00f1bed04167e7ded6cc6298bc610b1a238bb565cf",
+    "seconds": 1.627
+  }
+]

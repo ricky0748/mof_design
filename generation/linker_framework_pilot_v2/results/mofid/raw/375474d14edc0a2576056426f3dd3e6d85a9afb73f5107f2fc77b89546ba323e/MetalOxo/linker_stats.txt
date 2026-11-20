@@ -1,0 +1,2 @@
+SKSSPHJVYMUHEL-UHFFFAOYSA-L	2	3	InChI=1S/C17H10O5/c18-8-9-5-14-12(15(6-9)17(21)22)4-3-10-1-2-11(16(19)20)7-13(10)14/h1-8H,(H,19,20)(H,21,22)/p-2	SKSSPHJVYMUHEL	O=Cc1cc(C(=O)[O-])c2c(c1)c1cc(ccc1cc2)C(=O)[O-]	[O][CH][c]1[cH][c]([C]([O])[O-])[c]2[c]([cH]1)[c]1[cH][c]([cH][cH][c]1[cH][cH]2)[C]([O])[O-]
+

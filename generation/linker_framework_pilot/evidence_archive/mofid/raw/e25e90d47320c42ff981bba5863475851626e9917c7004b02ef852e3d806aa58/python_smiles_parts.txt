@@ -1,0 +1,4 @@
+node	[O]
+node	[V]
+node	[V]1OO1
+linker	[O]O[C]O[C][C]C(=[C])[C]Cl

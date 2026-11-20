@@ -1,0 +1,1 @@
+[Cd][Cd].[O-]C(=O)c1c(O)cc2c(c1O)c1ccc(c(c1c(c2)O)C(=O)[O-])O MOFid-v1.cds.cat0.NO_REF;M_L12

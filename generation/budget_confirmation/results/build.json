@@ -1,0 +1,1772 @@
+[
+  {
+    "name": "A300_B01",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B01.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B01",
+    "arm": "S300",
+    "name": "S300_B01",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B01.cif",
+    "natoms": 116,
+    "sha256": "d5602ee69feec53275e246cb2d3c5e605c02417cfe5ede2412b7333bae150437",
+    "seconds": 2.244,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B01",
+    "arm": "S300",
+    "name": "D7_B01",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B01.cif",
+    "natoms": 116,
+    "sha256": "d5602ee69feec53275e246cb2d3c5e605c02417cfe5ede2412b7333bae150437",
+    "seconds": 2.244,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B01",
+    "arm": "D19",
+    "name": "D19_B01",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B01.cif",
+    "natoms": 116,
+    "sha256": "510374950109820520a7918ebf717a3a8faf237c6cf173f35e3e77c3339ccde6",
+    "seconds": 0.525,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B02",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B02.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B02",
+    "arm": "S300",
+    "name": "S300_B02",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B02.cif",
+    "natoms": 116,
+    "sha256": "0686b12351a7de065c40e517155ca8aa3409a51ff80794351e5553c0248c570a",
+    "seconds": 0.623,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B02",
+    "arm": "S300",
+    "name": "D7_B02",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B02.cif",
+    "natoms": 116,
+    "sha256": "0686b12351a7de065c40e517155ca8aa3409a51ff80794351e5553c0248c570a",
+    "seconds": 0.623,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B02",
+    "arm": "D19",
+    "name": "D19_B02",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B02.cif",
+    "natoms": 116,
+    "sha256": "4ab95232f07f44ff8431bedbe07a8e2db5abe4010552442398744e08ec4e96a0",
+    "seconds": 1.01,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B03",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B03.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B03",
+    "arm": "S300",
+    "name": "S300_B03",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B03.cif",
+    "natoms": 95,
+    "sha256": "67fba0842028bd860fab6774af4bd14cc1e1d89da943b9b6ba62f8f7cf9d7678",
+    "seconds": 0.461,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B03",
+    "arm": "S300",
+    "name": "D7_B03",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B03.cif",
+    "natoms": 95,
+    "sha256": "67fba0842028bd860fab6774af4bd14cc1e1d89da943b9b6ba62f8f7cf9d7678",
+    "seconds": 0.461,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B03",
+    "arm": "D19",
+    "name": "D19_B03",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B03.cif",
+    "natoms": 95,
+    "sha256": "1f277cf525270a14008a43a0dafd2d0f813671acc4602c8ccb0cd25971d176f4",
+    "seconds": 0.891,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B04",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B04.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B04",
+    "arm": "S300",
+    "name": "S300_B04",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B04.cif",
+    "natoms": 110,
+    "sha256": "37a81ca46853fd48d2488dc3f536dcb48c1943d6d53ecb2260ece0b82b67fa6e",
+    "seconds": 0.711,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B04",
+    "arm": "S300",
+    "name": "D7_B04",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B04.cif",
+    "natoms": 110,
+    "sha256": "37a81ca46853fd48d2488dc3f536dcb48c1943d6d53ecb2260ece0b82b67fa6e",
+    "seconds": 0.711,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B04",
+    "arm": "D19",
+    "name": "D19_B04",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B04.cif",
+    "natoms": 110,
+    "sha256": "8ed37e9ad6a64adc75446ff1d72735b66246ed6f6bfd8df92e45227a4fad6e2c",
+    "seconds": 0.764,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B05",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B05.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B05",
+    "arm": "S300",
+    "name": "S300_B05",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B05.cif",
+    "natoms": 95,
+    "sha256": "ff9783e33e7c2384de8666c35fd286b7b32ed86691d443ce1bea4f14aca47c52",
+    "seconds": 0.767,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B05",
+    "arm": "S300",
+    "name": "D7_B05",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B05.cif",
+    "natoms": 95,
+    "sha256": "ff9783e33e7c2384de8666c35fd286b7b32ed86691d443ce1bea4f14aca47c52",
+    "seconds": 0.767,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B05",
+    "arm": "D19",
+    "name": "D19_B05",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B05.cif",
+    "natoms": 95,
+    "sha256": "c0451cd14734f4878b287a598ddb06f55c4891783667568573e2c05ed6c4eea2",
+    "seconds": 0.6,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B06",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B06.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B06",
+    "arm": "S300",
+    "name": "S300_B06",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B06.cif",
+    "natoms": 137,
+    "sha256": "7320ccc99fc835c0051f486069dd4c2c0403b46f276fb450a822cbc663576378",
+    "seconds": 0.462,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B06",
+    "arm": "S300",
+    "name": "D7_B06",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B06.cif",
+    "natoms": 137,
+    "sha256": "7320ccc99fc835c0051f486069dd4c2c0403b46f276fb450a822cbc663576378",
+    "seconds": 0.462,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B06",
+    "arm": "D19",
+    "name": "D19_B06",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B06.cif",
+    "natoms": 137,
+    "sha256": "5d71a69c190aee96ab6d71b106212e6f9d671525e69508cc7fb540bd2d71bb24",
+    "seconds": 0.486,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B07",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B07.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B07",
+    "arm": "S300",
+    "name": "S300_B07",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B07.cif",
+    "natoms": 101,
+    "sha256": "92590fe051783f99005695080f6c7e168cdb7d6ca2fb5fcc289ebc2c3e39b7a1",
+    "seconds": 0.55,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B07",
+    "arm": "S300",
+    "name": "D7_B07",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B07.cif",
+    "natoms": 101,
+    "sha256": "92590fe051783f99005695080f6c7e168cdb7d6ca2fb5fcc289ebc2c3e39b7a1",
+    "seconds": 0.55,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B07",
+    "arm": "D19",
+    "name": "D19_B07",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B07.cif",
+    "natoms": 101,
+    "sha256": "a2c6f757c66685b68a6a59a6be08ffa79587170ae940ee79b59f1e88a0a4b16b",
+    "seconds": 0.736,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B08",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B08.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B08",
+    "arm": "S300",
+    "name": "S300_B08",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B08.cif",
+    "natoms": 125,
+    "sha256": "7f4c99df5bcf5833752adc97415a858e8f64c5bc054d15e5354ee9398ed6da3d",
+    "seconds": 0.604,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B08",
+    "arm": "S300",
+    "name": "D7_B08",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B08.cif",
+    "natoms": 125,
+    "sha256": "7f4c99df5bcf5833752adc97415a858e8f64c5bc054d15e5354ee9398ed6da3d",
+    "seconds": 0.604,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B08",
+    "arm": "D19",
+    "name": "D19_B08",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B08.cif",
+    "natoms": 125,
+    "sha256": "f1988daac14c596035ecba54483a8ffe02aaf36d9c1ac19c39fe5950b7855540",
+    "seconds": 0.767,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B09",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B09.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B09",
+    "arm": "S300",
+    "name": "S300_B09",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B09.cif",
+    "natoms": 95,
+    "sha256": "fa148b83706f9534a7a5fa6850606f37dcba9bc6bc1013137147516c58d7218b",
+    "seconds": 0.721,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B09",
+    "arm": "S300",
+    "name": "D7_B09",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B09.cif",
+    "natoms": 95,
+    "sha256": "fa148b83706f9534a7a5fa6850606f37dcba9bc6bc1013137147516c58d7218b",
+    "seconds": 0.721,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B09",
+    "arm": "D19",
+    "name": "D19_B09",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B09.cif",
+    "natoms": 95,
+    "sha256": "1c3f534f3c5fb3b6b30dbbfc35255eb992a71ce01767bbf89269c4fc6b763465",
+    "seconds": 0.605,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B10",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B10.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B10",
+    "arm": "S300",
+    "name": "S300_B10",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B10.cif",
+    "natoms": 143,
+    "sha256": "d6352ad7c5edb9af97d154410b4106e6f47fd0470734be89743a611b906e4b1a",
+    "seconds": 0.827,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B10",
+    "arm": "S300",
+    "name": "D7_B10",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B10.cif",
+    "natoms": 143,
+    "sha256": "d6352ad7c5edb9af97d154410b4106e6f47fd0470734be89743a611b906e4b1a",
+    "seconds": 0.827,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B10",
+    "arm": "D19",
+    "name": "D19_B10",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B10.cif",
+    "natoms": 143,
+    "sha256": "82432e3b6ab661b244783f1e41e9951d55a164a549f0708ad18a943319dd5af3",
+    "seconds": 0.677,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B11",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B11.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B11",
+    "arm": "S300",
+    "name": "S300_B11",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B11.cif",
+    "natoms": 95,
+    "sha256": "aceeebee2082b37437c62f5b9ff05255495f095c8a4a6b52eb980bf75695eed3",
+    "seconds": 0.584,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B11",
+    "arm": "S300",
+    "name": "D7_B11",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B11.cif",
+    "natoms": 95,
+    "sha256": "aceeebee2082b37437c62f5b9ff05255495f095c8a4a6b52eb980bf75695eed3",
+    "seconds": 0.584,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B11",
+    "arm": "D19",
+    "name": "D19_B11",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B11.cif",
+    "natoms": 95,
+    "sha256": "14b60666a727a1d85868f80c8f17542c0b90a318bb54cdb6d0946dcbef66b091",
+    "seconds": 0.492,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B12",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B12.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B12",
+    "arm": "S300",
+    "name": "S300_B12",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B12.cif",
+    "natoms": 137,
+    "sha256": "95c4e86afed74d210e9f6ee9a8c4471b4310209fec8793373fa61f32dcea5666",
+    "seconds": 0.66,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B12",
+    "arm": "S300",
+    "name": "D7_B12",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B12.cif",
+    "natoms": 137,
+    "sha256": "95c4e86afed74d210e9f6ee9a8c4471b4310209fec8793373fa61f32dcea5666",
+    "seconds": 0.66,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B12",
+    "arm": "D19",
+    "name": "D19_B12",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B12.cif",
+    "natoms": 137,
+    "sha256": "3766b9ae603a1aae00d1a26a521fbc290c434e2ec3da5cf75c5df31703c29085",
+    "seconds": 0.602,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B13",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B13.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B13",
+    "arm": "S300",
+    "name": "S300_B13",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B13.cif",
+    "natoms": 110,
+    "sha256": "9b1e5fa16432c792eea3069347deb1d646d55b1a881d89613bec3fa99eb41243",
+    "seconds": 0.505,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B13",
+    "arm": "S300",
+    "name": "D7_B13",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B13.cif",
+    "natoms": 110,
+    "sha256": "9b1e5fa16432c792eea3069347deb1d646d55b1a881d89613bec3fa99eb41243",
+    "seconds": 0.505,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B13",
+    "arm": "D19",
+    "name": "D19_B13",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B13.cif",
+    "natoms": 110,
+    "sha256": "14f8896f3951cecc4474ee8135d5133c30bca4c20bee1f4e85c5211d58f71ed3",
+    "seconds": 0.583,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B14",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B14.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B14",
+    "arm": "S300",
+    "name": "S300_B14",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B14.cif",
+    "natoms": 113,
+    "sha256": "3af63d940985d24d47aaad2d497f882aa8e1387b7c7c8c04fe47845bf991cc2f",
+    "seconds": 0.671,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B14",
+    "arm": "S300",
+    "name": "D7_B14",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B14.cif",
+    "natoms": 113,
+    "sha256": "3af63d940985d24d47aaad2d497f882aa8e1387b7c7c8c04fe47845bf991cc2f",
+    "seconds": 0.671,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B14",
+    "arm": "D19",
+    "name": "D19_B14",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B14.cif",
+    "natoms": 113,
+    "sha256": "2f173407dc69da3bafd9142c149148abfbe357e6c8adcf76b00fa9d8d8ab73ce",
+    "seconds": 0.528,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B15",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B15.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B15",
+    "arm": "S300",
+    "name": "S300_B15",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B15.cif",
+    "natoms": 113,
+    "sha256": "c945cc495e6e7e2374d1b805c7ed943cdcf56eb58cfd60c2022855e73acf6845",
+    "seconds": 0.627,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B15",
+    "arm": "S300",
+    "name": "D7_B15",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B15.cif",
+    "natoms": 113,
+    "sha256": "c945cc495e6e7e2374d1b805c7ed943cdcf56eb58cfd60c2022855e73acf6845",
+    "seconds": 0.627,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B15",
+    "arm": "D19",
+    "name": "D19_B15",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B15.cif",
+    "natoms": 113,
+    "sha256": "ec4e1548e931d1f779505aa2032e8954befd47519b6dd448690101628ba110f4",
+    "seconds": 0.714,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B16",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B16.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B16",
+    "arm": "S300",
+    "name": "S300_B16",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B16.cif",
+    "natoms": 110,
+    "sha256": "aec6b91789253118290d4fb94c320ecf933f85b22cd350a845511b0cc99c4696",
+    "seconds": 0.787,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B16",
+    "arm": "S300",
+    "name": "D7_B16",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B16.cif",
+    "natoms": 110,
+    "sha256": "aec6b91789253118290d4fb94c320ecf933f85b22cd350a845511b0cc99c4696",
+    "seconds": 0.787,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B16",
+    "arm": "D19",
+    "name": "D19_B16",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B16.cif",
+    "natoms": 110,
+    "sha256": "bd6c8f95a8507f13125a84cd5c1054dffd164b740dd9c5c44c2d00700ee9dcb6",
+    "seconds": 0.868,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B17",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B17.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B17",
+    "arm": "S300",
+    "name": "S300_B17",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B17.cif",
+    "natoms": 101,
+    "sha256": "628f22297dfb7454c2d322badf2bace64bbe64ef31dc9c2c30fc5beb7a884dfd",
+    "seconds": 0.824,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B17",
+    "arm": "S300",
+    "name": "D7_B17",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B17.cif",
+    "natoms": 101,
+    "sha256": "628f22297dfb7454c2d322badf2bace64bbe64ef31dc9c2c30fc5beb7a884dfd",
+    "seconds": 0.824,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B17",
+    "arm": "D19",
+    "name": "D19_B17",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B17.cif",
+    "natoms": 101,
+    "sha256": "53ad1167409f46f902612d85497d2f590cd2e0d5c603e387d76dcdb088214d27",
+    "seconds": 0.574,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B18",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B18.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B18",
+    "arm": "S300",
+    "name": "S300_B18",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B18.cif",
+    "natoms": 95,
+    "sha256": "f719b21c0e469afa1bc372e321c553343a07f0c5635cfcac74b9ab168da43b39",
+    "seconds": 0.637,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B18",
+    "arm": "S300",
+    "name": "D7_B18",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B18.cif",
+    "natoms": 95,
+    "sha256": "f719b21c0e469afa1bc372e321c553343a07f0c5635cfcac74b9ab168da43b39",
+    "seconds": 0.637,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B18",
+    "arm": "D19",
+    "name": "D19_B18",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B18.cif",
+    "natoms": 95,
+    "sha256": "acf1abfb077b8f7dc18015886384af94de5e77fc3a1090b23b0dcf5b20fd0354",
+    "seconds": 0.542,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B19",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B19.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B19",
+    "arm": "S300",
+    "name": "S300_B19",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B19.cif",
+    "natoms": 119,
+    "sha256": "c4a4decdeee5bbc482e3e7920e75c20a272e590c107e4238b3ab434d9d61e09c",
+    "seconds": 0.582,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B19",
+    "arm": "S300",
+    "name": "D7_B19",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B19.cif",
+    "natoms": 119,
+    "sha256": "c4a4decdeee5bbc482e3e7920e75c20a272e590c107e4238b3ab434d9d61e09c",
+    "seconds": 0.582,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B19",
+    "arm": "D19",
+    "name": "D19_B19",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B19.cif",
+    "natoms": 119,
+    "sha256": "f1bc95c3d898605bde2a54bcf137171d6ccec482dffdb5c7a296fea98cf016b0",
+    "seconds": 0.664,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B20",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B20.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B20",
+    "arm": "S300",
+    "name": "S300_B20",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B20.cif",
+    "natoms": 95,
+    "sha256": "f1f3b4b4317bd3d9e8cf186d67423fe766c2bb5523e6512050d3431cbe36a3a4",
+    "seconds": 0.679,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B20",
+    "arm": "S300",
+    "name": "D7_B20",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B20.cif",
+    "natoms": 95,
+    "sha256": "f1f3b4b4317bd3d9e8cf186d67423fe766c2bb5523e6512050d3431cbe36a3a4",
+    "seconds": 0.679,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B20",
+    "arm": "D19",
+    "name": "D19_B20",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B20.cif",
+    "natoms": 95,
+    "sha256": "faf25d52a147101fc4ecfa16536e862579031ddd045fd52fd5c8bd76a7608b29",
+    "seconds": 0.81,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B21",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B21.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B21",
+    "arm": "S300",
+    "name": "S300_B21",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B21.cif",
+    "natoms": 113,
+    "sha256": "41792203fe20a1e03d80a65c7504c151425feb01efd94a81d26ab92a0eb788b8",
+    "seconds": 0.776,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B21",
+    "arm": "S300",
+    "name": "D7_B21",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B21.cif",
+    "natoms": 113,
+    "sha256": "41792203fe20a1e03d80a65c7504c151425feb01efd94a81d26ab92a0eb788b8",
+    "seconds": 0.776,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B21",
+    "arm": "D19",
+    "name": "D19_B21",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B21.cif",
+    "natoms": 113,
+    "sha256": "1620b631f41e62271278ece8ee97a31082fed2d6b5d7a3864a89d91e8be1b042",
+    "seconds": 0.671,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B22",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B22.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B22",
+    "arm": "S300",
+    "name": "S300_B22",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B22.cif",
+    "natoms": 101,
+    "sha256": "61d9841329fceff1c561d706b805d6ee2aaa7fe9454676b602fb5f90d61254b5",
+    "seconds": 0.574,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B22",
+    "arm": "S300",
+    "name": "D7_B22",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B22.cif",
+    "natoms": 101,
+    "sha256": "61d9841329fceff1c561d706b805d6ee2aaa7fe9454676b602fb5f90d61254b5",
+    "seconds": 0.574,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B22",
+    "arm": "D19",
+    "name": "D19_B22",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B22.cif",
+    "natoms": 101,
+    "sha256": "5c945a2c749a2b44c9c7e0b8ce9d9ee28903b1de5e33ed14ad2f2dd630709c77",
+    "seconds": 0.794,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B23",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B23.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B23",
+    "arm": "S300",
+    "name": "S300_B23",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B23.cif",
+    "natoms": 101,
+    "sha256": "9bf1bd5254775006015cdd56b68860b20a06ba17971f78dfb34d93ab62327cb8",
+    "seconds": 0.776,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B23",
+    "arm": "S300",
+    "name": "D7_B23",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B23.cif",
+    "natoms": 101,
+    "sha256": "9bf1bd5254775006015cdd56b68860b20a06ba17971f78dfb34d93ab62327cb8",
+    "seconds": 0.776,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B23",
+    "arm": "D19",
+    "name": "D19_B23",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B23.cif",
+    "natoms": 101,
+    "sha256": "42e6d86ff57501317b0cd5a8e7bd4e427100aaa8913e3527af2ecd254d179056",
+    "seconds": 0.68,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B24",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B24.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B24",
+    "arm": "S300",
+    "name": "S300_B24",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B24.cif",
+    "natoms": 113,
+    "sha256": "bc7acfba595c52570484e866238864eb7199f46a3ce67069f669a0a7771a681e",
+    "seconds": 0.721,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B24",
+    "arm": "S300",
+    "name": "D7_B24",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B24.cif",
+    "natoms": 113,
+    "sha256": "bc7acfba595c52570484e866238864eb7199f46a3ce67069f669a0a7771a681e",
+    "seconds": 0.721,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B24",
+    "arm": "D19",
+    "name": "D19_B24",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B24.cif",
+    "natoms": 113,
+    "sha256": "b459e680d56671252fffecf7b1c135dd40f2665283646800f623625e72378ad4",
+    "seconds": 0.884,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B25",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B25.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B25",
+    "arm": "S300",
+    "name": "S300_B25",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B25.cif",
+    "natoms": 119,
+    "sha256": "a26a74563ce2bbb66b5f07ff8c8396616c5638d0684689dc7fcec4894cb297ef",
+    "seconds": 0.76,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B25",
+    "arm": "S300",
+    "name": "D7_B25",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B25.cif",
+    "natoms": 119,
+    "sha256": "a26a74563ce2bbb66b5f07ff8c8396616c5638d0684689dc7fcec4894cb297ef",
+    "seconds": 0.76,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B25",
+    "arm": "D19",
+    "name": "D19_B25",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B25.cif",
+    "natoms": 119,
+    "sha256": "c2414500cf613041714a7978b679f817b94ad59afb65b87adfb340daae413563",
+    "seconds": 0.609,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B26",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B26.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B26",
+    "arm": "S300",
+    "name": "S300_B26",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B26.cif",
+    "natoms": 95,
+    "sha256": "95f8cb060260ccfd90601a7e538445de2780e52b0788a77d8a26160557adfab7",
+    "seconds": 0.732,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B26",
+    "arm": "S300",
+    "name": "D7_B26",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B26.cif",
+    "natoms": 95,
+    "sha256": "95f8cb060260ccfd90601a7e538445de2780e52b0788a77d8a26160557adfab7",
+    "seconds": 0.732,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B26",
+    "arm": "D19",
+    "name": "D19_B26",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B26.cif",
+    "natoms": 95,
+    "sha256": "cc23e06b524c7aee2fca2fa728f0cefffb399b08a9fb04f65298246811b10dfb",
+    "seconds": 0.597,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B27",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B27.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B27",
+    "arm": "S300",
+    "name": "S300_B27",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B27.cif",
+    "natoms": 107,
+    "sha256": "a29edeb534479021a102529986656dc1db30755579e38c26ec8d3b8e233b22d1",
+    "seconds": 0.601,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B27",
+    "arm": "S300",
+    "name": "D7_B27",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B27.cif",
+    "natoms": 107,
+    "sha256": "a29edeb534479021a102529986656dc1db30755579e38c26ec8d3b8e233b22d1",
+    "seconds": 0.601,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B27",
+    "arm": "D19",
+    "name": "D19_B27",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B27.cif",
+    "natoms": 107,
+    "sha256": "699727bcab5a96ee8176c2a1f7340e918acafad7ffbe44a73da3da3b2406e4ef",
+    "seconds": 0.573,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B28",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B28.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B28",
+    "arm": "S300",
+    "name": "S300_B28",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B28.cif",
+    "natoms": 107,
+    "sha256": "64f8f51f9452ac1d0a47384600180aa69b46e58a3e8679c2d2f861bfa4ba5b36",
+    "seconds": 0.836,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B28",
+    "arm": "S300",
+    "name": "D7_B28",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B28.cif",
+    "natoms": 107,
+    "sha256": "64f8f51f9452ac1d0a47384600180aa69b46e58a3e8679c2d2f861bfa4ba5b36",
+    "seconds": 0.836,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B28",
+    "arm": "D19",
+    "name": "D19_B28",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B28.cif",
+    "natoms": 107,
+    "sha256": "977bbb027df2d85e4d3e5510f85e1a031876806dc9c4f9a28cd58d10e6dcfe7f",
+    "seconds": 0.755,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B29",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B29.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B29",
+    "arm": "S300",
+    "name": "S300_B29",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B29.cif",
+    "natoms": 131,
+    "sha256": "45e2f07ba5a4024e03659d1c27ae9c7400f26c9bcea41a62752aceb0ceb3fede",
+    "seconds": 0.944,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B29",
+    "arm": "S300",
+    "name": "D7_B29",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B29.cif",
+    "natoms": 131,
+    "sha256": "45e2f07ba5a4024e03659d1c27ae9c7400f26c9bcea41a62752aceb0ceb3fede",
+    "seconds": 0.944,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B29",
+    "arm": "D19",
+    "name": "D19_B29",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B29.cif",
+    "natoms": 131,
+    "sha256": "806fbdb1b38fd59d80462cfa8a95237394e79121439b56fd91b7236c4800e649",
+    "seconds": 0.812,
+    "max_steps": 150,
+    "timeout": 600
+  },
+  {
+    "name": "A300_B30",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/A300_B30.cif",
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B30",
+    "arm": "S300",
+    "name": "S300_B30",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B30.cif",
+    "natoms": 116,
+    "sha256": "56d28aab38bc9a641a7fe5ed684e69ae2bb9fe1c4da738130e392fc707398453",
+    "seconds": 0.895,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "B30",
+    "arm": "S300",
+    "name": "D7_B30",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/S300_B30.cif",
+    "natoms": 116,
+    "sha256": "56d28aab38bc9a641a7fe5ed684e69ae2bb9fe1c4da738130e392fc707398453",
+    "seconds": 0.895,
+    "max_steps": 150,
+    "timeout": 600,
+    "role": "logical_150_from_same_seed7_input"
+  },
+  {
+    "id": "B30",
+    "arm": "D19",
+    "name": "D19_B30",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/D19_B30.cif",
+    "natoms": 116,
+    "sha256": "74af68462bced43c7c7732ec41e31d0161173431585f9eb18fc916c3da5fa48d",
+    "seconds": 0.619,
+    "max_steps": 150,
+    "timeout": 600
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "U7_F11",
+    "cif": "/share/rickyswork/ai_mof/generation/steric_precondition_20261113/raw/U7_F11.cif",
+    "status": "built"
+  },
+  {
+    "name": "U7_F14",
+    "cif": "/share/rickyswork/ai_mof/generation/steric_precondition_20261113/raw/U7_F14.cif",
+    "status": "built"
+  },
+  {
+    "name": "U19_F11",
+    "cif": "/share/rickyswork/ai_mof/generation/steric_precondition_20261113/raw/U19_F11.cif",
+    "status": "built"
+  },
+  {
+    "name": "U19_F14",
+    "cif": "/share/rickyswork/ai_mof/generation/steric_precondition_20261113/raw/U19_F14.cif",
+    "status": "built"
+  },
+  {
+    "name": "U19_F04",
+    "cif": "/share/rickyswork/ai_mof/generation/steric_precondition_20261113/raw/U19_F04.cif",
+    "status": "built"
+  },
+  {
+    "name": "control_BDC19",
+    "cif": "/share/rickyswork/ai_mof/generation/steric_precondition_20261113/raw/control_BDC19.cif",
+    "status": "built"
+  }
+]

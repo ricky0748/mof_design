@@ -1,0 +1,632 @@
+[
+  {
+    "name": "A_F01",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F01.cif"
+  },
+  {
+    "id": "F01",
+    "arm": "U7",
+    "name": "U7_F01",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F01.cif",
+    "natoms": 95,
+    "sha256": "5465f9f9101e4f062719570d279506bcbb2f758ac020e00cb395724e64020bf2",
+    "seconds": 2.173
+  },
+  {
+    "id": "F01",
+    "arm": "U19",
+    "name": "U19_F01",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F01.cif",
+    "natoms": 95,
+    "sha256": "e12faa7a92045a416a938d01e4326fdd8138a8043d5d7a930994ba589ed4ca90",
+    "seconds": 0.352
+  },
+  {
+    "name": "A_F02",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F02.cif"
+  },
+  {
+    "id": "F02",
+    "arm": "U7",
+    "name": "U7_F02",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F02.cif",
+    "natoms": 101,
+    "sha256": "55af8d30206960122ff4e5c2b39ba789b369ae7fe65b67b0186bb51d07eed070",
+    "seconds": 0.5
+  },
+  {
+    "id": "F02",
+    "arm": "U19",
+    "name": "U19_F02",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F02.cif",
+    "natoms": 101,
+    "sha256": "fccf1d8a25d17c15919da58743c0829dc2144263273ff678f5121cebb5d0b7e7",
+    "seconds": 0.833
+  },
+  {
+    "name": "A_F03",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F03.cif"
+  },
+  {
+    "id": "F03",
+    "arm": "U7",
+    "name": "U7_F03",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F03.cif",
+    "natoms": 89,
+    "sha256": "cdb0f58fc746118c6dfd0a99aa801e030310dc20fdaeb9ac325ee614fd781f6b",
+    "seconds": 0.976
+  },
+  {
+    "id": "F03",
+    "arm": "U19",
+    "name": "U19_F03",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F03.cif",
+    "natoms": 89,
+    "sha256": "cc1ec7f8a47168faa36bd20cb38cc66ad71dfaa3c3519819f9fd48f0b3854872",
+    "seconds": 0.632
+  },
+  {
+    "name": "A_F04",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F04.cif"
+  },
+  {
+    "id": "F04",
+    "arm": "U7",
+    "name": "U7_F04",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F04.cif",
+    "natoms": 131,
+    "sha256": "38c2348fae33264b13b0189dbe94b02140b0d98602f4458e8f67696377086eb5",
+    "seconds": 0.61
+  },
+  {
+    "id": "F04",
+    "arm": "U19",
+    "name": "U19_F04",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F04.cif",
+    "natoms": 131,
+    "sha256": "0df1a8a4e0272920644611407e85f24364f437c0a8816e473cb349f444b41888",
+    "seconds": 0.541
+  },
+  {
+    "name": "A_F05",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F05.cif"
+  },
+  {
+    "id": "F05",
+    "arm": "U7",
+    "name": "U7_F05",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F05.cif",
+    "natoms": 95,
+    "sha256": "97e228e099ba58497db8dd0936bde6f4d745ee0493fd7c3c605411275494b484",
+    "seconds": 0.615
+  },
+  {
+    "id": "F05",
+    "arm": "U19",
+    "name": "U19_F05",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F05.cif",
+    "natoms": 95,
+    "sha256": "56305e21b0874b4407f59a39d4fce63e769e3867c6ec28870e8d79025ab1b7c8",
+    "seconds": 0.535
+  },
+  {
+    "name": "A_F06",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F06.cif"
+  },
+  {
+    "id": "F06",
+    "arm": "U7",
+    "name": "U7_F06",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F06.cif",
+    "natoms": 101,
+    "sha256": "89bbce5c6a5e1495a3e755374be825b4636d5545039549fe5bc0937944e39bc8",
+    "seconds": 0.534
+  },
+  {
+    "id": "F06",
+    "arm": "U19",
+    "name": "U19_F06",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F06.cif",
+    "natoms": 101,
+    "sha256": "f9ffbb255cca507d4d73d5a121bf22d1a9ce12779ed695009a50d1b8bf5b3332",
+    "seconds": 0.56
+  },
+  {
+    "name": "A_F07",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F07.cif"
+  },
+  {
+    "id": "F07",
+    "arm": "U7",
+    "name": "U7_F07",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F07.cif",
+    "natoms": 119,
+    "sha256": "d402cd5cf2b868495a97aa5305e7857d9d8a5ded13caefce7929900500456bd2",
+    "seconds": 0.563
+  },
+  {
+    "id": "F07",
+    "arm": "U19",
+    "name": "U19_F07",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F07.cif",
+    "natoms": 119,
+    "sha256": "0a3da50ecd1b9befb0a76477c319df91b18a57193a071e0947f31ac4ff138daf",
+    "seconds": 0.411
+  },
+  {
+    "name": "A_F08",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F08.cif"
+  },
+  {
+    "id": "F08",
+    "arm": "U7",
+    "name": "U7_F08",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F08.cif",
+    "natoms": 113,
+    "sha256": "64b8ee6d032309c21cc473032f83774c3c4aff394e0036eaecce670e471e77f4",
+    "seconds": 0.348
+  },
+  {
+    "id": "F08",
+    "arm": "U19",
+    "name": "U19_F08",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F08.cif",
+    "natoms": 113,
+    "sha256": "427a84efd322b12d340ed9e15a12de8b6670ba74be31cd946642407916ca96b1",
+    "seconds": 0.535
+  },
+  {
+    "name": "A_F09",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F09.cif"
+  },
+  {
+    "id": "F09",
+    "arm": "U7",
+    "name": "U7_F09",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F09.cif",
+    "natoms": 137,
+    "sha256": "994f83acc2e6434080a99923ccb6e112beec9a6566dc3422a6a1c85b4441c0bc",
+    "seconds": 0.538
+  },
+  {
+    "id": "F09",
+    "arm": "U19",
+    "name": "U19_F09",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F09.cif",
+    "natoms": 137,
+    "sha256": "afbfb72801e5ce04573b071b8b4ff40be555c315ba2d6ce8cb705b9c879724b6",
+    "seconds": 0.512
+  },
+  {
+    "name": "A_F10",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F10.cif"
+  },
+  {
+    "id": "F10",
+    "arm": "U7",
+    "name": "U7_F10",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F10.cif",
+    "natoms": 125,
+    "sha256": "03b8570545e7aad55620c1f49ffc3d25243f4f7a77b5d57ec7d4b8b5d3a172a8",
+    "seconds": 0.414
+  },
+  {
+    "id": "F10",
+    "arm": "U19",
+    "name": "U19_F10",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F10.cif",
+    "natoms": 125,
+    "sha256": "e8f5342c9feea07795bc02d0213357f5f4d4d9c478fee0a00360e2f2564d0315",
+    "seconds": 0.438
+  },
+  {
+    "name": "A_F11",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F11.cif"
+  },
+  {
+    "id": "F11",
+    "arm": "U7",
+    "name": "U7_F11",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F11.cif",
+    "natoms": 116,
+    "sha256": "f61d1557af96ea1fe15cb6db28b82a72c13056509b21f234e9af795801978291",
+    "seconds": 0.564
+  },
+  {
+    "id": "F11",
+    "arm": "U19",
+    "name": "U19_F11",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F11.cif",
+    "natoms": 116,
+    "sha256": "f2ebca0a84428be2e094909a4cfce24281e51c3b7d125667fb1439a575861086",
+    "seconds": 0.676
+  },
+  {
+    "name": "A_F12",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F12.cif"
+  },
+  {
+    "id": "F12",
+    "arm": "U7",
+    "name": "U7_F12",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F12.cif",
+    "natoms": 149,
+    "sha256": "4eeacfab67177ed346878aa6b3d1b24050ac004184cbf290396d0c505e3c12ab",
+    "seconds": 0.59
+  },
+  {
+    "id": "F12",
+    "arm": "U19",
+    "name": "U19_F12",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F12.cif",
+    "natoms": 149,
+    "sha256": "aae602253825bc9ae5c10384ca86c1f197838a4704e4de2e1272fa0164ca6789",
+    "seconds": 0.728
+  },
+  {
+    "name": "A_F13",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F13.cif"
+  },
+  {
+    "id": "F13",
+    "arm": "U7",
+    "name": "U7_F13",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F13.cif",
+    "natoms": 152,
+    "sha256": "db2290978e14c221f4e1c8f9a414f782f90dbd4ce3c081586ab2d7e3658aa19f",
+    "seconds": 0.676
+  },
+  {
+    "id": "F13",
+    "arm": "U19",
+    "name": "U19_F13",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F13.cif",
+    "natoms": 152,
+    "sha256": "ec9de108ac2c95f3217e3b1bbe67dada9f306c8afafc4ddbf898beb372ca4286",
+    "seconds": 0.89
+  },
+  {
+    "name": "A_F14",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F14.cif"
+  },
+  {
+    "id": "F14",
+    "arm": "U7",
+    "name": "U7_F14",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F14.cif",
+    "natoms": 119,
+    "sha256": "b31314998d3ee04584a189f70c1ba373cfe4cbce27271fdb86553e210c8c66fe",
+    "seconds": 0.521
+  },
+  {
+    "id": "F14",
+    "arm": "U19",
+    "name": "U19_F14",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F14.cif",
+    "natoms": 119,
+    "sha256": "62b8a9f5ed870fde52789edd9630c3523ddade4ae23f340f38f1e2a0854b4928",
+    "seconds": 0.801
+  },
+  {
+    "name": "A_F15",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F15.cif"
+  },
+  {
+    "id": "F15",
+    "arm": "U7",
+    "name": "U7_F15",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F15.cif",
+    "natoms": 167,
+    "sha256": "d36078e06a5e08f82e825b0d31e6ad5f8e6cc66ea8acf82d937598e50615df60",
+    "seconds": 0.645
+  },
+  {
+    "id": "F15",
+    "arm": "U19",
+    "name": "U19_F15",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F15.cif",
+    "natoms": 167,
+    "sha256": "fc5f7d6b886177e3faff553fa3007a0136c52d3270a3ed41e27281e360f4459f",
+    "seconds": 0.493
+  },
+  {
+    "name": "A_F16",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F16.cif"
+  },
+  {
+    "id": "F16",
+    "arm": "U7",
+    "name": "U7_F16",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F16.cif",
+    "natoms": 107,
+    "sha256": "8dc7894bfe7d254869981ed736fa1c9750482d881206be17a52982deaae2a763",
+    "seconds": 0.521
+  },
+  {
+    "id": "F16",
+    "arm": "U19",
+    "name": "U19_F16",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F16.cif",
+    "natoms": 107,
+    "sha256": "66da228fa9bb88ecd0adc581f6f30fcd7131715be101aa4ae6dc7bb9903e955c",
+    "seconds": 0.838
+  },
+  {
+    "name": "A_F17",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F17.cif"
+  },
+  {
+    "id": "F17",
+    "arm": "U7",
+    "name": "U7_F17",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F17.cif",
+    "natoms": 95,
+    "sha256": "c82ba7f75e991004f1f7ec8f56d052ad55142ac1dfe9f0e19c34a2decbd8ecee",
+    "seconds": 0.633
+  },
+  {
+    "id": "F17",
+    "arm": "U19",
+    "name": "U19_F17",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F17.cif",
+    "natoms": 95,
+    "sha256": "746bf66034a5c5c77473a2e7fd27571ddc27730860f1bd627cb75f7fd0e4b0d8",
+    "seconds": 0.641
+  },
+  {
+    "name": "A_F18",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F18.cif"
+  },
+  {
+    "id": "F18",
+    "arm": "U7",
+    "name": "U7_F18",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U7_F18.cif",
+    "natoms": 149,
+    "sha256": "7f3b764e52525c670de9a59da8a0210c55a9e0c52fd8077a39ae1db0508d2866",
+    "seconds": 0.54
+  },
+  {
+    "id": "F18",
+    "arm": "U19",
+    "name": "U19_F18",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/U19_F18.cif",
+    "natoms": 149,
+    "sha256": "c78b845719d33a25ae4666af0f001e38e8914158b4d91e425e235b1c4ace2fbe",
+    "seconds": 0.663
+  }
+]

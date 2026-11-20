@@ -1,0 +1,12 @@
+{
+  "name": "D19_B02",
+  "id": "B02",
+  "arm": "D19",
+  "smiles": "CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12",
+  "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/relaxed/D19_B02.cif",
+  "input_sha256": "844b2115f52d881f55506c3046849184e9181e127142d07fd28c93ee99a5ba65",
+  "original_volume": 4234.230471752004,
+  "baseline_strict": true,
+  "baseline_converged": true,
+  "baseline_steps": 25
+}

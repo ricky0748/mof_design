@@ -1,0 +1,46 @@
+{
+  "recorded_utc": "2026-11-13T10:45:44.256905+00:00",
+  "phase": "primary calculations in progress",
+  "environments": {
+    "mace": {
+      "python": "3.11.14 (main, Oct 21 2025, 18:31:21) [GCC 11.2.0]",
+      "packages": {
+        "torch": "2.8.0",
+        "ase": "3.28.0",
+        "mace-torch": "0.3.14",
+        "rdkit": "2025.9.5",
+        "pormake": null,
+        "numpy": "2.4.1",
+        "scipy": "1.16.3",
+        "pymatgen": "2026.3.23"
+      }
+    },
+    "assembly": {
+      "python": "3.12.14 (main, Sep  1 2026, 14:16:52) [Clang 22.1.3 ]",
+      "packages": {
+        "torch": "2.10.0",
+        "ase": "3.28.0",
+        "mace-torch": null,
+        "rdkit": "2025.9.6",
+        "pormake": "0.2.2",
+        "numpy": "1.26.4",
+        "scipy": "1.17.1",
+        "pymatgen": "2023.12.18"
+      }
+    },
+    "mofflow2": {
+      "python": "3.10.12 | packaged by conda-forge | (main, Jun 23 2023, 22:40:32) [GCC 12.3.0]",
+      "packages": {
+        "torch": "2.0.1+cu117",
+        "ase": "3.29.0",
+        "mace-torch": null,
+        "rdkit": "2026.3.6",
+        "pormake": null,
+        "numpy": "1.26.4",
+        "scipy": "1.15.3",
+        "pymatgen": "2025.10.7"
+      }
+    }
+  },
+  "mofid_wrapper_sha256": "b778f247cacb13dbaee4a08b7b9b77bbe10a5dca9e2f3356cb095e2b42c04401"
+}

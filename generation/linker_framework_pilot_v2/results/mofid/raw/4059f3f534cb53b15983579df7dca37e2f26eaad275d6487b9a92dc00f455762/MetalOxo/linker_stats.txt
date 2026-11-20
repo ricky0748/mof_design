@@ -1,0 +1,2 @@
+JXFOKLISNBYCNO-UHFFFAOYSA-L	2	3	InChI=1S/C24H20O4/c1-3-13-11-21-18(20-12-15(23(25)26)7-8-17(13)20)9-5-14-6-10-19(24(27)28)16(4-2)22(14)21/h5-12H,3-4H2,1-2H3,(H,25,26)(H,27,28)/p-2	JXFOKLISNBYCNO	CCc1cc2c3c(ccc(c3CC)C(=O)[O-])ccc2c2c1ccc(c2)C(=O)[O-]	CC[c]1[cH][c]2[c]3[c]([cH][cH][c]([c]3CC)[C]([O])[O-])[cH][cH][c]2[c]2[c]1[cH][cH][c]([cH]2)[C]([O])[O-]
+

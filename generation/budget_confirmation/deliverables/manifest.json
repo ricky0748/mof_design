@@ -1,0 +1,418 @@
+[
+  {
+    "id": "B01",
+    "branch": "S300",
+    "smiles": "CCCc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12",
+    "converged": true,
+    "sha256": "89ff62c785d56f61e9cb0db95ebfea21dbbf4cd45db33174f676c365d2ac92c4",
+    "cif": "cifs\\B01.cif",
+    "source_output": "S300_B01.cif",
+    "framework_key": "[\"CCCc1cc(cc2c1ccc1c2cccc1C(=O)[O-])C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B01",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B03",
+    "branch": "S300",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc(O)cc3c2c1O",
+    "converged": true,
+    "sha256": "fcce8f9a5a23136993e7c9c2a3c9eaf06636ba6c597eaf441cb63f586d2f8178",
+    "cif": "cifs\\B03.cif",
+    "source_output": "S300_B03.cif",
+    "framework_key": "[\"Oc1cc(C(=O)[O-])c2c(c1)c1c(cc2)ccc(c1O)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B03",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B04",
+    "branch": "S300",
+    "smiles": "CNc1cc(C(=O)[O-])cc2c1cc(N)c1c(C(=O)[O-])cccc12",
+    "converged": true,
+    "sha256": "f388ac8df076f5198d527db4824edbd437df7fe3121c29d10f6eae101f653db0",
+    "cif": "cifs\\B04.cif",
+    "source_output": "S300_B04.cif",
+    "framework_key": "[\"CNc1cc(cc2c1cc(N)c1c2cccc1C(=O)[O-])C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B04",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B05",
+    "branch": "S300",
+    "smiles": "O=Cc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12",
+    "converged": true,
+    "sha256": "62f5a40cdf3c486b80bcc4ec018073d79f75e8fd2e3da1499c3a735070adfcc6",
+    "cif": "cifs\\B05.cif",
+    "source_output": "S300_B05.cif",
+    "framework_key": "[\"O=Cc1cc2ccc(cc2c2c1c(ccc2)C(=O)[O-])C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B05",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B06",
+    "branch": "S300",
+    "smiles": "CCCOc1cc2c3cc(C(=O)[O-])ccc3ccc2c2cc(C(=O)[O-])ccc12",
+    "converged": true,
+    "sha256": "24588867e6a81fc0cb9ca89195f9ba2107b31ab64765558e4c8d9adf2df8d8f5",
+    "cif": "cifs\\B06.cif",
+    "source_output": "S300_B06.cif",
+    "framework_key": "[\"CCCOc1cc2c3cc(ccc3ccc2c2c1ccc(c2)C(=O)[O-])C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B06",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B07",
+    "branch": "S300",
+    "smiles": "O=Cc1cc(C(=O)[O-])c2c(O)cc3cc(O)c(C(=O)[O-])cc3c2c1",
+    "converged": true,
+    "sha256": "c1c4066fd2f7970ca9d57f49aef940b6dd2a8ed096c4f3426c5474de1b7f22a1",
+    "cif": "cifs\\B07.cif",
+    "source_output": "S300_B07.cif",
+    "framework_key": "[\"O=Cc1cc(C(=O)[O-])c2c(c1)c1cc(C(=O)[O-])c(cc1cc2O)O.[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B07",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B08",
+    "branch": "S300",
+    "smiles": "CCc1cc(C(=O)[O-])c2ccc3c(CC)cc(C(=O)[O-])cc3c2c1",
+    "converged": true,
+    "sha256": "969f6560cded3040879c3623d848a93a05c35745212e25ffd7ddd23aa839aae6",
+    "cif": "cifs\\B08.cif",
+    "source_output": "S300_B08.cif",
+    "framework_key": "[\"CCc1cc(C(=O)[O-])c2c(c1)c1cc(cc(c1cc2)CC)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B08",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B09",
+    "branch": "S300",
+    "smiles": "O=Cc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12",
+    "converged": true,
+    "sha256": "949234b539ac41d4f943dd164fca46da2478270b3a933846d2bec46437a504d2",
+    "cif": "cifs\\B09.cif",
+    "source_output": "S300_B09.cif",
+    "framework_key": "[\"O=Cc1ccc(c2c1c1cc(ccc1cc2)C(=O)[O-])C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B09",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B10",
+    "branch": "S300",
+    "smiles": "CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1CCC",
+    "converged": true,
+    "sha256": "d3f5faf5deaf90ffe3977d19c8c2e68872f9e8ddcb7956ae98005c40226a35d2",
+    "cif": "cifs\\B10.cif",
+    "source_output": "S300_B10.cif",
+    "framework_key": "[\"CCCc1c(CCC)cc(c2c1c1cc(ccc1cc2)C(=O)[O-])C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B10",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B11",
+    "branch": "S300",
+    "smiles": "COc1cc2cc(C(=O)[O-])c(OC)cc2cc1C(=O)[O-]",
+    "converged": true,
+    "sha256": "5aa692299842e10b58d3298811ee417b5d6e020bd7213024c69177ef5a6fed91",
+    "cif": "cifs\\B11.cif",
+    "source_output": "S300_B11.cif",
+    "framework_key": "[\"COc1cc2cc(C(=O)[O-])c(cc2cc1C(=O)[O-])OC.[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B11",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B12",
+    "branch": "S300",
+    "smiles": "CNc1cc2c3cc(C(=O)[O-])ccc3c(NC)cc2c2cc(C(=O)[O-])ccc12",
+    "converged": true,
+    "sha256": "e6c07a526166e9afa5289f2e62b2c446031b60b67e402acb0491408dfb9481fe",
+    "cif": "cifs\\B12.cif",
+    "source_output": "S300_B12.cif",
+    "framework_key": "[\"CNc1cc2c(c3c1ccc(c3)C(=O)[O-])cc(c1c2cc(cc1)C(=O)[O-])NC.[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B12",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B13",
+    "branch": "S300",
+    "smiles": "CCOc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12",
+    "converged": true,
+    "sha256": "73f372202864ddc7ee815461914006547fedf99ecdb496cadb1eb5e4f476b9a9",
+    "cif": "cifs\\B13.cif",
+    "source_output": "S300_B13.cif",
+    "framework_key": "[\"CCOc1ccc(c2c1c1cc(ccc1cc2)C(=O)[O-])C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B13",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B14",
+    "branch": "S300",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O",
+    "converged": true,
+    "sha256": "5fbba873dfa7b02bbcc88394037e3fbf16e15e165f22720ea7867f1832a046a7",
+    "cif": "cifs\\B14.cif",
+    "source_output": "S300_B14.cif",
+    "framework_key": "[\"[O-]C(=O)c1cc2c(cc1O)ccc1c2ccc2c1cc(c(c2)O)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B14",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B16",
+    "branch": "S300",
+    "smiles": "CCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "converged": true,
+    "sha256": "dbcda55330e23001301e51e574d425b5f4141205c92fd9613fb6b406a4a86c95",
+    "cif": "cifs\\B16.cif",
+    "source_output": "S300_B16.cif",
+    "framework_key": "[\"CCOc1cc2ccc3c(c2cc1C(=O)[O-])cccc3C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B16",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B17",
+    "branch": "S300",
+    "smiles": "O=C([O-])c1cc(O)c2c(O)cc3c(C(=O)[O-])ccc(O)c3c2c1O",
+    "converged": true,
+    "sha256": "acc66b246094a6566d8299ce18e7adff1b05d82d272d2cdffa42673a3e0f5273",
+    "cif": "cifs\\B17.cif",
+    "source_output": "S300_B17.cif",
+    "framework_key": "[\"[O-]C(=O)c1cc(O)c2c(c1O)c1c(O)ccc(c1cc2O)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B17",
+      "raw_canonical_in_train": false,
+      "normalized_in_train": false
+    }
+  },
+  {
+    "id": "B18",
+    "branch": "S300",
+    "smiles": "Nc1cccc2c(C(=O)[O-])c3ccccc3c(C(=O)[O-])c12",
+    "converged": true,
+    "sha256": "de837dc12c81d33c8cec936965b6e92c8548cd66239f1c1a21632c2a716fc0ea",
+    "cif": "cifs\\B18.cif",
+    "source_output": "S300_B18.cif",
+    "framework_key": "[\"[O-]C(=O)c1c2ccccc2c(c2c1cccc2N)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B18",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B19",
+    "branch": "S300",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]",
+    "converged": true,
+    "sha256": "c2531d60f11b9b7599842392612624a53b49385bb35fdbe3822b5c5619934d2a",
+    "cif": "cifs\\B19.cif",
+    "source_output": "S300_B19.cif",
+    "framework_key": "[\"[O-]C(=O)c1cc2c(cc1N(=O)=O)ccc1c2ccc2c1cc(c(c2)N(=O)=O)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B19",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B20",
+    "branch": "S300",
+    "smiles": "O=Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "converged": true,
+    "sha256": "8d450168b3a20415cd0ad438183b970bb626bd4615a2679b5cf05ec11697c11e",
+    "cif": "cifs\\B20.cif",
+    "source_output": "S300_B20.cif",
+    "framework_key": "[\"O=Cc1ccc2c(c1C(=O)[O-])ccc1c2cc(cc1)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B20",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B21",
+    "branch": "S300",
+    "smiles": "COc1cc(C(=O)[O-])c2ccc3c(OC)cc(C(=O)[O-])cc3c2c1",
+    "converged": true,
+    "sha256": "3bd72646cdd92c75bfa1d758498864a9566e9748b87a42eb7416093dab80000c",
+    "cif": "cifs\\B21.cif",
+    "source_output": "S300_B21.cif",
+    "framework_key": "[\"COc1cc(C(=O)[O-])c2c(c1)c1cc(cc(c1cc2)OC)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B21",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B22",
+    "branch": "S300",
+    "smiles": "O=C([O-])c1cc(O)c2c(O)c(O)c3c(C(=O)[O-])cccc3c2c1O",
+    "converged": true,
+    "sha256": "762a09c71b1971290df2dc9f627fd35eb15c08eee700992141685af895af77a6",
+    "cif": "cifs\\B22.cif",
+    "source_output": "S300_B22.cif",
+    "framework_key": "[\"[O-]C(=O)c1cc(O)c2c(c1O)c1cccc(c1c(c2O)O)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B22",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B23",
+    "branch": "S300",
+    "smiles": "COc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "converged": true,
+    "sha256": "4ce5ab6fcf128610664ea0a56006d2fb24a091e489c66733179875949e64e3a9",
+    "cif": "cifs\\B23.cif",
+    "source_output": "S300_B23.cif",
+    "framework_key": "[\"COc1cc2ccc3c(c2cc1C(=O)[O-])cccc3C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B23",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B24",
+    "branch": "S300",
+    "smiles": "CCOc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1",
+    "converged": true,
+    "sha256": "76d93d663e4ebcf4552d43b58817c071abd9fe3a4a74b27039df8f3eff05397f",
+    "cif": "cifs\\B24.cif",
+    "source_output": "S300_B24.cif",
+    "framework_key": "[\"CCOc1cc(C(=O)[O-])c2c(c1)c1cc(cc(c1cc2)O)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B24",
+      "raw_canonical_in_train": false,
+      "normalized_in_train": false
+    }
+  },
+  {
+    "id": "B26",
+    "branch": "S300",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])c([N+](=O)[O-])ccc3c2c1",
+    "converged": true,
+    "sha256": "dcc3f30f6ecf0c525a0fd9843ab20e53c6148deefb6348ed085ddc458a7726be",
+    "cif": "cifs\\B26.cif",
+    "source_output": "S300_B26.cif",
+    "framework_key": "[\"[O-]C(=O)c1c(ccc2c1ccc1c2cc(cc1)C(=O)[O-])N(=O)=O.[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B26",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  },
+  {
+    "id": "B27",
+    "branch": "S300",
+    "smiles": "CNc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "converged": true,
+    "sha256": "b5f577b033c76af9331fc7ea126ba9cad80f4024c432cff257359858beec4330",
+    "cif": "cifs\\B27.cif",
+    "source_output": "S300_B27.cif",
+    "framework_key": "[\"CNc1c(O)cc2c(c1C(=O)[O-])ccc1c2cc(cc1)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B27",
+      "raw_canonical_in_train": false,
+      "normalized_in_train": false
+    }
+  },
+  {
+    "id": "B28",
+    "branch": "S300",
+    "smiles": "Cc1cc(C(=O)[O-])c2cc(O)c3c(O)cc(C(=O)[O-])cc3c2c1O",
+    "converged": true,
+    "sha256": "7c3b58f1646e24362e47f5eb7c71755dbaaa6c0b54b00bc98e9ec335c503ac83",
+    "cif": "cifs\\B28.cif",
+    "source_output": "S300_B28.cif",
+    "framework_key": "[\"[O-]C(=O)c1cc(O)c2c(c1)c1c(O)c(C)cc(c1cc2O)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B28",
+      "raw_canonical_in_train": false,
+      "normalized_in_train": false
+    }
+  },
+  {
+    "id": "B30",
+    "branch": "S300",
+    "smiles": "CCCc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "converged": true,
+    "sha256": "a3ba6909c21a4bfa3c212e3fa3193376e03532c1c5a5cfbb60def7a78e71655d",
+    "cif": "cifs\\B30.cif",
+    "source_output": "S300_B30.cif",
+    "framework_key": "[\"CCCc1ccc2c(c1C(=O)[O-])ccc1c2cc(cc1)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]",
+    "training_framework_match": false,
+    "training_fragment": {
+      "id": "B30",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  }
+]

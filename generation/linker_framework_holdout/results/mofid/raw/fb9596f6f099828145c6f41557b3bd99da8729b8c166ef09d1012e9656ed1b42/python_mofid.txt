@@ -1,0 +1,1 @@
+O=C=C1C=C(O)c2c([CH]1)c1ccc3c(c1cc2)cc(cc3O)C(=O)[O-].[C]O[C](C1=Cc2c3ccc4c(c3ccc2C([CH]1)(O)[O])cc(cc4O)C(=O)[O-])OO.[C].[O].[V] MOFid-v1.ERROR.cat0.NO_REF;A_H18

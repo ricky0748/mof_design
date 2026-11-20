@@ -1,0 +1,7 @@
+- inference.task=gen
+- inference.ckpt_path=/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/sp_module/ckpt.pt
+- inference.seed=1301
+- inference.gen.metal_lib_path=/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/metals/metal_lib_train.pkl
+- inference.gen.mof_seqs_path=/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/selected_sequences.json
+- inference.num_samples=1
+- inference.num_devices=1

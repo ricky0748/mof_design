@@ -1,0 +1,242 @@
+[
+  {
+    "prediction_index": 0,
+    "selected_index": 0,
+    "id": "B01",
+    "predicted_natoms": 156,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B01.cif"
+  },
+  {
+    "prediction_index": 1,
+    "selected_index": 1,
+    "id": "B02",
+    "predicted_natoms": 156,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B02.cif"
+  },
+  {
+    "prediction_index": 2,
+    "selected_index": 2,
+    "id": "B03",
+    "predicted_natoms": 128,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B03.cif"
+  },
+  {
+    "prediction_index": 3,
+    "selected_index": 3,
+    "id": "B04",
+    "predicted_natoms": 148,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B04.cif"
+  },
+  {
+    "prediction_index": 4,
+    "selected_index": 4,
+    "id": "B05",
+    "predicted_natoms": 128,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B05.cif"
+  },
+  {
+    "prediction_index": 5,
+    "selected_index": 5,
+    "id": "B06",
+    "predicted_natoms": 184,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B06.cif"
+  },
+  {
+    "prediction_index": 6,
+    "selected_index": 6,
+    "id": "B07",
+    "predicted_natoms": 136,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B07.cif"
+  },
+  {
+    "prediction_index": 7,
+    "selected_index": 7,
+    "id": "B08",
+    "predicted_natoms": 168,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B08.cif"
+  },
+  {
+    "prediction_index": 8,
+    "selected_index": 8,
+    "id": "B09",
+    "predicted_natoms": 128,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B09.cif"
+  },
+  {
+    "prediction_index": 9,
+    "selected_index": 9,
+    "id": "B10",
+    "predicted_natoms": 192,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B10.cif"
+  },
+  {
+    "prediction_index": 10,
+    "selected_index": 10,
+    "id": "B11",
+    "predicted_natoms": 128,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B11.cif"
+  },
+  {
+    "prediction_index": 11,
+    "selected_index": 11,
+    "id": "B12",
+    "predicted_natoms": 184,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B12.cif"
+  },
+  {
+    "prediction_index": 12,
+    "selected_index": 12,
+    "id": "B13",
+    "predicted_natoms": 148,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B13.cif"
+  },
+  {
+    "prediction_index": 13,
+    "selected_index": 13,
+    "id": "B14",
+    "predicted_natoms": 152,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B14.cif"
+  },
+  {
+    "prediction_index": 14,
+    "selected_index": 14,
+    "id": "B15",
+    "predicted_natoms": 152,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B15.cif"
+  },
+  {
+    "prediction_index": 15,
+    "selected_index": 15,
+    "id": "B16",
+    "predicted_natoms": 148,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B16.cif"
+  },
+  {
+    "prediction_index": 16,
+    "selected_index": 16,
+    "id": "B17",
+    "predicted_natoms": 136,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B17.cif"
+  },
+  {
+    "prediction_index": 17,
+    "selected_index": 17,
+    "id": "B18",
+    "predicted_natoms": 128,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B18.cif"
+  },
+  {
+    "prediction_index": 18,
+    "selected_index": 18,
+    "id": "B19",
+    "predicted_natoms": 160,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B19.cif"
+  },
+  {
+    "prediction_index": 19,
+    "selected_index": 19,
+    "id": "B20",
+    "predicted_natoms": 128,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B20.cif"
+  },
+  {
+    "prediction_index": 20,
+    "selected_index": 20,
+    "id": "B21",
+    "predicted_natoms": 152,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B21.cif"
+  },
+  {
+    "prediction_index": 21,
+    "selected_index": 21,
+    "id": "B22",
+    "predicted_natoms": 136,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B22.cif"
+  },
+  {
+    "prediction_index": 22,
+    "selected_index": 22,
+    "id": "B23",
+    "predicted_natoms": 136,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B23.cif"
+  },
+  {
+    "prediction_index": 23,
+    "selected_index": 23,
+    "id": "B24",
+    "predicted_natoms": 152,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B24.cif"
+  },
+  {
+    "prediction_index": 24,
+    "selected_index": 24,
+    "id": "B25",
+    "predicted_natoms": 160,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B25.cif"
+  },
+  {
+    "prediction_index": 25,
+    "selected_index": 25,
+    "id": "B26",
+    "predicted_natoms": 128,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B26.cif"
+  },
+  {
+    "prediction_index": 26,
+    "selected_index": 26,
+    "id": "B27",
+    "predicted_natoms": 144,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B27.cif"
+  },
+  {
+    "prediction_index": 27,
+    "selected_index": 27,
+    "id": "B28",
+    "predicted_natoms": 144,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B28.cif"
+  },
+  {
+    "prediction_index": 28,
+    "selected_index": 28,
+    "id": "B29",
+    "predicted_natoms": 176,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B29.cif"
+  },
+  {
+    "prediction_index": 29,
+    "selected_index": 29,
+    "id": "B30",
+    "predicted_natoms": 156,
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/native/A_B30.cif"
+  }
+]

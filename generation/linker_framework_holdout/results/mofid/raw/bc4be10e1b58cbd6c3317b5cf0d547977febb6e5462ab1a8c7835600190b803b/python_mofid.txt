@@ -1,0 +1,1 @@
+[O].[O][CH]c1cc2c(cccc2c2c1ccc(c2)C(=O)[O-])C(=O)[O-].[V] MOFid-v1.UNKNOWN.cat0.NO_REF;A_H17

@@ -1,0 +1,46 @@
+{
+  "s1601_t2": {
+    "generated": 600,
+    "eligible_sequences": 4,
+    "eligible_unique": 4,
+    "selected": 4,
+    "built": 4,
+    "completed": 4,
+    "converged": 4,
+    "strict": 3,
+    "accepted": 3
+  },
+  "s1601_t5": {
+    "generated": 600,
+    "eligible_sequences": 118,
+    "eligible_unique": 49,
+    "selected": 15,
+    "built": 15,
+    "completed": 15,
+    "converged": 13,
+    "strict": 11,
+    "accepted": 11
+  },
+  "s1602_t2": {
+    "generated": 600,
+    "eligible_sequences": 1,
+    "eligible_unique": 1,
+    "selected": 1,
+    "built": 1,
+    "completed": 1,
+    "converged": 1,
+    "strict": 1,
+    "accepted": 1
+  },
+  "s1602_t5": {
+    "generated": 600,
+    "eligible_sequences": 112,
+    "eligible_unique": 46,
+    "selected": 15,
+    "built": 15,
+    "completed": 15,
+    "converged": 14,
+    "strict": 13,
+    "accepted": 13
+  }
+}

@@ -1,0 +1,2 @@
+ISTSZFFUMVVTJY-UHFFFAOYSA-L	2	3	InChI=1S/C16H10O6/c17-8-5-11-9(12(6-8)16(21)22)3-1-7-2-4-10(15(19)20)14(18)13(7)11/h1-6,17-18H,(H,19,20)(H,21,22)/p-2	ISTSZFFUMVVTJY	Oc1cc(C(=O)[O-])c2c(c1)c1c(cc2)ccc(c1O)C(=O)[O-]	O[c]1[cH][c]([C]([O])[O-])[c]2[c]([cH]1)[c]1[c]([cH][cH]2)[cH][cH][c]([c]1O)[C]([O])[O-]
+

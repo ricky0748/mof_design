@@ -1,0 +1,2 @@
+IGYBYUBPWIBDSG-UHFFFAOYSA-L	2	3	InChI=1S/C20H18O4/c1-3-11-7-16-15(18(8-11)20(23)24)6-5-14-12(4-2)9-13(19(21)22)10-17(14)16/h5-10H,3-4H2,1-2H3,(H,21,22)(H,23,24)/p-2	IGYBYUBPWIBDSG	CCc1cc(C(=O)[O-])c2c(c1)c1cc(cc(c1cc2)CC)C(=O)[O-]	CC[c]1[cH][c]([C]([O])[O-])[c]2[c]([cH]1)[c]1[cH][c]([cH][c]([c]1[cH][cH]2)CC)[C]([O])[O-]
+

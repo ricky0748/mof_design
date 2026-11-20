@@ -1,0 +1,1 @@
+[O-]C(=O)C12CCC(CC1)(CC2)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn] MOFid-v1.pcu.cat0.NO_REF;U_H04

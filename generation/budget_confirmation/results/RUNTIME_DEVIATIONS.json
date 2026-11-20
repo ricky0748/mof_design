@@ -1,0 +1,13 @@
+{
+  "recorded_utc": "2026-11-13T10:31:51.691938+00:00",
+  "stage": "native prediction before CIF conversion and MACE",
+  "planned_predict_batch_size": 8,
+  "actual_predict_batch_size": 20,
+  "actual_num_workers": 4,
+  "reason": "Top-level loader.max_batch_size is unused by predict_dataloader; official predictor reads loader.batch_size.predict",
+  "effective_config_sha256": "ae8de5e3b1f88b6fd5e6d5001017300001075a0b80e5621aea7e4010dc64e06d",
+  "data_loader_sha256": "25967187ae89e13957ab1e1d09b749eee74a228c310edf4cfb01edf060fa1812",
+  "sampling_or_outcome_based_restarts": 0,
+  "mace_budget_unchanged": true,
+  "decision": "retain actual completed prediction and account actual runtime; disclose batching deviation"
+}

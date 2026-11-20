@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "deliver",
+  "type": "architecture",
+  "input": "C:\\Users\\PC\\Desktop\\skills_all\\ai_mof\\generation\\project-map.architecture.json",
+  "output": "C:\\Users\\PC\\Desktop\\skills_all\\ai_mof\\generation\\project-map.html",
+  "specification": {
+    "sha256": "22ed7de9402af41c56a6dcfa4679e2dde522bdb35bf75dfc4b6b73e0f9cce8de",
+    "bytes": 6720
+  },
+  "artifact": {
+    "sha256": "b3c8279df6b75731bea049b0283e06ed280127fb29c73c49bec88932569c661b",
+    "bytes": 715830
+  },
+  "validation": {
+    "checksPassed": 9,
+    "checkCount": 9,
+    "compositionProfile": "showcase",
+    "compositionStatus": "pass",
+    "errors": 0,
+    "warnings": 0
+  }
+}

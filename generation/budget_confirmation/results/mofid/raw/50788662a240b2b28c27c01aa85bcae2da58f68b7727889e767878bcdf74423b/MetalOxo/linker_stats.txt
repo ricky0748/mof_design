@@ -1,0 +1,2 @@
+WEIWDQBQKXDBNE-UHFFFAOYSA-L	2	3	InChI=1S/C16H10O8/c17-8-2-1-5(15(21)22)6-3-9(18)12-10(19)4-7(16(23)24)14(20)13(12)11(6)8/h1-4,17-20H,(H,21,22)(H,23,24)/p-2	WEIWDQBQKXDBNE	[O-]C(=O)c1cc(O)c2c(c1O)c1c(O)ccc(c1cc2O)C(=O)[O-]	[O-][C]([c]1[cH][c](O)[c]2[c]([c]1O)[c]1[c](O)[cH][cH][c]([c]1[cH][c]2O)[C]([O])[O-])[O]
+

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "BDC7",
+    "arm": "control",
+    "name": "control_BDC7",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/control_BDC7.cif",
+    "natoms": 53,
+    "sha256": "bd27bcb294840b6de86dd308164ac08e6544aab6e94a9024c972d3c800b79728",
+    "seconds": 0.433,
+    "max_steps": 300,
+    "timeout": 1200
+  },
+  {
+    "id": "BDC19",
+    "arm": "control",
+    "name": "control_BDC19",
+    "status": "built",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/raw/control_BDC19.cif",
+    "natoms": 53,
+    "sha256": "4b7aff623afed0cd5384c6508a5673927d63b4642a5f8248445c2595cdc787eb",
+    "seconds": 0.391,
+    "max_steps": 150,
+    "timeout": 600
+  }
+]

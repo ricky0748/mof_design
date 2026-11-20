@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-13",
+  "stage": "before_template_build_and_new_relaxation",
+  "n": 20,
+  "novel": 8,
+  "known": 12,
+  "eligible_unique": 70,
+  "exclusions": {
+    "not_single_unique_organic_linker": 243,
+    "not_exactly_two_carboxylate_anchors": 11
+  },
+  "template": {
+    "topology": "pcu",
+    "node": "N16",
+    "node_family": "Zn4O",
+    "egmof_host": "pcu+N16+E102",
+    "host_sha256": "06dbba9b750253b6262ef2b04c1080c5c7f035704f6a99ee7eb0e77ca67a13be"
+  },
+  "parameters": {
+    "seed": 7,
+    "direction_max_degrees": 20,
+    "steps": 150,
+    "fmax": 0.2,
+    "maxstep": 0.05,
+    "timeout_seconds": 600,
+    "atom_limit": 1000,
+    "max_workers": 8
+  },
+  "sources": {
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/inference/temp_1.0_target-5.0/preds_samples-1000.json": "070e2f7dd3f09ce0e7728fd47b34b2b29d4295cb3441d4ee95404dc77fad4806",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/plausibility/chemfilter_1000_end2end.csv": "82d93601c54eb1a32b3ff87bb4982d1135f00221e1de481f1b99b3edb820d344",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/plausibility/bb_novelty_1000.csv": "5f6c514b56ba3536bbe41de516eb894f7ca6a2baf35cddaeab8c80e7c668df6b"
+  },
+  "selected_sha256": "44554ecc794be7f28dcfc4550b04bddcb0f88f179f956ab97442edf34e4512a4",
+  "protocol_sha256": "ddcc0eff84bd94c9a99e1dfba739f98efcb1a473bde407bc5b3f145906de0140",
+  "model_sha256": "01bfe22100139f424713cf921144e5509cbe353d67aa9fa1be9c6e1e0ed35845",
+  "script_sha256": {
+    "build.py": "75bddd4eb4a173c7b48142b9acec94aceca4c5caccd2a178f49f6cb905c13f09",
+    "prepare.py": "9563085881dd8b81ab4ccc1d7f1227cbdc11dcbcfd2fcf7070c6179c5a96d1d9",
+    "relax_one.py": "50ba96dd095a6f147f6459618ee18caa4a98e969b320fe74fbe9ad04194038a3",
+    "run_relax.py": "3f4ee88bd401d7c12984f4bd2ad8eccee651888fabfac8f9b15e83d908e08a20"
+  }
+}

@@ -1,0 +1,2 @@
+SDNNFAHZLIROLG-UHFFFAOYSA-L	2	3	InChI=1S/C20H12O4/c21-19(22)13-3-1-11-5-7-16-15(17(11)9-13)8-6-12-2-4-14(20(23)24)10-18(12)16/h1-10H,(H,21,22)(H,23,24)/p-2	SDNNFAHZLIROLG	[O-]C(=O)c1ccc2c(c1)c1ccc3c(c1cc2)cc(cc3)C(=O)[O-]	[O-][C]([c]1[cH][cH][c]2[c]([cH]1)[c]1[cH][cH][c]3[c]([c]1[cH][cH]2)[cH][c]([cH][cH]3)[C]([O])[O-])[O]
+

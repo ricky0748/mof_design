@@ -1,0 +1,27 @@
+[
+  {
+    "name": "U_L12",
+    "cif": "/share/rickyswork/ai_mof/generation/coordination_followup_20261113/raw/U_L12.cif",
+    "status": "built"
+  },
+  {
+    "name": "U_H05",
+    "cif": "/share/rickyswork/ai_mof/generation/coordination_followup_20261113/raw/U_H05.cif",
+    "status": "built"
+  },
+  {
+    "name": "U_H12",
+    "cif": "/share/rickyswork/ai_mof/generation/coordination_followup_20261113/raw/U_H12.cif",
+    "status": "built"
+  },
+  {
+    "name": "U_H01",
+    "cif": "/share/rickyswork/ai_mof/generation/coordination_followup_20261113/raw/U_H01.cif",
+    "status": "built"
+  },
+  {
+    "name": "control_C_BDC",
+    "cif": "/share/rickyswork/ai_mof/generation/coordination_followup_20261113/raw/control_C_BDC.cif",
+    "status": "built"
+  }
+]

@@ -1,0 +1,1 @@
+[O]OC(=O)c1cccc2c1ccc(c2[CH])[CH][C](C(=[C])[O])[O].[O][Zn][O]12[Zn][Zn]2([Zn]1)(O)[O] MOFid-v1.ERROR.cat0.NO_REF;U7_F14

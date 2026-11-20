@@ -1,0 +1,35 @@
+{
+  "sequence": {
+    "wall_seconds": 345.34089298546314,
+    "returncode": 0,
+    "command": [
+      "/share/rickyswork/ai_mof/envs/mofflow2/bin/python",
+      "-m",
+      "experiments.predict_seq",
+      "inference.ckpt_path=/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/seq_module_cond/ckpt.pt",
+      "inference.seed=1301",
+      "inference.total_samples=600",
+      "inference.temperature=1.0",
+      "inference.target_property=5.0",
+      "inference.batch_size=50",
+      "hydra.run.dir=/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/hydra_seq"
+    ]
+  },
+  "native_prediction": {
+    "wall_seconds": 282.4956018961966,
+    "returncode": 0,
+    "command": [
+      "/share/rickyswork/ai_mof/envs/mofflow2/bin/python",
+      "-m",
+      "experiments.predict",
+      "inference.task=gen",
+      "inference.ckpt_path=/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/sp_module/ckpt.pt",
+      "inference.seed=1301",
+      "inference.gen.metal_lib_path=/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/metals/metal_lib_train.pkl",
+      "inference.gen.mof_seqs_path=/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/selected_sequences.json",
+      "inference.num_samples=1",
+      "inference.num_devices=1",
+      "hydra.run.dir=/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/hydra_pred"
+    ]
+  }
+}

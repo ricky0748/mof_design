@@ -1,0 +1,2 @@
+KGCWMSQIUFEACG-UHFFFAOYSA-L	2	4	InChI=1S/C22H13NO5/c1-28-20-9-12(22(26)27)8-19-16-3-2-14-13(10-23)6-11(21(24)25)7-18(14)15(16)4-5-17(19)20/h2-9H,1H3,(H,24,25)(H,26,27)/p-2	KGCWMSQIUFEACG	COc1cc(cc2c1ccc1c2ccc2c1cc(cc2C#N)C(=O)[O-])C(=O)[O-]	CO[c]1[cH][c]([cH][c]2[c]1[cH][cH][c]1[c]2[cH][cH][c]2[c]1[cH][c]([cH][c]2[C][N])[C]([O])[O-])[C]([O])[O-]
+

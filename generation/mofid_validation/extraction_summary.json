@@ -1,0 +1,39 @@
+{
+  "generated": {
+    "mofflow2_raw": {
+      "partial": 710,
+      "total": 754,
+      "chemistry_extracted": 536,
+      "identified": 44
+    },
+    "mofflow2_relaxed_valid": {
+      "partial": 320,
+      "total": 427,
+      "chemistry_extracted": 408,
+      "identified": 107
+    }
+  },
+  "raw_relaxed_pairs": {
+    "paired": 427,
+    "chemistry_comparable": 376,
+    "same_chemistry": 25,
+    "framework_comparable": 19,
+    "same_framework": 9
+  },
+  "training_smoke": {
+    "mofflow2_train": {
+      "identified": 95,
+      "total": 100,
+      "chemistry_extracted": 100,
+      "partial": 5
+    }
+  },
+  "controls/results": {
+    "control": {
+      "identified": 3,
+      "total": 3,
+      "chemistry_extracted": 3
+    }
+  },
+  "control_invariance_pass": true
+}

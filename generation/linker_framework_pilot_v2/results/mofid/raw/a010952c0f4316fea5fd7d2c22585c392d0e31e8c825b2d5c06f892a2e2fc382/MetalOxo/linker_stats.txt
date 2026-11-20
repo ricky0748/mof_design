@@ -1,0 +1,3 @@
+JXFOKLISNBYCNO-UHFFFAOYSA-L	2	8	InChI=1S/C24H20O4/c1-3-13-11-21-18(20-12-15(23(25)26)7-8-17(13)20)9-5-14-6-10-19(24(27)28)16(4-2)22(14)21/h5-12H,3-4H2,1-2H3,(H,25,26)(H,27,28)/p-2	JXFOKLISNBYCNO	CCc1cc2c3c(ccc(c3CC)C(=O)[O-])ccc2c2c1ccc(c2)C(=O)[O-]	CC[c]1[cH][c]2[c]3[c]([cH][cH][c]([c]3CC)[C]([O])[O-])[cH][cH][c]2[c]2[c]1[cH][cH][c]([cH]2)[C]([O])[O-]
+VZUUYTBCLQMLBC-UHFFFAOYSA-M	2	1	InChI=1S/C24H19O4/c1-3-13-9-20-18(19-10-16(24(27)28)6-7-17(13)19)8-5-15-12-22(26)21(25)11-14(4-2)23(15)20/h5-10,12,22H,3-4H2,1-2H3,(H,27,28)/p-1	VZUUYTBCLQMLBC	CC[C]1[C]C(=O)C([CH]c2c1c1cc(CC)c3c(c1cc2)cc(cc3)C(=O)[O-])[O]	CC[C]1[C][C]([O])C([CH][c]2[c]1[c]1[cH][c](CC)[c]3[c]([c]1[cH][cH]2)[cH][c]([cH][cH]3)[C]([O])[O-])[O]
+

@@ -1,0 +1,2 @@
+PCMZUGXQQMXZPM-UHFFFAOYSA-L	2	3	InChI=1S/C17H12O5/c1-22-14-8-9-5-6-10(16(18)19)7-13(9)11-3-2-4-12(15(11)14)17(20)21/h2-8H,1H3,(H,18,19)(H,20,21)/p-2	PCMZUGXQQMXZPM	COc1cc2ccc(cc2c2c1c(ccc2)C(=O)[O-])C(=O)[O-]	CO[c]1[cH][c]2[cH][cH][c]([cH][c]2[c]2[c]1[c]([cH][cH][cH]2)[C]([O])[O-])[C]([O])[O-]
+

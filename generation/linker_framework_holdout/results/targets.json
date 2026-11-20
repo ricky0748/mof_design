@@ -1,0 +1,557 @@
+[
+  {
+    "smiles": "COc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "neutral_smiles": "COc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "source_seq_idx": 50,
+    "source_name": "mofflow2s_040",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_040.cif",
+    "source_sha256": "a3ee7618afa3b5bd7b4f0b88ea907b0c2a050aeff5d405921d451b2bb65917f8",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      207,
+      285,
+      635,
+      745,
+      806,
+      950
+    ],
+    "rank": "45f96690f2004564e07a85e6936850ae132e50d7839ad0fff5e9c2e26bf62be9",
+    "id": "H01",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H01.xyz",
+    "bb_sha256": "6d460d72f14bce580bbabbe0494251a7013d23176311eb56952b70e148bd9193",
+    "profile": {
+      "angles": [
+        27.250361589364203,
+        30.933332520726964,
+        176.31168723101024
+      ],
+      "span": 7.48831508485053
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "CNc1cc2c3cc(C(=O)[O-])ccc3ccc2c2cc(C(=O)[O-])ccc12",
+    "neutral_smiles": "CNc1cc2c3cc(C(=O)O)ccc3ccc2c2cc(C(=O)O)ccc12",
+    "source_seq_idx": 39,
+    "source_name": "mofflow2s_032",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_032.cif",
+    "source_sha256": "3a61a86d5dd870841930a64d745230f17d260ee04a62f8891893da8864cf3d62",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "49c93eeceb3e8bfa4eab343b565da83c760280ff427d093b930ff8393e1fc5ae",
+    "id": "H02",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H02.xyz",
+    "bb_sha256": "873f2a065e21d2e874b8ecf3cf9bc5ff250725fa48aec65e2f9a08b9390b75cd",
+    "profile": {
+      "angles": [
+        31.14704304354076,
+        28.797070621174765,
+        177.05502700429764
+      ],
+      "span": 10.007958322754947
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "CCCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "CCCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "source_seq_idx": 827,
+    "source_name": "mofflow2s_619",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_619.cif",
+    "source_sha256": "03d91632d8298ae9e35aac1f9e9c3723f87ccda15668620bb971620dbf88b056",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "f25b5b318ac3f8f987f33d46d0ff02fd5a2b5328f5ad051c653df54899e16347",
+    "id": "H03",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H03.xyz",
+    "bb_sha256": "f1458eb606ea5058005c25ef77eef74a0b1fb31dc5bbaf6a8b8d6d6685f0cf1e",
+    "profile": {
+      "angles": [
+        27.203748554704344,
+        27.628778220772983,
+        178.08286630563126
+      ],
+      "span": 7.5137437665919915
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2",
+    "neutral_smiles": "O=C(O)[C@]12CC[C@](C(=O)O)(CC1)CC2",
+    "source_seq_idx": 95,
+    "source_name": "mofflow2s_074",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_074.cif",
+    "source_sha256": "80c7576a6799d0669c3a1738edbaa870c685275066f18f6265049e7fe96337c8",
+    "source_metals": [],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      219,
+      293,
+      341,
+      682,
+      758,
+      938
+    ],
+    "rank": "6e049e88ba83a0808cc252d5f2fd89bcf25fd49246923c766cddaf13c3ed0913",
+    "id": "H04",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H04.xyz",
+    "bb_sha256": "9d82aa982fe2f6da5b1f4705ab8a7d4fbff6f3fc9e392f9b20845a91c30dc07a",
+    "profile": {
+      "angles": [
+        0.17978023814578178,
+        0.17713955879817814,
+        179.64308308286994
+      ],
+      "span": 4.144075706354796
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "CNc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "neutral_smiles": "CNc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "source_seq_idx": 186,
+    "source_name": "mofflow2s_152",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_152.cif",
+    "source_sha256": "aacce8b81c46206249d51ee1e3878170b017caeca0f32aa9076c4562a30de91d",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      230
+    ],
+    "rank": "69182fa312942388fe5ab99283422e1fdfc3998363d349ae0be1916a3defae18",
+    "id": "H05",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H05.xyz",
+    "bb_sha256": "1ef4e91708dc082fee4bd558da423093cf14ec710ce3209ba36d758eb4351346",
+    "profile": {
+      "angles": [
+        27.004304099117828,
+        30.5616757159505,
+        175.8201161890467
+      ],
+      "span": 7.5089294849532315
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc(O)cc3c2c1",
+    "neutral_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)cc(O)cc3c2c1",
+    "source_seq_idx": 47,
+    "source_name": "mofflow2s_037",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_037.cif",
+    "source_sha256": "86e7867d8e16f6645e51a43fff0b5424bd80c8e1d4b54ed4a82609074e32d2d0",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "ab08919dd9f95bdab35dd250ba4132d2e8cbb1142b2df77b12845ce93ab47400",
+    "id": "H06",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H06.xyz",
+    "bb_sha256": "1c5134c2dbda04e5fc55ed8e525621c1baf4b4e93f8b26778cd6426e9c7f1819",
+    "profile": {
+      "angles": [
+        31.184414969645495,
+        26.783576932602035,
+        175.17507366024333
+      ],
+      "span": 7.49541391118596
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12",
+    "neutral_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cccc12",
+    "source_seq_idx": 117,
+    "source_name": "mofflow2s_093",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_093.cif",
+    "source_sha256": "bfd76d6725897aa7fdec673a8d8952b20e94d597a3068d342a8d5948883a8b0e",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      516,
+      599
+    ],
+    "rank": "acef8dc47fa6bb1c2c6758e030ba8884589f4aeccb2cf4661ec2bc66ca17152b",
+    "id": "H07",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H07.xyz",
+    "bb_sha256": "250d4fa4a0f4ae8d4a7d3150991ca8415055b8bde0de5a2cf783c100be674cf8",
+    "profile": {
+      "angles": [
+        31.965963254802112,
+        26.622531049594674,
+        174.37835493502644
+      ],
+      "span": 7.485701243036621
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(Cl)c3c2c1",
+    "neutral_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(Cl)c3c2c1",
+    "source_seq_idx": 814,
+    "source_name": "mofflow2s_608",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_608.cif",
+    "source_sha256": "ca6e77469318e19a7b26c3cc5866d04e5337ff2db46b06a42fcfe1f6ec2f2593",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "94e1abfbffef26f233b18cbd70f949914b9422d0505e8cf6c106d39c34094b18",
+    "id": "H08",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H08.xyz",
+    "bb_sha256": "62322cf08d07c2b2e9ff5c767504abb3ea7d48070433b7fb23f5e4477b3a47f6",
+    "profile": {
+      "angles": [
+        29.747752465989617,
+        30.38459401638161,
+        171.07692857127276
+      ],
+      "span": 7.542921796624967
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "COc1cc2c3cc(C(=O)[O-])ccc3c(OC)cc2c2cc(C(=O)[O-])ccc12",
+    "neutral_smiles": "COc1cc2c3cc(C(=O)O)ccc3c(OC)cc2c2cc(C(=O)O)ccc12",
+    "source_seq_idx": 367,
+    "source_name": "mofflow2s_304",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_304.cif",
+    "source_sha256": "8d1928ab2fbc0ffe6a626967d28353570b78b0f17382ae16f06178bfb6dc890e",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      834
+    ],
+    "rank": "9fe117510b43d97112a167b6cab43eb5f90ee3a1415cea042b4e0f8c5dba1722",
+    "id": "H09",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H09.xyz",
+    "bb_sha256": "91b88ef019bdc29551a871c44c4d01628ab46cfa9c73e853492fde289b4cfa9b",
+    "profile": {
+      "angles": [
+        32.10167213200333,
+        28.07638319094447,
+        175.974708949084
+      ],
+      "span": 10.016324334804658
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "neutral_smiles": "Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "source_seq_idx": 332,
+    "source_name": "mofflow2s_272",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_272.cif",
+    "source_sha256": "0e0d636b7e6b4a5a481c14f286e97da880064a5a6cd8af87d5b377272ef83c19",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      598,
+      820
+    ],
+    "rank": "eb52dc180d0ecbae1815547e046cfbee4a897d901d5b02335d5ae04652908c6c",
+    "id": "H10",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H10.xyz",
+    "bb_sha256": "750209aab344aee9f36bae268229d2ee49e6a88829e684599eefc6de47adca3a",
+    "profile": {
+      "angles": [
+        27.20278879741661,
+        31.272368207002916,
+        175.92771958979242
+      ],
+      "span": 7.495314283604125
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OCCC)c3ccc21",
+    "neutral_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OCCC)c3ccc21",
+    "source_seq_idx": 249,
+    "source_name": "mofflow2s_202",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_202.cif",
+    "source_sha256": "29794827126be26482be1d807c8cc405b819f25b508b6e0d8413492645dca703",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "ae6828f906c13b5367d3c49c99592e518abf02c27872726383188cce752cc8f6",
+    "id": "H11",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H11.xyz",
+    "bb_sha256": "a15f99c4b520b62d42b9595008e4b7449bc4d8b3506f6a00b8433ad2561278c1",
+    "profile": {
+      "angles": [
+        28.110823712161206,
+        32.16407270629026,
+        175.94608324774103
+      ],
+      "span": 10.004918240545496
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "CCCc1ccc2c(ccc3ccc(C(=O)[O-])c(CCC)c32)c1C(=O)[O-]",
+    "neutral_smiles": "CCCc1ccc2c(ccc3ccc(C(=O)O)c(CCC)c32)c1C(=O)O",
+    "source_seq_idx": 809,
+    "source_name": "mofflow2s_603",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_603.cif",
+    "source_sha256": "ba98caabf8c15b0e695b98b6f870da80beec808c6783116ad4f3f2afa3af9330",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "f5411c65259de16f4c9344f82ed8e7de5a6b35ab0de139f9cbfd666a97e87140",
+    "id": "H12",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H12.xyz",
+    "bb_sha256": "37559831611bf83f3b9c027c8dd90c3ddb78da41308a9c91568fd84a16fb384b",
+    "profile": {
+      "angles": [
+        21.6350348908859,
+        35.11460529380871,
+        166.33261798966822
+      ],
+      "span": 7.647030122210844
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "COc1cc2c(C(=O)[O-])cccc2c2cc(C(=O)[O-])ccc12",
+    "neutral_smiles": "COc1cc2c(C(=O)O)cccc2c2cc(C(=O)O)ccc12",
+    "source_seq_idx": 385,
+    "source_name": "mofflow2s_320",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_320.cif",
+    "source_sha256": "c0846658d0ceccfdc8af9c4d2b5f3fa8361a208943d50a2d05d3fe388719748d",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      620,
+      738
+    ],
+    "rank": "608f23c0a2ff3683fe3c3d999ddc9bc1e2740ce7407d7eb390321d54ba9e7280",
+    "id": "H13",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H13.xyz",
+    "bb_sha256": "8ae31be30fa9f2f61dee78817ff493bd01535dd87906b5a5489d83c3059577e0",
+    "profile": {
+      "angles": [
+        28.219312429439213,
+        28.13928485707247,
+        178.21261168411615
+      ],
+      "span": 7.519378800140341
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "Nc1cc2ccc3c4cc(C(=O)[O-])c(N)cc4ccc3c2cc1C(=O)[O-]",
+    "neutral_smiles": "Nc1cc2ccc3c4cc(C(=O)O)c(N)cc4ccc3c2cc1C(=O)O",
+    "source_seq_idx": 84,
+    "source_name": "mofflow2s_065",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_065.cif",
+    "source_sha256": "125ef8630a10b8aa8e11cfea287bb47283aa320dd31e35de0876ad79fc641ab0",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "bc0671f9abd7c00eca660563e51c0e4a1fb929ed9fe7f962127aa47a59f3730e",
+    "id": "H14",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H14.xyz",
+    "bb_sha256": "004265ea0aa47a2a33574e54e943b9d3a0f9b0c8c7fd25f58b769561107f7c8b",
+    "profile": {
+      "angles": [
+        30.003553253502112,
+        30.007744005712947,
+        179.9895294453326
+      ],
+      "span": 10.029630827702482
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(F)c3c2c1",
+    "neutral_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(F)c3c2c1",
+    "source_seq_idx": 794,
+    "source_name": "mofflow2s_590",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_590.cif",
+    "source_sha256": "10cd9e364a89e88d93959ada2cb2f84463fbe741b47c644645400af3a601e200",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "f6931ef3965718af49181323de2e20128a45c88ae88762b59be4815e1e33e2cf",
+    "id": "H15",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H15.xyz",
+    "bb_sha256": "33ade3af96c36cd3c4f646ec1c3bc6209f3db32d78157873de18d251a92279a1",
+    "profile": {
+      "angles": [
+        27.03837186753309,
+        28.11524563560893,
+        177.7487578691599
+      ],
+      "span": 7.538539066025989
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "CCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "CCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "source_seq_idx": 507,
+    "source_name": "mofflow2s_336",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_336.cif",
+    "source_sha256": "9ad3448b97d6d243fe1c76c14d6161ebf4bd4d75309f16a0870a114c15f5e36e",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      531,
+      643,
+      650,
+      919
+    ],
+    "rank": "ce8811da59919e24ad72330c2e9767104f861b5a3e360d4cb1a5c0b48945df31",
+    "id": "H16",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H16.xyz",
+    "bb_sha256": "ebea888115d0a2bf2f02ac6ef15b2f6f95574c3633740dd30d397f1a331325a0",
+    "profile": {
+      "angles": [
+        27.361244884462522,
+        27.550622379638448,
+        178.1243786964987
+      ],
+      "span": 7.513058262784869
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "O=Cc1cc2c(C(=O)[O-])cccc2c2cc(C(=O)[O-])ccc12",
+    "neutral_smiles": "O=Cc1cc2c(C(=O)O)cccc2c2cc(C(=O)O)ccc12",
+    "source_seq_idx": 723,
+    "source_name": "mofflow2s_528",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_528.cif",
+    "source_sha256": "4070b00c8b9dd10c30879846e4646459a4d50b8599f626433cbea57fd026fc0c",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "f4cc333bdc7cd892670e6c9f7fce93c04c554cd64d686d5dbd7873926fa3fa1a",
+    "id": "H17",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H17.xyz",
+    "bb_sha256": "0ff5da8ed232155dabfe14228a4a59b63be5b82b2bc924e6d5e8a3349f4f8ed5",
+    "profile": {
+      "angles": [
+        26.65650022901314,
+        28.92128835677082,
+        176.7451327375864
+      ],
+      "span": 7.5138516581045165
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "O=C([O-])c1cc(O)c2ccc3c4cc(C(=O)[O-])cc(O)c4ccc3c2c1",
+    "neutral_smiles": "O=C(O)c1cc(O)c2ccc3c4cc(C(=O)O)cc(O)c4ccc3c2c1",
+    "source_seq_idx": 247,
+    "source_name": "mofflow2s_200",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_200.cif",
+    "source_sha256": "60e0a9ea2beab3cba74f2fdb282c3c113459caee504342b4246d41bfdba864e3",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      942
+    ],
+    "rank": "db54de9fbe1052fe35084757ba12985e77358fa6600ebbea12f7f0c4aeb82562",
+    "id": "H18",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H18.xyz",
+    "bb_sha256": "bc5c805ec85a18855f67e30a1bdac2ab5c71c9212e681c74f507320f6c0db1f5",
+    "profile": {
+      "angles": [
+        27.75443024434731,
+        32.32740401028532,
+        175.18439793826192
+      ],
+      "span": 10.019430619551194
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "CNc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "neutral_smiles": "CNc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "source_seq_idx": 218,
+    "source_name": "mofflow2s_176",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_176.cif",
+    "source_sha256": "b1ce7b7d0ced834c4cb0932790d6f8223dbae88477b1fe00316607dd0cc79044",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      239,
+      711
+    ],
+    "rank": "6ec5fea8839ad15239d4a014fdc64c403ccdd7df69ba3db207ccddca15c4d17b",
+    "id": "H19",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H19.xyz",
+    "bb_sha256": "472138c457f47624e931d77fe57d49b7d2a7e34263a83e6c49ecfdb8976301c4",
+    "profile": {
+      "angles": [
+        30.960553439200396,
+        31.24112492997985,
+        176.9027114378535
+      ],
+      "span": 7.483132269978929
+    },
+    "embedding_status": "ok"
+  },
+  {
+    "smiles": "Cc1cc2c3cc(C(=O)[O-])c(O)cc3c(C)cc2c2cc(C(=O)[O-])c(O)cc12",
+    "neutral_smiles": "Cc1cc2c3cc(C(=O)O)c(O)cc3c(C)cc2c2cc(C(=O)O)c(O)cc12",
+    "source_seq_idx": 345,
+    "source_name": "mofflow2s_284",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_284.cif",
+    "source_sha256": "d6fbb560ce734933becfc159adb5510a6720c3675a2791214a44d73a040acc93",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "8a2c3ef68759b431f7775b7cf984479248f569585b837ff91052ae4e5f2cc21f",
+    "id": "H20",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/bb/H20.xyz",
+    "bb_sha256": "9b681145481cab7a8d66cd6173df6d0fd4f48e72c33356fb9e5d1d04b1ba3eec",
+    "profile": {
+      "angles": [
+        29.296026486219354,
+        29.296026486219354,
+        180.0
+      ],
+      "span": 10.031004266772097
+    },
+    "embedding_status": "ok"
+  }
+]

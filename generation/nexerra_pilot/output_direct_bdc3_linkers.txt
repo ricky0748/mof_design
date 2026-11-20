@@ -1,0 +1,3 @@
+[Lr]CC1=Cc2cc([Lr])ccc21
+[Lr]CC1=Cc2nc([Lr])ccc21
+[Lr]C#CC1=CC([Lr])=C1C

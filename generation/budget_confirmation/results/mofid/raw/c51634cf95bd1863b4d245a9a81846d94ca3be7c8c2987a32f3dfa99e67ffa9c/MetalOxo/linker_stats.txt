@@ -1,0 +1,2 @@
+FRVNAZUGKXAYOR-UHFFFAOYSA-L	2	3	InChI=1S/C18H14O5/c1-2-23-15-8-7-13(18(21)22)12-6-5-10-3-4-11(17(19)20)9-14(10)16(12)15/h3-9H,2H2,1H3,(H,19,20)(H,21,22)/p-2	FRVNAZUGKXAYOR	CCOc1ccc(c2c1c1cc(ccc1cc2)C(=O)[O-])C(=O)[O-]	CCO[c]1[cH][cH][c]([c]2[c]1[c]1[cH][c]([cH][cH][c]1[cH][cH]2)[C]([O])[O-])[C]([O])[O-]
+

@@ -1,0 +1,54 @@
+{
+  "n": 6,
+  "source_and_model_frozen": true,
+  "rows": [
+    {
+      "name": "U7_F11",
+      "input_matches_historical_baseline": true,
+      "signature_verified": true,
+      "precondition_dmin": 1.086870703378764,
+      "max_bond_shift": 0.0012781980575511387,
+      "final_metrics_verified": true
+    },
+    {
+      "name": "U7_F14",
+      "input_matches_historical_baseline": true,
+      "signature_verified": true,
+      "precondition_dmin": 1.0861726045500812,
+      "max_bond_shift": 0.007066715019768965,
+      "final_metrics_verified": true
+    },
+    {
+      "name": "U19_F11",
+      "input_matches_historical_baseline": true,
+      "signature_verified": true,
+      "precondition_dmin": 1.0858595753286182,
+      "max_bond_shift": 4.884981308350689e-15,
+      "final_metrics_verified": true
+    },
+    {
+      "name": "U19_F14",
+      "input_matches_historical_baseline": true,
+      "signature_verified": true,
+      "precondition_dmin": 1.08624381954751,
+      "max_bond_shift": 0.0010787592279979386,
+      "final_metrics_verified": true
+    },
+    {
+      "name": "U19_F04",
+      "input_matches_historical_baseline": true,
+      "signature_verified": true,
+      "precondition_dmin": 1.0850813369220043,
+      "max_bond_shift": 0.009599090242158104,
+      "final_metrics_verified": true
+    },
+    {
+      "name": "control_BDC19",
+      "input_matches_historical_baseline": true,
+      "signature_verified": true,
+      "precondition_dmin": 1.0877867861715018,
+      "max_bond_shift": 3.774758283725532e-15,
+      "final_metrics_verified": true
+    }
+  ]
+}

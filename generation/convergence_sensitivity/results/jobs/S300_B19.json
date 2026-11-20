@@ -1,0 +1,12 @@
+{
+  "name": "S300_B19",
+  "id": "B19",
+  "arm": "S300",
+  "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]",
+  "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/relaxed/S300_B19.cif",
+  "input_sha256": "c2531d60f11b9b7599842392612624a53b49385bb35fdbe3822b5c5619934d2a",
+  "original_volume": 6475.4182511189965,
+  "baseline_strict": true,
+  "baseline_converged": true,
+  "baseline_steps": 54
+}

@@ -1,0 +1,69 @@
+{
+  "cif": "/share/rickyswork/ai_mof/generation/steric_precondition_20261113/raw/control_BDC19.cif",
+  "out": "/share/rickyswork/ai_mof/generation/steric_precondition_20261113/relaxed/control_BDC19.cif",
+  "status": "completed",
+  "before": {
+    "natoms": 53,
+    "volume": 2174.767418816,
+    "dmin": 1.0877867861715018,
+    "fragments": 1
+  },
+  "precondition": {
+    "steps": 0,
+    "initial_nonbonded_min": 2.1504852205266767,
+    "dmin": 1.0877867861715018,
+    "max_bond_shift": 0.0,
+    "geometry_objective": 0.0,
+    "passed": true
+  },
+  "preconditioned_cif": "/share/rickyswork/ai_mof/generation/steric_precondition_20261113/relaxed/control_BDC19.pre.cif",
+  "after": {
+    "natoms": 53,
+    "volume": 2176.789844906807,
+    "dmin": 1.0867823052263843,
+    "fragments": 1
+  },
+  "converged": true,
+  "steps": 6,
+  "volume_ratio": 1.0009299505194482,
+  "geometry_valid": true,
+  "seconds": 38.462,
+  "calculation_signature": {
+    "schema": 1,
+    "input_sha256": "4b7aff623afed0cd5384c6508a5673927d63b4642a5f8248445c2595cdc787eb",
+    "model_sha256": "01bfe22100139f424713cf921144e5509cbe353d67aa9fa1be9c6e1e0ed35845",
+    "scripts": {
+      "common.py": "ce9194d7bdf4af309d8b5a9f2072b629518c593164f3bd6d0d6bb6cd5fc27514",
+      "compute_config.py": "83ff68f4e69dcae8611747623f7bb30a59b33bff1fdd3aee604c11b1b1c5189d",
+      "freeze.py": "031f24f6ff6abc7698cd39c42c349346ab0d2f1d58f6f7fa8ec3e7df1299e412",
+      "provenance.py": "208d6e126536953ec4b9d22f62bdad5b2297c3d0697393eae45b8cc9c06bca0d",
+      "relax_one.py": "f882d8955d256755dc8dbd048a8adc5a3bc8f6d6b6b118ff58176868d990dea3",
+      "report.py": "8eb995d2b67e4d6bba9e15d1f300f35b802518ac92b72161ef8c466becc589e6",
+      "run.py": "53dfcc8cbd872234270734c6a1f93f8246164dd3f305c21597a80bcc47ff0a7e",
+      "steric.py": "4936b4f4022114c30508d851e9b6d69f0c5fb0ac16ebefda560e5eeeae0fa4d0",
+      "test_steric.py": "d1b4bed8c727fa4571e42e0eadb00b51caecd5f874ebaab9c2ab2b5b6d198c1c"
+    },
+    "settings": {
+      "steps": 100,
+      "fmax": 0.2,
+      "maxstep": 0.05,
+      "timeout": 600,
+      "atom_limit": 1000,
+      "dtype": "float64",
+      "threads": 2,
+      "neighbor_multiplier": 1.15,
+      "neighbor_skin": 0.0,
+      "minimum_distance": 0.9,
+      "minimum_volume_ratio": 0.75,
+      "maximum_volume_ratio": 1.25,
+      "precondition_steps": 50,
+      "precondition_target": 1.2,
+      "precondition_repulsion": 100.0,
+      "precondition_bond": 100.0,
+      "precondition_position": 1.0,
+      "precondition_min_distance": 0.9,
+      "precondition_max_bond_shift": 0.3
+    }
+  },
+  "output_sha256": "645245e60bfbc2017eafe3c95de3e6b3a841cc1328e43804fb1384f50f8e0a9c"
+}

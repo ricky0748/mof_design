@@ -1,0 +1,316 @@
+[
+  {
+    "smiles": "COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "COc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+    "source_seq_idx": 632,
+    "source_name": "mofflow2s_450",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_450.cif",
+    "source_sha256": "ad6f8699801eac91b8b9dfd7e576d4833c3c9ef0d177140570129b2d7d95fcb3",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": true,
+    "other_seq_idx": [],
+    "rank": "3555180066e4102c14ed7cd735711c1cb3d486ab55b558197bec88a05681c93e",
+    "id": "L01"
+  },
+  {
+    "smiles": "COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(C#N)c3ccc21",
+    "neutral_smiles": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(C#N)c3ccc21",
+    "source_seq_idx": 46,
+    "source_name": "mofflow2s_036",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_036.cif",
+    "source_sha256": "a9a520fda22c0b4ded878b8cc183a39c444031f5233940de1132e70526ba6bfb",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": true,
+    "other_seq_idx": [],
+    "rank": "9f83475527e04cdcf3451f7c115d120ce583f33d88a092644bbbdd1e3d217ab1",
+    "id": "L02"
+  },
+  {
+    "smiles": "CCc1cc(C(=O)[O-])c2cc([N+](=O)[O-])c3ccc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "CCc1cc(C(=O)O)c2cc([N+](=O)O)c3ccc(C(=O)O)cc3c2c1",
+    "source_seq_idx": 841,
+    "source_name": "mofflow2s_630",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_630.cif",
+    "source_sha256": "03d316dc3a3924ee7cb50f2a450b26856eaa91fea20861591d50a5a6921f71dc",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": true,
+    "other_seq_idx": [],
+    "rank": "a0c63a61edcf89ae5564ca56f71c759351ddbf3c7cbe7751b54793f3cd68601b",
+    "id": "L03"
+  },
+  {
+    "smiles": "O=C([O-])c1cc(Cl)c2ccc3c(C(=O)[O-])cc(Cl)cc3c2c1",
+    "neutral_smiles": "O=C(O)c1cc(Cl)c2ccc3c(C(=O)O)cc(Cl)cc3c2c1",
+    "source_seq_idx": 86,
+    "source_name": "mofflow2s_067",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_067.cif",
+    "source_sha256": "2d32c2e5516e880aace645b457f763588d9d39b33e040f4ccc3fc7fe657d59f2",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": true,
+    "other_seq_idx": [],
+    "rank": "a11407a1c611cd374b71f36393655a1b0864146f6cc9ec31cffe657dfa201136",
+    "id": "L04"
+  },
+  {
+    "smiles": "CCOc1cc(C(=O)[O-])c2cc(OCC)c3cc(O)c(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "CCOc1cc(C(=O)O)c2cc(OCC)c3cc(O)c(C(=O)O)cc3c2c1",
+    "source_seq_idx": 691,
+    "source_name": "mofflow2s_499",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_499.cif",
+    "source_sha256": "e4bd02fdb670308bf9a4a11c4afac8a4ef2e983307c465a043bcaaffa23d33bc",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": true,
+    "other_seq_idx": [],
+    "rank": "a416e9ed7a3d053d53f5ed8239c8ce71e04ffdacdba36dd9c05f134347f1e387",
+    "id": "L05"
+  },
+  {
+    "smiles": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "neutral_smiles": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)O)cc32)c1C(=O)O",
+    "source_seq_idx": 554,
+    "source_name": "mofflow2s_377",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_377.cif",
+    "source_sha256": "6633272a956b32f73425a4ad482ef91728f6794d72174d96239fdd5c0c8ae0db",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": true,
+    "other_seq_idx": [],
+    "rank": "aab9c3acd0b9b19326f3f57ce1f90d0671c97759b797be30bedcb463b7e30cc6",
+    "id": "L06"
+  },
+  {
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cc([N+](=O)[O-])cc12",
+    "neutral_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cc([N+](=O)O)cc12",
+    "source_seq_idx": 246,
+    "source_name": "mofflow2s_199",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_199.cif",
+    "source_sha256": "318da5c13dba99b2441485b9f6486bb2761e645107b664431c3557a003ec732e",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": true,
+    "other_seq_idx": [],
+    "rank": "b90e27ef31f14f19770a8426ce15e9a96587bc9059034bf8ea443ef241af1994",
+    "id": "L07"
+  },
+  {
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])ccc(O)c12",
+    "neutral_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)ccc(O)c12",
+    "source_seq_idx": 763,
+    "source_name": "mofflow2s_561",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_561.cif",
+    "source_sha256": "89566b20cce31bbf38efdc5f8b3ce2826bcbd58afd39d6f3d2ffc2aab600b889",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": true,
+    "other_seq_idx": [],
+    "rank": "f9fec7679a52be841e8f8d00ba1f25656acc590916bbce223c6d58dd4eacff73",
+    "id": "L08"
+  },
+  {
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F",
+    "neutral_smiles": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(F)cc4ccc23)cc1F",
+    "source_seq_idx": 134,
+    "source_name": "mofflow2s_107",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_107.cif",
+    "source_sha256": "158aa59598ee889994ce303e228a6048d0615b055dcdc796492a32d5c1be89ba",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "0214998fafda7dfc25bf46885cfd85bb1be9273084e5589a6923f4895314081c",
+    "id": "L09"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(O)c3c2c1",
+    "neutral_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(O)c3c2c1",
+    "source_seq_idx": 274,
+    "source_name": "mofflow2s_218",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_218.cif",
+    "source_sha256": "5d63b8e204d89835f632a1d54552ba0a65f7800fb88b10931a05c250c7cb04e7",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [
+      292,
+      313,
+      316,
+      384,
+      567,
+      659,
+      686,
+      707,
+      714,
+      839,
+      852,
+      876,
+      962
+    ],
+    "rank": "12419c56ba976aa4503598e69b3f212c7512eba4b5d0164dab2129b73c92b854",
+    "id": "L10"
+  },
+  {
+    "smiles": "Nc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "neutral_smiles": "Nc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "source_seq_idx": 886,
+    "source_name": "mofflow2s_666",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_666.cif",
+    "source_sha256": "a09741bb9501693205caa819cffeacf908f46a11da004f424de523a19d0e3291",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "186247061f9be15a034374dd50c9f5b8f8d2935975468c6378a6d2af7fa104ca",
+    "id": "L11"
+  },
+  {
+    "smiles": "O=C([O-])c1c(O)cc2cc(O)c3c(C(=O)[O-])c(O)ccc3c2c1O",
+    "neutral_smiles": "O=C(O)c1c(O)cc2cc(O)c3c(C(=O)O)c(O)ccc3c2c1O",
+    "source_seq_idx": 526,
+    "source_name": "mofflow2s_352",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_352.cif",
+    "source_sha256": "1106dcdc114dc6c6c48aef2c0f1828561151d299b09b3d632fcdf63847101ce3",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "19ac1485118f18c178dcf61ad03e6743d92f3dbf34375122b9fcf51d4e8de5e2",
+    "id": "L12"
+  },
+  {
+    "smiles": "O=Cc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "O=Cc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "source_seq_idx": 311,
+    "source_name": "mofflow2s_254",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_254.cif",
+    "source_sha256": "5841e3e899d93d24e64557ec98ae9df30ea7c7c83a74f91206f655c4ab9ce3c4",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "1a83111eef28548d0ce251945644fdf949b505d4c1160de466603eaba6138909",
+    "id": "L13"
+  },
+  {
+    "smiles": "CCOc1cc2cc(C(=O)[O-])cc(OCC)c2cc1C(=O)[O-]",
+    "neutral_smiles": "CCOc1cc2cc(C(=O)O)cc(OCC)c2cc1C(=O)O",
+    "source_seq_idx": 742,
+    "source_name": "mofflow2s_542",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_542.cif",
+    "source_sha256": "b441f1a2b3060fceebf4c3b520fce12e7d5109cbdf1d66ea08eed96e309f8466",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "21f115fdc55c9464f6b512f98368fe05d517468d90da45d4512d533ab47fb8b7",
+    "id": "L14"
+  },
+  {
+    "smiles": "CCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "neutral_smiles": "CCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "source_seq_idx": 389,
+    "source_name": "mofflow2s_323",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_323.cif",
+    "source_sha256": "f4033c9b7211745689de682af1aaa8217e2194454d1afec3ec7404c004bf0dcf",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "24221901a1115628955913c392ead4d0cfe229042df668d210fee0fe7b9cc110",
+    "id": "L15"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc([N+](=O)[O-])cc3c2c1",
+    "neutral_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)cc([N+](=O)O)cc3c2c1",
+    "source_seq_idx": 594,
+    "source_name": "mofflow2s_416",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_416.cif",
+    "source_sha256": "a3d413d89c0f2917fb3c86fdad39e541b7a4eaad30a149ae85f65970631c46dd",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "24363389d187e26932e97b3740ecb4fc34a49d4f9bed8cc846d6136e5bc8d9ef",
+    "id": "L16"
+  },
+  {
+    "smiles": "CCCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "neutral_smiles": "CCCc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "source_seq_idx": 143,
+    "source_name": "mofflow2s_114",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_114.cif",
+    "source_sha256": "877f48008cacd4552fc42500d5a6ef60a82f1e643039ea278af4a3338bc22ff1",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "26664c55472f772c3edec6eec419774579767da84fab6f18f98a97644dc252e2",
+    "id": "L17"
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2cc(O)c3c(C(=O)[O-])ccc(O)c3c2c1",
+    "neutral_smiles": "O=C(O)c1ccc2cc(O)c3c(C(=O)O)ccc(O)c3c2c1",
+    "source_seq_idx": 383,
+    "source_name": "mofflow2s_318",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_318.cif",
+    "source_sha256": "843a6483085a76c24ab7dfe03245789166aba94109e3f55840af9f866cb326e5",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "28c56faf6d2a96a98b11497bf96c99b69b80866cc9f4cfab1981e166ca90fc9c",
+    "id": "L18"
+  },
+  {
+    "smiles": "Nc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "neutral_smiles": "Nc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "source_seq_idx": 909,
+    "source_name": "mofflow2s_683",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_683.cif",
+    "source_sha256": "08b4e46b0f0bb4018737ef7392c5f92eebd187b4acc42efb9723edfcb145cefc",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "2c37e7da4b97e02a090bc4180bcff1916a0591f559fe7e0e89f8f8f79b44fd8b",
+    "id": "L19"
+  },
+  {
+    "smiles": "CCc1cc2c(ccc3ccc(C(=O)[O-])c(CC)c32)c2cc(C(=O)[O-])ccc12",
+    "neutral_smiles": "CCc1cc2c(ccc3ccc(C(=O)O)c(CC)c32)c2cc(C(=O)O)ccc12",
+    "source_seq_idx": 256,
+    "source_name": "mofflow2s_207",
+    "source_cif": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/uffp/cif/mofflow2s_207.cif",
+    "source_sha256": "2e1735bc8fdadabaed75442505560b38a02f246a3a861f19eb3195a42a302174",
+    "source_metals": [
+      "V"
+    ],
+    "novel_sequence_fragment": false,
+    "other_seq_idx": [],
+    "rank": "2dcc34d64b4da4120e91eb8f46e0e8be22b87557659558e4778041083fa8742f",
+    "id": "L20"
+  }
+]

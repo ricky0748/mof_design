@@ -1,0 +1,56 @@
+{
+  "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/raw/A_F14.cif",
+  "out": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/relaxed/A_F14.cif",
+  "status": "completed",
+  "before": {
+    "natoms": 160,
+    "volume": 2395.449770344739,
+    "dmin": 0.6282672069456735,
+    "fragments": 1
+  },
+  "after": {
+    "natoms": 160,
+    "volume": 2421.05522213963,
+    "dmin": 0.9775818691686553,
+    "fragments": 1
+  },
+  "converged": false,
+  "steps": 150,
+  "volume_ratio": 1.0106892042203857,
+  "geometry_valid": true,
+  "seconds": 85.05,
+  "calculation_signature": {
+    "schema": 1,
+    "input_sha256": "713ee62d5e3c5e15a54573548f7fefc0e9cb562e422ab857b2863c265f3e8d37",
+    "model_sha256": "01bfe22100139f424713cf921144e5509cbe353d67aa9fa1be9c6e1e0ed35845",
+    "scripts": {
+      "build_fresh.py": "fb7e81c796acc5c9e0e988d0fa5c053b22310995531598a61fdf56fb094ec235",
+      "build_helpers.py": "c375d57851988ba5c6b5a6267b97eaef8f22031c9a50575965bef2cd1506a4cc",
+      "choose.py": "e4c74dce7e5c97d2a3e858ff7991e40b7dca75e2e01642d5b68658bc3ef38a1b",
+      "common.py": "ce9194d7bdf4af309d8b5a9f2072b629518c593164f3bd6d0d6bb6cd5fc27514",
+      "compute_config.py": "2d6ed1b8186da586b4cd95d7316e4ae7f4f4c76ff13d12d29fc35cc390a2515c",
+      "convert.py": "6ee9b844329c6e296bc753fa1fc67cee664f8a35a10bfcbefae04f5a239a9652",
+      "eval_helpers.py": "5c9589ef54f2f67e130c8822d89b0a42779fa503a854a73fef04e73e76f56b54",
+      "provenance.py": "208d6e126536953ec4b9d22f62bdad5b2297c3d0697393eae45b8cc9c06bca0d",
+      "relax_one.py": "eb2a8d163710b3e9c9ae93cfa419d87efdf04d677860e5b52c1bbf0b04d8307d",
+      "report_fresh.py": "dade76164bbbbc29a942571b28b2c5c38d4fa92714e2d6658f3b6ab36f296ba4",
+      "run.py": "53dfcc8cbd872234270734c6a1f93f8246164dd3f305c21597a80bcc47ff0a7e",
+      "setup_run.py": "0b5b6ac788f39e65ed2e91df8c1711e0f545fc2426863a823eef0b1ecb44af55"
+    },
+    "settings": {
+      "steps": 150,
+      "fmax": 0.2,
+      "maxstep": 0.05,
+      "timeout": 600,
+      "atom_limit": 1000,
+      "dtype": "float64",
+      "threads": 2,
+      "neighbor_multiplier": 1.15,
+      "neighbor_skin": 0.0,
+      "minimum_distance": 0.9,
+      "minimum_volume_ratio": 0.75,
+      "maximum_volume_ratio": 1.25
+    }
+  },
+  "output_sha256": "d4ff0a7fbfce252e3b42276bcb45a05ef19a071e9e9d98a3fb75026b2075c543"
+}

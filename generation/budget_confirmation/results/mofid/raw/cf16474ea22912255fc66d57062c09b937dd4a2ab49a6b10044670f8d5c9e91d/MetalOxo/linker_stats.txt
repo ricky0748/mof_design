@@ -1,0 +1,2 @@
+CDAQRLZVIUHMCA-UHFFFAOYSA-L	2	3	InChI=1S/C17H10O5/c18-8-11-4-6-13(17(21)22)12-5-3-9-1-2-10(16(19)20)7-14(9)15(11)12/h1-8H,(H,19,20)(H,21,22)/p-2	CDAQRLZVIUHMCA	O=Cc1ccc(c2c1c1cc(ccc1cc2)C(=O)[O-])C(=O)[O-]	[O][CH][c]1[cH][cH][c]([c]2[c]1[c]1[cH][c]([cH][cH][c]1[cH][cH]2)[C]([O])[O-])[C]([O])[O-]
+

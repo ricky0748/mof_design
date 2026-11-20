@@ -1,0 +1,502 @@
+[
+  {
+    "name": "U_L12",
+    "reason": "2.7 A extra Zn-O neighbor; largest discovery angle RMS",
+    "status": "completed",
+    "converged": true,
+    "steps": 112,
+    "geometry": true,
+    "before": {
+      "natoms": 101,
+      "volume": 4293.114096972312,
+      "dmin": 0.9718179261622756,
+      "fragments": 1
+    },
+    "after": {
+      "natoms": 101,
+      "volume": 3970.407952082562,
+      "dmin": 0.9722931733007946,
+      "fragments": 1
+    },
+    "volume_ratio": 0.9248316868360578,
+    "coordination": {
+      "2.3": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 12.799619787039697,
+          "bond_min": 1.9743425340438514,
+          "bond_max": 2.112616288117061
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 10.78315445746637,
+          "bond_min": 1.9296747847453561,
+          "bond_max": 2.0699425576449126
+        }
+      },
+      "2.5": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 12.799619787039697,
+          "bond_min": 1.9743425340438514,
+          "bond_max": 2.112616288117061
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            5,
+            4
+          ],
+          "angle_rms": 8.907465754539519,
+          "bond_min": 1.9296747847453561,
+          "bond_max": 2.4456198744436457
+        }
+      },
+      "2.7": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            5,
+            4
+          ],
+          "angle_rms": 10.334962496272462,
+          "bond_min": 1.9743425340438514,
+          "bond_max": 2.657806053701358
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            5,
+            4
+          ],
+          "angle_rms": 8.907465754539519,
+          "bond_min": 1.9296747847453561,
+          "bond_max": 2.4456198744436457
+        }
+      }
+    },
+    "final_fmax": 0.04914,
+    "energy_change_per_atom": -0.009769940594059345,
+    "mofid_status": "identified",
+    "topology": "pcu",
+    "target_recovered": true
+  },
+  {
+    "name": "U_H05",
+    "reason": "2.7 A extra Zn-O neighbor",
+    "status": "completed",
+    "converged": true,
+    "steps": 137,
+    "geometry": true,
+    "before": {
+      "natoms": 104,
+      "volume": 4239.229237948272,
+      "dmin": 1.0122338349102742,
+      "fragments": 1
+    },
+    "after": {
+      "natoms": 104,
+      "volume": 3858.9369156205107,
+      "dmin": 1.014562485524673,
+      "fragments": 1
+    },
+    "volume_ratio": 0.9102921071303476,
+    "coordination": {
+      "2.3": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 9.05488990365948,
+          "bond_min": 1.930898566452514,
+          "bond_max": 2.038332999405594
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 6.601928643002726,
+          "bond_min": 1.9456708869181873,
+          "bond_max": 2.0189778941077305
+        }
+      },
+      "2.5": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 9.05488990365948,
+          "bond_min": 1.930898566452514,
+          "bond_max": 2.038332999405594
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 6.601928643002726,
+          "bond_min": 1.9456708869181873,
+          "bond_max": 2.0189778941077305
+        }
+      },
+      "2.7": {
+        "before": {
+          "cn": [
+            5,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 7.552842066943688,
+          "bond_min": 1.930898566452514,
+          "bond_max": 2.673285075471203
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 6.601928643002726,
+          "bond_min": 1.9456708869181873,
+          "bond_max": 2.0189778941077305
+        }
+      }
+    },
+    "final_fmax": 0.047902,
+    "energy_change_per_atom": -0.01764709615384583,
+    "mofid_status": "identified",
+    "topology": "pcu",
+    "target_recovered": true
+  },
+  {
+    "name": "U_H12",
+    "reason": "not converged in original budget",
+    "status": "completed",
+    "converged": true,
+    "steps": 88,
+    "geometry": true,
+    "before": {
+      "natoms": 143,
+      "volume": 4236.193434370437,
+      "dmin": 1.0804481702239292,
+      "fragments": 1
+    },
+    "after": {
+      "natoms": 143,
+      "volume": 4112.724487638801,
+      "dmin": 1.081923689423035,
+      "fragments": 1
+    },
+    "volume_ratio": 0.9708537986651251,
+    "coordination": {
+      "2.3": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 4.9536049890200555,
+          "bond_min": 1.937249711484114,
+          "bond_max": 2.0340325229544023
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 4.2386763797508396,
+          "bond_min": 1.9381881836458112,
+          "bond_max": 1.9939926016176879
+        }
+      },
+      "2.5": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 4.9536049890200555,
+          "bond_min": 1.937249711484114,
+          "bond_max": 2.0340325229544023
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 4.2386763797508396,
+          "bond_min": 1.9381881836458112,
+          "bond_max": 1.9939926016176879
+        }
+      },
+      "2.7": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 4.9536049890200555,
+          "bond_min": 1.937249711484114,
+          "bond_max": 2.0340325229544023
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 4.2386763797508396,
+          "bond_min": 1.9381881836458112,
+          "bond_max": 1.9939926016176879
+        }
+      }
+    },
+    "final_fmax": 0.049688,
+    "energy_change_per_atom": -0.0028780909090908454,
+    "mofid_status": "identified",
+    "topology": "pcu",
+    "target_recovered": true
+  },
+  {
+    "name": "U_H01",
+    "reason": "largest holdout angle RMS",
+    "status": "completed",
+    "converged": true,
+    "steps": 125,
+    "geometry": true,
+    "before": {
+      "natoms": 101,
+      "volume": 4223.764258465824,
+      "dmin": 1.0782880675696715,
+      "fragments": 1
+    },
+    "after": {
+      "natoms": 101,
+      "volume": 3872.250845921901,
+      "dmin": 1.086580711492489,
+      "fragments": 1
+    },
+    "volume_ratio": 0.9167772178952979,
+    "coordination": {
+      "2.3": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 9.535357175898554,
+          "bond_min": 1.928974562611525,
+          "bond_max": 2.0453672971460866
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 4.890742183518517,
+          "bond_min": 1.9564512778823078,
+          "bond_max": 1.9843737065621363
+        }
+      },
+      "2.5": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 9.535357175898554,
+          "bond_min": 1.928974562611525,
+          "bond_max": 2.0453672971460866
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 4.890742183518517,
+          "bond_min": 1.9564512778823078,
+          "bond_max": 1.9843737065621363
+        }
+      },
+      "2.7": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 9.535357175898554,
+          "bond_min": 1.928974562611525,
+          "bond_max": 2.0453672971460866
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 4.890742183518517,
+          "bond_min": 1.9564512778823078,
+          "bond_max": 1.9843737065621363
+        }
+      }
+    },
+    "final_fmax": 0.049461,
+    "energy_change_per_atom": -0.01326988118811943,
+    "mofid_status": "identified",
+    "topology": "pcu",
+    "target_recovered": true
+  },
+  {
+    "name": "control_C_BDC",
+    "reason": "positive geometry control",
+    "status": "completed",
+    "converged": true,
+    "steps": 56,
+    "geometry": true,
+    "before": {
+      "natoms": 53,
+      "volume": 2176.7898449070503,
+      "dmin": 1.0867823052263867,
+      "fragments": 1
+    },
+    "after": {
+      "natoms": 53,
+      "volume": 2201.829580604492,
+      "dmin": 1.0886525742096278,
+      "fragments": 1
+    },
+    "volume_ratio": 1.011503056097045,
+    "coordination": {
+      "2.3": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 2.326946360958898,
+          "bond_min": 1.9519499562427973,
+          "bond_max": 1.9686601080615949
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 5.026676015191942,
+          "bond_min": 1.9660745355165874,
+          "bond_max": 1.9887368206673182
+        }
+      },
+      "2.5": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 2.326946360958898,
+          "bond_min": 1.9519499562427973,
+          "bond_max": 1.9686601080615949
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 5.026676015191942,
+          "bond_min": 1.9660745355165874,
+          "bond_max": 1.9887368206673182
+        }
+      },
+      "2.7": {
+        "before": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 2.326946360958898,
+          "bond_min": 1.9519499562427973,
+          "bond_max": 1.9686601080615949
+        },
+        "after": {
+          "cn": [
+            4,
+            4,
+            4,
+            4
+          ],
+          "angle_rms": 5.026676015191942,
+          "bond_min": 1.9660745355165874,
+          "bond_max": 1.9887368206673182
+        }
+      }
+    },
+    "final_fmax": 0.040431,
+    "energy_change_per_atom": -0.004318415094339884,
+    "mofid_status": "identified",
+    "topology": "pcu",
+    "target_recovered": true
+  }
+]

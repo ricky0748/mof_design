@@ -1,0 +1,42 @@
+{
+  "2.3": {
+    "structures": 40,
+    "all_zn_cn4": 40,
+    "zn_sites": 160,
+    "cn4_sites": 160,
+    "coordination_outliers": []
+  },
+  "2.5": {
+    "structures": 40,
+    "all_zn_cn4": 40,
+    "zn_sites": 160,
+    "cn4_sites": 160,
+    "coordination_outliers": []
+  },
+  "2.7": {
+    "structures": 40,
+    "all_zn_cn4": 38,
+    "zn_sites": 160,
+    "cn4_sites": 158,
+    "coordination_outliers": [
+      {
+        "id": "U_L12",
+        "cn": [
+          4,
+          4,
+          5,
+          4
+        ]
+      },
+      {
+        "id": "U_H05",
+        "cn": [
+          5,
+          4,
+          4,
+          4
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "geometry": true,
+  "converged": true,
+  "target_recovered": true,
+  "topology_identified": true,
+  "joint": true,
+  "topology": "pcu",
+  "mofid_status": "identified",
+  "reused_from": null,
+  "seconds": 26.19,
+  "steps": 6,
+  "dmin": 1.0867823052263865,
+  "fragments": 1,
+  "volume_ratio": 1.0009299505195621,
+  "target_key": "O=C(O)c1ccc(C(=O)O)cc1"
+}

@@ -1,0 +1,475 @@
+{
+  "all_36": [
+    {
+      "name": "U19_F01",
+      "before": 1.0157060338120985,
+      "after": 1.0089106653503266,
+      "geometry": true,
+      "initial_force": 3.892882,
+      "last_force": 0.194996,
+      "initial_energy": -651.08045,
+      "last_energy": -656.024317
+    },
+    {
+      "name": "U19_F02",
+      "before": 1.086844140397038,
+      "after": 1.0873401278662636,
+      "geometry": true,
+      "initial_force": 3.744113,
+      "last_force": 0.172,
+      "initial_energy": -681.888889,
+      "last_energy": -686.743192
+    },
+    {
+      "name": "U19_F03",
+      "before": 1.0867314738762466,
+      "after": 1.084667561160507,
+      "geometry": true,
+      "initial_force": 3.450171,
+      "last_force": 0.174829,
+      "initial_energy": -614.355224,
+      "last_energy": -618.842104
+    },
+    {
+      "name": "U19_F04",
+      "before": 0.4897752577732644,
+      "after": 1.085216494150629,
+      "geometry": true,
+      "initial_force": 40.331946,
+      "last_force": 0.163275,
+      "initial_energy": -846.755185,
+      "last_energy": -886.075217
+    },
+    {
+      "name": "U19_F05",
+      "before": 1.0846971075655543,
+      "after": 1.0828155841331444,
+      "geometry": true,
+      "initial_force": 6.765516,
+      "last_force": 0.183008,
+      "initial_energy": -656.361746,
+      "last_energy": -662.977642
+    },
+    {
+      "name": "U19_F06",
+      "before": 1.0832532969739088,
+      "after": 1.0848818983307382,
+      "geometry": true,
+      "initial_force": 2.53549,
+      "last_force": 0.177192,
+      "initial_energy": -682.730277,
+      "last_energy": -686.981652
+    },
+    {
+      "name": "U19_F07",
+      "before": 1.0346755880697434,
+      "after": 1.0849918023000955,
+      "geometry": true,
+      "initial_force": 12.652047,
+      "last_force": 0.189691,
+      "initial_energy": -818.911621,
+      "last_energy": -839.850317
+    },
+    {
+      "name": "U19_F08",
+      "before": 0.9702534700588621,
+      "after": 0.9684024960707239,
+      "geometry": true,
+      "initial_force": 4.300285,
+      "last_force": 0.194622,
+      "initial_energy": -783.968553,
+      "last_energy": -788.466583
+    },
+    {
+      "name": "U19_F09",
+      "before": 1.0173288698401863,
+      "after": 1.0088566010504165,
+      "geometry": true,
+      "initial_force": 3.563173,
+      "last_force": 0.186688,
+      "initial_energy": -916.573114,
+      "last_energy": -921.151424
+    },
+    {
+      "name": "U19_F10",
+      "before": 1.082289112599701,
+      "after": 1.0852051754229604,
+      "geometry": true,
+      "initial_force": 2.524224,
+      "last_force": 0.180506,
+      "initial_energy": -845.907269,
+      "last_energy": -849.366616
+    },
+    {
+      "name": "U19_F11",
+      "before": 1.0858595753286215,
+      "after": 1.0852902468684222,
+      "geometry": true,
+      "initial_force": 3.294799,
+      "last_force": 0.186057,
+      "initial_energy": -763.431162,
+      "last_energy": -767.699437
+    },
+    {
+      "name": "U19_F12",
+      "before": 1.0853057786459168,
+      "after": 1.0831219236161724,
+      "geometry": true,
+      "initial_force": 2.895586,
+      "last_force": 0.17917,
+      "initial_energy": -980.673679,
+      "last_energy": -985.209055
+    },
+    {
+      "name": "U19_F13",
+      "before": 1.0848929311326814,
+      "after": 1.0815194484890969,
+      "geometry": true,
+      "initial_force": 4.303131,
+      "last_force": 0.176542,
+      "initial_energy": -968.540001,
+      "last_energy": -973.934556
+    },
+    {
+      "name": "U19_F14",
+      "before": 0.9556674216289531,
+      "after": 1.0824375251138845,
+      "geometry": true,
+      "initial_force": 14.696311,
+      "last_force": 0.191559,
+      "initial_energy": -757.072011,
+      "last_energy": -787.700193
+    },
+    {
+      "name": "U19_F15",
+      "before": 1.0822052775842874,
+      "after": 1.0854799822370982,
+      "geometry": true,
+      "initial_force": 2.674525,
+      "last_force": 0.195914,
+      "initial_energy": -1080.961247,
+      "last_energy": -1084.832596
+    },
+    {
+      "name": "U19_F16",
+      "before": 1.0858136064392128,
+      "after": 1.0851782038307431,
+      "geometry": true,
+      "initial_force": 3.594045,
+      "last_force": 0.19877,
+      "initial_energy": -745.066763,
+      "last_energy": -748.932023
+    },
+    {
+      "name": "U19_F17",
+      "before": 0.9705372070338072,
+      "after": 0.9704145565476768,
+      "geometry": true,
+      "initial_force": 4.03926,
+      "last_force": 0.176272,
+      "initial_energy": -653.990796,
+      "last_energy": -659.046866
+    },
+    {
+      "name": "U19_F18",
+      "before": 1.0839915511462148,
+      "after": 1.0850304636316728,
+      "geometry": true,
+      "initial_force": 4.309879,
+      "last_force": 0.181366,
+      "initial_energy": -982.566755,
+      "last_energy": -986.755456
+    },
+    {
+      "name": "U7_F01",
+      "before": 1.015546385082666,
+      "after": 1.0088438394438044,
+      "geometry": true,
+      "initial_force": 2.681456,
+      "last_force": 0.172699,
+      "initial_energy": -651.779092,
+      "last_energy": -656.074242
+    },
+    {
+      "name": "U7_F02",
+      "before": 1.0858566622322798,
+      "after": 1.085340276036853,
+      "geometry": true,
+      "initial_force": 3.397602,
+      "last_force": 0.199803,
+      "initial_energy": -681.686037,
+      "last_energy": -687.211398
+    },
+    {
+      "name": "U7_F03",
+      "before": 1.0868407224673928,
+      "after": 1.0833943261301626,
+      "geometry": true,
+      "initial_force": 4.760398,
+      "last_force": 0.187624,
+      "initial_energy": -614.056954,
+      "last_energy": -618.460937
+    },
+    {
+      "name": "U7_F04",
+      "before": 1.08389687959144,
+      "after": 1.0850225256941957,
+      "geometry": true,
+      "initial_force": 4.317438,
+      "last_force": 0.198855,
+      "initial_energy": -881.204992,
+      "last_energy": -885.719948
+    },
+    {
+      "name": "U7_F05",
+      "before": 1.0846492158997365,
+      "after": 1.080566249140082,
+      "geometry": true,
+      "initial_force": 6.874342,
+      "last_force": 0.190183,
+      "initial_energy": -656.142659,
+      "last_energy": -663.288308
+    },
+    {
+      "name": "U7_F06",
+      "before": 1.0835625280707228,
+      "after": 1.085571378878951,
+      "geometry": true,
+      "initial_force": 3.859183,
+      "last_force": 0.180453,
+      "initial_energy": -682.515217,
+      "last_energy": -687.126981
+    },
+    {
+      "name": "U7_F07",
+      "before": 1.0863842874639253,
+      "after": 1.086767841647647,
+      "geometry": true,
+      "initial_force": 18.634305,
+      "last_force": 0.141634,
+      "initial_energy": -815.880069,
+      "last_energy": -840.437009
+    },
+    {
+      "name": "U7_F08",
+      "before": 0.970243951288575,
+      "after": 0.9697054993563791,
+      "geometry": true,
+      "initial_force": 4.211727,
+      "last_force": 0.199137,
+      "initial_energy": -783.841757,
+      "last_energy": -788.067562
+    },
+    {
+      "name": "U7_F09",
+      "before": 1.0173948722561226,
+      "after": 1.0097129591110614,
+      "geometry": true,
+      "initial_force": 3.771458,
+      "last_force": 0.176469,
+      "initial_energy": -916.716926,
+      "last_energy": -921.213174
+    },
+    {
+      "name": "U7_F10",
+      "before": 1.086740379520885,
+      "after": 1.0847881636333423,
+      "geometry": true,
+      "initial_force": 4.494377,
+      "last_force": 0.169583,
+      "initial_energy": -845.293492,
+      "last_energy": -849.343621
+    },
+    {
+      "name": "U7_F11",
+      "before": 0.5970785490427543,
+      "after": 0.3324152906799815,
+      "geometry": false,
+      "initial_force": 112.122425,
+      "last_force": 25344.621818,
+      "initial_energy": -740.966057,
+      "last_energy": -11315.442378
+    },
+    {
+      "name": "U7_F12",
+      "before": 1.085147340147473,
+      "after": 1.0831637588329952,
+      "geometry": true,
+      "initial_force": 3.67889,
+      "last_force": 0.18481,
+      "initial_energy": -980.61883,
+      "last_energy": -985.224229
+    },
+    {
+      "name": "U7_F13",
+      "before": 0.9875259660190606,
+      "after": 1.084619136550042,
+      "geometry": true,
+      "initial_force": 8.317341,
+      "last_force": 0.17341,
+      "initial_energy": -957.72208,
+      "last_energy": -974.544701
+    },
+    {
+      "name": "U7_F14",
+      "before": 0.37616092550829877,
+      "after": 0.26411850947916393,
+      "geometry": false,
+      "initial_force": 76157.213056,
+      "last_force": 361417.024571,
+      "initial_energy": 3810.428747,
+      "last_energy": -54413.995817
+    },
+    {
+      "name": "U7_F15",
+      "before": 1.081911738360292,
+      "after": 1.0851022345023957,
+      "geometry": true,
+      "initial_force": 3.044855,
+      "last_force": 0.188477,
+      "initial_energy": -1081.556481,
+      "last_energy": -1085.326603
+    },
+    {
+      "name": "U7_F16",
+      "before": 1.0855658170420481,
+      "after": 1.083387296762001,
+      "geometry": true,
+      "initial_force": 3.502321,
+      "last_force": 0.18502,
+      "initial_energy": -745.156927,
+      "last_energy": -749.540814
+    },
+    {
+      "name": "U7_F17",
+      "before": 0.9719249276435838,
+      "after": 0.9692634794367299,
+      "geometry": true,
+      "initial_force": 4.005353,
+      "last_force": 0.198184,
+      "initial_energy": -654.341326,
+      "last_energy": -658.812051
+    },
+    {
+      "name": "U7_F18",
+      "before": 1.0839284430547664,
+      "after": 1.0850657565439932,
+      "geometry": true,
+      "initial_force": 4.832437,
+      "last_force": 0.198406,
+      "initial_energy": -982.060523,
+      "last_energy": -986.310295
+    }
+  ],
+  "clashes": [
+    {
+      "name": "U7_F11",
+      "contacts": [
+        {
+          "a": "H42",
+          "b": "H73",
+          "distance": 0.5970785490427543,
+          "same_organic_group": false,
+          "symbols": "H-H"
+        },
+        {
+          "a": "C24",
+          "b": "H72",
+          "distance": 0.8768180176213621,
+          "same_organic_group": false,
+          "symbols": "C-H"
+        },
+        {
+          "a": "H41",
+          "b": "C55",
+          "distance": 0.8818810574646868,
+          "same_organic_group": false,
+          "symbols": "H-C"
+        }
+      ]
+    },
+    {
+      "name": "U19_F11",
+      "contacts": []
+    },
+    {
+      "name": "U7_F14",
+      "contacts": [
+        {
+          "a": "C25",
+          "b": "C55",
+          "distance": 0.37616092550829877,
+          "same_organic_group": false,
+          "symbols": "C-C"
+        },
+        {
+          "a": "H46",
+          "b": "C56",
+          "distance": 0.41755055715942774,
+          "same_organic_group": false,
+          "symbols": "H-C"
+        },
+        {
+          "a": "H47",
+          "b": "H74",
+          "distance": 0.517011402783453,
+          "same_organic_group": false,
+          "symbols": "H-H"
+        },
+        {
+          "a": "C23",
+          "b": "H110",
+          "distance": 0.6529211553345952,
+          "same_organic_group": false,
+          "symbols": "C-H"
+        },
+        {
+          "a": "O26",
+          "b": "H73",
+          "distance": 0.6732116421933749,
+          "same_organic_group": false,
+          "symbols": "O-H"
+        },
+        {
+          "a": "O7",
+          "b": "H76",
+          "distance": 0.675770470583969,
+          "same_organic_group": false,
+          "symbols": "O-H"
+        },
+        {
+          "a": "C72",
+          "b": "H105",
+          "distance": 0.6763621498158827,
+          "same_organic_group": false,
+          "symbols": "C-H"
+        },
+        {
+          "a": "O13",
+          "b": "H44",
+          "distance": 0.7076930171096685,
+          "same_organic_group": false,
+          "symbols": "O-H"
+        },
+        {
+          "a": "H47",
+          "b": "C55",
+          "distance": 0.8234499798595604,
+          "same_organic_group": false,
+          "symbols": "H-C"
+        },
+        {
+          "a": "H43",
+          "b": "H78",
+          "distance": 0.8254002712036138,
+          "same_organic_group": false,
+          "symbols": "H-H"
+        }
+      ]
+    },
+    {
+      "name": "U19_F14",
+      "contacts": []
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "prediction_index": 0,
+    "selected_index": 0,
+    "id": "F01",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F01.cif"
+  },
+  {
+    "prediction_index": 1,
+    "selected_index": 1,
+    "id": "F02",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F02.cif"
+  },
+  {
+    "prediction_index": 2,
+    "selected_index": 2,
+    "id": "F03",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F03.cif"
+  },
+  {
+    "prediction_index": 3,
+    "selected_index": 3,
+    "id": "F04",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F04.cif"
+  },
+  {
+    "prediction_index": 4,
+    "selected_index": 4,
+    "id": "F05",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F05.cif"
+  },
+  {
+    "prediction_index": 5,
+    "selected_index": 5,
+    "id": "F06",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F06.cif"
+  },
+  {
+    "prediction_index": 6,
+    "selected_index": 6,
+    "id": "F07",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F07.cif"
+  },
+  {
+    "prediction_index": 7,
+    "selected_index": 7,
+    "id": "F08",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F08.cif"
+  },
+  {
+    "prediction_index": 8,
+    "selected_index": 8,
+    "id": "F09",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F09.cif"
+  },
+  {
+    "prediction_index": 9,
+    "selected_index": 9,
+    "id": "F10",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F10.cif"
+  },
+  {
+    "prediction_index": 10,
+    "selected_index": 10,
+    "id": "F11",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F11.cif"
+  },
+  {
+    "prediction_index": 11,
+    "selected_index": 11,
+    "id": "F12",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F12.cif"
+  },
+  {
+    "prediction_index": 12,
+    "selected_index": 12,
+    "id": "F13",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F13.cif"
+  },
+  {
+    "prediction_index": 13,
+    "selected_index": 13,
+    "id": "F14",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F14.cif"
+  },
+  {
+    "prediction_index": 14,
+    "selected_index": 14,
+    "id": "F15",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F15.cif"
+  },
+  {
+    "prediction_index": 15,
+    "selected_index": 15,
+    "id": "F16",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F16.cif"
+  },
+  {
+    "prediction_index": 16,
+    "selected_index": 16,
+    "id": "F17",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F17.cif"
+  },
+  {
+    "prediction_index": 17,
+    "selected_index": 17,
+    "id": "F18",
+    "status": "built",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_fresh_20261113/native/A_F18.cif"
+  }
+]

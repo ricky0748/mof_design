@@ -1,0 +1,1142 @@
+[
+  {
+    "smiles": "CCCc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12",
+    "key": "CCCc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cccc12",
+    "sequence_index": 230,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12.CCCc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12.CCCc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12.CCCc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "0e8d53ff077b72080cd58eaa06401db2d86ec66d7fb2a5c237d90f5b2467aebc",
+    "id": "B01",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B01_7.xyz",
+        "sha256": "6a90ca6f681d7f9cc95a11f79b8596bfe161e79afbb5b064e443b104efbf8c1d",
+        "profile": {
+          "angles": [
+            28.48034613544424,
+            28.21225565825251,
+            177.53153352284593
+          ],
+          "span": 7.5158225125397955
+        },
+        "embedding_seconds": 0.22805793583393097,
+        "build_seconds": 2.244
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B01_19.xyz",
+        "sha256": "383ddde42d1680a29766994c15c818b98ec19c6a4edf21ad3f17c049d98bc928",
+        "profile": {
+          "angles": [
+            28.47223516384537,
+            28.203003152066152,
+            178.55260240363768
+          ],
+          "span": 7.516022664281955
+        },
+        "embedding_seconds": 0.17704689502716064,
+        "build_seconds": 0.525
+      }
+    }
+  },
+  {
+    "smiles": "CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12",
+    "key": "CCCc1cc2ccc(C(=O)O)cc2c2cccc(C(=O)O)c12",
+    "sequence_index": 567,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "122762d4ad7375733d6535270b7e423275eb467cb71abc5c51c3d557bbb1b640",
+    "id": "B02",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B02_7.xyz",
+        "sha256": "220774a01efddfce25cbb14ed8955a37f3c67e51b93d4ac6630c677fa9691ace",
+        "profile": {
+          "angles": [
+            32.46263708549584,
+            23.217010598277355,
+            170.65215954326493
+          ],
+          "span": 7.516547190033466
+        },
+        "embedding_seconds": 0.09995138645172119,
+        "build_seconds": 0.623
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B02_19.xyz",
+        "sha256": "17eab6ee4f343d94eeb3c48f651d1f0c7dfe54381fe5b9282ca368aacf3c6c2a",
+        "profile": {
+          "angles": [
+            32.474776189654804,
+            24.02933106951565,
+            168.41276951200905
+          ],
+          "span": 7.512653715565492
+        },
+        "embedding_seconds": 0.11539952829480171,
+        "build_seconds": 1.01
+      }
+    }
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc(O)cc3c2c1O",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)cc(O)cc3c2c1O",
+    "sequence_index": 15,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc(O)cc3c2c1O.O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc(O)cc3c2c1O.O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc(O)cc3c2c1O.O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc(O)cc3c2c1O<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "1c5b7d43cac91755e775426613d30ee5f334d21e96b0f3bcbd77fde21434f44e",
+    "id": "B03",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B03_7.xyz",
+        "sha256": "6ce87dd571cd83bb85874f81b87c10042856c114afc7582ee7f035626cae39ab",
+        "profile": {
+          "angles": [
+            27.468382321279197,
+            29.092730660681635,
+            177.3051164485909
+          ],
+          "span": 7.583581172506825
+        },
+        "embedding_seconds": 0.1252719834446907,
+        "build_seconds": 0.461
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B03_19.xyz",
+        "sha256": "6a3281fd557a793ac2d22598caaafe440970a25f14d1c81afef2cbbb4470739c",
+        "profile": {
+          "angles": [
+            27.379346534936037,
+            30.256840819326552,
+            176.29765311324877
+          ],
+          "span": 7.5902489794472485
+        },
+        "embedding_seconds": 0.08827124536037445,
+        "build_seconds": 0.891
+      }
+    }
+  },
+  {
+    "smiles": "CNc1cc(C(=O)[O-])cc2c1cc(N)c1c(C(=O)[O-])cccc12",
+    "key": "CNc1cc(C(=O)O)cc2c1cc(N)c1c(C(=O)O)cccc12",
+    "sequence_index": 346,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CNc1cc(C(=O)[O-])cc2c1cc(N)c1c(C(=O)[O-])cccc12.CNc1cc(C(=O)[O-])cc2c1cc(N)c1c(C(=O)[O-])cccc12.CNc1cc(C(=O)[O-])cc2c1cc(N)c1c(C(=O)[O-])cccc12.CNc1cc(C(=O)[O-])cc2c1cc(N)c1c(C(=O)[O-])cccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "22949ead807f4037727150ebfbba804d8ad55dc5e8d9eda6615ce2069db60ea9",
+    "id": "B04",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B04_7.xyz",
+        "sha256": "5bb30106e1ef33736788910d2fe7d6f5e20bf81d4a0704a455487c31a6e1a98f",
+        "profile": {
+          "angles": [
+            29.51657108287138,
+            24.018255459445665,
+            173.46902521947902
+          ],
+          "span": 7.527179337573935
+        },
+        "embedding_seconds": 0.1456754207611084,
+        "build_seconds": 0.711
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B04_19.xyz",
+        "sha256": "804a3033bda1e34a7c09c5f58d47d8febee860008662f0216aeca66943bfda46",
+        "profile": {
+          "angles": [
+            33.197556631151386,
+            24.52366388691459,
+            171.177617090179
+          ],
+          "span": 7.503341765506886
+        },
+        "embedding_seconds": 0.10846773162484169,
+        "build_seconds": 0.764
+      }
+    }
+  },
+  {
+    "smiles": "O=Cc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12",
+    "key": "O=Cc1cc2ccc(C(=O)O)cc2c2cccc(C(=O)O)c12",
+    "sequence_index": 194,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=Cc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.O=Cc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.O=Cc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12.O=Cc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "24b2c0a0948430b44b4bd6bc3e261f603f5d9e7977d1afca1f951c4fac32932a",
+    "id": "B05",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B05_7.xyz",
+        "sha256": "4259d79bd924df5c1ea7bd617e3966f7b30500682e1acd15206cd9487dcbf782",
+        "profile": {
+          "angles": [
+            31.954092878182145,
+            29.323581289953793,
+            164.76283142291283
+          ],
+          "span": 7.4764794241675006
+        },
+        "embedding_seconds": 0.12549708783626556,
+        "build_seconds": 0.767
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B05_19.xyz",
+        "sha256": "dac38f0d6a419d945856a6dddce93eac87dc478ca941f138e0e97cafd11537c5",
+        "profile": {
+          "angles": [
+            32.26809705685325,
+            27.8749827437625,
+            164.76065206152774
+          ],
+          "span": 7.488442175112258
+        },
+        "embedding_seconds": 0.1722012646496296,
+        "build_seconds": 0.6
+      }
+    }
+  },
+  {
+    "smiles": "CCCOc1cc2c3cc(C(=O)[O-])ccc3ccc2c2cc(C(=O)[O-])ccc12",
+    "key": "CCCOc1cc2c3cc(C(=O)O)ccc3ccc2c2cc(C(=O)O)ccc12",
+    "sequence_index": 151,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCOc1cc2c3cc(C(=O)[O-])ccc3ccc2c2cc(C(=O)[O-])ccc12.CCCOc1cc2c3cc(C(=O)[O-])ccc3ccc2c2cc(C(=O)[O-])ccc12.CCCOc1cc2c3cc(C(=O)[O-])ccc3ccc2c2cc(C(=O)[O-])ccc12.CCCOc1cc2c3cc(C(=O)[O-])ccc3ccc2c2cc(C(=O)[O-])ccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "2c98182c47e1c7c31619d24ae6bc03787935e731cdf0fdcba6aa3b225c71ff21",
+    "id": "B06",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B06_7.xyz",
+        "sha256": "bf7b0ca49a6c419a0572f0b2de5c4a0db43d7bee37bb886d5a9cee6879a84abe",
+        "profile": {
+          "angles": [
+            31.33587039634032,
+            28.164595540341292,
+            176.78526034660956
+          ],
+          "span": 10.021212492009138
+        },
+        "embedding_seconds": 0.16235113888978958,
+        "build_seconds": 0.462
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B06_19.xyz",
+        "sha256": "83436c817fe349a4fc3d7d2e6e06e420af3bfb0ec0f0f058b95799ec5b73a48d",
+        "profile": {
+          "angles": [
+            31.26224381872323,
+            28.39750882522625,
+            177.1339276243484
+          ],
+          "span": 10.016431592638169
+        },
+        "embedding_seconds": 0.11649571731686592,
+        "build_seconds": 0.486
+      }
+    }
+  },
+  {
+    "smiles": "O=Cc1cc(C(=O)[O-])c2c(O)cc3cc(O)c(C(=O)[O-])cc3c2c1",
+    "key": "O=Cc1cc(C(=O)O)c2c(O)cc3cc(O)c(C(=O)O)cc3c2c1",
+    "sequence_index": 420,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=Cc1cc(C(=O)[O-])c2c(O)cc3cc(O)c(C(=O)[O-])cc3c2c1.O=Cc1cc(C(=O)[O-])c2c(O)cc3cc(O)c(C(=O)[O-])cc3c2c1.O=Cc1cc(C(=O)[O-])c2c(O)cc3cc(O)c(C(=O)[O-])cc3c2c1.O=Cc1cc(C(=O)[O-])c2c(O)cc3cc(O)c(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "2f7d439de919ff0e7d26d986b8bb193824f24c90f2206448063154c4e5ca7f71",
+    "id": "B07",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B07_7.xyz",
+        "sha256": "994f9cbd5a734444aed0b2bf47b4ad4595d8b4302111f1f21f8c8cc9c0221f67",
+        "profile": {
+          "angles": [
+            27.019354824216812,
+            32.6936773507707,
+            174.32567103230372
+          ],
+          "span": 7.484345589295032
+        },
+        "embedding_seconds": 0.13569676503539085,
+        "build_seconds": 0.55
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B07_19.xyz",
+        "sha256": "9534465a7ae458863e881688beb5f784da41b168fd099afd8823c582d3e4fe9d",
+        "profile": {
+          "angles": [
+            27.059288598108196,
+            32.85317789785553,
+            174.18903943461106
+          ],
+          "span": 7.47415666413275
+        },
+        "embedding_seconds": 0.12871216610074043,
+        "build_seconds": 0.736
+      }
+    }
+  },
+  {
+    "smiles": "CCc1cc(C(=O)[O-])c2ccc3c(CC)cc(C(=O)[O-])cc3c2c1",
+    "key": "CCc1cc(C(=O)O)c2ccc3c(CC)cc(C(=O)O)cc3c2c1",
+    "sequence_index": 360,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCc1cc(C(=O)[O-])c2ccc3c(CC)cc(C(=O)[O-])cc3c2c1.CCc1cc(C(=O)[O-])c2ccc3c(CC)cc(C(=O)[O-])cc3c2c1.CCc1cc(C(=O)[O-])c2ccc3c(CC)cc(C(=O)[O-])cc3c2c1.CCc1cc(C(=O)[O-])c2ccc3c(CC)cc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "3b60ae78434ae5b16c2eada9264c5563f6f71e6778bd604ae582db367149ff20",
+    "id": "B08",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B08_7.xyz",
+        "sha256": "79a551105f5fe66746cdcbb08387800b9bcf71e015a3db3a755da882a9aefeed",
+        "profile": {
+          "angles": [
+            26.83417925079801,
+            28.690227999071972,
+            177.19520586304225
+          ],
+          "span": 7.505606840889016
+        },
+        "embedding_seconds": 0.12199165299534798,
+        "build_seconds": 0.604
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B08_19.xyz",
+        "sha256": "beecdeb73efe3666a88ef83b0c95361f1839abb4bdcc304afa1142bded1af554",
+        "profile": {
+          "angles": [
+            27.929637855060356,
+            32.13510116544267,
+            174.9830341279026
+          ],
+          "span": 7.4867381221731
+        },
+        "embedding_seconds": 0.1277862973511219,
+        "build_seconds": 0.767
+      }
+    }
+  },
+  {
+    "smiles": "O=Cc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12",
+    "key": "O=Cc1ccc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c12",
+    "sequence_index": 477,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=Cc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12.O=Cc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12.O=Cc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12.O=Cc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "400be334d7613980b0f991452f62abbc288d8c7cfd0c82311f0f4fc66278da76",
+    "id": "B09",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B09_7.xyz",
+        "sha256": "a215afdae7a5592a26742563899e03077acbf8085e9a6cd9384486b1c861e832",
+        "profile": {
+          "angles": [
+            29.463209381788815,
+            30.59707025359872,
+            169.96271386913736
+          ],
+          "span": 7.509436060051381
+        },
+        "embedding_seconds": 0.11275774240493774,
+        "build_seconds": 0.721
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B09_19.xyz",
+        "sha256": "a08f32362cd8adfb9c31fb6c657d73b7fad3ba744cf90a020edcd37df2a031b1",
+        "profile": {
+          "angles": [
+            31.536135331104465,
+            27.37385413929372,
+            165.23848353139763
+          ],
+          "span": 7.522961967868772
+        },
+        "embedding_seconds": 0.11135818436741829,
+        "build_seconds": 0.605
+      }
+    }
+  },
+  {
+    "smiles": "CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1CCC",
+    "key": "CCCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1CCC",
+    "sequence_index": 496,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1CCC.CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1CCC.CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1CCC.CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1CCC<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "4252df951b68a9110d9e6367a03d9e8f028f66eabf1696ea6cc1d51bac0c073e",
+    "id": "B10",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B10_7.xyz",
+        "sha256": "8a357241fff5953af741cbb137157add87ce39c8ee3053c7d276c04a3e714c42",
+        "profile": {
+          "angles": [
+            31.069765862934858,
+            27.69638515351845,
+            163.04780955144594
+          ],
+          "span": 7.4853785542215565
+        },
+        "embedding_seconds": 0.2256564311683178,
+        "build_seconds": 0.827
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B10_19.xyz",
+        "sha256": "060b54c212aa3783394f77a10e61559d8a47e911274d169ca1165b313400135d",
+        "profile": {
+          "angles": [
+            29.98906001641227,
+            31.935243226445262,
+            162.34699583308682
+          ],
+          "span": 7.4376865737943
+        },
+        "embedding_seconds": 0.25488969683647156,
+        "build_seconds": 0.677
+      }
+    }
+  },
+  {
+    "smiles": "COc1cc2cc(C(=O)[O-])c(OC)cc2cc1C(=O)[O-]",
+    "key": "COc1cc2cc(C(=O)O)c(OC)cc2cc1C(=O)O",
+    "sequence_index": 535,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc2cc(C(=O)[O-])c(OC)cc2cc1C(=O)[O-].COc1cc2cc(C(=O)[O-])c(OC)cc2cc1C(=O)[O-].COc1cc2cc(C(=O)[O-])c(OC)cc2cc1C(=O)[O-].COc1cc2cc(C(=O)[O-])c(OC)cc2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "6bbbc830c9d8499853a2463abac0b76b32b04639f41eda061e1301b2e1ea6608",
+    "id": "B11",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B11_7.xyz",
+        "sha256": "da27638b1baa5bd8771c7a34d092ac69cd3c8970d1bebfd5f6a87c10992474f9",
+        "profile": {
+          "angles": [
+            11.997545128731304,
+            11.998539577336933,
+            179.9923273788242
+          ],
+          "span": 6.522079456737705
+        },
+        "embedding_seconds": 0.06589001789689064,
+        "build_seconds": 0.584
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B11_19.xyz",
+        "sha256": "37d53620100fee2cdfc54a758e280214d2ca8c0e7a139551a68ab2db21ed7cb7",
+        "profile": {
+          "angles": [
+            11.997812777294042,
+            11.998226339323379,
+            179.9922984677721
+          ],
+          "span": 6.522041229553827
+        },
+        "embedding_seconds": 0.05110369622707367,
+        "build_seconds": 0.492
+      }
+    }
+  },
+  {
+    "smiles": "CNc1cc2c3cc(C(=O)[O-])ccc3c(NC)cc2c2cc(C(=O)[O-])ccc12",
+    "key": "CNc1cc2c3cc(C(=O)O)ccc3c(NC)cc2c2cc(C(=O)O)ccc12",
+    "sequence_index": 478,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CNc1cc2c3cc(C(=O)[O-])ccc3c(NC)cc2c2cc(C(=O)[O-])ccc12.CNc1cc2c3cc(C(=O)[O-])ccc3c(NC)cc2c2cc(C(=O)[O-])ccc12.CNc1cc2c3cc(C(=O)[O-])ccc3c(NC)cc2c2cc(C(=O)[O-])ccc12.CNc1cc2c3cc(C(=O)[O-])ccc3c(NC)cc2c2cc(C(=O)[O-])ccc12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "6e45fa3703000bf2554f5b185ec64ce5ce0532cc2fc30951e89b3741db67c0ed",
+    "id": "B12",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B12_7.xyz",
+        "sha256": "b28fc2cfd9a06cedbf718b7178945acfe4882d086c52db93411f8bf7451952d5",
+        "profile": {
+          "angles": [
+            28.58701058809229,
+            28.587175291354118,
+            179.99236618365916
+          ],
+          "span": 10.029275019162652
+        },
+        "embedding_seconds": 0.19232597574591637,
+        "build_seconds": 0.66
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B12_19.xyz",
+        "sha256": "5c313f415e88a0ad3a50dff24c83a3618e53cf19d53eb31a7e165bbc17a19e9e",
+        "profile": {
+          "angles": [
+            28.5914694461353,
+            28.596560603591694,
+            179.98371360737485
+          ],
+          "span": 10.029247098860411
+        },
+        "embedding_seconds": 0.10497269034385681,
+        "build_seconds": 0.602
+      }
+    }
+  },
+  {
+    "smiles": "CCOc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12",
+    "key": "CCOc1ccc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c12",
+    "sequence_index": 374,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCOc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12.CCOc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12.CCOc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12.CCOc1ccc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "7744877fb1da5d04257707b8122d9698204d244d335c6d8846c16a9c61c61883",
+    "id": "B13",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B13_7.xyz",
+        "sha256": "57ad95d2e481390fb77a1cf377f7043176f6bd00ade6634705efc8316e047e45",
+        "profile": {
+          "angles": [
+            28.723721857522815,
+            30.294286827749367,
+            177.67130858947291
+          ],
+          "span": 7.526309239594132
+        },
+        "embedding_seconds": 0.20296325162053108,
+        "build_seconds": 0.505
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B13_19.xyz",
+        "sha256": "0898af2c61031108d279eae86035f02a2f4ba57dfcd0f7532dd61306dd12d9f4",
+        "profile": {
+          "angles": [
+            28.727145580328404,
+            30.290745739314037,
+            177.67909945766883
+          ],
+          "span": 7.526305852142869
+        },
+        "embedding_seconds": 0.10155776143074036,
+        "build_seconds": 0.583
+      }
+    }
+  },
+  {
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O",
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(O)cc4ccc23)cc1O",
+    "sequence_index": 339,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O.O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O.O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O.O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "7cd8687ffd69540a5964d03d0ec79dac103d0e82e0204b79917483afa48d45b6",
+    "id": "B14",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B14_7.xyz",
+        "sha256": "f98b8dacc9850e7ab662cafe388418e47423685c4b8e5bd7ed75ab44ae4ba571",
+        "profile": {
+          "angles": [
+            28.375481633839488,
+            32.76002962962182,
+            175.61545188922418
+          ],
+          "span": 10.010321897421681
+        },
+        "embedding_seconds": 0.12490538507699966,
+        "build_seconds": 0.671
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B14_19.xyz",
+        "sha256": "cfd2f3fda7293bad2e7ffee3cc2f7ee62dacc3e4f9003d6e9066c6b9ffb8ee0f",
+        "profile": {
+          "angles": [
+            32.62862089217371,
+            30.007017081566612,
+            177.0338436070032
+          ],
+          "span": 10.005824800584907
+        },
+        "embedding_seconds": 0.08870740607380867,
+        "build_seconds": 0.528
+      }
+    }
+  },
+  {
+    "smiles": "COc1ccc2c(C(=O)[O-])c3cccc(OC)c3c(C(=O)[O-])c2c1",
+    "key": "COc1ccc2c(C(=O)O)c3cccc(OC)c3c(C(=O)O)c2c1",
+    "sequence_index": 597,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1ccc2c(C(=O)[O-])c3cccc(OC)c3c(C(=O)[O-])c2c1.COc1ccc2c(C(=O)[O-])c3cccc(OC)c3c(C(=O)[O-])c2c1.COc1ccc2c(C(=O)[O-])c3cccc(OC)c3c(C(=O)[O-])c2c1.COc1ccc2c(C(=O)[O-])c3cccc(OC)c3c(C(=O)[O-])c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "82a9927f0bae0d7e759802df6b44edad5ce093461dd9f7ff6d0f3bc3e1a5fd61",
+    "id": "B15",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B15_7.xyz",
+        "sha256": "df69e7b490e0bd206fce1923cb7d7fa5ba8b3ee74cb0ace9c21b830f0fa5e4bb",
+        "profile": {
+          "angles": [
+            0.2491167618141289,
+            1.3199672022908506,
+            178.43457582425455
+          ],
+          "span": 4.228893862465692
+        },
+        "embedding_seconds": 0.1369410753250122,
+        "build_seconds": 0.627
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B15_19.xyz",
+        "sha256": "28e76715dc5eb780b8431a30950efd0981b67a443f414e82a5651ef6b65e6534",
+        "profile": {
+          "angles": [
+            0.256799170560527,
+            1.3254635534906067,
+            178.42220955642787
+          ],
+          "span": 4.228973345860671
+        },
+        "embedding_seconds": 0.08760039135813713,
+        "build_seconds": 0.714
+      }
+    }
+  },
+  {
+    "smiles": "CCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "key": "CCOc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "sequence_index": 234,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].CCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].CCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].CCOc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "97fc603c0c3e43833b3879c4cf147b99158e34a67cd4fcabd4cd825cb5495b3a",
+    "id": "B16",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B16_7.xyz",
+        "sha256": "7ccf227bed33fcd025832f73349ba6b3b77b2b4a233b0552c5501227ce424266",
+        "profile": {
+          "angles": [
+            27.002400611910232,
+            30.55221684849336,
+            175.27174163883151
+          ],
+          "span": 7.503420037556207
+        },
+        "embedding_seconds": 0.1654057316482067,
+        "build_seconds": 0.787
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B16_19.xyz",
+        "sha256": "bbe8fcf0c8c5e44c0c9b120938e6d36c82883ec1986cbcec6709a792c2ca97d2",
+        "profile": {
+          "angles": [
+            27.010049042142747,
+            29.759411050892552,
+            176.91369063157182
+          ],
+          "span": 7.511527137673138
+        },
+        "embedding_seconds": 0.19591549411416054,
+        "build_seconds": 0.868
+      }
+    }
+  },
+  {
+    "smiles": "O=C([O-])c1cc(O)c2c(O)cc3c(C(=O)[O-])ccc(O)c3c2c1O",
+    "key": "O=C(O)c1cc(O)c2c(O)cc3c(C(=O)O)ccc(O)c3c2c1O",
+    "sequence_index": 200,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1cc(O)c2c(O)cc3c(C(=O)[O-])ccc(O)c3c2c1O.O=C([O-])c1cc(O)c2c(O)cc3c(C(=O)[O-])ccc(O)c3c2c1O.O=C([O-])c1cc(O)c2c(O)cc3c(C(=O)[O-])ccc(O)c3c2c1O.O=C([O-])c1cc(O)c2c(O)cc3c(C(=O)[O-])ccc(O)c3c2c1O<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "9e47e670115fd520e83304d30911a6a66a91eed78c8ed17a8c0f0e66e0cc3d3b",
+    "id": "B17",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B17_7.xyz",
+        "sha256": "3c6d805764a56b61f7246cc13f4bec9825955811bf9860d8038fbe4acee821e6",
+        "profile": {
+          "angles": [
+            27.462264220964506,
+            31.561568007546228,
+            173.67590118032666
+          ],
+          "span": 7.652774801338401
+        },
+        "embedding_seconds": 0.2087092250585556,
+        "build_seconds": 0.824
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B17_19.xyz",
+        "sha256": "a3118733761cd9441f01d1ba525bc29189ab37e320fb93d5840f03fe022da874",
+        "profile": {
+          "angles": [
+            23.692024851684973,
+            32.64497981028319,
+            166.55423171699465
+          ],
+          "span": 7.656194731718885
+        },
+        "embedding_seconds": 0.1922347992658615,
+        "build_seconds": 0.574
+      }
+    }
+  },
+  {
+    "smiles": "Nc1cccc2c(C(=O)[O-])c3ccccc3c(C(=O)[O-])c12",
+    "key": "Nc1cccc2c(C(=O)O)c3ccccc3c(C(=O)O)c12",
+    "sequence_index": 325,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].Nc1cccc2c(C(=O)[O-])c3ccccc3c(C(=O)[O-])c12.Nc1cccc2c(C(=O)[O-])c3ccccc3c(C(=O)[O-])c12.Nc1cccc2c(C(=O)[O-])c3ccccc3c(C(=O)[O-])c12.Nc1cccc2c(C(=O)[O-])c3ccccc3c(C(=O)[O-])c12<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "a04651d216ae83333f780d1bb29659b1fa3ef1cdeb98038ae7834972287f7f8f",
+    "id": "B18",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B18_7.xyz",
+        "sha256": "cc9eda5199da9374cf500a4d6592bce55105e3eadc9fa918264eaef2a778c1c5",
+        "profile": {
+          "angles": [
+            1.8305884880652137,
+            3.5824787429542653,
+            174.5977068349743
+          ],
+          "span": 4.22377245362484
+        },
+        "embedding_seconds": 0.04929186403751373,
+        "build_seconds": 0.637
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B18_19.xyz",
+        "sha256": "597e026fbbecd2d0de975e0a0ea242bd62f6a886a1aa3208ff597ba075d80aa9",
+        "profile": {
+          "angles": [
+            0.9744331810039489,
+            2.9946141674167905,
+            176.03282098706654
+          ],
+          "span": 4.22497096558071
+        },
+        "embedding_seconds": 0.0734773650765419,
+        "build_seconds": 0.542
+      }
+    }
+  },
+  {
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]",
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]",
+    "sequence_index": 51,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-].O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "b512aab5235281e17e03dd86141d616dfb301732cbe5c360c5a8b4a17a821633",
+    "id": "B19",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B19_7.xyz",
+        "sha256": "34c159f3ce307bb1181107d481285ad21c864e9eb1e6a77e5a13050e36f53a69",
+        "profile": {
+          "angles": [
+            32.401381599390156,
+            32.401381599390156,
+            180.0
+          ],
+          "span": 9.973453777403293
+        },
+        "embedding_seconds": 0.13059600070118904,
+        "build_seconds": 0.582
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B19_19.xyz",
+        "sha256": "1bc8f6e6c3f606e572b380cd52acb9ec1ddd979312e14c9bac2aaec9c8105a0a",
+        "profile": {
+          "angles": [
+            30.005688851022175,
+            32.63689029721332,
+            172.87909626326956
+          ],
+          "span": 9.99349773852979
+        },
+        "embedding_seconds": 0.1502535454928875,
+        "build_seconds": 0.664
+      }
+    }
+  },
+  {
+    "smiles": "O=Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "key": "O=Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "sequence_index": 585,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].O=Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].O=Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].O=Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "b64a49b65f84f525421def6762bf910601e3b492807b5b021d4466d3ccfde554",
+    "id": "B20",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B20_7.xyz",
+        "sha256": "0712a0ea17a39ec1cb36c7600aea32b2a708d17f47982452fedbdb6f6bf4d8f4",
+        "profile": {
+          "angles": [
+            27.1724601833032,
+            31.25398331887282,
+            175.8523433176961
+          ],
+          "span": 7.494041909410435
+        },
+        "embedding_seconds": 0.10945368185639381,
+        "build_seconds": 0.679
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B20_19.xyz",
+        "sha256": "f6b19cdacdc1bd4ffe7fed662dab86a93d6ad065480cbfec4d55f4af55e17e58",
+        "profile": {
+          "angles": [
+            30.796355344893453,
+            30.90145000826954,
+            179.22524375616862
+          ],
+          "span": 7.468712087769886
+        },
+        "embedding_seconds": 0.12639594450592995,
+        "build_seconds": 0.81
+      }
+    }
+  },
+  {
+    "smiles": "COc1cc(C(=O)[O-])c2ccc3c(OC)cc(C(=O)[O-])cc3c2c1",
+    "key": "COc1cc(C(=O)O)c2ccc3c(OC)cc(C(=O)O)cc3c2c1",
+    "sequence_index": 92,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc(C(=O)[O-])c2ccc3c(OC)cc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2ccc3c(OC)cc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2ccc3c(OC)cc(C(=O)[O-])cc3c2c1.COc1cc(C(=O)[O-])c2ccc3c(OC)cc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "b74b3a6a108c54329da9f25dadeb1b9c6876e4ca706101fca12599db307ec05a",
+    "id": "B21",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B21_7.xyz",
+        "sha256": "a9db0b3d04a7ac7519cbf3ca4c061b050692b295b93c465c96e31ec2e1694d57",
+        "profile": {
+          "angles": [
+            26.94220233318504,
+            28.318110283497656,
+            177.64246526069107
+          ],
+          "span": 7.507342653029766
+        },
+        "embedding_seconds": 0.20410052686929703,
+        "build_seconds": 0.776
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B21_19.xyz",
+        "sha256": "314204744a5ff5944fbbfaff73903f79604568baca3715ff2e2401708d818b56",
+        "profile": {
+          "angles": [
+            26.58939907543994,
+            31.972541216282114,
+            174.26022076509307
+          ],
+          "span": 7.481665786440879
+        },
+        "embedding_seconds": 0.15902282297611237,
+        "build_seconds": 0.671
+      }
+    }
+  },
+  {
+    "smiles": "O=C([O-])c1cc(O)c2c(O)c(O)c3c(C(=O)[O-])cccc3c2c1O",
+    "key": "O=C(O)c1cc(O)c2c(O)c(O)c3c(C(=O)O)cccc3c2c1O",
+    "sequence_index": 378,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1cc(O)c2c(O)c(O)c3c(C(=O)[O-])cccc3c2c1O.O=C([O-])c1cc(O)c2c(O)c(O)c3c(C(=O)[O-])cccc3c2c1O.O=C([O-])c1cc(O)c2c(O)c(O)c3c(C(=O)[O-])cccc3c2c1O.O=C([O-])c1cc(O)c2c(O)c(O)c3c(C(=O)[O-])cccc3c2c1O<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "b79329a5a9ffbce5b50d746294588fa402720a4fcb797ebcdaf1bdc78b0cdd3e",
+    "id": "B22",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B22_7.xyz",
+        "sha256": "120d57d97ec1d740b4a3f876a0611f0c62d876f1650e3e8d8862896bc9062f27",
+        "profile": {
+          "angles": [
+            29.37566155703277,
+            25.040644020904367,
+            175.4503334071713
+          ],
+          "span": 7.645872916155487
+        },
+        "embedding_seconds": 0.09477769955992699,
+        "build_seconds": 0.574
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B22_19.xyz",
+        "sha256": "da52fecb93ff4bbb1edf2d81b23831659a8443e5dfd38edb2080e2461fa1e054",
+        "profile": {
+          "angles": [
+            29.260477882073047,
+            27.126062773714022,
+            175.35786068268416
+          ],
+          "span": 7.636729357519487
+        },
+        "embedding_seconds": 0.1349572129547596,
+        "build_seconds": 0.794
+      }
+    }
+  },
+  {
+    "smiles": "COc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "key": "COc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "sequence_index": 408,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].COc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].COc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].COc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-].COc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "b95711a12e91c04f35bdc8ac8b5c1f30d1898be8f4e7136903307018ad671e6d",
+    "id": "B23",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B23_7.xyz",
+        "sha256": "d06f7f9b11912c485db888845be1b852802042999ab28fa06b289b39087b2aa1",
+        "profile": {
+          "angles": [
+            26.982161656148975,
+            30.595862048037823,
+            176.3542579731206
+          ],
+          "span": 7.503473953443165
+        },
+        "embedding_seconds": 0.11726660653948784,
+        "build_seconds": 0.776
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B23_19.xyz",
+        "sha256": "e31036658b26dd7476b1419de4c5e36a6d6c7284a83a09e98daa43ffe8887bc4",
+        "profile": {
+          "angles": [
+            26.834502612570162,
+            32.85428983741479,
+            173.4758766868727
+          ],
+          "span": 7.475252836526669
+        },
+        "embedding_seconds": 0.13094208762049675,
+        "build_seconds": 0.68
+      }
+    }
+  },
+  {
+    "smiles": "CCOc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1",
+    "key": "CCOc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+    "sequence_index": 336,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCOc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1.CCOc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1.CCOc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1.CCOc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "c5dc98c616341fe640f4b1f6946b27881f17185fb8ed1d0188e7f2c2d62b620d",
+    "id": "B24",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B24_7.xyz",
+        "sha256": "aacbf1349999ae0610f272c354a00f6ac75f9a2e50a4bdafcdc6c2f5f643a450",
+        "profile": {
+          "angles": [
+            27.025188734199144,
+            28.04546994677094,
+            177.86615752318966
+          ],
+          "span": 7.514564158352765
+        },
+        "embedding_seconds": 0.15946028754115105,
+        "build_seconds": 0.721
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B24_19.xyz",
+        "sha256": "6cb69456434d760328c4dfc3c307f2114017ca43b263759c96830b70ce8b9605",
+        "profile": {
+          "angles": [
+            26.66966613855356,
+            32.06557072193152,
+            173.6513687277635
+          ],
+          "span": 7.486962371349278
+        },
+        "embedding_seconds": 0.19073486328125,
+        "build_seconds": 0.884
+      }
+    }
+  },
+  {
+    "smiles": "CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "key": "CCCOc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "sequence_index": 13,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "c69d78556a0fb8a3252138c9a4831a226a9c445253b0a7c47f4a88d386cf64d8",
+    "id": "B25",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B25_7.xyz",
+        "sha256": "ef8f32fd009e3a3569491448c6fc64b685f75a7b3bc9a02879edf478ca4473c7",
+        "profile": {
+          "angles": [
+            30.88347279410035,
+            30.60075560011787,
+            179.6482307054491
+          ],
+          "span": 7.461529353289444
+        },
+        "embedding_seconds": 0.18997236713767052,
+        "build_seconds": 0.76
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B25_19.xyz",
+        "sha256": "07da5f8a86d102f538713a74b197914268191d9fecc62d0c3aba5558e32b7c52",
+        "profile": {
+          "angles": [
+            27.252920315820923,
+            30.867607353617725,
+            176.37467719917993
+          ],
+          "span": 7.488884479680535
+        },
+        "embedding_seconds": 0.10733267664909363,
+        "build_seconds": 0.609
+      }
+    }
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])c([N+](=O)[O-])ccc3c2c1",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)c([N+](=O)[O-])ccc3c2c1",
+    "sequence_index": 521,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].O=C([O-])c1ccc2ccc3c(C(=O)[O-])c([N+](=O)[O-])ccc3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])c([N+](=O)[O-])ccc3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])c([N+](=O)[O-])ccc3c2c1.O=C([O-])c1ccc2ccc3c(C(=O)[O-])c([N+](=O)[O-])ccc3c2c1<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "c9a29f91d29dcf7619261ed696d03dec3a693d75c865c9a6c69545994c1f1502",
+    "id": "B26",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B26_7.xyz",
+        "sha256": "ab76446400acb135a663934e38c8191ff580daeebf1b026035105b0472eab7fc",
+        "profile": {
+          "angles": [
+            30.82774845342391,
+            30.255139714982825,
+            178.4783681751474
+          ],
+          "span": 7.4810999037574675
+        },
+        "embedding_seconds": 0.11004149913787842,
+        "build_seconds": 0.732
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B26_19.xyz",
+        "sha256": "1718c82bf3c10a0cec5006e633dc3581504dfe30ba9cb19a4de9455aa5010532",
+        "profile": {
+          "angles": [
+            27.244589459036277,
+            29.827753436503787,
+            176.89779012351832
+          ],
+          "span": 7.5030770874355275
+        },
+        "embedding_seconds": 0.11669367179274559,
+        "build_seconds": 0.597
+      }
+    }
+  },
+  {
+    "smiles": "CNc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "key": "CNc1c(O)cc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "sequence_index": 199,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CNc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CNc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CNc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CNc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "d911f2b1c3770f94a065018b8e08f6ae1a50879f0c38e4a190aa3cd1498abbdf",
+    "id": "B27",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B27_7.xyz",
+        "sha256": "8e026e560531c542bd8fe36efa97b157776921dcf25ce41e2c7160fd501859b8",
+        "profile": {
+          "angles": [
+            30.792675124650053,
+            31.300113340594223,
+            177.86669597084676
+          ],
+          "span": 7.465587197936945
+        },
+        "embedding_seconds": 0.09687808156013489,
+        "build_seconds": 0.601
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B27_19.xyz",
+        "sha256": "c316c9e8171f28475f1f6d06dd20bfb2bd62fb861680143cac886d94df14244e",
+        "profile": {
+          "angles": [
+            30.796968331589607,
+            31.296269395077967,
+            177.86429106151198
+          ],
+          "span": 7.465613874960317
+        },
+        "embedding_seconds": 0.12097616493701935,
+        "build_seconds": 0.573
+      }
+    }
+  },
+  {
+    "smiles": "Cc1cc(C(=O)[O-])c2cc(O)c3c(O)cc(C(=O)[O-])cc3c2c1O",
+    "key": "Cc1cc(C(=O)O)c2cc(O)c3c(O)cc(C(=O)O)cc3c2c1O",
+    "sequence_index": 417,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].Cc1cc(C(=O)[O-])c2cc(O)c3c(O)cc(C(=O)[O-])cc3c2c1O.Cc1cc(C(=O)[O-])c2cc(O)c3c(O)cc(C(=O)[O-])cc3c2c1O.Cc1cc(C(=O)[O-])c2cc(O)c3c(O)cc(C(=O)[O-])cc3c2c1O.Cc1cc(C(=O)[O-])c2cc(O)c3c(O)cc(C(=O)[O-])cc3c2c1O<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "d9200b0384ed8135324cf7867f8133ac17d21c71ee4977ccabe718ec2034b970",
+    "id": "B28",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B28_7.xyz",
+        "sha256": "0d3d34eb9c927a1b069e9db5baaff6d723b8ff3c58dbc9c92373d89901b17440",
+        "profile": {
+          "angles": [
+            28.938247788865507,
+            27.49987387783764,
+            177.20973344179671
+          ],
+          "span": 7.5573368278779265
+        },
+        "embedding_seconds": 0.244376040995121,
+        "build_seconds": 0.836
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B28_19.xyz",
+        "sha256": "a137e078a12800e964e44f6c10cf7abea5c8e54b25295f56864d82b22824c67b",
+        "profile": {
+          "angles": [
+            29.66896391228191,
+            31.10381341941345,
+            176.93542188839308
+          ],
+          "span": 7.533634669931904
+        },
+        "embedding_seconds": 0.2500981576740742,
+        "build_seconds": 0.755
+      }
+    }
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2cc(S([O-])([O-])O)c3c4cc(C(=O)[O-])ccc4cc(S([O-])([O-])O)c3c2c1",
+    "key": "O=C(O)c1ccc2cc(S([O-])([O-])O)c3c4cc(C(=O)O)ccc4cc(S([O-])([O-])O)c3c2c1",
+    "sequence_index": 563,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[V+].[O-2].O=C([O-])c1ccc2cc(S([O-])([O-])O)c3c4cc(C(=O)[O-])ccc4cc(S([O-])([O-])O)c3c2c1.O=C([O-])c1ccc2cc(S([O-])([O-])O)c3c4cc(C(=O)[O-])ccc4cc(S([O-])([O-])O)c3c2c1.O=C([O-])c1ccc2cc(S([O-])([O-])O)c3c4cc(C(=O)[O-])ccc4cc(S([O-])([O-])O)c3c2c1.O=C([O-])c1ccc2cc(S([O-])([O-])O)c3c4cc(C(=O)[O-])ccc4cc(S([O-])([O-])O)c3c2c1<EOS><PAD><PAD><PAD><PAD>",
+    "rank": "daa1bb060201b72fb021424d42c18f0378a229656fc60575050557ae2552b1b3",
+    "id": "B29",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B29_7.xyz",
+        "sha256": "f7f307f77c49b9a2270245326aa68dedf84c9a01e02ecdeed17460a323b0d4ed",
+        "profile": {
+          "angles": [
+            28.014251777537915,
+            31.178377929784382,
+            176.72787855976463
+          ],
+          "span": 10.127311103150728
+        },
+        "embedding_seconds": 0.28151898458600044,
+        "build_seconds": 0.944
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B29_19.xyz",
+        "sha256": "94df6cd1744f0c72cbb07098a9114b3d495496331450b3a2e2eccac78d192e1f",
+        "profile": {
+          "angles": [
+            35.06255337545123,
+            33.22298052594982,
+            148.91245825713915
+          ],
+          "span": 9.796935772474985
+        },
+        "embedding_seconds": 0.4055960550904274,
+        "build_seconds": 0.812
+      }
+    }
+  },
+  {
+    "smiles": "CCCc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "key": "CCCc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "sequence_index": 226,
+    "sequence": "[V+].[V+].[V+].[V+]<SEP>[O-2].[O-2].[O-2].[O-2].CCCc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-].CCCc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]<EOS><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD><PAD>",
+    "rank": "ea9ae16601f097a1701072ba1efab21d665873d397cc6e5bce8ad8ed0508978d",
+    "id": "B30",
+    "conformers": {
+      "7": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B30_7.xyz",
+        "sha256": "18625a1a36f20492c6eb2bc721f8c877f5181c2e7c10e230e96227b46e8076a1",
+        "profile": {
+          "angles": [
+            27.15507120536729,
+            31.62810925137084,
+            175.52454333447048
+          ],
+          "span": 7.487677774851159
+        },
+        "embedding_seconds": 0.21095890179276466,
+        "build_seconds": 0.895
+      },
+      "19": {
+        "path": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/bb/B30_19.xyz",
+        "sha256": "7bbe3cbafca1187c749c3784ca2d623c7b2c910632946b142e12b0bcbfbcf2e3",
+        "profile": {
+          "angles": [
+            27.171215259464837,
+            31.552380692566214,
+            175.61841957370612
+          ],
+          "span": 7.489978789022037
+        },
+        "embedding_seconds": 0.07937844097614288,
+        "build_seconds": 0.619
+      }
+    }
+  }
+]

@@ -1,0 +1,2 @@
+RGGYDTVJKQZDCH-UHFFFAOYSA-L	2	3	InChI=1S/C22H22O4/c1-3-5-13-7-10-16-17(20(13)22(25)26)11-8-14-9-12-18(21(23)24)15(6-4-2)19(14)16/h7-12H,3-6H2,1-2H3,(H,23,24)(H,25,26)/p-2	RGGYDTVJKQZDCH	CCCc1ccc2c(c1C(=O)[O-])ccc1c2c(CCC)c(cc1)C(=O)[O-]	CCC[c]1[cH][cH][c]2[c]([c]1[C]([O])[O-])[cH][cH][c]1[c]2[c](CCC)[c]([cH][cH]1)[C]([O])[O-]
+

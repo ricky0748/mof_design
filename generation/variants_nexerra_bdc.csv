@@ -1,0 +1,15 @@
+variant_id,seed,seed_smiles,substituent,smiles,n_connections,heavy_atoms
+N0000,Nexerra,CC1=C([Lr])C=C1C#C[Lr],nexerra,CC1=C(C(=O)[O-])C=C1C#CC(=O)[O-],2,13
+N0001,Nexerra,CC1=C([Lr])C2=C1C=C([Lr])C=C2,nexerra,CC1=C(C(=O)[O-])c2ccc(C(=O)[O-])cc21,2,15
+N0002,Nexerra,CC1=C([Lr])C2=C1C=C([Lr])C=N2,nexerra,CC1=C(C(=O)[O-])c2ncc(C(=O)[O-])cc21,2,15
+N0003,Nexerra,[Lr]C1=CC=C([Lr])S1,nexerra,O=C([O-])c1ccc(C(=O)[O-])s1,2,11
+N0004,Nexerra,[Lr]C1=CC=C([Lr])C=C1C2=CC=CC=C2,nexerra,O=C([O-])c1ccc(C(=O)[O-])c(-c2ccccc2)c1,2,18
+N0005,Nexerra,[Lr]C=CC(=C[Lr])C1=CC=CC=C1,nexerra,O=C([O-])C=CC(=CC(=O)[O-])c1ccccc1,2,16
+N0006,Nexerra,[Lr]C1=CC([Lr])=C1C2=CC=CC=C2,nexerra,O=C([O-])C1=CC(C(=O)[O-])=C1c1ccccc1,2,16
+N0007,Nexerra,[Lr]C=CC=C([Lr])C1=CC=CC=C1,nexerra,O=C([O-])C=CC=C(C(=O)[O-])c1ccccc1,2,16
+N0008,Nexerra,CC1=C([Lr])C=C=C1[Lr],nexerra,CC1=C(C(=O)[O-])C=C=C1C(=O)[O-],2,12
+N0009,Nexerra,CC1=C([Lr])C=C1C=C([Lr])C,nexerra,CC(=CC1=CC(C(=O)[O-])=C1C)C(=O)[O-],2,14
+N0010,Nexerra,[Lr]CC=C=C(C[Lr])C1=CC=CC=C1,nexerra,O=C([O-])CC=C=C(CC(=O)[O-])c1ccccc1,2,17
+N0011,Nexerra,[Lr]CC=C=C(CC[Lr])C1=CC=CC=C1,nexerra,O=C([O-])CC=C=C(CCC(=O)[O-])c1ccccc1,2,18
+N0012,Nexerra,CC1=C([Lr])C=C1C(C)[Lr],nexerra,CC1=C(C(=O)[O-])C=C1C(C)C(=O)[O-],2,13
+N0013,Nexerra,CC1=C([Lr])C=C1C([Lr])CS,nexerra,CC1=C(C(=O)[O-])C=C1C(CS)C(=O)[O-],2,14

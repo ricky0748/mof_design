@@ -1,0 +1,7 @@
+{
+  "path": "/share/rickyswork/ai_mof/generation/mofid_validation/full_reference/results/results.jsonl",
+  "sha256": "f1ece504ce21ba9add5058eaf4e88c0b83841999768ac78b6b2689506d731aa5",
+  "bytes": 290099038,
+  "recorded_utc": "2026-11-13T10:54:03.359454+00:00",
+  "stage": "before final identity comparison"
+}

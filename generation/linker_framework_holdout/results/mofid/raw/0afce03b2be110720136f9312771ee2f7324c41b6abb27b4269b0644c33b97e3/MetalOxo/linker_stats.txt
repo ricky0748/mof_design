@@ -1,0 +1,2 @@
+CNLMKMGEMVHJFM-UHFFFAOYSA-L	2	3	InChI=1S/C17H12O5/c1-22-14-7-6-11-12(15(14)17(20)21)5-4-9-2-3-10(16(18)19)8-13(9)11/h2-8H,1H3,(H,18,19)(H,20,21)/p-2	CNLMKMGEMVHJFM	COc1ccc2c(c1C(=O)[O-])ccc1c2cc(cc1)C(=O)[O-]	CO[c]1[cH][cH][c]2[c]([c]1[C]([O])[O-])[cH][cH][c]1[c]2[cH][c]([cH][cH]1)[C]([O])[O-]
+

@@ -1,0 +1,1 @@
+[Lr]c1ccc2c(c1)sc1cc([Lr])ccc12

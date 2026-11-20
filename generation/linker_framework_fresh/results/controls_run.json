@@ -1,0 +1,11 @@
+{
+  "canonical_jobs": [
+    "control_BDC7",
+    "control_BDC19"
+  ],
+  "aliases": {},
+  "fingerprints": {
+    "control_BDC7": "9bd5129a6855792577f01c39564606f0be4bbcff78b05667395ce60192bb32f0",
+    "control_BDC19": "ba63e00c77016bdbe46739e85fbc324f08cfdea56a72dfdabec1093955b8f066"
+  }
+}

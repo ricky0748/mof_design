@@ -1,0 +1,2 @@
+ADUUIDJHGYSSPQ-UHFFFAOYSA-L	2	1	InChI=1S/C16H8Cl2O4/c17-8-5-12-9(13(6-8)16(21)22)1-2-10-11(12)3-7(15(19)20)4-14(10)18/h1-6H,(H,19,20)(H,21,22)/p-2	ADUUIDJHGYSSPQ	Clc1cc(C(=O)[O-])c2c(c1)c1cc(cc(c1cc2)Cl)C(=O)[O-]	Cl[c]1[cH][c]([C]([O])[O-])[c]2[c]([cH]1)[c]1[cH][c]([cH][c]([c]1[cH][cH]2)Cl)[C]([O])[O-]
+

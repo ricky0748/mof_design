@@ -1,0 +1,22 @@
+{
+  "cif": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/raw/control_C_BDC.cif",
+  "out": "/share/rickyswork/ai_mof/generation/linker_framework_holdout_20261113/relaxed/control_C_BDC.cif",
+  "status": "completed",
+  "before": {
+    "natoms": 53,
+    "volume": 2174.767418816,
+    "dmin": 1.0877867861715018,
+    "fragments": 1
+  },
+  "after": {
+    "natoms": 53,
+    "volume": 2176.7898449070544,
+    "dmin": 1.0867823052263865,
+    "fragments": 1
+  },
+  "converged": true,
+  "steps": 6,
+  "volume_ratio": 1.0009299505195621,
+  "geometry_valid": true,
+  "seconds": 26.19
+}

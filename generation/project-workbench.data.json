@@ -1,0 +1,2688 @@
+{
+  "updated": "2026-11-17",
+  "title": "生成式 MOF · 研究工作台",
+  "nodes": {
+    "assets": {
+      "id": "assets",
+      "title": "数据与训练资产",
+      "desc": "公开 CIF、构筑块、训练表示、预训练权重",
+      "status": "done",
+      "why": "为生成、标签建模和新颖性核查提供各自的参考范围。",
+      "inputs": [
+        "CSD / CoRE / hMOF / MOSAEC / CRAFTED",
+        "三引擎官方公开资产"
+      ],
+      "outputs": [
+        "数据库镜像与轻量索引",
+        "推理权重和独立环境",
+        "MOFFlow-2 序列 / 结构 LMDB"
+      ],
+      "checks": [
+        "标明数据来源、版本、记录数和训练/验证范围"
+      ],
+      "findings": [
+        "结构匹配参考库共 365,010 CIF。",
+        "MOFFlow-2 训练序列与训练结构各 187,047 条。"
+      ],
+      "evidence": [
+        "worklog.md",
+        "generation/mofid_prepare.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "produce": {
+      "id": "produce",
+      "title": "多路线生成候选",
+      "desc": "三种生成引擎；规则设计保留基线",
+      "status": "partial",
+      "why": "区分模型能提出什么，以及新结构从哪一步产生。",
+      "inputs": [
+        "预训练权重、构筑块库、采样条件"
+      ],
+      "outputs": [
+        "序列 / 粗粒化表示 / 描述符",
+        "每条路线独立保留的原始样本"
+      ],
+      "checks": [
+        "记录全部原始样本、种子、条件和失败原因"
+      ],
+      "findings": [
+        "三引擎各1000原始样本的结构评估全部完成。",
+        "按原始生成计结构有效：MOFDiff42.5%、MOFFlow-2 42.7%、EGMOF65.9%。",
+        "组合路线另以30个化学合格连接体为分母，单26/30、双28/30；已完成同预算确认。"
+      ],
+      "evidence": [
+        "generation/structure_generation_quality.md",
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": "generation",
+      "priority": null
+    },
+    "cif": {
+      "id": "cif",
+      "title": "组装并形成结构批次",
+      "desc": "统一出口：CIF + 样本来源 + 尝试记录",
+      "status": "done",
+      "why": "将不同引擎输出接到共同验证流程，同时保留失败分母。",
+      "inputs": [
+        "引擎解码结果、节点、构筑块或预测坐标"
+      ],
+      "outputs": [
+        "原始 CIF",
+        "样本 ID、引擎、条件、父样本与组装状态"
+      ],
+      "checks": [
+        "原始生成数 → 解码/组装成功数分别统计",
+        "同名文件覆盖与结构重复分别核查"
+      ],
+      "findings": [
+        "MOFFlow-2：1000 → 754 个 CIF。",
+        "MOFDiff：1000 → 720 个 CIF。",
+        "EGMOF：生成结果存在同名覆盖，最终 751 个文件。"
+      ],
+      "evidence": [
+        "generation/convert_mofflow2_predictions.py",
+        "generation/egmof_scale.py",
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "quality": {
+      "id": "quality",
+      "title": "验收化学与结构质量",
+      "desc": "原始检查 → 弛豫 → 有效 / 缺陷 / 未解决",
+      "status": "done",
+      "why": "得到可信的结构子集，同时定位生成和工具各自的失效。",
+      "inputs": [
+        "原始序列与 CIF"
+      ],
+      "outputs": [
+        "化学检查表",
+        "原始 / 弛豫结构对",
+        "分原因的接受与拒绝记录"
+      ],
+      "checks": [
+        "工具失败、超时与结构缺陷单列",
+        "化学通过与几何通过计算交集"
+      ],
+      "findings": [
+        "MOFFlow-2 千样本：427 个弛豫有效结构。",
+        "其中同时化学与结构有效的原始样本为 166/1000。"
+      ],
+      "evidence": [
+        "generation/mofdiff_plausibility/combine_mace.py",
+        "generation/scale1000_mofflow2/combined.csv"
+      ],
+      "next": [],
+      "jump": "quality",
+      "priority": null
+    },
+    "identity": {
+      "id": "identity",
+      "title": "核查身份与新颖性",
+      "desc": "去重、数据库比对、训练集比对、MOFid",
+      "status": "partial",
+      "why": "分别回答“重复了吗”“在参考中出现过吗”“框架身份是什么”。",
+      "inputs": [
+        "原始 / 弛豫 CIF",
+        "数据库和训练集参考"
+      ],
+      "outputs": [
+        "重复组",
+        "结构 / 连接体匹配",
+        "MOFid 完整身份与部分解析记录"
+      ],
+      "checks": [
+        "标注参考覆盖和解析成功率",
+        "训练外片段、拓扑身份、数据库无匹配分别报告"
+      ],
+      "findings": [
+        "生成结构1181次和训练参考187047次MOFid处理均已完成。",
+        "弛豫生成样本8个匹配训练框架身份，对应2种唯一身份。"
+      ],
+      "evidence": [
+        "generation/mofid_validation.md"
+      ],
+      "next": [],
+      "jump": "identity",
+      "priority": null
+    },
+    "metrics": {
+      "id": "metrics",
+      "title": "模块验收与应用评价分层",
+      "desc": "AI设计模块为交付目标；分离案例独立评价",
+      "status": "partial",
+      "why": "用相同分母与预算决定下一阶段投入哪条路线。",
+      "inputs": [
+        "各批次全漏斗和身份结果"
+      ],
+      "outputs": [
+        "三引擎对照表",
+        "新颖性分层与失败谱",
+        "成本和不确定度"
+      ],
+      "checks": [
+        "统一原始样本分母、种子与预算",
+        "同时报告全样本和有效子集",
+        "条件可控性需要专门对照"
+      ],
+      "findings": [
+        "模块需要统一输入输出、可复现生成、验证、失败处理和候选交付。",
+        "SiH₄/CO₂是已有应用案例，其性能门槛用于案例评价。",
+        "生成/验证底座已有试验，统一模块封装仍待实现。"
+      ],
+      "evidence": [
+        "PROJECT_OVERVIEW.md",
+        "NEXT_STEPS.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "diagnose": {
+      "id": "diagnose",
+      "title": "找出主要失效机制",
+      "desc": "区分化学、装配、键感知、拓扑与工具问题",
+      "status": "partial",
+      "why": "把评估结果转化为可干预的生成器问题。",
+      "inputs": [
+        "逐样本失败日志",
+        "原始 / 弛豫身份成对结果"
+      ],
+      "outputs": [
+        "失败分类",
+        "代表样本",
+        "一个可检验的改进假设"
+      ],
+      "checks": [
+        "给出复现输入与对照",
+        "统计机制覆盖多少失败样本"
+      ],
+      "findings": [
+        "v2独立核查通过：原生联合终点0/20、旧预筛1/20、取消预筛20/20、几何匹配17/20。",
+        "v1把19次手工预筛拒绝解释为模板不适配，已由取消预筛实验更正。",
+        "留出20连接体：原生联合终点0/20、无预筛组装20/20；旧20°门槛拒绝19个。",
+        "40个结构160个Zn在2.3/2.5 Å截断均四配位；2.7 Å近邻敏感性和角偏差已逐结构报告。",
+        "F11/F14种子7跨连接体碰撞；统一预处理试验0/2恢复、成功控制3/4保持，版本未采纳。",
+        "本轮B25双构象几何失败、B29类型保持失败；未事后剔除或追加修复。",
+        "34条精修/诊断任务已完成；失败分支追加预算无新增救回。"
+      ],
+      "evidence": [
+        "generation/linker_framework_pilot_v2/PROTOCOL.md",
+        "generation/linker_framework_pilot_v2/results/REPORT.md",
+        "generation/linker_framework_pilot_v2/results/AUDIT.json",
+        "generation/linker_framework_holdout/PROTOCOL.md",
+        "generation/linker_framework_holdout/results/REPORT.md",
+        "generation/linker_framework_holdout/coordination_evidence/REPORT.md",
+        "generation/coordination_followup/results/REPORT.md",
+        "generation/coordination_followup/results/RESUME_AUDIT.json",
+        "generation/steric_diagnosis/REPORT.md",
+        "generation/steric_precondition/results/REPORT.md",
+        "generation/steric_precondition/DECISION.md",
+        "generation/convergence_sensitivity/REPORT.md",
+        "generation/convergence_sensitivity/results/收敛精修对照.png",
+        "generation/convergence_sensitivity/results/per_structure.csv",
+        "generation/convergence_sensitivity/results/AUDIT.json"
+      ],
+      "next": [
+        "在独立连接体批次复核取消预筛方案。"
+      ],
+      "jump": "research",
+      "priority": null
+    },
+    "improve": {
+      "id": "improve",
+      "title": "实现并验证生成改进",
+      "desc": "约束、解码、组装或采样的受控改动",
+      "status": "done",
+      "why": "形成能通过独立批次验证的研究增益。",
+      "inputs": [
+        "明确的机制假设",
+        "冻结的基线与对照协议"
+      ],
+      "outputs": [
+        "方法版本",
+        "消融实验",
+        "独立评估批次"
+      ],
+      "checks": [
+        "同等预算下改善结构质量",
+        "报告有效率、新颖率、多样性与成本取舍"
+      ],
+      "findings": [
+        "结构生成确认阶段结项，默认单构象pcu/Zn4O方案。",
+        "统一几何预处理未采纳；失败边界与电荷兼容性已归档。"
+      ],
+      "evidence": [
+        "generation/budget_confirmation/PHASE_CLOSEOUT.md",
+        "generation/budget_confirmation/results/AUDIT.json",
+        "generation/budget_confirmation/results/INDEPENDENT_REVIEW.json",
+        "generation/budget_confirmation/deliverables/manifest.json"
+      ],
+      "next": [
+        "先选一个具体改进点，再登记对照。"
+      ],
+      "jump": null,
+      "priority": null
+    },
+    "independent": {
+      "id": "independent",
+      "title": "配对条件响应与吸附对照完成",
+      "desc": "两个生成种子；24候选各双模拟种子",
+      "status": "done",
+      "why": "检验增益能否在新的生成批次中复现。",
+      "inputs": [
+        "固定样本数、随机种子、条件、评价口径"
+      ],
+      "outputs": [
+        "条件响应曲线",
+        "跨种子结果",
+        "稳定性与成本区间"
+      ],
+      "checks": [
+        "真实输出结构响应条件变化",
+        "训练/反馈样本与独立评估分开"
+      ],
+      "findings": [
+        "条件明显改变候选与当前组合路线兼容率。",
+        "高目标组整体混合选择性中位数未提高，存在少量更优候选。",
+        "96项完成且解析，审计通过；MC独立延长收敛复核尚未做。"
+      ],
+      "evidence": [
+        "generation/conditional_response/README.md",
+        "generation/conditional_response/REPORT.md",
+        "generation/conditional_response/PROTOCOL.md",
+        "generation/conditional_response/PERFORMANCE_PROTOCOL.md",
+        "generation/conditional_response/results/response_summary.json",
+        "generation/conditional_response/results/structure_summary.json",
+        "generation/conditional_response/results/STRUCTURE_AUDIT.json",
+        "generation/conditional_response/results/performance/summary.json",
+        "generation/conditional_response/results/performance/AUDIT.json",
+        "generation/conditional_response/results/performance/per_candidate.csv",
+        "generation/conditional_response/results/主线对照.png"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "task": {
+      "id": "task",
+      "title": "结构化设计任务入口已实现",
+      "desc": "引擎/场景/目标/数量/预算与显式约束",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "JSON或Python任务配置"
+      ],
+      "outputs": [
+        "任务快照、唯一ID、进度与状态"
+      ],
+      "checks": [
+        "拒绝不支持的场景、约束和无效预算",
+        "约束应用层级明确为生成后过滤"
+      ],
+      "findings": [],
+      "evidence": [
+        "mof_design/README.md",
+        "mof_design/ACCEPTANCE.md",
+        "module_delivery/v0.1.0/acceptance/egmof/AUDIT.json",
+        "module_delivery/v0.1.0/acceptance/linker/AUDIT.json"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": "P0"
+    },
+    "delivery": {
+      "id": "delivery",
+      "title": "候选包统一交付已实现",
+      "desc": "相对路径CIF、索引、验证记录和ZIP",
+      "status": "done",
+      "why": "让一次需求形成可审查、可复用的候选产物。",
+      "inputs": [
+        "质量与身份结果",
+        "任务配置与生成来源"
+      ],
+      "outputs": [
+        "候选 CIF 包",
+        "指标和失败原因",
+        "批次报告"
+      ],
+      "checks": [
+        "用户能追到每个结论对应的输入与计算"
+      ],
+      "findings": [
+        "EGMOF三次提案交付两份，完整身份识别失败的一份保留。",
+        "连接体探索两次提案交付两份；两模式包审计通过。"
+      ],
+      "evidence": [
+        "mof_design/README.md",
+        "mof_design/ACCEPTANCE.md",
+        "module_delivery/v0.1.0/acceptance/egmof/AUDIT.json",
+        "module_delivery/v0.1.0/acceptance/linker/AUDIT.json"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": "P1"
+    },
+    "legacy": {
+      "id": "legacy",
+      "title": "性能评价支线",
+      "desc": "特征 → 代理 / OOD → Widom / GCMC → 对照",
+      "status": "paused",
+      "why": "保留已验证的性能评价资产，当前计算重点转向结构生成。",
+      "inputs": [
+        "经过检查的候选 CIF"
+      ],
+      "outputs": [
+        "孔道/化学特征",
+        "选择性、容量、损失与成本"
+      ],
+      "checks": [
+        "弛豫后重新计算电荷和特征",
+        "性能结论使用对应结构版本"
+      ],
+      "findings": [],
+      "evidence": [
+        "widom_sih4/README.md",
+        "generation/pilot_selection/fair_compare_report.md"
+      ],
+      "next": [],
+      "jump": "performance",
+      "priority": null
+    },
+    "mfd-sample": {
+      "id": "mfd-sample",
+      "title": "MOFDiff · 粗粒化采样",
+      "desc": "潜空间 / 构筑块级扩散 → 粗粒化 MOF",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "BW-DB 预训练模型",
+        "种子与样本数"
+      ],
+      "outputs": [
+        "粗粒化位置、晶胞、构筑块表示"
+      ],
+      "checks": [
+        "保存采样参数与原始输出"
+      ],
+      "findings": [],
+      "evidence": [
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "mfd-match": {
+      "id": "mfd-match",
+      "title": "构筑块检索与解码",
+      "desc": "嵌入近邻匹配 → 全原子构筑块",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "粗粒化生成表示",
+        "构筑块嵌入缓存"
+      ],
+      "outputs": [
+        "具有具体构筑块的粗粒化框架"
+      ],
+      "checks": [
+        "记录固定构筑块库的覆盖与限制"
+      ],
+      "findings": [],
+      "evidence": [
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "mfd-assemble": {
+      "id": "mfd-assemble",
+      "title": "装配优化与 CIF",
+      "desc": "连接约束检查 → 全原子拼装",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "解码后的构筑块与晶胞"
+      ],
+      "outputs": [
+        "1000 样本中的 720 个 CIF"
+      ],
+      "checks": [
+        "装配失败回到生成分母",
+        "弛豫结果另行统计"
+      ],
+      "findings": [
+        "720个CIF中425个弛豫有效（59.0%）；原始1000样本计42.5%。",
+        "18个MACE超时样本保留为未解决。"
+      ],
+      "evidence": [
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": "quality",
+      "priority": null
+    },
+    "mff-seq": {
+      "id": "mff-seq",
+      "title": "MOFFlow-2 · 序列生成",
+      "desc": "性质条件 → 金属与有机 SBU 序列",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "训练序列模型",
+        "目标值、温度、种子"
+      ],
+      "outputs": [
+        "1000 条原始序列"
+      ],
+      "checks": [
+        "使用模型原生目标定义",
+        "保存全部序列与不可解析片段"
+      ],
+      "findings": [
+        "本轮 target=5.0，temperature=1.0。",
+        "2026-11-16已完成target2/5、两个新配对种子的2400条采样。"
+      ],
+      "evidence": [
+        "generation/scale1000_mofflow2/bb_novelty_1000.csv",
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "mff-predict": {
+      "id": "mff-predict",
+      "title": "构筑块解析与三维预测",
+      "desc": "序列解析 → 几何生成 → 晶胞与坐标",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "金属 / 有机构筑块序列"
+      ],
+      "outputs": [
+        "预测坐标、原子种类、晶胞",
+        "原始序列到成功结构的映射"
+      ],
+      "checks": [
+        "保持 processed_data 的索引对应",
+        "解析失败和几何预测失败分开"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/convert_mofflow2_predictions.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "mff-export": {
+      "id": "mff-export",
+      "title": "MOFFlow-2 · CIF",
+      "desc": "预测张量转 CIF → 754/1000",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "预测坐标、lattices、num_atoms"
+      ],
+      "outputs": [
+        "754 个原始 CIF",
+        "原始序列索引"
+      ],
+      "checks": [
+        "每个 CIF 可回溯到原始序列",
+        "后续可算化学与结构通过交集"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/convert_mofflow2_predictions.py",
+        "generation/scale1000_mofflow2/chemfilter_1000_end2end.csv"
+      ],
+      "next": [],
+      "jump": "quality",
+      "priority": null
+    },
+    "eg-desc": {
+      "id": "eg-desc",
+      "title": "EGMOF · 描述符生成",
+      "desc": "性质条件 → prop2desc → 描述符",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "模型原生目标值",
+        "预训练条件模型"
+      ],
+      "outputs": [
+        "目标结构描述符"
+      ],
+      "checks": [
+        "原生 CO₂ 目标与项目任务目标分别记录"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/egmof_scale.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "eg-decode": {
+      "id": "eg-decode",
+      "title": "描述符到框架组合",
+      "desc": "desc2mof → 节点 / 边 / 拓扑",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "描述符",
+        "固定构筑块与拓扑库"
+      ],
+      "outputs": [
+        "框架组合与模型筛选值"
+      ],
+      "checks": [
+        "统计组合重复",
+        "构筑块新颖性按固定库口径解释"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/egmof_scale.py",
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "eg-assemble": {
+      "id": "eg-assemble",
+      "title": "PORMAKE → CIF",
+      "desc": "组合构建，显式统计同名覆盖",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "节点、连接体与拓扑组合"
+      ],
+      "outputs": [
+        "751 个唯一文件"
+      ],
+      "checks": [
+        "文件数、结果行数、结构唯一数各自保留"
+      ],
+      "findings": [
+        "751个落盘CIF中659个弛豫有效（87.7%）；原始1000请求计65.9%。",
+        "生成结果中存在同名覆盖；最终5个MACE超时样本未解决。"
+      ],
+      "evidence": [
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": "quality",
+      "priority": null
+    },
+    "rule-enum": {
+      "id": "rule-enum",
+      "title": "规则基线 · 单取代枚举",
+      "desc": "已知配体种子 → 受限变体",
+      "status": "baseline",
+      "why": "",
+      "inputs": [
+        "配体种子",
+        "取代基、价键、连接数限制"
+      ],
+      "outputs": [
+        "239 个配体变体"
+      ],
+      "checks": [
+        "保留种子对照与父配体",
+        "规范 SMILES 去重"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/enumerate_variants.py",
+        "generation/README.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "anchor": {
+      "id": "anchor",
+      "title": "锚点与构象",
+      "desc": "识别结合位点、方向、连接数",
+      "status": "baseline",
+      "why": "",
+      "inputs": [
+        "配体 SMILES"
+      ],
+      "outputs": [
+        "连接点与带 X 构筑块",
+        "几何方向判据"
+      ],
+      "checks": [
+        "锚点类型、价键、构象和连接方向"
+      ],
+      "findings": [],
+      "evidence": [
+        "anchor_rules/anchor_rules.py",
+        "anchor_rules/README.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "rule-cif": {
+      "id": "rule-cif",
+      "title": "固定节点 / 拓扑组装",
+      "desc": "613 次尝试 → 268 个合格 CIF",
+      "status": "baseline",
+      "why": "",
+      "inputs": [
+        "构筑块、节点、拓扑"
+      ],
+      "outputs": [
+        "CIF + 每次尝试的候选元数据"
+      ],
+      "checks": [
+        "方向、碰撞、键长及三齿定位误差"
+      ],
+      "findings": [
+        "17 known controls；251 个取代变体。"
+      ],
+      "evidence": [
+        "generation/build_candidates.py",
+        "generation/README.md"
+      ],
+      "next": [],
+      "jump": "quality",
+      "priority": null
+    },
+    "nex": {
+      "id": "nex",
+      "title": "Nexerra · 配体试点",
+      "desc": "分子生成 → 锚点 / 刚性筛选",
+      "status": "pilot",
+      "why": "",
+      "inputs": [
+        "生成模型与配体约束"
+      ],
+      "outputs": [
+        "SMILES 到现有组装接口"
+      ],
+      "checks": [
+        "先改造化学与连接约束，再评价产出率"
+      ],
+      "findings": [
+        "多批次可用产出低；部分路线组装失败。"
+      ],
+      "evidence": [
+        "generation/nexerra_to_variants.py",
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "cg": {
+      "id": "cg",
+      "title": "patchy 粗粒化自组装",
+      "desc": "锚点 → HOOMD → 连通与环统计",
+      "status": "pilot",
+      "why": "",
+      "inputs": [
+        "配体与节点族"
+      ],
+      "outputs": [
+        "自组装轨迹",
+        "占位、桥连、连通、环分布"
+      ],
+      "checks": [
+        "位点单占位",
+        "周期绕行环与局部环分开"
+      ],
+      "findings": [],
+      "evidence": [
+        "cg_assembly/README.md",
+        "cg_assembly/analyze_cg.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "chem": {
+      "id": "chem",
+      "title": "关口 A · 化学检查",
+      "desc": "RDKit / 自由基 / 电荷 / 结合基团",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "原始序列与构筑块"
+      ],
+      "outputs": [
+        "硬有效、连接体适用、guest 标记"
+      ],
+      "checks": [
+        "per-sequence 与 per-SBU 分母分开",
+        "≥2 结合基团；guest 单列"
+      ],
+      "findings": [
+        "MOFFlow-2 千序列：linker-suitable 45.6%。"
+      ],
+      "evidence": [
+        "generation/mofdiff_plausibility/filter_generated_sbus.py",
+        "generation/mofdiff_plausibility/chem_filter_seqs.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "precheck": {
+      "id": "precheck",
+      "title": "关口 B · 原始几何",
+      "desc": "短接触、片段、组成与金属配位",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "原始 CIF"
+      ],
+      "outputs": [
+        "dmin、短接触数、片段数、原子数和体积"
+      ],
+      "checks": [
+        "记录原始质量，保留供弛豫前后比较"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/mofdiff_plausibility/precheck_dir.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "uff": {
+      "id": "uff",
+      "title": "UFF 参数化与弛豫",
+      "desc": "lammps-interface → LAMMPS",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "原始 CIF"
+      ],
+      "outputs": [
+        "参数化状态",
+        "弛豫 CIF / 运行日志"
+      ],
+      "checks": [
+        "先判断工具是否成功，再判断结构质量"
+      ],
+      "findings": [
+        "MOFFlow-2：212/754 可参数化，202 个弛豫有效。"
+      ],
+      "evidence": [
+        "generation/mofdiff_plausibility/uff_relax_standalone.py",
+        "generation/mofdiff_plausibility/uff_summary.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "mace": {
+      "id": "mace",
+      "title": "工具失败 → MACE fallback",
+      "desc": "替代几何弛豫；保留势与参数差异",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "UFF 工具失败的 CIF"
+      ],
+      "outputs": [
+        "MACE 结构",
+        "超时和异常记录"
+      ],
+      "checks": [
+        "MACE 与 UFF 的能量口径分开",
+        "超时保留为未解决"
+      ],
+      "findings": [
+        "MOFFlow-2：补回225个有效结构；62个超时样本待解决。"
+      ],
+      "evidence": [
+        "generation/mofdiff_plausibility/combine_mace.py",
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "postcheck": {
+      "id": "postcheck",
+      "title": "关口 C · 弛豫后结构",
+      "desc": "原子数、体积、距离与连通性",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "UFF 或 MACE 的弛豫结果"
+      ],
+      "outputs": [
+        "有效 / 结构缺陷 / 未解决"
+      ],
+      "checks": [
+        "原子数与输入一致",
+        "dmin ≥0.9 Å；单片段",
+        "体积比 0.75–1.25"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/mofdiff_plausibility/combine_mace.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "valid": {
+      "id": "valid",
+      "title": "化学与结构的交集",
+      "desc": "按原始样本 ID 合并通过条件",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "化学过滤表",
+        "弛豫后有效表",
+        "序列到CIF映射"
+      ],
+      "outputs": [
+        "端到端可用样本",
+        "各阶段通过率"
+      ],
+      "checks": [
+        "失败样本留在原始分母中"
+      ],
+      "findings": [
+        "MOFFlow-2：166/1000 同时化学与结构有效。"
+      ],
+      "evidence": [
+        "generation/scale1000_mofflow2/chemfilter_1000_end2end.csv"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "defect": {
+      "id": "defect",
+      "title": "结构缺陷 → 原因归档",
+      "desc": "碰撞、断片、体积异常、化学问题",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "成功执行但未通过的检查"
+      ],
+      "outputs": [
+        "可复现失败样本与分类"
+      ],
+      "checks": [
+        "与工具运行失败分开",
+        "连接到生成器可改进环节"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/mofdiff_plausibility/check_mofdiff_plausibility.py",
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "unresolved": {
+      "id": "unresolved",
+      "title": "超时 / 工具错误 → 待核查",
+      "desc": "保留原结构与日志，按原因重试",
+      "status": "partial",
+      "why": "",
+      "inputs": [
+        "超时、参数化异常、无输出"
+      ],
+      "outputs": [
+        "未解决清单",
+        "受限重试任务"
+      ],
+      "checks": [
+        "未解决数进入报告",
+        "重试参数与版本有记录"
+      ],
+      "findings": [],
+      "evidence": [
+        "worklog.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "dedup": {
+      "id": "dedup",
+      "title": "问题 1 · 批次内是否重复",
+      "desc": "StructureMatcher 识别重复组",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "同一批次全部 CIF"
+      ],
+      "outputs": [
+        "唯一结构数与重复组"
+      ],
+      "checks": [
+        "ltol 0.3 / stol 0.5 / angle 10",
+        "使用相同去重口径"
+      ],
+      "findings": [
+        "MOFFlow-2：676/754 唯一；MOFDiff：720/720 唯一。"
+      ],
+      "evidence": [
+        "generation/mofdiff_plausibility/dedup_dir2.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "dbmatch": {
+      "id": "dbmatch",
+      "title": "问题 2 · 参考库中是否已有",
+      "desc": "同化学式预筛 → 晶体结构匹配",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "生成 CIF",
+        "365,010 个参考结构索引"
+      ],
+      "outputs": [
+        "结构匹配与同式候选",
+        "已检索数据库范围"
+      ],
+      "checks": [
+        "精确搜索与有界宽松搜索分开",
+        "保留每库的覆盖与解析失败"
+      ],
+      "findings": [
+        "MOFFlow-2 千样本：精确结构匹配为0。"
+      ],
+      "evidence": [
+        "generation/mofdiff_plausibility/novelty_lookup.py",
+        "generation/mofdiff_plausibility/novelty_loose.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "seqnovel": {
+      "id": "seqnovel",
+      "title": "问题 3a · 训练外分子片段",
+      "desc": "RDKit canonical SMILES 集合差",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "生成 SBU 序列",
+        "187,047 条训练序列"
+      ],
+      "outputs": [
+        "在序列训练集合中未出现的分子字符串"
+      ],
+      "checks": [
+        "不同质子化与互变异构尚未统一",
+        "化学可行性另做过滤"
+      ],
+      "findings": [
+        "504 个唯一可解析有机片段中156个未精确匹配。"
+      ],
+      "evidence": [
+        "generation/mofdiff_plausibility/mofflow2_bb_novelty.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "review": {
+      "id": "review",
+      "title": "类似物距离与化学审查",
+      "desc": "最近邻指纹相似性 + 连接体规则",
+      "status": "partial",
+      "why": "",
+      "inputs": [
+        "训练外片段"
+      ],
+      "outputs": [
+        "与训练构筑块的最近邻",
+        "可行连接体与缺陷清单"
+      ],
+      "checks": [
+        "千样本156个片段的审查待补全"
+      ],
+      "findings": [
+        "早期18个新片段中，14个最近邻Tanimoto≥0.7。"
+      ],
+      "evidence": [
+        "generation/mofdiff_plausibility/review_novel_sbus.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "mofid": {
+      "id": "mofid",
+      "title": "问题 3b · 从 CIF 提取身份",
+      "desc": "节点、连接体、拓扑和互穿标记",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "原始和弛豫 CIF"
+      ],
+      "outputs": [
+        "chemistry_key",
+        "framework_key",
+        "partial / failed / timeout"
+      ],
+      "checks": [
+        "文件名和版本元数据不参与身份比较",
+        "ERROR / UNKNOWN 等单列"
+      ],
+      "findings": [
+        "754原始：44完整身份；427弛豫有效：107完整身份。",
+        "HKUST-1重命名与超胞控制通过。"
+      ],
+      "evidence": [
+        "generation/mofid_validate.py",
+        "generation/mofid_validation.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "trainref": {
+      "id": "trainref",
+      "title": "同版本构建训练参考",
+      "desc": "187047条全部处理；完整身份覆盖91.94%",
+      "status": "partial",
+      "why": "",
+      "inputs": [
+        "187,047条训练结构",
+        "同版本MOFid"
+      ],
+      "outputs": [
+        "训练身份与连接体索引",
+        "处理/成功/失败覆盖率"
+      ],
+      "checks": [
+        "抽查结构键与序列对应",
+        "记录未解决训练结构"
+      ],
+      "findings": [
+        "171978条获得完整身份，15069条部分解析。",
+        "全量处理于2026-11-13 04:02完成；部分解析仍是身份覆盖缺口。"
+      ],
+      "evidence": [
+        "generation/mofid_prepare.py",
+        "generation/run_mofid_reference.sh"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "idcompare": {
+      "id": "idcompare",
+      "title": "身份与连接体的精确匹配",
+      "desc": "生成结构与训练参考已完成首轮比较",
+      "status": "partial",
+      "why": "",
+      "inputs": [
+        "生成MOFid结果",
+        "已处理的训练参考"
+      ],
+      "outputs": [
+        "逐结构匹配记录",
+        "训练覆盖率与未知标签"
+      ],
+      "checks": [
+        "参考覆盖不足时保留待定范围",
+        "部分解析与完整身份使用不同分母"
+      ],
+      "findings": [
+        "弛豫有效427个：107个完整身份中8个匹配，99个未在已解析参考中匹配。",
+        "原始754个：44个完整身份均未匹配；其余710个未完整识别。",
+        "8个样本对应2种唯一身份；7个rna、1个pcu。"
+      ],
+      "evidence": [
+        "generation/mofid_compare.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "identityreport": {
+      "id": "identityreport",
+      "title": "分层报告新颖性",
+      "desc": "批次唯一 / 数据库无匹配 / 训练外片段 / 框架身份",
+      "status": "partial",
+      "why": "",
+      "inputs": [
+        "三类比较与失败覆盖"
+      ],
+      "outputs": [
+        "带范围说明的新颖性证据"
+      ],
+      "checks": [
+        "每个结论可回溯到参考与比较方法"
+      ],
+      "findings": [
+        "公开结构库精确匹配0与训练参考身份匹配8分别报告。",
+        "训练参考15069条部分解析、生成结构完整身份覆盖不足，未匹配部分仍需保留范围。"
+      ],
+      "evidence": [
+        "generation/mofid_validation.md",
+        "generation/structure_generation_quality.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "labels": {
+      "id": "labels",
+      "title": "历史标签与特征摸底",
+      "desc": "CRAFTED Widom、组装结构标签、R²分析",
+      "status": "paused",
+      "why": "",
+      "inputs": [
+        "CRAFTED / 组装结构"
+      ],
+      "outputs": [
+        "Henry标签",
+        "几何与化学特征的信号分析"
+      ],
+      "checks": [],
+      "findings": [
+        "CRAFTED690 + 组装132标签用于代理开发。"
+      ],
+      "evidence": [
+        "widom_sih4/结果报告.md",
+        "r2_probe/R2摸底报告.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "zeo": {
+      "id": "zeo",
+      "title": "Zeo++ 孔道特征",
+      "desc": "孔径、可达体积、密度等",
+      "status": "paused",
+      "why": "",
+      "inputs": [
+        "候选 CIF"
+      ],
+      "outputs": [
+        "几何特征 G"
+      ],
+      "checks": [
+        "在对应结构版本上重算"
+      ],
+      "findings": [],
+      "evidence": [
+        "widom_sih4/zeo_features.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "charge": {
+      "id": "charge",
+      "title": "PACMOF 与化学特征",
+      "desc": "部分电荷、元素比例、金属类别",
+      "status": "paused",
+      "why": "",
+      "inputs": [
+        "候选 CIF"
+      ],
+      "outputs": [
+        "带电荷CIF",
+        "Chem特征"
+      ],
+      "checks": [
+        "弛豫后的CIF重新充电"
+      ],
+      "findings": [],
+      "evidence": [
+        "widom_sih4/pacmof_batch.py",
+        "widom_sih4/chem_features_pacmof.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "surrogate": {
+      "id": "surrogate",
+      "title": "LightGBM 代理评分",
+      "desc": "G + Chem → 选择性预测",
+      "status": "paused",
+      "why": "",
+      "inputs": [
+        "训练标签",
+        "候选特征"
+      ],
+      "outputs": [
+        "预测分数与候选排序"
+      ],
+      "checks": [
+        "预测登记与真实评价分开"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/score_candidates_full.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "ood": {
+      "id": "ood",
+      "title": "适用域 / OOD 分流",
+      "desc": "域内筛选；域外精算与补标签",
+      "status": "paused",
+      "why": "",
+      "inputs": [
+        "候选几何/化学特征",
+        "训练特征分布"
+      ],
+      "outputs": [
+        "适用域标记",
+        "扩训/精算任务"
+      ],
+      "checks": [
+        "在生成候选家族上检验排序",
+        "不同候选家族分别评价"
+      ],
+      "findings": [
+        "CRAFTED代理对MOFDiff40个可评估结构ρ≈0.078。"
+      ],
+      "evidence": [
+        "widom_sih4/applicability_domain.py",
+        "generation/mofdiff_aug_eval.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "widom": {
+      "id": "widom",
+      "title": "Widom → Henry 选择性",
+      "desc": "np / pol 输入、超胞、误差解析",
+      "status": "paused",
+      "why": "",
+      "inputs": [
+        "合适力场与电荷CIF"
+      ],
+      "outputs": [
+        "Henry常数、误差、log选择性"
+      ],
+      "checks": [
+        "吸附能与异常大Henry核查"
+      ],
+      "findings": [],
+      "evidence": [
+        "widom_sih4/make_inputs.py",
+        "widom_sih4/parse_widom.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "gcmc": {
+      "id": "gcmc",
+      "title": "混合 GCMC → 容量与选择性",
+      "desc": "温度、压力、混合比例下的吸附",
+      "status": "paused",
+      "why": "",
+      "inputs": [
+        "候选结构、混合物与条件"
+      ],
+      "outputs": [
+        "选择性",
+        "CO₂容量",
+        "SiH₄摄取"
+      ],
+      "checks": [
+        "对照冻结标准",
+        "记录收敛与超时"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/make_gcmc_inputs.py",
+        "generation/parse_gcmc.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "fair": {
+      "id": "fair",
+      "title": "同预算对照与阈值分析",
+      "desc": "设计池 vs 已知库；性能与容量取舍",
+      "status": "paused",
+      "why": "",
+      "inputs": [
+        "冻结候选池与选择策略",
+        "同一精算预算"
+      ],
+      "outputs": [
+        "命中率、成本、Pareto与阈值敏感性"
+      ],
+      "checks": [
+        "已看结果的样本用于历史验证",
+        "报告阈值改变后的取舍"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/pilot_selection/fair_compare_report.md",
+        "generation/pilot_selection/exhaustive/REPORT.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "feedback": {
+      "id": "feedback",
+      "title": "历史反馈选择",
+      "desc": "根据真值决定下一轮候选选择",
+      "status": "baseline",
+      "why": "",
+      "inputs": [
+        "已测标签与候选池"
+      ],
+      "outputs": [
+        "后续候选",
+        "预测登记和真实结果"
+      ],
+      "checks": [
+        "区分固定池选择与生成器改进"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/pilot_selection/feedback_select.py",
+        "generation/pilot_selection/feedback_registration.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "synthesis": {
+      "id": "synthesis",
+      "title": "合成可及性桌面研究",
+      "desc": "配体难度、文献路线与框架先例",
+      "status": "paused",
+      "why": "",
+      "inputs": [
+        "候选连接体与框架"
+      ],
+      "outputs": [
+        "有出处的可行性判断"
+      ],
+      "checks": [
+        "实验验证目前无执行条件"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/pilot_selection/synthesis_assessment.md",
+        "NEXT_STEPS.md"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": null
+    },
+    "p0ref": {
+      "id": "p0ref",
+      "title": "核查训练匹配与解析缺口",
+      "desc": "全量处理完成：8个样本匹配，15069条参考待解析",
+      "status": "partial",
+      "why": "",
+      "inputs": [
+        "全量训练结构MOFid"
+      ],
+      "outputs": [
+        "覆盖率、匹配表、未知清单"
+      ],
+      "checks": [
+        "187047预期数与处理/成功数一致可追溯",
+        "生成完整身份与连接体匹配可复核"
+      ],
+      "findings": [
+        "训练结构187047条全部处理；完整身份171978条。",
+        "8个弛豫样本匹配2种训练身份。"
+      ],
+      "evidence": [
+        "generation/run_mofid_reference.sh",
+        "generation/mofid_validation.md"
+      ],
+      "next": [
+        "检查8个命中样本及对应训练记录。",
+        "分类15069条部分解析记录，优先补关键参考覆盖。"
+      ],
+      "jump": "identity",
+      "priority": "P0"
+    },
+    "p0diag": {
+      "id": "p0diag",
+      "title": "诊断拓扑与身份变化",
+      "desc": "原始 / 弛豫成对抽查",
+      "status": "planned",
+      "why": "",
+      "inputs": [
+        "MOFid逐结构日志",
+        "原始与弛豫CIF"
+      ],
+      "outputs": [
+        "失败谱和代表案例"
+      ],
+      "checks": [
+        "定位键感知、氢/电荷、断片与拓扑差异",
+        "给出可复现案例及覆盖数"
+      ],
+      "findings": [],
+      "evidence": [
+        "generation/mofid_validation.md"
+      ],
+      "next": [],
+      "jump": "quality",
+      "priority": "P0"
+    },
+    "p1bench": {
+      "id": "p1bench",
+      "title": "基线与首轮条件对照已归档",
+      "desc": "千样本、固定路线与96项吸附证据齐备",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "三引擎千样本完整漏斗"
+      ],
+      "outputs": [
+        "统一质量表与成本表"
+      ],
+      "checks": [
+        "同时报告原始/唯一/有效/化学交集",
+        "超时与工具失败单列"
+      ],
+      "findings": [
+        "三引擎结构基线、组合路线与统一精修均有数据。",
+        "首轮条件/性能迁移对照完成，保留各自分母与范围。"
+      ],
+      "evidence": [
+        "PROJECT_OVERVIEW.md",
+        "generation/conditional_response/REPORT.md"
+      ],
+      "next": [
+        "复用现有证据封装模块，避免重复大型试验。"
+      ],
+      "jump": "generation",
+      "priority": "P1"
+    },
+    "p1control": {
+      "id": "p1control",
+      "title": "条件响应与性能实算已完成",
+      "desc": "96/96完成；整体选择性未提高，存在更优个例",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "可复现基线",
+        "统一评价协议"
+      ],
+      "outputs": [
+        "有目标/无目标或不同条件的对照批次"
+      ],
+      "checks": [
+        "结构质量、目标响应、唯一/新颖/多样同时评价"
+      ],
+      "findings": [
+        "2400条配对采样，29种抽样身份，24种最终候选。",
+        "目标2/5混合选择性中位0.867/0.848，最佳0.968/1.641。",
+        "目标5有5/20种选择性>1；目标2为0/4。",
+        "来源/分母/结构/性能审计通过，低目标样本量较小。",
+        "按历史S≥2及容量/SiH₄损失门槛回看：本批0/24通过；作为新增参照，原预登记终点不变。"
+      ],
+      "evidence": [
+        "generation/conditional_response/README.md",
+        "generation/conditional_response/REPORT.md",
+        "generation/conditional_response/PROTOCOL.md",
+        "generation/conditional_response/PERFORMANCE_PROTOCOL.md",
+        "generation/conditional_response/results/response_summary.json",
+        "generation/conditional_response/results/structure_summary.json",
+        "generation/conditional_response/results/STRUCTURE_AUDIT.json",
+        "generation/conditional_response/results/performance/summary.json",
+        "generation/conditional_response/results/performance/AUDIT.json",
+        "generation/conditional_response/results/performance/per_candidate.csv",
+        "generation/conditional_response/results/主线对照.png",
+        "PROJECT_OVERVIEW.md"
+      ],
+      "next": [
+        "结果作为分离应用案例保留。",
+        "当前交付优先统一模块入口、编排和候选包。"
+      ],
+      "jump": null,
+      "priority": "P1"
+    },
+    "p2method": {
+      "id": "p2method",
+      "title": "组合生产基线已选定",
+      "desc": "单构象默认；双构象保留质量—成本取舍",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "冻结20连接体（8原序列训练外、12训练内）",
+        "固定pcu/N16与121个有效模板池"
+      ],
+      "outputs": [
+        "4臂配对结果、39次唯一新正式弛豫和3次校准",
+        "完整CIF、官方MOFid和独立核查"
+      ],
+      "checks": [
+        "保留同20个分母与全部失败",
+        "修正3个样本的负氧归一化",
+        "同结构复用1次；M同时改变金属和拓扑"
+      ],
+      "findings": [
+        "固定目标下30个新连接体，严格终点原生0、单构象26、双构象28。",
+        "按计算前成本规则推荐单构象，结论限定本批与当前实现。",
+        "26个候选以广义力0.05精修后全部保留；建议作为后续性能输入。"
+      ],
+      "evidence": [
+        "generation/budget_confirmation/PHASE_CLOSEOUT.md",
+        "generation/budget_confirmation/results/AUDIT.json",
+        "generation/budget_confirmation/results/INDEPENDENT_REVIEW.json",
+        "generation/budget_confirmation/deliverables/manifest.json",
+        "generation/convergence_sensitivity/REPORT.md",
+        "generation/convergence_sensitivity/results/收敛精修对照.png",
+        "generation/convergence_sensitivity/results/per_structure.csv",
+        "generation/convergence_sensitivity/results/AUDIT.json"
+      ],
+      "next": [
+        "沿冻结接口开展下一阶段。"
+      ],
+      "jump": null,
+      "priority": "P2"
+    },
+    "p2test": {
+      "id": "p2test",
+      "title": "同预算结构确认已结项",
+      "desc": "30连接体：单26/30、双28/30；默认单构象",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "改进版本",
+        "冻结基线与消融"
+      ],
+      "outputs": [
+        "可复现的增益与成本取舍"
+      ],
+      "checks": [
+        "用独立评估回答是否改善生成"
+      ],
+      "findings": [
+        "单构象单位有效框架63.20 GPU任务秒，双构象101.65秒（+61%）。",
+        "92次正式物理任务/120逻辑分支；28条早收敛合法复用。",
+        "26个默认候选均收敛，输出哈希核验通过。",
+        "2026-11-16严格精修：26/26收敛且保留完整身份；体积变化中位−7.33%。"
+      ],
+      "evidence": [
+        "generation/budget_confirmation/PHASE_CLOSEOUT.md",
+        "generation/budget_confirmation/results/AUDIT.json",
+        "generation/budget_confirmation/results/INDEPENDENT_REVIEW.json",
+        "generation/budget_confirmation/deliverables/manifest.json",
+        "generation/convergence_sensitivity/REPORT.md",
+        "generation/convergence_sensitivity/results/收敛精修对照.png",
+        "generation/convergence_sensitivity/results/per_structure.csv",
+        "generation/convergence_sensitivity/results/AUDIT.json"
+      ],
+      "next": [
+        "同预算试验保持冻结，后续性能对照统一采用已验证的精修条件。",
+        "下一阶段登记目标条件响应与吸附性能。"
+      ],
+      "jump": null,
+      "priority": "P2"
+    },
+    "p3product": {
+      "id": "p3product",
+      "title": "AI设计MOF模块v0.1已交付",
+      "desc": "EGMOF默认＋连接体探索；Python/CLI",
+      "status": "done",
+      "why": "",
+      "inputs": [
+        "稳定的生产/评价接口"
+      ],
+      "outputs": [
+        "需求到候选包的产品流程"
+      ],
+      "checks": [
+        "统一输入输出与能力声明",
+        "请求、资产、提案和候选包可追溯"
+      ],
+      "findings": [
+        "20项本地测试通过，支持状态/取消/超时及独立任务目录。",
+        "两条真实小批各交付2份经过精修和MOFid的CIF。",
+        "场景配置独立于后端；无新训练、网页或自然语言解析。"
+      ],
+      "evidence": [
+        "mof_design/README.md",
+        "mof_design/ACCEPTANCE.md",
+        "module_delivery/v0.1.0/acceptance/egmof/AUDIT.json",
+        "module_delivery/v0.1.0/acceptance/linker/AUDIT.json"
+      ],
+      "next": [
+        "按需求补场景适配和使用体验。"
+      ],
+      "jump": null,
+      "priority": "P1"
+    },
+    "blockedbw": {
+      "id": "blockedbw",
+      "title": "补齐 BW-DB 参考",
+      "desc": "下载受阻；影响MOFDiff记忆化核查",
+      "status": "blocked",
+      "why": "",
+      "inputs": [
+        "完整可校验的BW-DB"
+      ],
+      "outputs": [
+        "MOFDiff训练集参考范围"
+      ],
+      "checks": [
+        "下载内容完整校验后再索引"
+      ],
+      "findings": [],
+      "evidence": [
+        "worklog.md",
+        "generation/bwdb_watch.py"
+      ],
+      "next": [],
+      "jump": null,
+      "priority": "依赖"
+    }
+  },
+  "views": [
+    {
+      "id": "overview",
+      "name": "全局研究脉络",
+      "kicker": "01 / PROJECT LOGIC",
+      "title": "我们怎样从“能生成”推进到“可信、可控地生成”？",
+      "desc": "沿实线读取已搭建的处理链；虚线表示下一阶段的研究依赖。每个节点都能展开输入、产物、验收和文件依据。",
+      "positions": [
+        {
+          "id": "assets",
+          "x": 40,
+          "y": 80
+        },
+        {
+          "id": "produce",
+          "x": 410,
+          "y": 80
+        },
+        {
+          "id": "cif",
+          "x": 780,
+          "y": 80
+        },
+        {
+          "id": "quality",
+          "x": 780,
+          "y": 310
+        },
+        {
+          "id": "identity",
+          "x": 410,
+          "y": 310
+        },
+        {
+          "id": "metrics",
+          "x": 40,
+          "y": 310
+        },
+        {
+          "id": "diagnose",
+          "x": 40,
+          "y": 560
+        },
+        {
+          "id": "improve",
+          "x": 410,
+          "y": 560
+        },
+        {
+          "id": "independent",
+          "x": 780,
+          "y": 560
+        },
+        {
+          "id": "legacy",
+          "x": 780,
+          "y": 820
+        },
+        {
+          "id": "task",
+          "x": 40,
+          "y": 820
+        },
+        {
+          "id": "delivery",
+          "x": 410,
+          "y": 820
+        }
+      ],
+      "edges": [
+        {
+          "a": "assets",
+          "b": "produce",
+          "label": "训练资产",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "produce",
+          "b": "cif",
+          "label": "解码 / 组装",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "cif",
+          "b": "quality",
+          "label": "原始批次",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "quality",
+          "b": "identity",
+          "label": "结构与来源",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "identity",
+          "b": "metrics",
+          "label": "质量与身份表",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "metrics",
+          "b": "diagnose",
+          "label": "失败谱",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "diagnose",
+          "b": "improve",
+          "label": "改进假设",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "improve",
+          "b": "independent",
+          "label": "新版本",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "independent",
+          "b": "produce",
+          "label": "新一轮生成",
+          "kind": "feedback",
+          "side": "cycle"
+        },
+        {
+          "a": "quality",
+          "b": "legacy",
+          "label": "保留性能出口",
+          "kind": "paused",
+          "side": "right"
+        },
+        {
+          "a": "task",
+          "b": "delivery",
+          "label": "需求与返回接口",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "task",
+          "b": "produce",
+          "label": "任务配置",
+          "kind": "plan",
+          "side": "outer-left"
+        },
+        {
+          "a": "independent",
+          "b": "delivery",
+          "label": "验证结果",
+          "kind": "plan",
+          "side": null
+        }
+      ],
+      "groups": [
+        {
+          "x": 16,
+          "y": 40,
+          "w": 1080,
+          "h": 470,
+          "title": "A · 已有生产与验证链"
+        },
+        {
+          "x": 16,
+          "y": 520,
+          "w": 1080,
+          "h": 225,
+          "title": "B · 下一阶段研究闭环"
+        },
+        {
+          "x": 16,
+          "y": 780,
+          "w": 1080,
+          "h": 225,
+          "title": "C · 产品出口与历史性能支线"
+        }
+      ],
+      "questions": [
+        "当前交付：把已有生成与验证能力封装成可调用的AI设计MOF模块。",
+        "已有底座：三引擎、质量筛查、身份核查、性能精算。"
+      ]
+    },
+    {
+      "id": "generation",
+      "name": "生成路线拆解",
+      "kicker": "02 / PRODUCERS",
+      "title": "不同路线究竟在哪一步提出了新结构？",
+      "desc": "按行读取。各路线保留自己的原始分母与失败记录，最后汇入共同的 CIF 验收；固定构筑块重组与新片段生成分别评价。",
+      "positions": [
+        {
+          "id": "mfd-sample",
+          "x": 40,
+          "y": 80
+        },
+        {
+          "id": "mfd-match",
+          "x": 410,
+          "y": 80
+        },
+        {
+          "id": "mfd-assemble",
+          "x": 780,
+          "y": 80
+        },
+        {
+          "id": "mff-seq",
+          "x": 40,
+          "y": 300
+        },
+        {
+          "id": "mff-predict",
+          "x": 410,
+          "y": 300
+        },
+        {
+          "id": "mff-export",
+          "x": 780,
+          "y": 300
+        },
+        {
+          "id": "eg-desc",
+          "x": 40,
+          "y": 520
+        },
+        {
+          "id": "eg-decode",
+          "x": 410,
+          "y": 520
+        },
+        {
+          "id": "eg-assemble",
+          "x": 780,
+          "y": 520
+        },
+        {
+          "id": "rule-enum",
+          "x": 40,
+          "y": 740
+        },
+        {
+          "id": "anchor",
+          "x": 410,
+          "y": 740
+        },
+        {
+          "id": "rule-cif",
+          "x": 780,
+          "y": 740
+        },
+        {
+          "id": "nex",
+          "x": 40,
+          "y": 980
+        },
+        {
+          "id": "cg",
+          "x": 410,
+          "y": 980
+        },
+        {
+          "id": "quality",
+          "x": 780,
+          "y": 980
+        }
+      ],
+      "edges": [
+        {
+          "a": "mfd-sample",
+          "b": "mfd-match",
+          "label": "构筑块嵌入",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "mfd-match",
+          "b": "mfd-assemble",
+          "label": "全原子构筑块",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "mff-seq",
+          "b": "mff-predict",
+          "label": "序列与索引",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "mff-predict",
+          "b": "mff-export",
+          "label": "坐标 / 晶胞",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "eg-desc",
+          "b": "eg-decode",
+          "label": "描述符",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "eg-decode",
+          "b": "eg-assemble",
+          "label": "组合 / 拓扑",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "rule-enum",
+          "b": "anchor",
+          "label": "配体SMILES",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "anchor",
+          "b": "rule-cif",
+          "label": "带连接点构筑块",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "nex",
+          "b": "anchor",
+          "label": "生成配体",
+          "kind": "pilot",
+          "side": null
+        },
+        {
+          "a": "rule-cif",
+          "b": "quality",
+          "label": "共同验收",
+          "kind": "baseline",
+          "side": null
+        }
+      ],
+      "groups": [
+        {
+          "x": 16,
+          "y": 40,
+          "w": 1080,
+          "h": 200,
+          "title": "模型路线 1 · MOFDiff"
+        },
+        {
+          "x": 16,
+          "y": 260,
+          "w": 1080,
+          "h": 200,
+          "title": "模型路线 2 · MOFFlow-2"
+        },
+        {
+          "x": 16,
+          "y": 480,
+          "w": 1080,
+          "h": 200,
+          "title": "模型路线 3 · EGMOF"
+        },
+        {
+          "x": 16,
+          "y": 700,
+          "w": 1080,
+          "h": 200,
+          "title": "保留基线 · 规则与锚点"
+        },
+        {
+          "x": 16,
+          "y": 940,
+          "w": 1080,
+          "h": 210,
+          "title": "探索资产与共同出口"
+        }
+      ],
+      "questions": [
+        "MOFDiff：构筑块级空间生成。",
+        "MOFFlow-2：序列构筑块 + 三维预测。",
+        "EGMOF：性质条件下的固定库组合生成。"
+      ]
+    },
+    {
+      "id": "quality",
+      "name": "质量关口与分流",
+      "kicker": "03 / ACCEPTANCE GATES",
+      "title": "一个候选在哪一步通过、失败，或仍待解决？",
+      "desc": "化学检查与几何检查有不同输入；最终按样本 ID 取交集。工具失败走替代计算或待核查队列，成功执行后的结构缺陷进入失败归因。",
+      "positions": [
+        {
+          "id": "cif",
+          "x": 40,
+          "y": 80
+        },
+        {
+          "id": "chem",
+          "x": 40,
+          "y": 330
+        },
+        {
+          "id": "precheck",
+          "x": 410,
+          "y": 80
+        },
+        {
+          "id": "uff",
+          "x": 780,
+          "y": 80
+        },
+        {
+          "id": "mace",
+          "x": 780,
+          "y": 330
+        },
+        {
+          "id": "postcheck",
+          "x": 410,
+          "y": 330
+        },
+        {
+          "id": "valid",
+          "x": 40,
+          "y": 600
+        },
+        {
+          "id": "identity",
+          "x": 40,
+          "y": 850
+        },
+        {
+          "id": "defect",
+          "x": 410,
+          "y": 600
+        },
+        {
+          "id": "unresolved",
+          "x": 780,
+          "y": 600
+        },
+        {
+          "id": "diagnose",
+          "x": 410,
+          "y": 850
+        }
+      ],
+      "edges": [
+        {
+          "a": "cif",
+          "b": "chem",
+          "label": "原始序列",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "cif",
+          "b": "precheck",
+          "label": "原始 CIF",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "precheck",
+          "b": "uff",
+          "label": "结构 + 原始指标",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "uff",
+          "b": "postcheck",
+          "label": "执行成功",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "uff",
+          "b": "mace",
+          "label": "工具失败",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "mace",
+          "b": "postcheck",
+          "label": "弛豫成功",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "mace",
+          "b": "unresolved",
+          "label": "超时 / 异常",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "postcheck",
+          "b": "valid",
+          "label": "结构通过",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "chem",
+          "b": "valid",
+          "label": "化学通过",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "postcheck",
+          "b": "defect",
+          "label": "结构未通过",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "valid",
+          "b": "identity",
+          "label": "接受子集",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "defect",
+          "b": "diagnose",
+          "label": "可复现缺陷",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "unresolved",
+          "b": "diagnose",
+          "label": "工具原因",
+          "kind": "plan",
+          "side": null
+        }
+      ],
+      "groups": [],
+      "questions": [
+        "化学有效、几何有效、拓扑身份各自对应独立检查。",
+        "同一个样本在所有阶段使用相同来源 ID。"
+      ]
+    },
+    {
+      "id": "identity",
+      "name": "身份与新颖性证据",
+      "kicker": "04 / IDENTITY & NOVELTY",
+      "title": "“新”具体指哪一层？参考范围覆盖到哪里？",
+      "desc": "三条证据链分开读取：批次去重、公开结构库比对、训练集核查。MOFid 从最终 CIF 重建身份，用来复查序列提出的构筑块是否落实到了框架。",
+      "positions": [
+        {
+          "id": "cif",
+          "x": 40,
+          "y": 80
+        },
+        {
+          "id": "dedup",
+          "x": 410,
+          "y": 80
+        },
+        {
+          "id": "dbmatch",
+          "x": 780,
+          "y": 80
+        },
+        {
+          "id": "seqnovel",
+          "x": 40,
+          "y": 330
+        },
+        {
+          "id": "review",
+          "x": 410,
+          "y": 330
+        },
+        {
+          "id": "mofid",
+          "x": 40,
+          "y": 600
+        },
+        {
+          "id": "trainref",
+          "x": 410,
+          "y": 600
+        },
+        {
+          "id": "idcompare",
+          "x": 780,
+          "y": 600
+        },
+        {
+          "id": "identityreport",
+          "x": 780,
+          "y": 850
+        },
+        {
+          "id": "blockedbw",
+          "x": 410,
+          "y": 850
+        }
+      ],
+      "edges": [
+        {
+          "a": "cif",
+          "b": "dedup",
+          "label": "同批次",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "dedup",
+          "b": "dbmatch",
+          "label": "参考库查询",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "seqnovel",
+          "b": "review",
+          "label": "训练外片段",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "mofid",
+          "b": "idcompare",
+          "label": "生成身份",
+          "kind": "flow",
+          "side": "top"
+        },
+        {
+          "a": "trainref",
+          "b": "idcompare",
+          "label": "训练身份",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "idcompare",
+          "b": "identityreport",
+          "label": "覆盖 + 匹配",
+          "kind": "flow",
+          "side": null
+        },
+        {
+          "a": "dbmatch",
+          "b": "identityreport",
+          "label": "公开库证据",
+          "kind": "flow",
+          "side": "right"
+        },
+        {
+          "a": "review",
+          "b": "identityreport",
+          "label": "片段证据",
+          "kind": "plan",
+          "side": "right"
+        }
+      ],
+      "groups": [
+        {
+          "x": 16,
+          "y": 40,
+          "w": 1080,
+          "h": 190,
+          "title": "证据 A · 晶体结构的唯一性与数据库匹配"
+        },
+        {
+          "x": 16,
+          "y": 290,
+          "w": 710,
+          "h": 190,
+          "title": "证据 B · 序列提出的分子片段"
+        },
+        {
+          "x": 16,
+          "y": 560,
+          "w": 1080,
+          "h": 190,
+          "title": "证据 C · 从 CIF 实测框架身份"
+        }
+      ],
+      "questions": [
+        "156/504：序列 canonical SMILES 差集。",
+        "107/427：弛豫有效结构的完整 MOFid 身份识别数。",
+        "两个数字回答不同的问题，分别保留分母和方法。"
+      ]
+    },
+    {
+      "id": "performance",
+      "name": "性能评价与历史反馈",
+      "kicker": "05 / EXISTING EVALUATION",
+      "title": "已有性能管线怎样产生标签、分流候选并验证结果？",
+      "desc": "这条管线已经跑通，11月11日起暂停扩展任务。恢复时从对应结构版本重算电荷与特征，并沿用登记、对照和真实评价规则。",
+      "positions": [
+        {
+          "id": "labels",
+          "x": 40,
+          "y": 80
+        },
+        {
+          "id": "zeo",
+          "x": 410,
+          "y": 80
+        },
+        {
+          "id": "charge",
+          "x": 780,
+          "y": 80
+        },
+        {
+          "id": "surrogate",
+          "x": 410,
+          "y": 330
+        },
+        {
+          "id": "ood",
+          "x": 780,
+          "y": 330
+        },
+        {
+          "id": "widom",
+          "x": 780,
+          "y": 580
+        },
+        {
+          "id": "gcmc",
+          "x": 410,
+          "y": 580
+        },
+        {
+          "id": "fair",
+          "x": 40,
+          "y": 580
+        },
+        {
+          "id": "feedback",
+          "x": 40,
+          "y": 330
+        },
+        {
+          "id": "synthesis",
+          "x": 40,
+          "y": 850
+        },
+        {
+          "id": "delivery",
+          "x": 410,
+          "y": 850
+        }
+      ],
+      "edges": [
+        {
+          "a": "labels",
+          "b": "surrogate",
+          "label": "训练标签",
+          "kind": "paused",
+          "side": null
+        },
+        {
+          "a": "zeo",
+          "b": "surrogate",
+          "label": "G特征",
+          "kind": "paused",
+          "side": null
+        },
+        {
+          "a": "charge",
+          "b": "ood",
+          "label": "带电荷结构 / Chem",
+          "kind": "paused",
+          "side": null
+        },
+        {
+          "a": "surrogate",
+          "b": "ood",
+          "label": "排序与域检查",
+          "kind": "paused",
+          "side": null
+        },
+        {
+          "a": "ood",
+          "b": "widom",
+          "label": "域内筛选 / 域外精算",
+          "kind": "paused",
+          "side": null
+        },
+        {
+          "a": "widom",
+          "b": "gcmc",
+          "label": "精算候选",
+          "kind": "paused",
+          "side": null
+        },
+        {
+          "a": "gcmc",
+          "b": "fair",
+          "label": "真值与成本",
+          "kind": "paused",
+          "side": null
+        },
+        {
+          "a": "fair",
+          "b": "feedback",
+          "label": "更新选择",
+          "kind": "baseline",
+          "side": null
+        },
+        {
+          "a": "feedback",
+          "b": "surrogate",
+          "label": "补标签 / 更新",
+          "kind": "feedback",
+          "side": null
+        },
+        {
+          "a": "fair",
+          "b": "synthesis",
+          "label": "桌面可行性",
+          "kind": "paused",
+          "side": null
+        },
+        {
+          "a": "synthesis",
+          "b": "delivery",
+          "label": "证据材料",
+          "kind": "plan",
+          "side": null
+        }
+      ],
+      "groups": [],
+      "questions": [
+        "代理在训练分布内有效，生成家族需独立验证。",
+        "规则反馈选择已有执行；生成器改进的研究闭环仍待验证。"
+      ]
+    },
+    {
+      "id": "research",
+      "name": "工作队列与依赖",
+      "kicker": "06 / DECISIONS & NEXT WORK",
+      "title": "下一步先做什么，完成后允许作出哪个判断？",
+      "desc": "从 P0 向后读取。点击任务看具体输入、产物和验收条件；选中后用上游 / 下游追踪它依赖什么、会解锁什么。状态来自 2026-11-13 文件快照。",
+      "positions": [
+        {
+          "id": "p0ref",
+          "x": 40,
+          "y": 100
+        },
+        {
+          "id": "p0diag",
+          "x": 40,
+          "y": 370
+        },
+        {
+          "id": "p1bench",
+          "x": 410,
+          "y": 100
+        },
+        {
+          "id": "p1control",
+          "x": 780,
+          "y": 100
+        },
+        {
+          "id": "p2method",
+          "x": 410,
+          "y": 370
+        },
+        {
+          "id": "p2test",
+          "x": 780,
+          "y": 370
+        },
+        {
+          "id": "p3product",
+          "x": 780,
+          "y": 650
+        },
+        {
+          "id": "blockedbw",
+          "x": 40,
+          "y": 650
+        },
+        {
+          "id": "metrics",
+          "x": 410,
+          "y": 650
+        }
+      ],
+      "edges": [
+        {
+          "a": "p0ref",
+          "b": "p1bench",
+          "label": "身份覆盖",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "p0diag",
+          "b": "p2method",
+          "label": "机制假设",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "p1bench",
+          "b": "p2method",
+          "label": "主要瓶颈",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "p1bench",
+          "b": "p1control",
+          "label": "冻结基线",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "p1control",
+          "b": "p2test",
+          "label": "条件对照",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "p2method",
+          "b": "p2test",
+          "label": "改进版本",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "p2test",
+          "b": "p3product",
+          "label": "稳定接口与结果",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "blockedbw",
+          "b": "metrics",
+          "label": "训练集覆盖",
+          "kind": "plan",
+          "side": null
+        },
+        {
+          "a": "metrics",
+          "b": "p3product",
+          "label": "可追溯评价",
+          "kind": "plan",
+          "side": null
+        }
+      ],
+      "groups": [],
+      "questions": [
+        "两个 P0 可并行：训练匹配与生成结构诊断。",
+        "P1 固定基线和条件对照。",
+        "优先模块输入输出、编排和交付；应用性能研究独立管理。"
+      ]
+    }
+  ],
+  "statuses": {
+    "done": "已实现",
+    "partial": "部分完成",
+    "planned": "待开展",
+    "paused": "当前暂停",
+    "baseline": "保留基线",
+    "pilot": "探索试点",
+    "blocked": "依赖受阻"
+  }
+}

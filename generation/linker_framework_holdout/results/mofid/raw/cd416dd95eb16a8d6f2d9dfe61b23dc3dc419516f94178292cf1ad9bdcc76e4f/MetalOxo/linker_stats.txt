@@ -1,0 +1,2 @@
+HSXMZIQYXIWYII-UHFFFAOYSA-L	2	3	InChI=1S/C16H9ClO4/c17-13-6-5-11(16(20)21)10-4-3-8-1-2-9(15(18)19)7-12(8)14(10)13/h1-7H,(H,18,19)(H,20,21)/p-2	HSXMZIQYXIWYII	[O-]C(=O)c1ccc2c(c1)c1c(Cl)ccc(c1cc2)C(=O)[O-]	[O-][C]([c]1[cH][cH][c]2[c]([cH]1)[c]1[c](Cl)[cH][cH][c]([c]1[cH][cH]2)[C]([O])[O-])[O]
+

@@ -1,0 +1,110 @@
+{
+  "job": {
+    "name": "S300_B15",
+    "id": "B15",
+    "arm": "S300",
+    "smiles": "COc1ccc2c(C(=O)[O-])c3cccc(OC)c3c(C(=O)[O-])c2c1",
+    "cif": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/relaxed/S300_B15.cif",
+    "input_sha256": "43bd347e5e187b1fe1baa5502c8d4279c7f5ad7aba116387090d40c4a3ed9a78",
+    "original_volume": 2143.695012984001,
+    "baseline_strict": false,
+    "baseline_converged": true,
+    "baseline_steps": 133
+  },
+  "status": "completed",
+  "input_sha256": "43bd347e5e187b1fe1baa5502c8d4279c7f5ad7aba116387090d40c4a3ed9a78",
+  "model_sha256": "01bfe22100139f424713cf921144e5509cbe353d67aa9fa1be9c6e1e0ed35845",
+  "before": {
+    "natoms": 113,
+    "volume": 2223.012201890958,
+    "dmin": 1.0838523314730877,
+    "fragments": 1,
+    "cell": [
+      12.993805329973778,
+      13.07058513141234,
+      13.09818865139537,
+      90.54128497348712,
+      88.02366074532478,
+      89.42957301762007
+    ],
+    "coord_2.3": {
+      "cn": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "angle_rms": 10.487690402128724
+    },
+    "coord_2.5": {
+      "cn": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "angle_rms": 10.487690402128724
+    },
+    "coord_2.7": {
+      "cn": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "angle_rms": 10.487690402128724
+    }
+  },
+  "declared_natoms": 113,
+  "converged": true,
+  "steps": 156,
+  "after": {
+    "natoms": 113,
+    "volume": 2145.8064432864794,
+    "dmin": 1.0836635160321213,
+    "fragments": 1,
+    "cell": [
+      12.77994915758026,
+      12.801775099580864,
+      13.140120124621875,
+      90.86616886245899,
+      86.80825484505877,
+      88.92137996476768
+    ],
+    "coord_2.3": {
+      "cn": [
+        4,
+        4,
+        5,
+        4
+      ],
+      "angle_rms": 6.156273785843814
+    },
+    "coord_2.5": {
+      "cn": [
+        4,
+        4,
+        5,
+        4
+      ],
+      "angle_rms": 6.156273785843814
+    },
+    "coord_2.7": {
+      "cn": [
+        4,
+        4,
+        5,
+        4
+      ],
+      "angle_rms": 6.156273785843814
+    }
+  },
+  "out": "/share/rickyswork/ai_mof/generation/convergence_sensitivity_20261116/relaxed/S300_B15.cif",
+  "output_sha256": "8aa97835ca5a3f273c180f17e5c926fa4ff06b411ba1636d086fadced5010273",
+  "volume_ratio_to_original": 1.0009849490201217,
+  "volume_ratio_to_start": 0.965269754912364,
+  "displacement_rms": 0.7779140089194152,
+  "displacement_max": 2.4940607352971482,
+  "geometry_valid": true,
+  "seconds": 113.44848001003265
+}

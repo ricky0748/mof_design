@@ -1,0 +1,177 @@
+{
+  "primary_26": {
+    "n": 26,
+    "completed": 26,
+    "converged": 26,
+    "strict": 26,
+    "converged_and_strict": 26,
+    "lost_strict": [],
+    "rescued": [],
+    "identity_changed": [],
+    "energy_change_per_atom": {
+      "median": -0.00932534144431833,
+      "min": -0.015068563369602765,
+      "max": -0.0015733952641312499
+    },
+    "volume_change_percent": {
+      "median": -7.329540334245633,
+      "min": -12.819206675620897,
+      "max": 0.753083051690151
+    },
+    "displacement_rms": {
+      "median": 0.6574674348172729,
+      "min": 0.08914847231769826,
+      "max": 1.1048457112643415
+    },
+    "final_atomic_fmax": {
+      "median": 0.04949195656147367,
+      "min": 0.04349198676176356,
+      "max": 0.05123973687816645
+    },
+    "final_filter_fmax": {
+      "median": 0.0479486114068831,
+      "min": 0.043478647399606954,
+      "max": 0.04976227461659381
+    },
+    "steps": {
+      "median": 112.5,
+      "min": 27.0,
+      "max": 171.0
+    },
+    "cn_changed_structures_2.5": [],
+    "atomic_fmax_above_0.05": [
+      "S300_B12",
+      "S300_B14",
+      "S300_B16",
+      "S300_B24",
+      "S300_B27",
+      "S300_B28",
+      "S300_B30"
+    ]
+  },
+  "diagnostic_8": {
+    "n": 8,
+    "completed": 8,
+    "converged": 5,
+    "strict": 2,
+    "converged_and_strict": 2,
+    "lost_strict": [],
+    "rescued": [],
+    "identity_changed": [
+      "S300_B02",
+      "S300_B15",
+      "S300_B25",
+      "D19_B25",
+      "D19_B29"
+    ],
+    "energy_change_per_atom": {
+      "median": -0.011416319445419348,
+      "min": -11232.930065236123,
+      "max": -0.0048759968828696355
+    },
+    "volume_change_percent": {
+      "median": -7.437549459610509,
+      "min": -12.837383181837048,
+      "max": 4.288215204502799
+    },
+    "displacement_rms": {
+      "median": 0.9620403854135099,
+      "min": 0.40463028786301575,
+      "max": 1.4645806769527794
+    },
+    "final_atomic_fmax": {
+      "median": 0.05113242670894939,
+      "min": 0.045702505185883986,
+      "max": 8295374.775504169
+    },
+    "final_filter_fmax": {
+      "median": 0.04960451646860641,
+      "min": 0.044521887556217464,
+      "max": 7778420.584906121
+    },
+    "steps": {
+      "median": 166.0,
+      "min": 105.0,
+      "max": 300.0
+    },
+    "cn_changed_structures_2.5": [
+      "S300_B02",
+      "S300_B15",
+      "S300_B25",
+      "D19_B25"
+    ],
+    "atomic_fmax_above_0.05": [
+      "S300_B02",
+      "D19_B02",
+      "S300_B25",
+      "D19_B25",
+      "D19_B29"
+    ]
+  },
+  "all_34": {
+    "n": 34,
+    "completed": 34,
+    "converged": 31,
+    "strict": 28,
+    "converged_and_strict": 28,
+    "lost_strict": [],
+    "rescued": [],
+    "identity_changed": [
+      "S300_B02",
+      "S300_B15",
+      "S300_B25",
+      "D19_B25",
+      "D19_B29"
+    ],
+    "energy_change_per_atom": {
+      "median": -0.010055266159481751,
+      "min": -11232.930065236123,
+      "max": -0.0015733952641312499
+    },
+    "volume_change_percent": {
+      "median": -7.329540334245633,
+      "min": -12.837383181837048,
+      "max": 4.288215204502799
+    },
+    "displacement_rms": {
+      "median": 0.6832542927365028,
+      "min": 0.08914847231769826,
+      "max": 1.4645806769527794
+    },
+    "final_atomic_fmax": {
+      "median": 0.04951876334170359,
+      "min": 0.04349198676176356,
+      "max": 8295374.775504169
+    },
+    "final_filter_fmax": {
+      "median": 0.048350782527014274,
+      "min": 0.043478647399606954,
+      "max": 7778420.584906121
+    },
+    "steps": {
+      "median": 117.5,
+      "min": 27.0,
+      "max": 300.0
+    },
+    "cn_changed_structures_2.5": [
+      "S300_B02",
+      "S300_B15",
+      "S300_B25",
+      "D19_B25"
+    ],
+    "atomic_fmax_above_0.05": [
+      "S300_B02",
+      "D19_B02",
+      "S300_B12",
+      "S300_B14",
+      "S300_B16",
+      "S300_B24",
+      "S300_B25",
+      "D19_B25",
+      "S300_B27",
+      "S300_B28",
+      "D19_B29",
+      "S300_B30"
+    ]
+  }
+}

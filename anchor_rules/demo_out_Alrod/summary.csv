@@ -1,0 +1,13 @@
+name,smiles,status,primary_types,optional,pore_groups,n_groups,n_connections,shape,anchor_angles,max_anchor_dist,node,node_compatible,exported,lr_smiles
+PZDC_MOF-303,OC(=O)c1cc(C(=O)O)[nH]n1,ok,carboxylate,pyrazolate,pyrazolate,2,2,linear,[150.3],5.03,Al_rod,True,True,[Lr][c]1c[c]([Lr])[nH]n1
+fumarate_MOF-801_AlFum,OC(=O)/C=C/C(=O)O,ok,carboxylate,,,2,2,linear,[176.0],3.8,Al_rod,True,True,[Lr][C]=[C][Lr]
+BDC,OC(=O)c1ccc(cc1)C(=O)O,ok,carboxylate,,,2,2,linear,[180.0],5.77,Al_rod,True,True,[Lr][c]1cc[c]([Lr])cc1
+BTC_HKUST-1,OC(=O)c1cc(C(=O)O)cc(C(=O)O)c1,ok,carboxylate,,,3,3,trigonal_planar,"[120.0, 120.0, 120.0]",5.0,Al_rod,True,True,[Lr][c]1c[c]([Lr])c[c]([Lr])c1
+2-mIm_ZIF-8,Cc1ncc[nH]1,lt2_connections,,imidazolate,imidazolate,,,,,,Al_rod,False,False,Cc1ncc[nH]1
+Trz_CALF-20,c1nc[nH]n1,lt2_connections,,"1,2,4-triazolate","1,2,4-triazolate",,,,,,Al_rod,False,False,c1nc[nH]n1
+"4,4-bpy",n1ccc(cc1)-c1ccncc1,lt2_connections,,pyridyl,pyridyl,,,,,,Al_rod,False,False,c1cc(-c2ccncc2)ccn1
+BDP,c1cc(ccc1-c1cn[nH]c1)-c1cn[nH]c1,lt2_connections,,pyrazolate,pyrazolate,,,,,,Al_rod,False,False,c1cc(-c2cn[nH]c2)ccc1-c1cn[nH]c1
+BDT,c1cc(ccc1-c1nnn[nH]1)-c1nnn[nH]1,lt2_connections,,tetrazolate+tetrazolate(extra N),tetrazolate,,,,,,Al_rod,False,False,c1cc(-c2nnn[nH]2)ccc1-c1nnn[nH]1
+"2,6-pydc",OC(=O)c1cccc(n1)C(=O)O,ok,carboxylate,pyridyl,pyridyl,2,2,bent,[116.7],4.86,Al_rod,True,True,[Lr][c]1ccc[c]([Lr])n1
+isonicotinate,OC(=O)c1ccncc1,lt2_connections,carboxylate,pyridyl,pyridyl,1,1,,,,Al_rod,False,False,[Lr][c]1ccncc1
+BPDC,OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)O,ok,carboxylate,,,2,2,linear,[176.6],10.09,Al_rod,True,True,[Lr][c]1ccc(-c2cc[c]([Lr])cc2)cc1

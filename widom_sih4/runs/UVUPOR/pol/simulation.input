@@ -1,0 +1,37 @@
+SimulationType                MonteCarlo
+NumberOfCycles                5000
+NumberOfInitializationCycles  0
+PrintEvery                    1000
+
+Forcefield                    Local
+CutOffVDW                     12.8
+CutOffChargeCharge            12.8
+ChargeMethod                  Ewald
+EwaldPrecision                1.0e-6
+UseChargesFromCIFFile         yes
+
+Framework                     0
+FrameworkName                 UVUPOR
+RemoveAtomNumberCodeFromLabel yes
+UnitCells                     2 2 2
+ExternalTemperature           298.0
+
+Component 0 MoleculeName             N2
+            MoleculeDefinition       Local
+            WidomProbability         1.0
+            CreateNumberOfMolecules  0
+
+Component 1 MoleculeName             O2
+            MoleculeDefinition       Local
+            WidomProbability         1.0
+            CreateNumberOfMolecules  0
+
+Component 2 MoleculeName             CO
+            MoleculeDefinition       Local
+            WidomProbability         1.0
+            CreateNumberOfMolecules  0
+
+Component 3 MoleculeName             CO2
+            MoleculeDefinition       Local
+            WidomProbability         1.0
+            CreateNumberOfMolecules  0

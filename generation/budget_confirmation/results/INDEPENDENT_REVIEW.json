@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "logical_completed_records": 120,
+  "step_caps_verified": true,
+  "dual_OR_and_cost_sum_verified": true,
+  "reference_hash_unchanged": true,
+  "default_selection_recomputed": "S",
+  "dual_single_unit_cost_ratio": 1.6082891354475688,
+  "identity_tool_statuses": {
+    "A300": {
+      "partial": 30
+    },
+    "S300": {
+      "identified": 28,
+      "partial": 2
+    },
+    "D7": {
+      "identified": 30
+    },
+    "D19": {
+      "identified": 29,
+      "partial": 1
+    }
+  },
+  "runtime_deviation_file": "RUNTIME_DEVIATIONS.json",
+  "launcher_note": "Frozen launcher contains a trailing CR-only blank line; it returned nonzero only after report, audit, and ALL_DONE completed. Scientific stages and data unchanged; local future launcher normalized to LF."
+}

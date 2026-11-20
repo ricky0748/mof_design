@@ -1,0 +1,3 @@
+node	[V]
+linker	C[CH]CC(=CC[CH]C(=[C])[C])[C][C]([O])[O]
+linker	[O]O[C]O[O]

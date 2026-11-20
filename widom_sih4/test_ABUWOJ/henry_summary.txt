@@ -1,0 +1,19 @@
+ABUWOJ 测试，2000 cycles，8 分子同一 run（Ewald）:
+	[SiH4] Average Henry coefficient:  0.000146596 +/- 8.42721e-06 [mol/kg/Pa]
+	[H2] Average Henry coefficient:  4.34727e-07 +/- 2.23752e-09 [mol/kg/Pa]
+	[N2] Average Henry coefficient:  8.08565e-06 +/- 3.4975e-07 [mol/kg/Pa]
+	[O2] Average Henry coefficient:  5.47846e-06 +/- 1.21527e-07 [mol/kg/Pa]
+	[Ar] Average Henry coefficient:  5.69802e-06 +/- 1.13629e-07 [mol/kg/Pa]
+	[CH4] Average Henry coefficient:  1.81927e-05 +/- 2.91207e-07 [mol/kg/Pa]
+	[CO] Average Henry coefficient:  7.39391e-06 +/- 9.79492e-08 [mol/kg/Pa]
+	[CO2] Average Henry coefficient:  0.00616685 +/- 0.00216524 [mol/kg/Pa]
+
+拆分 np/pol 两组，各 2000 cycles:
+	[SiH4] Average Henry coefficient:  0.000150179 +/- 7.89941e-06 [mol/kg/Pa]
+	[H2] Average Henry coefficient:  4.33968e-07 +/- 6.45169e-09 [mol/kg/Pa]
+	[Ar] Average Henry coefficient:  5.67919e-06 +/- 4.22076e-08 [mol/kg/Pa]
+	[CH4] Average Henry coefficient:  1.84291e-05 +/- 4.72419e-07 [mol/kg/Pa]
+	[N2] Average Henry coefficient:  8.39861e-06 +/- 6.21062e-07 [mol/kg/Pa]
+	[O2] Average Henry coefficient:  5.47167e-06 +/- 1.03498e-07 [mol/kg/Pa]
+	[CO] Average Henry coefficient:  7.30173e-06 +/- 7.21111e-08 [mol/kg/Pa]
+	[CO2] Average Henry coefficient:  0.00442165 +/- 0.00139214 [mol/kg/Pa]

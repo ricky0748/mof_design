@@ -1,0 +1,160 @@
+{
+  "training_sequences": 187047,
+  "unique_organic_strings": 135471,
+  "composition_candidates": 4143,
+  "unparsed_unique_strings": 0,
+  "source_sha256": "5e77f03dc9e04476cd5748b35660172b080e538df872c342437057e652365bf2",
+  "rows": [
+    {
+      "id": "B01",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B02",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B03",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B04",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B05",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B06",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B07",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B08",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B09",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B10",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B11",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B12",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B13",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B14",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B15",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B16",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B17",
+      "raw_canonical_in_train": false,
+      "normalized_in_train": false
+    },
+    {
+      "id": "B18",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B19",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B20",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B21",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B22",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B23",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B24",
+      "raw_canonical_in_train": false,
+      "normalized_in_train": false
+    },
+    {
+      "id": "B25",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B26",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B27",
+      "raw_canonical_in_train": false,
+      "normalized_in_train": false
+    },
+    {
+      "id": "B28",
+      "raw_canonical_in_train": false,
+      "normalized_in_train": false
+    },
+    {
+      "id": "B29",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    },
+    {
+      "id": "B30",
+      "raw_canonical_in_train": true,
+      "normalized_in_train": true
+    }
+  ],
+  "calculated_after_selection": true
+}

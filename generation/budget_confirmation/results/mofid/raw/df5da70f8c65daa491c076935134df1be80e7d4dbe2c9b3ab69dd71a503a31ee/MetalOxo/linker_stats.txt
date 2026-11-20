@@ -1,0 +1,2 @@
+LQTKFEOFBMRYLS-UHFFFAOYSA-L	2	3	InChI=1S/C20H10N2O8/c23-19(24)15-7-13-9(5-17(15)21(27)28)1-3-11-12(13)4-2-10-6-18(22(29)30)16(20(25)26)8-14(10)11/h1-8H,(H,23,24)(H,25,26)/p-2	LQTKFEOFBMRYLS	[O-]C(=O)c1cc2c(cc1N(=O)=O)ccc1c2ccc2c1cc(c(c2)N(=O)=O)C(=O)[O-]	[O-][C]([c]1[cH][c]2[c]([cH][c]1N([O])[O])[cH][cH][c]1[c]2[cH][cH][c]2[c]1[cH][c]([c]([cH]2)N([O])[O])[C]([O])[O-])[O]
+

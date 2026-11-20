@@ -1,0 +1,1 @@
+CO[C]1[CH]c2c([C](C1=O)C(=O)[O-])ccc1c2cc(cc1OC)C(=O)[O-].COc1cc(C(=O)[O-])c2c(c1)c1cc([C]=O)cc(c1cc2)OC.COc1cc(C(=O)[O-])c2c(c1)c1cc(cc(c1cc2)OC)C(=O)[O-].[O].[O][V]O.[V] MOFid-v1.ERROR.cat0.NO_REF;A300_B21

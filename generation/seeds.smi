@@ -1,0 +1,10 @@
+BDC	OC(=O)c1ccc(cc1)C(=O)O
+DOBDC	Oc1cc(C(=O)O)c(O)cc1C(=O)O
+NH2-BDC	Nc1cc(C(=O)O)ccc1C(=O)O
+DM-BDC	Cc1cc(C(=O)O)c(C)cc1C(=O)O
+TDC	OC(=O)c1ccc(s1)C(=O)O
+1,4-NDC	OC(=O)c1ccc2ccccc2c1C(=O)O
+2,6-NDC	OC(=O)c1ccc2cc(ccc2c1)C(=O)O
+BPDC	OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)O
+BTC	OC(=O)c1cc(cc(c1)C(=O)O)C(=O)O
+BTB	OC(=O)c1ccc(cc1)c1cc(cc(c1)c1ccc(cc1)C(=O)O)C(=O)O

@@ -1,0 +1,2 @@
+FVQFCOCOFKPVPX-UHFFFAOYSA-L	2	3	InChI=1S/C18H13NO5/c1-19-15-5-4-12-13(16(15)18(23)24)3-2-11-10(8-20)6-9(17(21)22)7-14(11)12/h2-8,19H,1H3,(H,21,22)(H,23,24)/p-2	FVQFCOCOFKPVPX	CNc1ccc2c(c1C(=O)[O-])ccc1c2cc(cc1C=O)C(=O)[O-]	CN[c]1[cH][cH][c]2[c]([c]1[C]([O])[O-])[cH][cH][c]1[c]2[cH][c]([cH][c]1[CH][O])[C]([O])[O-]
+

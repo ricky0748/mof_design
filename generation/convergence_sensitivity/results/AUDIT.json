@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "logical_jobs": 34,
+  "completed_checked": 34,
+  "errors": [],
+  "scope": "hashes, declared budgets and recorded optimizer convergence; not independent force recomputation"
+}

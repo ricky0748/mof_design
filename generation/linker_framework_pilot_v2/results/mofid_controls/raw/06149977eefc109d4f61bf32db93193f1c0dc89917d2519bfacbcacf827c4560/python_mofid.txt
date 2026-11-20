@@ -1,0 +1,1 @@
+[Cd][Cd].[O-]C(=O)C=Cc1ccc(cc1)C(=O)[O-] MOFid-v1.cds.cat0.NO_REF;control_C_STOCK

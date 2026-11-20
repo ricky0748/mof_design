@@ -1,0 +1,2 @@
+DMVTYHLHWXRLBC-UHFFFAOYSA-L	2	3	InChI=1S/C20H12O10S2/c21-19(22)11-3-1-9-7-15(31(25,26)27)18-14-6-12(20(23)24)4-2-10(14)8-16(32(28,29)30)17(18)13(9)5-11/h1-8,25,28H,(H,21,22)(H,23,24)/p-2	DMVTYHLHWXRLBC	[O-]C(=O)c1ccc2c(c1)c1c(cc3c(c1c(c2)S([O])([O])O)cc(cc3)C(=O)[O-])S(O)([O])[O]	[O-][C]([c]1[cH][cH][c]2[c]([cH]1)[c]1[c]([cH][c]3[c]([c]1[c]([cH]2)S([O])([O])O)[cH][c]([cH][cH]3)[C]([O])[O-])S(O)([O])[O])[O]
+

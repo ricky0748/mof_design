@@ -1,0 +1,1 @@
+[O-]C(=O)c1cc2c(cc1F)ccc1c2ccc2c1cc(c(c2)F)C(=O)[O-].[O].[O][V].[V] MOFid-v1.ERROR.cat0.NO_REF;A_L09

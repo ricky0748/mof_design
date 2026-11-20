@@ -1,0 +1,148 @@
+{
+  "n": 18,
+  "arms": {
+    "A": {
+      "geometry": 1,
+      "converged": 2,
+      "target_recovered": 2,
+      "topology_identified": 0,
+      "joint": 0
+    },
+    "U7": {
+      "geometry": 16,
+      "converged": 16,
+      "target_recovered": 17,
+      "topology_identified": 17,
+      "joint": 16
+    },
+    "U19": {
+      "geometry": 18,
+      "converged": 18,
+      "target_recovered": 18,
+      "topology_identified": 18,
+      "joint": 18
+    }
+  },
+  "statuses": {
+    "A": {
+      "completed": 18
+    },
+    "U7": {
+      "completed": 18
+    },
+    "U19": {
+      "completed": 18
+    }
+  },
+  "paired_A_U7": {
+    "right_only": 16,
+    "neither": 2,
+    "exact_mcnemar_p": 3.0517578125e-05
+  },
+  "paired_A_U19": {
+    "right_only": 18,
+    "exact_mcnemar_p": 7.62939453125e-06
+  },
+  "both_seeds_pass": 16,
+  "either_seed_pass": 18,
+  "same_seed_success_status": 16,
+  "expected_pcu": {
+    "U7": 17,
+    "U19": 18
+  },
+  "unique_formal_jobs": 54,
+  "aliases": {},
+  "reread_discrepancies": [],
+  "old_gate": {
+    "U7": {
+      "rejected": 18,
+      "rejected_and_pass": 16
+    },
+    "U19": {
+      "rejected": 18,
+      "rejected_and_pass": 18
+    }
+  },
+  "unique_U_frameworks": 19,
+  "reference_processed": 187047,
+  "reference_identified": 171978,
+  "training_matches": [
+    {
+      "samples": [
+        "U7_F03",
+        "U19_F03"
+      ],
+      "training_ids": [
+        "224094",
+        "233675",
+        "306761",
+        "63238"
+      ]
+    },
+    {
+      "samples": [
+        "U7_F16",
+        "U19_F16"
+      ],
+      "training_ids": [
+        "44355",
+        "84814"
+      ]
+    }
+  ],
+  "physical_relaxation_seconds": 4363.5380000000005,
+  "unique_valid_U_frameworks": 18,
+  "unique_U_frameworks_all_identified": 19,
+  "identity_keys_only_in_failed_geometry": [
+    {
+      "name": "U7_F11",
+      "topology": "pcu",
+      "key": "[\"CCCc1cc(C(=O)[O-])c2c(c1)c1cc(ccc1cc2)C(=O)[O-].[O-]C(=O)C1=CC=C([C]=C1)[CH]C=C1[C][CH][C][CH][C]1C(=O)[O-].[O-]C(=O)c1ccc2c(c1)c1[C][C][CH][C](c1cc2)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]"
+    }
+  ],
+  "training_fragment_strata": {
+    "raw_canonical_in_train": {
+      "True": {
+        "n": 17,
+        "A": 0,
+        "U7": 15,
+        "U19": 17
+      },
+      "False": {
+        "n": 1,
+        "A": 0,
+        "U7": 1,
+        "U19": 1
+      }
+    },
+    "normalized_in_train": {
+      "True": {
+        "n": 17,
+        "A": 0,
+        "U7": 15,
+        "U19": 17
+      },
+      "False": {
+        "n": 1,
+        "A": 0,
+        "U7": 1,
+        "U19": 1
+      }
+    }
+  },
+  "training_fragment_unparsed_strings": 0,
+  "coordination": {
+    "2.3": {
+      "all_zn_cn4": 34,
+      "structures_with_cif": 36
+    },
+    "2.5": {
+      "all_zn_cn4": 34,
+      "structures_with_cif": 36
+    },
+    "2.7": {
+      "all_zn_cn4": 34,
+      "structures_with_cif": 36
+    }
+  }
+}

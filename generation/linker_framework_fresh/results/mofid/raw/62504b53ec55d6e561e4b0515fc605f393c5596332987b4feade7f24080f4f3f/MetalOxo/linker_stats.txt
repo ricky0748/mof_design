@@ -1,0 +1,2 @@
+KJZDRYLZMRZOOJ-UHFFFAOYSA-L	2	3	InChI=1S/C16H11NO4/c17-10-6-13-11(14(7-10)16(20)21)4-3-8-1-2-9(15(18)19)5-12(8)13/h1-7H,17H2,(H,18,19)(H,20,21)/p-2	KJZDRYLZMRZOOJ	Nc1cc(C(=O)[O-])c2c(c1)c1cc(ccc1cc2)C(=O)[O-]	N[c]1[cH][c]([C]([O])[O-])[c]2[c]([cH]1)[c]1[cH][c]([cH][cH][c]1[cH][cH]2)[C]([O])[O-]
+

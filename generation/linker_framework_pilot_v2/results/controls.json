@@ -1,0 +1,89 @@
+[
+  {
+    "id": "C_BDC",
+    "smiles": "O=C(O)c1ccc(C(=O)O)cc1",
+    "neutral_smiles": "O=C(O)c1ccc(C(=O)O)cc1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/C_BDC.xyz",
+    "bb_sha256": "5b4de7a81b6c66697f217b44c9a79117e30463c46af63f1b095e49b54e8ab43b",
+    "profile": {
+      "angles": [
+        1.2940110415214874,
+        1.2940110415214874,
+        180.0
+      ],
+      "span": 4.290335730452805
+    },
+    "arm": "control",
+    "template": {
+      "topology": "pcu",
+      "node": "N16"
+    },
+    "kind": "ligand"
+  },
+  {
+    "id": "C_IPC",
+    "smiles": "O=C(O)c1cccc(C(=O)O)c1",
+    "neutral_smiles": "O=C(O)c1cccc(C(=O)O)c1",
+    "bb": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_v2_20261113/bb/C_IPC.xyz",
+    "bb_sha256": "7797f872d92702d8ede08c3750b01f46a14325d04eeedccb5e82816f20f1f870",
+    "profile": {
+      "angles": [
+        28.594072279512144,
+        31.116211316040534,
+        120.2897164097916
+      ],
+      "span": 3.711641176083701
+    },
+    "arm": "control",
+    "template": {
+      "name": "cds+N417+E217",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E217",
+      "profile": {
+        "angles": [
+          30.425572905139617,
+          30.210112340463393,
+          119.36435127370456
+        ],
+        "span": 3.7076332895797552
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E217.cif",
+      "source_sha256": "9ec81c5ffb9e7980558eef2b8bed826f57ee1d5c9362aa8db48fc0dc78066e35",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "67dd5f975b0d0ddac27b8bf5b790d6451e26a2da6545a636e23e485cdf22bcb6",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "ligand"
+  },
+  {
+    "id": "C_STOCK",
+    "arm": "control",
+    "template": {
+      "name": "cds+N417+E112",
+      "topology": "cds",
+      "node": "N417",
+      "edge": "E112",
+      "profile": {
+        "angles": [
+          26.830023759817223,
+          26.60016802656524,
+          179.10537038182335
+        ],
+        "span": 6.533028811355418
+      },
+      "node_metals": [
+        "Cd"
+      ],
+      "source_cif": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/scale1000/cif/cds+N417+E112.cif",
+      "source_sha256": "aaa5059659c14bea4346b8c582fcd0b6d1dffb47444f5b0e75a559a9371d3a90",
+      "node_sha256": "bb2919f9704607b50df26128dbf5f013993419003edb434fe7fc6722afd7bd28",
+      "edge_sha256": "aba7d64ceb64c95e5e1cdd9d0a8017e0b17292af0018d889c655c7804b1f588f",
+      "topology_sha256": "18baaf7acd402d4eafe0a0e1ee129a745976bbd7aae135c7ec29241b185e1b57"
+    },
+    "kind": "stock"
+  }
+]

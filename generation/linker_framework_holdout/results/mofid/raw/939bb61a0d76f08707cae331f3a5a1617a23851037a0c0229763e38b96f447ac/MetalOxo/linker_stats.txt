@@ -1,0 +1,2 @@
+PZDMFMCIJFULHM-UHFFFAOYSA-L	2	3	InChI=1S/C21H15NO4/c1-22-19-10-18-14(17-9-13(21(25)26)5-7-15(17)19)6-4-11-2-3-12(20(23)24)8-16(11)18/h2-10,22H,1H3,(H,23,24)(H,25,26)/p-2	PZDMFMCIJFULHM	CNc1cc2c(c3c1ccc(c3)C(=O)[O-])ccc1c2cc(cc1)C(=O)[O-]	CN[c]1[cH][c]2[c]([c]3[c]1[cH][cH][c]([cH]3)[C]([O])[O-])[cH][cH][c]1[c]2[cH][c]([cH][cH]1)[C]([O])[O-]
+

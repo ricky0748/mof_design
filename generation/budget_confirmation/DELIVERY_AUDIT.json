@@ -1,0 +1,188 @@
+{
+  "passed": true,
+  "n": 26,
+  "rows": [
+    {
+      "id": "B01",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B03",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B04",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B05",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B06",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B07",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B08",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B09",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B10",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B11",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B12",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B13",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B14",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B16",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B17",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B18",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B19",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B20",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B21",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B22",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B23",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B24",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B26",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B27",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B28",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    },
+    {
+      "id": "B30",
+      "sha256_verified": true,
+      "geometry_reread_verified": true,
+      "identity_verified": true,
+      "optimizer_convergence_verified": true
+    }
+  ]
+}

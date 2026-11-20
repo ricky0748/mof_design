@@ -1,0 +1,87 @@
+{
+  "A": {
+    "geometry": 7,
+    "converged": 1,
+    "target_recovered": 5,
+    "topology_identified": 0,
+    "joint": 0,
+    "n": 20,
+    "statuses": {
+      "completed": 20
+    }
+  },
+  "B1": {
+    "geometry": 1,
+    "converged": 1,
+    "target_recovered": 1,
+    "topology_identified": 1,
+    "joint": 1,
+    "n": 20,
+    "statuses": {
+      "incompatible": 19,
+      "completed": 1
+    }
+  },
+  "U": {
+    "geometry": 20,
+    "converged": 20,
+    "target_recovered": 20,
+    "topology_identified": 20,
+    "joint": 20,
+    "n": 20,
+    "statuses": {
+      "completed": 20
+    }
+  },
+  "M": {
+    "geometry": 17,
+    "converged": 18,
+    "target_recovered": 19,
+    "topology_identified": 18,
+    "joint": 17,
+    "n": 20,
+    "statuses": {
+      "completed": 20
+    }
+  },
+  "U_vs_B1": {
+    "right_only": 19,
+    "both": 1,
+    "exact_mcnemar_p": 3.814697265625e-06
+  },
+  "M_vs_U": {
+    "both": 17,
+    "left_only": 3,
+    "exact_mcnemar_p": 0.25
+  },
+  "M_vs_A": {
+    "right_only": 17,
+    "neither": 3,
+    "exact_mcnemar_p": 1.52587890625e-05
+  },
+  "same_U_M_structures": 1,
+  "unique_formal_relaxations": 39,
+  "formal_aliases": 1,
+  "corrected_normalizations": [
+    "L03",
+    "L07",
+    "L16"
+  ],
+  "A_recovery_count_legacy": 5,
+  "strata": {
+    "True": {
+      "n": 8,
+      "A": 0,
+      "B1": 0,
+      "U": 8,
+      "M": 6
+    },
+    "False": {
+      "n": 12,
+      "A": 0,
+      "B1": 1,
+      "U": 12,
+      "M": 11
+    }
+  }
+}

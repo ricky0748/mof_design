@@ -1,0 +1,47 @@
+{
+  "protocol": "319a19db93f3767c96e32f4fd1ea1230e72f2ac93f5042de0c0dca7f59686b92",
+  "scripts": {
+    "choose.py": "c25e89da8fc96d94be385483fc9f9176ef780cd7a8331c83e3add772590ac298",
+    "build.py": "06b838b4af96211a758126079b4d6663029f8db756fc69ac632d92b597b48b5c",
+    "common.py": "ce9194d7bdf4af309d8b5a9f2072b629518c593164f3bd6d0d6bb6cd5fc27514",
+    "identity_checks.py": "7bc38fb546cc941684bff0de2dbd6d40ddc0f5904156139c31aff1e39742f5eb",
+    "test_contracts.py": "c957d1327804f830791719c8c3c20fc515a5419779a45cda3c3f829e52e0000c",
+    "relax_one.py": "b0cccd8b3d4f3792179ec8bee1fa34032f40248b5868fb56de9121c24d5da1ba",
+    "stage.py": "c702eaf52d4aae61b46e2ce72853e5c6cb603c02fd9d2691ecf6da2aba0ffccf",
+    "test_runner.py": "184e7346ff35122b4f2728d770d7c815a1836843365ef92d571fdda4d77b94bd",
+    "calibrate.py": "db6ed9ee9a99d4cfbcff86e81858c2bba527b3be4034b44c5431148c9f93c707",
+    "run.py": "81937cff4732d8eaa117657b66e331a16556bcaf2a41b790a8ae94fd79e9eb1e",
+    "build_helpers.py": "c375d57851988ba5c6b5a6267b97eaef8f22031c9a50575965bef2cd1506a4cc",
+    "report.py": "fad3956123dee329b787ec00698480fd56d3abda4f6bf8bd7905b8ea79c0515d",
+    "training_labels.py": "ebc2f73079fc51dd30432d70e39a428e2aeeaf138911913a687476db246468ec",
+    "audit.py": "1c1863a1eced404c925bc7e2b96c639e6e6ed6c8e1cf4cd7bdddecf3d1b3bff6",
+    "analysis_rules.py": "f1fb15adfa6bbc72076c06c7968ff9c61209cd7678069d15920f3d8f4e474ac6",
+    "eval_helpers.py": "c4c5456e95548ac537b696c93f9ee34d3af670089948374a324cdf778c17603d",
+    "convert.py": "c696c674dc248ead4c0f92031b7c94ad06e7eff576203d6d72aece6d096b41cb",
+    "setup_run.py": "fbe756247638ad9f5a8d0a2338759fccbcb4b6453b72f46d0e51da67d2dd8454",
+    "provenance.py": "208d6e126536953ec4b9d22f62bdad5b2297c3d0697393eae45b8cc9c06bca0d",
+    "compute_config.py": "3d80944778805fbdb26da343ff087de8ed854003d005e8ea09e2c357585b0b6d"
+  },
+  "pipeline": "0bbb393d127cfb265345c5e38107acdc626deee2d6d839593ca844f3ab59f787",
+  "sources": {
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/seq_module_cond/ckpt.pt": "d0a078401fee97d15eda8a7211177ff105d18174655ba947d873f0973a829a70",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/seq_module_cond/config.yaml": "a0b1f4ef43dbb617d06edca6124a9755def9f9163853f951d017a87a3986fc16",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/sp_module/ckpt.pt": "e93c9945fb5a7f304149717e5357d56b512f2f834dc589da1f804b1095ac574d",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/scale1000/sp_module/config.yaml": "7c0c2b66f020a6bfc3e7fd01bead5b1e7cc679c77a5871fc8a5e5a092e1d12e9",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/experiments/predict_seq.py": "3fac35584f5c3af4ca718765f31edc5bbfd329cf3615f52a20da08c6fab3fe2d",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/experiments/predict.py": "ca06bf58fc139a24f5c974ecf363c1693952ddb1344f66649de2ffcee4dc0c30",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/dataset_gen.py": "8259861e2a807b39ac477df6191f5fe45718cd4fd0ba3a2c7fdb4655ebba513c",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/metals/metal_lib_train.pkl": "178519ee21030e161dd7f102b5b1a176cb6b5f6867321e83f38b21a8678096fb",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/seqs/vocab.json": "7c6b0a7ba53f9ccfc6ea34487bf3e6004978a58164d095f089d39045b08ead87",
+    "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/support/filter_generated_sbus.py": "1a6932e2604de0bc514516d3c98d8b4ef32ff0f34d77061ee379331810c2986d",
+    "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/support/anchor_rules.py": "73c6f55d4fb4505e4235c50e4c9522df60ee626e3abedd41ac83c93b744bdd3c"
+  },
+  "local_configs": {
+    "sp_module/config.yaml": "e153d486fe076fc636de719ffe8539a23a4ad4c6f9c719026f9cfb27ed101338",
+    "seq_module_cond/config.yaml": "a0b1f4ef43dbb617d06edca6124a9755def9f9163853f951d017a87a3986fc16"
+  },
+  "seed": 1301,
+  "samples": 600,
+  "temperature": 1.0,
+  "target": 5.0
+}

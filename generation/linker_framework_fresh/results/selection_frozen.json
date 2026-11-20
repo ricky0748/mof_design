@@ -1,0 +1,22 @@
+{
+  "n": 18,
+  "generated": 200,
+  "eligible": 18,
+  "exclusions": {
+    "not_single_organic_linker": 43,
+    "non_mof_guest": 73,
+    "chemical_filter:lt2_binding": 3,
+    "chemical_filter:radicals1": 2,
+    "duplicate_identity_in_fresh_batch": 10,
+    "chemical_filter:rdkit_invalid": 39,
+    "previously_tested_identity": 8,
+    "chemical_filter:lt2_binding,charge_below_anions": 3,
+    "not_two_carboxylates": 1
+  },
+  "inputs": {
+    "selected.json": "a54df09b9069d31795e6d5cc9cec234513318811034b808c7495f080b38ea2d4",
+    "eligible_pool.json": "33cc6cce6894772f9f5bcbc8d0bc2b1a16a3fb34a888737802186ef1f7ccf15f",
+    "selected_sequences.json": "8e5bb116ec5374ff936f321b1605ccb6af3deec536779ee46dd2e32e3596c09d"
+  },
+  "source_sha256": "0eb644accf43b37e63ca0b3b8d63e5b5790a68189549a321bb48a9132ddd4e03"
+}

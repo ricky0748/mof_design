@@ -1,0 +1,2 @@
+OGAJGJHEMJMUHP-UHFFFAOYSA-L	2	3	InChI=1S/C16H9NO6/c18-15(19)9-2-1-8-3-4-11-10(12(8)7-9)5-6-13(17(22)23)14(11)16(20)21/h1-7H,(H,18,19)(H,20,21)/p-2	OGAJGJHEMJMUHP	[O-]C(=O)c1c(ccc2c1ccc1c2cc(cc1)C(=O)[O-])N(=O)=O	[O-][C]([c]1[c]([cH][cH][c]2[c]1[cH][cH][c]1[c]2[cH][c]([cH][cH]1)[C]([O])[O-])N([O])[O])[O]
+

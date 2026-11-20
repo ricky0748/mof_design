@@ -1,0 +1,16 @@
+#number of pseudo atoms
+13
+#type       print   as    chem  oxidation   mass        charge   polarization B-factor radii  connectivity anisotropic anisotropic-type   tinker-type
+C_co2        yes     C     C     0    12.01070    0.70000  0.0  1.0  0.7000  0  0  relative  0
+O_co2        yes     O     O     0    15.99940   -0.35000  0.0  1.0  0.7000  0  0  relative  0
+N_n2         yes     N     N     0    14.00670   -0.48200  0.0  1.0  0.7000  0  0  relative  0
+N_com        no      N     N     0     0.00000    0.96400  0.0  1.0  0.7000  0  0  relative  0
+SiH4_sp      yes     Si    Si    0    32.11730    0.00000  0.0  1.0  0.7000  0  0  relative  0
+H2_sp        yes     H     H     0     2.01588    0.00000  0.0  1.0  0.7000  0  0  relative  0
+O_o2         yes     O     O     0    15.99940   -0.11300  0.0  1.0  0.7000  0  0  relative  0
+O_com        no      O     O     0     0.00000    0.22600  0.0  1.0  0.7000  0  0  relative  0
+Ar_sp        yes     Ar    Ar    0    39.94800    0.00000  0.0  1.0  0.7000  0  0  relative  0
+CH4_sp3      yes     C     C     0    16.04246    0.00000  0.0  1.0  0.7000  0  0  relative  0
+C_co         yes     C     C     0    12.01070   -0.24240  0.0  1.0  0.7000  0  0  relative  0
+O_co         yes     O     O     0    15.99940   -0.27440  0.0  1.0  0.7000  0  0  relative  0
+CO_com       no      C     C     0     0.00000    0.51680  0.0  1.0  0.7000  0  0  relative  0

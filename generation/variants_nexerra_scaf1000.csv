@@ -1,0 +1,6 @@
+variant_id,seed,seed_smiles,substituent,smiles,n_connections,heavy_atoms
+N0000,Nexerra,[Lr]c1ncc(C=CC=Cc2cc(C=CC=Cc3cnc([Lr])nc3)c(C=CC=Cc3cnc([Lr])nc3)cn2)cn1,nexerra,O=C([O-])c1ncc(C=CC=Cc2cc(C=CC=Cc3cnc(C(=O)[O-])nc3)c(C=CC=Cc3cnc(C(=O)[O-])nc3)cn2)cn1,3,45
+N0001,Nexerra,[Lr]c1cc(OC=CC=Cc2cc(C=CC=COc3ccnc([Lr])c3)c(C=CC=COc3ccnc([Lr])c3)cn2)ccn1,nexerra,O=C([O-])c1cc(OC=CC=Cc2cc(C=CC=COc3ccnc(C(=O)[O-])c3)c(C=CC=COc3ccnc(C(=O)[O-])c3)cn2)ccn1,3,48
+N0002,Nexerra,[Lr]c1cc(C=CC=Cc2cc(C=CC=Cc3ccnc([Lr])c3)c(C=CC=Cc3ccnc([Lr])c3)cn2)ccn1,nexerra,O=C([O-])c1cc(C=CC=Cc2cc(C=CC=Cc3ccnc(C(=O)[O-])c3)c(C=CC=Cc3ccnc(C(=O)[O-])c3)cn2)ccn1,3,45
+N0003,Nexerra,[Lr]c1ccc(-c2cc(-c3ccc([Lr])s3)c(-c3ccc([Lr])s3)cn2)s1,nexerra,O=C([O-])c1ccc(-c2cc(-c3ccc(C(=O)[O-])s3)c(-c3ccc(C(=O)[O-])s3)cn2)s1,3,30
+N0004,Nexerra,[Lr]c1cc(-c2cc(-c3coc([Lr])c3)c(-c3coc([Lr])c3)cn2)co1,nexerra,O=C([O-])c1cc(-c2cc(-c3coc(C(=O)[O-])c3)c(-c3coc(C(=O)[O-])c3)cn2)co1,3,30

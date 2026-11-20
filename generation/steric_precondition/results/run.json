@@ -1,0 +1,19 @@
+{
+  "canonical_jobs": [
+    "U7_F11",
+    "U7_F14",
+    "U19_F11",
+    "U19_F14",
+    "U19_F04",
+    "control_BDC19"
+  ],
+  "aliases": {},
+  "fingerprints": {
+    "U7_F11": "e5744c450d604142901b5e85666da358c1bcdc0a49435fa20377cf2dbbced036",
+    "U7_F14": "412f16ea530fc8017208a3e1e9f12101946c57423679a2ae49fa44f5fb4d0644",
+    "U19_F11": "ccfdaa83bcf1a4892226d8bcc703bf1b768abbc2c9c3d3d58e039e9b1504f7e8",
+    "U19_F14": "6b98e0c8bb6568d5fba41b95b818d5782b6abe0f2291cc6230067fbbd4ca5648",
+    "U19_F04": "6eca165c0502a9bcd13c64424858239d558f0c4fa6ff62946fde2230ccfdc64d",
+    "control_BDC19": "ba63e00c77016bdbe46739e85fbc324f08cfdea56a72dfdabec1093955b8f066"
+  }
+}

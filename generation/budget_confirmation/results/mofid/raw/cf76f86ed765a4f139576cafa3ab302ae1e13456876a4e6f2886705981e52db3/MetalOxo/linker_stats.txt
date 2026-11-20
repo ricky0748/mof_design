@@ -1,0 +1,2 @@
+FFPRSXWCWPYENF-UHFFFAOYSA-L	2	1	InChI=1S/C16H10NO5/c17-14-12(16(21)22)3-1-2-9-4-5-11(15(19)20)8-10(9)6-7-13(14)18/h1-2,4-8,18H,(H,19,20)(H,21,22)/p-2	FFPRSXWCWPYENF	[O-]C(=O)c1ccc2c(c1)[CH]C=C(O)C(=[N])[C]([C]C=C2)C(=O)[O-]	[O-][C]([C]1[C][CH][CH][c]2[cH][cH][c]([cH][c]2[CH][CH][C]([C]1[N])O)[C]([O])[O-])[O]
+

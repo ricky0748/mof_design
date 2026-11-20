@@ -1,0 +1,2 @@
+NWZYZUMWGAZXEL-UHFFFAOYSA-L	2	3	InChI=1S/C22H16O4/c1-11-7-17-18(19-9-13(21(23)24)3-5-15(11)19)8-12(2)16-6-4-14(22(25)26)10-20(16)17/h3-10H,1-2H3,(H,23,24)(H,25,26)/p-2	NWZYZUMWGAZXEL	[O-]C(=O)c1ccc2c(c1)c1cc(C)c3c(c1cc2C)cc(cc3)C(=O)[O-]	[O-][C]([c]1[cH][cH][c]2[c]([cH]1)[c]1[cH][c](C)[c]3[c]([c]1[cH][c]2C)[cH][c]([cH][cH]3)[C]([O])[O-])[O]
+

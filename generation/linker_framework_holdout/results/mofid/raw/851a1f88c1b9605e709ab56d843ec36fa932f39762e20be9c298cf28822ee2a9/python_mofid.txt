@@ -1,0 +1,1 @@
+O[C]1[CH]C1([O])[O].[O][C]1C=Cc2c([CH][C]1[O])c1cc(O)cc(c1cc2)C1([O])OO1.[V]1[V]O1 MOFid-v1.UNKNOWN.cat0.NO_REF;A_H06

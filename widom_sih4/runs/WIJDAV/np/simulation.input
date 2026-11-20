@@ -1,0 +1,37 @@
+SimulationType                MonteCarlo
+NumberOfCycles                5000
+NumberOfInitializationCycles  0
+PrintEvery                    1000
+
+Forcefield                    Local
+CutOffVDW                     12.8
+CutOffChargeCharge            12.8
+ChargeMethod                  None
+EwaldPrecision                1.0e-6
+UseChargesFromCIFFile         no
+
+Framework                     0
+FrameworkName                 WIJDAV
+RemoveAtomNumberCodeFromLabel yes
+UnitCells                     3 2 2
+ExternalTemperature           298.0
+
+Component 0 MoleculeName             SiH4
+            MoleculeDefinition       Local
+            WidomProbability         1.0
+            CreateNumberOfMolecules  0
+
+Component 1 MoleculeName             H2
+            MoleculeDefinition       Local
+            WidomProbability         1.0
+            CreateNumberOfMolecules  0
+
+Component 2 MoleculeName             Ar
+            MoleculeDefinition       Local
+            WidomProbability         1.0
+            CreateNumberOfMolecules  0
+
+Component 3 MoleculeName             CH4
+            MoleculeDefinition       Local
+            WidomProbability         1.0
+            CreateNumberOfMolecules  0

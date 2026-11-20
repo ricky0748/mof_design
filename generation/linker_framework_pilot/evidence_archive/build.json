@@ -1,0 +1,304 @@
+[
+  {
+    "id": "L01",
+    "smiles": "COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "COc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+    "direction_degrees": [
+      28.014403980227886,
+      31.942927636121667
+    ],
+    "bb_sha256": "7a60ae9f34616d7831931f97f0a8954822427386a3dc722b8a361a0a5c5da956",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.062
+  },
+  {
+    "id": "L02",
+    "smiles": "COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(C#N)c3ccc21",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(C#N)c3ccc21",
+    "direction_degrees": [
+      27.983683520049343,
+      32.396281937523135
+    ],
+    "bb_sha256": "55459fa206dd93624316d3c480ea273eccaa0ead80be1def935a4438883ba5a3",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.042
+  },
+  {
+    "id": "L03",
+    "smiles": "CCc1cc(C(=O)[O-])c2cc([N+](=O)[O-])c3ccc(C(=O)[O-])cc3c2c1",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "CCc1cc(C(=O)O)c2cc([N+](=O)O)c3ccc(C(=O)O)cc3c2c1",
+    "direction_degrees": [
+      28.463008993822086,
+      28.340780294131093
+    ],
+    "bb_sha256": "2b7ee90e9ab5cdd11ef1ac7f225989c3a26643607d798cfb5d2b5e6304b13b75",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.03
+  },
+  {
+    "id": "L04",
+    "smiles": "O=C([O-])c1cc(Cl)c2ccc3c(C(=O)[O-])cc(Cl)cc3c2c1",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "O=C(O)c1cc(Cl)c2ccc3c(C(=O)O)cc(Cl)cc3c2c1",
+    "direction_degrees": [
+      28.390320957807234,
+      28.332392613988755
+    ],
+    "bb_sha256": "6612f0f41b69ef65e9cfd7d0aa7b988ae51ad777d99ef720bd179c9c3a604977",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.022
+  },
+  {
+    "id": "L05",
+    "smiles": "CCOc1cc(C(=O)[O-])c2cc(OCC)c3cc(O)c(C(=O)[O-])cc3c2c1",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "CCOc1cc(C(=O)O)c2cc(OCC)c3cc(O)c(C(=O)O)cc3c2c1",
+    "direction_degrees": [
+      26.984397676249294,
+      29.014846169182054
+    ],
+    "bb_sha256": "3fd3658106a965e93707757c40384117bbd67720250c0d10c5bfa8c7a3e71287",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.067
+  },
+  {
+    "id": "L06",
+    "smiles": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "CNc1ccc2c(ccc3c(C=O)cc(C(=O)O)cc32)c1C(=O)O",
+    "direction_degrees": [
+      32.56686549762376,
+      28.945132709863717
+    ],
+    "bb_sha256": "b9c73a03d63b6179629ce8f9799a2ce593e3113ec1452c7b637f36efb6158629",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.035
+  },
+  {
+    "id": "L07",
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cc([N+](=O)[O-])cc12",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cc([N+](=O)O)cc12",
+    "direction_degrees": [
+      28.04213615259476,
+      28.646126769916023
+    ],
+    "bb_sha256": "3ae3026ee2d7c15f653e05b843a039f2e5e570ec43feb1cf0d00c016bd8652e7",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.058
+  },
+  {
+    "id": "L08",
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])ccc(O)c12",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)ccc(O)c12",
+    "direction_degrees": [
+      27.268701927705873,
+      28.813977302100632
+    ],
+    "bb_sha256": "d415b1a8f5b7e1d783e522e2cfa5fa2ed2a96f9408638ff2d39d888e33fa7982",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.043
+  },
+  {
+    "id": "L09",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(F)cc4ccc23)cc1F",
+    "direction_degrees": [
+      31.919635406817772,
+      31.913029666813898
+    ],
+    "bb_sha256": "5af9b35a890ae619fc9deb0f18203e8db794eedc9902d2dae41b3c27c6e602df",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.032
+  },
+  {
+    "id": "L10",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(O)c3c2c1",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(O)c3c2c1",
+    "direction_degrees": [
+      30.166552495210162,
+      28.68522524227415
+    ],
+    "bb_sha256": "c36c6f369b7b99790eb4ac1024d29f0bdc7ba9346aff604a7e5cc806971b2ee8",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.024
+  },
+  {
+    "id": "L11",
+    "smiles": "Nc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "Nc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "direction_degrees": [
+      31.109632792547128,
+      29.374485835518684
+    ],
+    "bb_sha256": "4d5e79f5151b767a348110c16273b2bf10f36074356f9c264cf340e949a2fccc",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.022
+  },
+  {
+    "id": "L12",
+    "smiles": "O=C([O-])c1c(O)cc2cc(O)c3c(C(=O)[O-])c(O)ccc3c2c1O",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "O=C(O)c1c(O)cc2cc(O)c3c(C(=O)O)c(O)ccc3c2c1O",
+    "direction_degrees": [
+      26.345289824605725,
+      29.928969227210146
+    ],
+    "bb_sha256": "61428ea470bf5088a398fc2d23fe2d7eca07e3ba5ffb7a13f3cb7ef875a340ac",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.026
+  },
+  {
+    "id": "L13",
+    "smiles": "O=Cc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "O=Cc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "direction_degrees": [
+      27.256621606405307,
+      27.528928693552892
+    ],
+    "bb_sha256": "6611ea6842cfe28c8693ac137b72b16b873d8e12868792f437f1358df27d1cff",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.022
+  },
+  {
+    "id": "L14",
+    "smiles": "CCOc1cc2cc(C(=O)[O-])cc(OCC)c2cc1C(=O)[O-]",
+    "template": "pcu/N16",
+    "status": "built",
+    "anchor_status": "ok",
+    "embedded_smiles": "CCOc1cc2cc(C(=O)O)cc(OCC)c2cc1C(=O)O",
+    "direction_degrees": [
+      9.380223321646087,
+      13.520239338454266
+    ],
+    "bb_sha256": "6663a315140bef4de7fe08741099c9ae80385d0965309271e06cd879e9e592db",
+    "cif": "/share/rickyswork/ai_mof/generation/linker_framework_pilot_20261113/raw/B_L14.cif",
+    "natoms": 113,
+    "cif_sha256": "1694ef7b0d843f30977b8b10646c2993919044bffb390770d0d28ed3a28e87a4",
+    "seconds": 0.441
+  },
+  {
+    "id": "L15",
+    "smiles": "CCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "CCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "direction_degrees": [
+      28.430006670548998,
+      31.073229245784745
+    ],
+    "bb_sha256": "2a5d09346913cded8424f7345408404222602d8692d8b690d8ec6cc37e4a42d6",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.033
+  },
+  {
+    "id": "L16",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc([N+](=O)[O-])cc3c2c1",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "O=C(O)c1ccc2ccc3c(C(=O)O)cc([N+](=O)O)cc3c2c1",
+    "direction_degrees": [
+      31.005927175415305,
+      27.24481209907921
+    ],
+    "bb_sha256": "40832a8e86337c15ac83f2792e542869bf00fd2252cb4ca2513933b2fb00ad88",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.029
+  },
+  {
+    "id": "L17",
+    "smiles": "CCCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "CCCc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "direction_degrees": [
+      26.59903395326286,
+      34.43732518766373
+    ],
+    "bb_sha256": "e996d8af81a7e6bf5a7e7ba2da7b12a0a14877caa823bc56ba111deea4fd73a6",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.033
+  },
+  {
+    "id": "L18",
+    "smiles": "O=C([O-])c1ccc2cc(O)c3c(C(=O)[O-])ccc(O)c3c2c1",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "O=C(O)c1ccc2cc(O)c3c(C(=O)O)ccc(O)c3c2c1",
+    "direction_degrees": [
+      30.959943354099664,
+      25.771341771078404
+    ],
+    "bb_sha256": "9692b49001b931778604d0e649a163c9593d84cd578b33e0604d73385c2bd956",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.027
+  },
+  {
+    "id": "L19",
+    "smiles": "Nc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "Nc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "direction_degrees": [
+      28.186683799889607,
+      33.39157404267227
+    ],
+    "bb_sha256": "245e4a1ff499f9de8e02501e6d4762afe6fc7599943e29e52e10c6fc18b45cd9",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.026
+  },
+  {
+    "id": "L20",
+    "smiles": "CCc1cc2c(ccc3ccc(C(=O)[O-])c(CC)c32)c2cc(C(=O)[O-])ccc12",
+    "template": "pcu/N16",
+    "status": "incompatible",
+    "anchor_status": "ok",
+    "embedded_smiles": "CCc1cc2c(ccc3ccc(C(=O)O)c(CC)c32)c2cc(C(=O)O)ccc12",
+    "direction_degrees": [
+      21.180910845040295,
+      31.769544904945818
+    ],
+    "bb_sha256": "4dda1046083fb9d472c1a9c26f808c046ab7f5ef0dbcc19736b2b8806aca6ee2",
+    "reason": "direction_over_20_degrees",
+    "seconds": 0.064
+  }
+]

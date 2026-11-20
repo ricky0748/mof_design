@@ -1,0 +1,1390 @@
+[
+  {
+    "id": "C001",
+    "key": "COc1cc(C(=O)O)c2ccc3c(O)cc(C(=O)O)cc3c2c1",
+    "smiles": "COc1cc(C(=O)[O-])c2ccc3c(O)cc(C(=O)[O-])cc3c2c1",
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 134
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 28,
+        "converged": true,
+        "seconds": 37.983231980353594,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C001.coarse.cif",
+        "sha256": "7c2a38edeb146fec3c5554d0d7e81f285c2a2567281e23c65ca5db2b5b767d08"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 108,
+        "converged": true,
+        "seconds": 49.537513963878155,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C001.fine.cif",
+        "sha256": "d8c4b24856dccb80e76e34271b492e43b2053c9ecf81936a7aa0d3b565706f4c"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C001.fine.cif",
+    "sha256": "d8c4b24856dccb80e76e34271b492e43b2053c9ecf81936a7aa0d3b565706f4c",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C001.cif"
+  },
+  {
+    "id": "C002",
+    "key": "CCOc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "smiles": "CCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 37
+      },
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 417
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 82,
+        "converged": true,
+        "seconds": 61.42084734514356,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C002.coarse.cif",
+        "sha256": "8abc7a2161fc2f950395eb579585d36160554049081d06e0ad42420222322bd6"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 141,
+        "converged": true,
+        "seconds": 62.19764553382993,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C002.fine.cif",
+        "sha256": "205e1bf4072f063e7e2477057522d21042a792232f0bc50b8ac2c9de19137aec"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C002.fine.cif",
+    "sha256": "205e1bf4072f063e7e2477057522d21042a792232f0bc50b8ac2c9de19137aec",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C002.cif"
+  },
+  {
+    "id": "C003",
+    "key": "COc1cc2c(C)cc3c(C(=O)O)c(C)ccc3c2cc1C(=O)O",
+    "smiles": "COc1cc2c(C)cc3c(C(=O)[O-])c(C)ccc3c2cc1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 473
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 38,
+        "converged": true,
+        "seconds": 44.94079688563943,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C003.coarse.cif",
+        "sha256": "6012247f08528fe3ec1a567f4f8959a55e09b1c98cc4faaab98b570a9864d07f"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 96,
+        "converged": true,
+        "seconds": 41.56142172217369,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C003.fine.cif",
+        "sha256": "9c1b41c47b2ac6fa9a83e0a76e4b4198a8abb5120e7f38484bf2a4c3a7dbe5d2"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C003.fine.cif",
+    "sha256": "9c1b41c47b2ac6fa9a83e0a76e4b4198a8abb5120e7f38484bf2a4c3a7dbe5d2",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C003.cif"
+  },
+  {
+    "id": "C004",
+    "key": "CCCc1c(O)cc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "smiles": "CCCc1c(O)cc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 262
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 183,
+        "converged": true,
+        "seconds": 105.17848774790764,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C004.coarse.cif",
+        "sha256": "2b677d9ce0e2bc5c6faf3b798ea609af06c792e15fa3f7b605bc11c4d23d9c8b"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 62,
+        "converged": true,
+        "seconds": 34.43132259324193,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C004.fine.cif",
+        "sha256": "ad4a85fe6acd6877a8c993cac8c7c824737c11ceb4ac70baada5c4a9f1b5fd49"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C004.fine.cif",
+    "sha256": "ad4a85fe6acd6877a8c993cac8c7c824737c11ceb4ac70baada5c4a9f1b5fd49",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C004.cif"
+  },
+  {
+    "id": "C005",
+    "key": "CCCc1cc2ccc(C(=O)O)cc2c2cccc(C(=O)O)c12",
+    "smiles": "CCCc1cc2ccc(C(=O)[O-])cc2c2cccc(C(=O)[O-])c12",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 548
+      }
+    ],
+    "build_status": "built",
+    "strict": false,
+    "converged": false,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 300,
+        "converged": false,
+        "seconds": 169.54677560552955,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C005.coarse.cif",
+        "sha256": "7656a15f3669f106643071f65aaef27ae661019090b6328f04249baf8830f7b4"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 300,
+        "converged": false,
+        "seconds": 131.42165111005306,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C005.fine.cif",
+        "sha256": "06e171c6611a2bb6ceb20d1cc23caa1eb9a0902ef2a47a6147995f0c2dab37fa"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": false,
+    "exact_linker_set": false,
+    "expected_topology": "pcu",
+    "topology_matches": false,
+    "strict_identity": false,
+    "geometry": false,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C005.fine.cif",
+    "sha256": "06e171c6611a2bb6ceb20d1cc23caa1eb9a0902ef2a47a6147995f0c2dab37fa"
+  },
+  {
+    "id": "C006",
+    "key": "Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "smiles": "Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 494
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 58,
+        "converged": true,
+        "seconds": 47.71467303484678,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C006.coarse.cif",
+        "sha256": "bdb0e52c707787970062790ab8812922b1975414c2d39b834e3938d5151639e0"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 95,
+        "converged": true,
+        "seconds": 46.316180508583784,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C006.fine.cif",
+        "sha256": "3a2e00b27abfe5ee9947175991fb1c51acedfe5391975d31c7d6fc36bd00fa28"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C006.fine.cif",
+    "sha256": "3a2e00b27abfe5ee9947175991fb1c51acedfe5391975d31c7d6fc36bd00fa28",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C006.cif"
+  },
+  {
+    "id": "C007",
+    "key": "CCCOc1cc2ccc3c4cc(C(=O)O)c(OCCC)cc4ccc3c2cc1C(=O)O",
+    "smiles": "CCCOc1cc2ccc3c4cc(C(=O)[O-])c(OCCC)cc4ccc3c2cc1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 345
+      },
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 142
+      }
+    ],
+    "build_status": "built",
+    "strict": false,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 95,
+        "converged": true,
+        "seconds": 96.58833821490407,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C007.coarse.cif",
+        "sha256": "4bd00473f566249b0ab99178ba03d46dcaf567280834d0802b2ac00472a826fd"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 101,
+        "converged": true,
+        "seconds": 73.41438837349415,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C007.fine.cif",
+        "sha256": "1fddb3fe04e6b391105ad2663b1f559a225ce4dbfa7fe9a19666f81ad2e609e3"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": false,
+    "exact_linker_set": false,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": false,
+    "geometry": false,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C007.fine.cif",
+    "sha256": "1fddb3fe04e6b391105ad2663b1f559a225ce4dbfa7fe9a19666f81ad2e609e3"
+  },
+  {
+    "id": "C008",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(F)c3c2c1",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(F)c3c2c1",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 39
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 17,
+        "converged": true,
+        "seconds": 32.9029050283134,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C008.coarse.cif",
+        "sha256": "8aa3f3f35ec942ac8691217bc4a2e4d8549c6aa701a3de0b2596b7fa6dc2a89b"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 128,
+        "converged": true,
+        "seconds": 63.22382905334234,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C008.fine.cif",
+        "sha256": "0e33ab30032ecada0e3128f64db6c84a842455dc53b90309c786222f05fc10bd"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C008.fine.cif",
+    "sha256": "0e33ab30032ecada0e3128f64db6c84a842455dc53b90309c786222f05fc10bd",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C008.cif"
+  },
+  {
+    "id": "C009",
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c([N+](=O)[O-])cc4ccc23)cc1[N+](=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 461
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 54,
+        "converged": true,
+        "seconds": 44.40674778819084,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C009.coarse.cif",
+        "sha256": "0a36919cbc3db10a671c42339b6fcfded49735dee20eadeb93d3144bb501208a"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 89,
+        "converged": true,
+        "seconds": 44.24535460025072,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C009.fine.cif",
+        "sha256": "4826c2246c7d06d363ed36dd4d7407012223ef0121138bd3dcc4214b9fea43fd"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C009.fine.cif",
+    "sha256": "4826c2246c7d06d363ed36dd4d7407012223ef0121138bd3dcc4214b9fea43fd",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C009.cif"
+  },
+  {
+    "id": "C010",
+    "key": "CCc1cc2ccc3c(C(=O)O)cccc3c2cc1C(=O)O",
+    "smiles": "CCc1cc2ccc3c(C(=O)[O-])cccc3c2cc1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 584
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 59,
+        "converged": true,
+        "seconds": 38.01573544368148,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C010.coarse.cif",
+        "sha256": "3e3bee12e0655324e61bbbd98ad1acea465a49a8c9884774bdce4e48b51b0737"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 110,
+        "converged": true,
+        "seconds": 48.59438932314515,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C010.fine.cif",
+        "sha256": "878279979f32cc8c5d10e554f6979744fb7f99563e58bab0afe2e43198cbb125"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C010.fine.cif",
+    "sha256": "878279979f32cc8c5d10e554f6979744fb7f99563e58bab0afe2e43198cbb125",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C010.cif"
+  },
+  {
+    "id": "C011",
+    "key": "COc1cc(C(=O)O)c2c(O)cc3ccc(C(=O)O)cc3c2c1",
+    "smiles": "COc1cc(C(=O)[O-])c2c(O)cc3ccc(C(=O)[O-])cc3c2c1",
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 549
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 47,
+        "converged": true,
+        "seconds": 37.354902643710375,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C011.coarse.cif",
+        "sha256": "1d2cd85bbe15e0dc9dcdafc66c7a0e4897958fafd52c3736bd66ff75cffad3a9"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 57,
+        "converged": true,
+        "seconds": 22.884719543159008,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C011.fine.cif",
+        "sha256": "ab9f9d957869a1b1782454b5c4949d193dbd4611ffe695c7a5160ad8763a886f"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C011.fine.cif",
+    "sha256": "ab9f9d957869a1b1782454b5c4949d193dbd4611ffe695c7a5160ad8763a886f",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C011.cif"
+  },
+  {
+    "id": "C012",
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(O)cc4ccc23)cc1O",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(O)cc4ccc23)cc1O",
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 183
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 65,
+        "converged": true,
+        "seconds": 39.85090371593833,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C012.coarse.cif",
+        "sha256": "036255b373af2b756a3592e2e8d4f60ffeb59287bd12c3d18a94179808579f54"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 86,
+        "converged": true,
+        "seconds": 37.43478373065591,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C012.fine.cif",
+        "sha256": "5901a405e05b77651e25d3eed0d66cef0f37a818ad2fdad59614b035716286f9"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C012.fine.cif",
+    "sha256": "5901a405e05b77651e25d3eed0d66cef0f37a818ad2fdad59614b035716286f9",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C012.cif"
+  },
+  {
+    "id": "C013",
+    "key": "CCCOc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "smiles": "CCCOc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 46
+      },
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 109
+      }
+    ],
+    "build_status": "built",
+    "strict": false,
+    "converged": false,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 300,
+        "converged": false,
+        "seconds": 176.20558195188642,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C013.coarse.cif",
+        "sha256": "32bc587d81a28558011221931221a2b59ed3b3d7798ebb39b4ff881ae6d05d5a"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 300,
+        "converged": false,
+        "seconds": 178.5759074650705,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C013.fine.cif",
+        "sha256": "8647a2c4856c9d308e8295dfa8000d8d258802dcbb0486656042dba2f781a747"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": false,
+    "exact_linker_set": false,
+    "expected_topology": "pcu",
+    "topology_matches": false,
+    "strict_identity": false,
+    "geometry": false,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C013.fine.cif",
+    "sha256": "8647a2c4856c9d308e8295dfa8000d8d258802dcbb0486656042dba2f781a747"
+  },
+  {
+    "id": "C014",
+    "key": "O=C(O)C12CCC(C(=O)O)(CC1)CC2",
+    "smiles": "O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 4,
+        "sequence_index": 28
+      },
+      {
+        "group": "s1602_t5",
+        "count": 6,
+        "sequence_index": 106
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 4,
+        "converged": true,
+        "seconds": 14.297376357018948,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C014.coarse.cif",
+        "sha256": "87266556b60a1fce2f4ae127b51e1566f005e916df974965ecf2d35f8dfaebd6"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 28,
+        "converged": true,
+        "seconds": 15.393403213471174,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C014.fine.cif",
+        "sha256": "30c2098620888e5834a73ae68d22c8e5205d856666cb92a6cb935fa9b0a435d8"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C014.fine.cif",
+    "sha256": "30c2098620888e5834a73ae68d22c8e5205d856666cb92a6cb935fa9b0a435d8",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C014.cif"
+  },
+  {
+    "id": "C015",
+    "key": "COc1cc2c3cc(C(=O)O)ccc3c(OC)cc2c2cc(C(=O)O)ccc12",
+    "smiles": "COc1cc2c3cc(C(=O)[O-])ccc3c(OC)cc2c2cc(C(=O)[O-])ccc12",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 523
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 16,
+        "converged": true,
+        "seconds": 29.213611986488104,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C015.coarse.cif",
+        "sha256": "4135fdd55a4fef939453fd233d186d991276fbad43d3be1473868fb7c14d4d7d"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 136,
+        "converged": true,
+        "seconds": 84.5825029797852,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C015.fine.cif",
+        "sha256": "a4dfc651322e23b3a586832916b636d555df9d12b59552a0c96ce5dba035bb23"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C015.fine.cif",
+    "sha256": "a4dfc651322e23b3a586832916b636d555df9d12b59552a0c96ce5dba035bb23",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C015.cif"
+  },
+  {
+    "id": "C016",
+    "key": "COc1cc2ccc3c(C(=O)O)c(OC)ccc3c2cc1C(=O)O",
+    "smiles": "COc1cc2ccc3c(C(=O)[O-])c(OC)ccc3c2cc1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 538
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 29,
+        "converged": true,
+        "seconds": 31.08723095059395,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C016.coarse.cif",
+        "sha256": "7a85c7ae6d97e380d50c5c88675c328fa92015b4ac2a68ddb57f548bb6d6d1df"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 133,
+        "converged": true,
+        "seconds": 54.77275153249502,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C016.fine.cif",
+        "sha256": "28be7bd6a4be37fe89bd6cd37d1a26353fd3e2525c2d55d2a73b8cfc5f6e8431"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C016.fine.cif",
+    "sha256": "28be7bd6a4be37fe89bd6cd37d1a26353fd3e2525c2d55d2a73b8cfc5f6e8431",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C016.cif"
+  },
+  {
+    "id": "C017",
+    "key": "CCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "smiles": "CCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 580
+      },
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 322
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 36,
+        "converged": true,
+        "seconds": 31.773659367114305,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C017.coarse.cif",
+        "sha256": "d27165587666421a48ca0cabf07473202fd184f6ae573d88a07df6c7cc97eafe"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 99,
+        "converged": true,
+        "seconds": 54.13482806459069,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C017.fine.cif",
+        "sha256": "29546e2e628ec461998eb92bb714f46d86e9729ad9fcf072f7f229c9ec2a67e4"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C017.fine.cif",
+    "sha256": "29546e2e628ec461998eb92bb714f46d86e9729ad9fcf072f7f229c9ec2a67e4",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C017.cif"
+  },
+  {
+    "id": "C018",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)cccc3c2c1",
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 22,
+        "sequence_index": 2
+      },
+      {
+        "group": "s1602_t5",
+        "count": 22,
+        "sequence_index": 6
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 17,
+        "converged": true,
+        "seconds": 22.83880391716957,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C018.coarse.cif",
+        "sha256": "c30637195daf9bb19d182427cdd876cf7a1f0d0e5a8aafb2bc26ef8636375cb5"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 95,
+        "converged": true,
+        "seconds": 39.06891055032611,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C018.fine.cif",
+        "sha256": "342f23b3a7a6744c50fe5fe875735dbfaee3e2284f8a6b3f21127dcacaad9118"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C018.fine.cif",
+    "sha256": "342f23b3a7a6744c50fe5fe875735dbfaee3e2284f8a6b3f21127dcacaad9118",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C018.cif"
+  },
+  {
+    "id": "C019",
+    "key": "COc1cc(C(=O)O)c2cc(OC)c3ccc(C(=O)O)cc3c2c1",
+    "smiles": "COc1cc(C(=O)[O-])c2cc(OC)c3ccc(C(=O)[O-])cc3c2c1",
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 2,
+        "sequence_index": 505
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 17,
+        "converged": true,
+        "seconds": 23.75390012189746,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C019.coarse.cif",
+        "sha256": "c4b517c360a9aab9a34d3f862a99bd10aafc62efe3a7dfbf0288d51e4675bc7e"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 137,
+        "converged": true,
+        "seconds": 52.314344707876444,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C019.fine.cif",
+        "sha256": "897bcd9c659c3f717b32fabbdb89bdfdf0ae581730f0e7e2acb521a7a7055d80"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C019.fine.cif",
+    "sha256": "897bcd9c659c3f717b32fabbdb89bdfdf0ae581730f0e7e2acb521a7a7055d80",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C019.cif"
+  },
+  {
+    "id": "C020",
+    "key": "O=C(O)c1ccc(C(=O)O)c2c1CC2",
+    "smiles": "O=C([O-])c1ccc(C(=O)[O-])c2c1CC2",
+    "memberships": [
+      {
+        "group": "s1601_t2",
+        "count": 1,
+        "sequence_index": 400
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 5,
+        "converged": true,
+        "seconds": 9.56558122113347,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C020.coarse.cif",
+        "sha256": "6e218c2f3d6eec0d5c790c32d7cdede66ee1b161af868b7fa12c54e3723cddcc"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 38,
+        "converged": true,
+        "seconds": 21.967439506202936,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C020.fine.cif",
+        "sha256": "d0f5d5dcd23414d7fa99cf747c715a710296e42a0219f13a4d51ddf2866597ce"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C020.fine.cif",
+    "sha256": "d0f5d5dcd23414d7fa99cf747c715a710296e42a0219f13a4d51ddf2866597ce",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C020.cif"
+  },
+  {
+    "id": "C021",
+    "key": "O=Cc1cc(C(=O)O)c2c(C=O)cc3ccc(C(=O)O)cc3c2c1",
+    "smiles": "O=Cc1cc(C(=O)[O-])c2c(C=O)cc3ccc(C(=O)[O-])cc3c2c1",
+    "memberships": [
+      {
+        "group": "s1602_t5",
+        "count": 1,
+        "sequence_index": 548
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 42,
+        "converged": true,
+        "seconds": 34.8742171600461,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C021.coarse.cif",
+        "sha256": "abf79b5a268e27c7feb6f473c0b936b8af792758989b64527fc6591bf2e872d1"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 156,
+        "converged": true,
+        "seconds": 87.39320961385965,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C021.fine.cif",
+        "sha256": "7fb485bc4952647ac9c815f5c7e5b0598c720375f0beb524ae74c84c8eb30816"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C021.fine.cif",
+    "sha256": "7fb485bc4952647ac9c815f5c7e5b0598c720375f0beb524ae74c84c8eb30816",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C021.cif"
+  },
+  {
+    "id": "C022",
+    "key": "CCCOc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cccc12",
+    "smiles": "CCCOc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 371
+      }
+    ],
+    "build_status": "built",
+    "strict": false,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 107,
+        "converged": true,
+        "seconds": 64.57426787167788,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C022.coarse.cif",
+        "sha256": "51f1f64917e3cd9e558e17fe5b15fadce05cccb3de2d2a7e33c6006856f50cae"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 100,
+        "converged": true,
+        "seconds": 49.85378270596266,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C022.fine.cif",
+        "sha256": "4fe032eac3f3d2f698337f461dae30f2d4b7472a80b2db4c30738f070dd89f75"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": false,
+    "strict_identity": false,
+    "geometry": false,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C022.fine.cif",
+    "sha256": "4fe032eac3f3d2f698337f461dae30f2d4b7472a80b2db4c30738f070dd89f75"
+  },
+  {
+    "id": "C023",
+    "key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4ccc3c2c1",
+    "smiles": "O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 32,
+        "sequence_index": 20
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 41,
+        "converged": true,
+        "seconds": 31.558758802711964,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C023.coarse.cif",
+        "sha256": "56bd41524a324921c0b55e4aa972654e444987475fa77f12b9044e46d1a10e4b"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 98,
+        "converged": true,
+        "seconds": 47.80328103527427,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C023.fine.cif",
+        "sha256": "210af26eee73fce15c8009b868c651d66cf9065859f7ca54de44294f9fd80793"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C023.fine.cif",
+    "sha256": "210af26eee73fce15c8009b868c651d66cf9065859f7ca54de44294f9fd80793",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C023.cif"
+  },
+  {
+    "id": "C024",
+    "key": "O=Cc1cc2ccc3c4cc(C(=O)O)c(C=O)cc4ccc3c2cc1C(=O)O",
+    "smiles": "O=Cc1cc2ccc3c4cc(C(=O)[O-])c(C=O)cc4ccc3c2cc1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 462
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 57,
+        "converged": true,
+        "seconds": 46.78794716671109,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C024.coarse.cif",
+        "sha256": "478e6e68e784a00d50d7d77f2bb1d9a278f0e691ef8b63df1ed3a449e8bb0ee7"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 98,
+        "converged": true,
+        "seconds": 47.17596269771457,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C024.fine.cif",
+        "sha256": "8492dc6c9beda9e594272d3cc2cdb0abd718dab70442a2f4bcdb478464d5f927"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C024.fine.cif",
+    "sha256": "8492dc6c9beda9e594272d3cc2cdb0abd718dab70442a2f4bcdb478464d5f927",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C024.cif"
+  },
+  {
+    "id": "C025",
+    "key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4c(O)cc3c2c1",
+    "smiles": "O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4c(O)cc3c2c1",
+    "memberships": [
+      {
+        "group": "s1601_t5",
+        "count": 1,
+        "sequence_index": 407
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 25,
+        "converged": true,
+        "seconds": 39.7730338126421,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C025.coarse.cif",
+        "sha256": "ebeb13eb28bcd681bc28aa4843c428ec3ae711d177a4f19880d64effd260a934"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 111,
+        "converged": true,
+        "seconds": 54.324814066290855,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C025.fine.cif",
+        "sha256": "98a92c5137a62f703df12142719428898c74abd193ff0a97e1b66c25d6d18943"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C025.fine.cif",
+    "sha256": "98a92c5137a62f703df12142719428898c74abd193ff0a97e1b66c25d6d18943",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C025.cif"
+  },
+  {
+    "id": "C026",
+    "key": "O=C(O)C12CCC(C(=O)O)(CC1)C(S([O-])([O-])O)C2",
+    "smiles": "O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)[C@@H](S([O-])([O-])O)C2",
+    "memberships": [
+      {
+        "group": "s1601_t2",
+        "count": 1,
+        "sequence_index": 582
+      }
+    ],
+    "build_status": "built",
+    "strict": false,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 20,
+        "converged": true,
+        "seconds": 25.315865818411112,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C026.coarse.cif",
+        "sha256": "6868f1c92c8ececb72214677fdb431e26a15f79c0ed333346b4843601b3b4477"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 90,
+        "converged": true,
+        "seconds": 46.780638463795185,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C026.fine.cif",
+        "sha256": "00454a11387178bff7b50e0af70f8a9bf7c7752eecb7ae7a72c10fa323758a04"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": false,
+    "exact_linker_set": false,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": false,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C026.fine.cif",
+    "sha256": "00454a11387178bff7b50e0af70f8a9bf7c7752eecb7ae7a72c10fa323758a04"
+  },
+  {
+    "id": "C027",
+    "key": "O=C(O)c1cc2ccc3cc(C(=O)O)cc4ccc(c1)c2c34",
+    "smiles": "O=C([O-])c1cc2ccc3cc(C(=O)[O-])cc4ccc(c1)c2c34",
+    "memberships": [
+      {
+        "group": "s1602_t2",
+        "count": 1,
+        "sequence_index": 200
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 5,
+        "converged": true,
+        "seconds": 10.972247533500195,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C027.coarse.cif",
+        "sha256": "67b3bba30cb9843dcc46cd194d99fcbe37e7647b360252645817e512f3488908"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 42,
+        "converged": true,
+        "seconds": 28.009890008717775,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C027.fine.cif",
+        "sha256": "70c10f563adc1169952aaf375c6895f9d872335cd1bb3e3cd6c87662c31ede91"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C027.fine.cif",
+    "sha256": "70c10f563adc1169952aaf375c6895f9d872335cd1bb3e3cd6c87662c31ede91",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C027.cif"
+  },
+  {
+    "id": "C028",
+    "key": "CCc1cc2cc(Br)c3c(C(=O)O)cc(Br)cc3c2cc1C(=O)O",
+    "smiles": "CCc1cc2cc(Br)c3c(C(=O)[O-])cc(Br)cc3c2cc1C(=O)[O-]",
+    "memberships": [
+      {
+        "group": "s1601_t2",
+        "count": 1,
+        "sequence_index": 141
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 69,
+        "converged": true,
+        "seconds": 43.86813186481595,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C028.coarse.cif",
+        "sha256": "62a969194c65df6a2a0c6b54576043578f7313e4c461b52c03db87dcc57ea592"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 85,
+        "converged": true,
+        "seconds": 41.7255038022995,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C028.fine.cif",
+        "sha256": "b6fa783a22a1e5dbe12a02283d028a5780e7ca3a3756f0cc304bcbdbb36746a4"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C028.fine.cif",
+    "sha256": "b6fa783a22a1e5dbe12a02283d028a5780e7ca3a3756f0cc304bcbdbb36746a4",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C028.cif"
+  },
+  {
+    "id": "C029",
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(F)cc4ccc23)cc1F",
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(F)cc4ccc23)cc1F",
+    "memberships": [
+      {
+        "group": "s1601_t2",
+        "count": 1,
+        "sequence_index": 210
+      }
+    ],
+    "build_status": "built",
+    "strict": true,
+    "converged": true,
+    "status": "completed",
+    "reason": null,
+    "stages": [
+      {
+        "stage": "coarse",
+        "threshold": 0.2,
+        "steps": 28,
+        "converged": true,
+        "seconds": 16.591529242694378,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C029.coarse.cif",
+        "sha256": "a669dea4c6c4b10b9b53ddab93de88a1c1bb649d1e12be161ff773bf437c8736"
+      },
+      {
+        "stage": "fine",
+        "threshold": 0.05,
+        "steps": 110,
+        "converged": true,
+        "seconds": 41.2962656095624,
+        "out": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C029.fine.cif",
+        "sha256": "cfa2252b81a7bc28ed00b74713ca7bde6b38fd2eacc880a7ba2eef2fe26aa5db"
+      }
+    ],
+    "identity_check_version": "linker-type-set-v2",
+    "target_present": true,
+    "exact_linker_set": true,
+    "expected_topology": "pcu",
+    "topology_matches": true,
+    "strict_identity": true,
+    "geometry": true,
+    "cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/relaxed/S_C029.fine.cif",
+    "sha256": "cfa2252b81a7bc28ed00b74713ca7bde6b38fd2eacc880a7ba2eef2fe26aa5db",
+    "accepted_cif": "/share/rickyswork/ai_mof/generation/conditional_response_20261116/accepted/C029.cif"
+  }
+]

@@ -1,0 +1,3 @@
+node	[V]
+linker	[C]=CC(=[C])[NH].[O][C][O].[CH]
+linker	[C][C]=C1C=Cc2c(C1([O])[CH][CH2])cc(cc2NC)C(=O)[O-]

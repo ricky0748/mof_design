@@ -1,0 +1,1 @@
+[O][V]O[C]1O[V](C23C1([O])c1cc(C=O)cc4c1C1C3[C]3C(=CC5c6c3cc(cc6C(=O)OC3C6=C(C([C](C=C6C(=O)O5)C=O)[O])c5c([CH]3)ccc(c5)C(=O)[O-])C3OC5([CH][C]4[C]([CH]1)[CH]C35)C(=O)[O-])[CH][CH]2)([O])[O].[V]O[V] MOFid-v1.ERROR.cat0.NO_REF;A_L13

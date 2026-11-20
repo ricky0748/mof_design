@@ -1,0 +1,78 @@
+name,valid,uff_ok,prim_ok,natoms_orig,natoms_prim,V_orig,V_relax,V_ratio,dmin,pairs_lt_09,pairs_lt_12,n_fragments,frag_sizes,seconds,error
+mofflow2_000,True,True,True,48,48,922.9,943.1,1.0219,0.991,0,12,1,[48],17.4,
+mofflow2_001,True,True,True,80,80,1810.3,1742.2,0.9624,1.044,0,20,1,[80],14.5,
+mofflow2_002,False,False,,94,,1734.8,,,,,,,,4.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 217       10        2       55
+mofflow2_003,False,False,,94,,1700.5,,,,,,,,4.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 217       10        1       55
+mofflow2_004,True,True,True,104,104,1834.1,1787.7,0.9747,1.028,0,35,1,[104],23.7,
+mofflow2_005,True,True,True,80,80,1758.7,1712.9,0.974,1.044,0,20,1,[80],13.9,
+mofflow2_006,False,False,,144,,2528.2,,,,,,,,4.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1        2        7
+mofflow2_007,False,False,,120,,2353.9,,,,,,,,4.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1        2        7
+mofflow2_008,False,False,,168,,2418.6,,,,,,,,2.1,FileNotFoundError: [Errno 2] No such file or directory: 'in.mofflow2_008'
+mofflow2_009,True,True,True,92,92,1742.0,1729.5,0.9929,1.043,0,28,1,[92],11.4,
+mofflow2_010,False,False,,151,,2417.1,,,,,,,,2.0,FileNotFoundError: [Errno 2] No such file or directory: 'in.mofflow2_010'
+mofflow2_011,False,False,,156,,2293.3,,,,,,,,4.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 2        1      127        7
+mofflow2_012,True,True,True,76,76,1437.6,1469.9,1.0225,0.993,0,20,1,[76],23.3,
+mofflow2_013,False,False,,116,,2217.9,,,,,,,,1.6,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 4        1      236       10
+mofflow2_014,True,True,True,80,80,1762.4,1718.3,0.975,1.044,0,20,1,[80],10.3,
+mofflow2_015,False,False,,116,,2236.6,,,,,,,,1.9,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 57        2      235       29
+mofflow2_016,True,True,True,82,82,1767.7,1742.2,0.9856,0.991,0,20,1,[82],8.8,
+mofflow2_017,False,False,,127,,2442.2,,,,,,,,2.0,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1      509        8
+mofflow2_018,False,False,,199,,4443.8,,,,,,,,2.1,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 145       11      864       30
+mofflow2_019,False,False,,145,,2329.4,,,,,,,,2.1,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1        1        6
+mofflow2_020,False,False,,186,,4150.9,,,,,,,,1.2,FileNotFoundError: [Errno 2] No such file or directory: 'in.mofflow2_020'
+mofflow2_021,False,False,,116,,2210.0,,,,,,,,1.9,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1      233        5
+mofflow2_022,True,True,True,84,84,1735.8,1729.5,0.9964,0.991,0,20,1,[84],8.8,
+mofflow2_023,True,True,True,90,90,1746.1,1735.0,0.9936,0.991,0,20,1,[90],10.7,
+mofflow2_024,False,False,,120,,2160.1,,,,,,,,1.8,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 3        2        2        6
+mofflow2_025,False,False,,116,,2238.1,,,,,,,,,no JSON line
+mofflow2_026,False,False,,96,,2317.0,,,,,,,,1.7,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 31        3     1205        7
+mofflow2_027,False,False,,168,,3189.0,,,,,,,,1.9,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 3        1      107        6
+mofflow2_028,True,True,True,80,80,1809.1,1800.4,0.9952,1.029,0,20,1,[80],12.8,
+mofflow2_029,True,True,True,56,56,948.6,947.6,0.999,0.99,0,10,1,[56],20.6,
+mofflow2_030,False,False,,144,,2340.0,,,,,,,,2.7,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 3        1       62        6
+mofflow2_031,False,False,,132,,2094.5,,,,,,,,1.2,FileNotFoundError: [Errno 2] No such file or directory: 'in.mofflow2_031'
+mofflow2_032,False,False,,164,,2657.9,,,,,,,,2.1,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 62        7       71       14
+mofflow2_033,True,True,True,84,84,1779.9,1734.8,0.9747,1.04,0,22,1,[84],11.8,
+mofflow2_034,False,False,,116,,2221.5,,,,,,,,2.0,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1      233        5
+mofflow2_035,False,False,,120,,2339.8,,,,,,,,2.2,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 11        1     1533       12
+mofflow2_036,False,False,,164,,2622.9,,,,,,,,2.8,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 33        6     1117       17
+mofflow2_037,False,False,,124,,2296.6,,,,,,,,2.7,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 5       24       42        6
+mofflow2_038,False,False,,116,,2247.7,,,,,,,,2.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1      465        7
+mofflow2_039,False,False,,98,,1448.6,,,,,,,,2.4,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 57        5      275       21
+mofflow2_040,False,False,,136,,2409.0,,,,,,,,4.0,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 3        1      108        7
+mofflow2_041,False,False,,116,,2221.2,,,,,,,,2.1,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 58        6        3       29
+mofflow2_042,False,False,,116,,2198.4,,,,,,,,2.4,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1      118        9
+mofflow2_043,False,False,,118,,2235.4,,,,,,,,1.9,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1        4       10
+mofflow2_044,True,True,True,94,94,1743.8,1728.9,0.9915,1.043,0,28,1,[94],12.9,
+mofflow2_045,False,False,,86,,1749.2,,,,,,,,1.9,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 237        8        2       60
+mofflow2_046,False,False,,132,,2285.5,,,,,,,,4.8,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 8        1     1919        9
+mofflow2_047,False,False,,108,,1757.9,,,,,,,,1.7,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 205        7     1069       51
+mofflow2_048,True,True,True,88,88,1744.3,1742.3,0.9988,1.043,0,24,1,[88],10.2,
+mofflow2_049,True,True,True,88,88,1750.7,1684.5,0.9622,1.044,0,24,1,[88],14.6,
+mofflow2_050,False,False,,116,,2230.0,,,,,,,,2.2,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 33        2      118       16
+mofflow2_051,True,True,True,104,104,1751.8,1814.8,1.036,0.993,0,30,1,[104],33.1,
+mofflow2_052,False,False,,131,,2420.8,,,,,,,,2.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1        1        5
+mofflow2_053,False,True,True,83,83,2176.9,2137.5,0.9819,0.99,0,22,2,"[78, 5]",9.4,
+mofflow2_054,True,True,True,84,84,1750.5,1664.1,0.9506,0.99,0,20,1,[84],19.2,
+mofflow2_055,True,True,True,56,56,989.4,944.7,0.9548,0.989,0,14,1,[56],22.8,
+mofflow2_056,True,True,True,54,54,1016.6,1007.0,0.9906,0.99,0,12,1,[54],18.1,
+mofflow2_057,True,True,True,86,86,1753.4,1758.7,1.003,0.989,0,20,1,[86],9.5,
+mofflow2_058,True,True,True,80,80,1751.1,1725.0,0.9851,1.044,0,20,1,[80],8.0,
+mofflow2_059,False,False,,80,,1738.5,,,,,,,,1.5,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 214        7        2       56
+mofflow2_060,True,True,True,84,84,1748.2,1739.4,0.995,0.992,0,20,1,[84],9.8,
+mofflow2_061,True,True,True,80,80,1790.8,1781.0,0.9946,1.029,0,20,1,[80],6.3,
+mofflow2_062,False,False,,95,,1755.1,,,,,,,,1.6,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 6        3      287        5
+mofflow2_063,False,False,,148,,2441.7,,,,,,,,3.1,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 5        1      118        7
+mofflow2_064,False,False,,116,,2227.5,,,,,,,,2.1,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 5        2      118        9
+mofflow2_065,False,False,,160,,2453.0,,,,,,,,2.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1        2        7
+mofflow2_066,False,False,,130,,2077.1,,,,,,,,1.3,FileNotFoundError: [Errno 2] No such file or directory: 'in.mofflow2_066'
+mofflow2_067,False,False,,120,,2328.5,,,,,,,,2.1,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1        2        7
+mofflow2_068,False,False,,156,,2402.4,,,,,,,,2.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1        1        6
+mofflow2_069,False,False,,124,,2262.4,,,,,,,,5.3,FileNotFoundError: [Errno 2] No such file or directory: 'in.mofflow2_069'
+mofflow2_070,False,False,,192,,3243.4,,,,,,,,1.1,FileNotFoundError: [Errno 2] No such file or directory: 'in.mofflow2_070'
+mofflow2_071,False,False,,96,,1721.7,,,,,,,,1.7,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 12        2      303        3
+mofflow2_072,True,True,True,86,86,1767.5,1757.3,0.9942,0.991,0,20,1,[86],8.9,
+mofflow2_073,False,False,,128,,2654.3,,,,,,,,2.4,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        1        1        5
+mofflow2_074,False,False,,164,,2025.7,,,,,,,,6.3,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 5        1        6        8
+mofflow2_075,False,False,,144,,2519.8,,,,,,,,2.5,Exception: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1        2        2        7
+mofflow2_076,False,False,,156,,3291.2,,,,,,,,0.9,FileNotFoundError: [Errno 2] No such file or directory: 'in.mofflow2_076'

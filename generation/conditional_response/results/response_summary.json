@@ -1,0 +1,108 @@
+{
+  "groups": {
+    "s1601_t2": {
+      "seed": 1601,
+      "target": 2.0,
+      "generated": 600,
+      "eligible_sequences": 4,
+      "eligible_unique": 4,
+      "selected": 4,
+      "exclusions": {
+        "non_mof_guest": 263,
+        "not_single_organic_linker": 244,
+        "chemical_filter:lt2_binding": 24,
+        "chemical_filter:rdkit_invalid": 21,
+        "chemical_filter:radicals1": 6,
+        "chemical_filter:radicals2,lt2_binding": 6,
+        "chemical_filter:radicals4,lt2_binding": 4,
+        "chemical_filter:lt2_binding,charge_below_anions": 5,
+        "chemical_filter:radicals2": 6,
+        "chemical_filter:radicals1,lt2_binding": 5,
+        "not_two_carboxylates": 5,
+        "chemical_filter:radicals2,lt2_binding,charge_below_anions": 2,
+        "chemical_filter:radicals3": 2,
+        "chemical_filter:radicals4": 1,
+        "chemical_filter:radicals5": 2
+      }
+    },
+    "s1601_t5": {
+      "seed": 1601,
+      "target": 5.0,
+      "generated": 600,
+      "eligible_sequences": 118,
+      "eligible_unique": 49,
+      "selected": 15,
+      "exclusions": {
+        "non_mof_guest": 225,
+        "not_two_carboxylates": 7,
+        "not_single_organic_linker": 158,
+        "chemical_filter:rdkit_invalid": 83,
+        "chemical_filter:lt2_binding,charge_below_anions": 3,
+        "chemical_filter:lt2_binding": 3,
+        "chemical_filter:radicals1": 2,
+        "chemical_filter:radicals2": 1
+      }
+    },
+    "s1602_t2": {
+      "seed": 1602,
+      "target": 2.0,
+      "generated": 600,
+      "eligible_sequences": 1,
+      "eligible_unique": 1,
+      "selected": 1,
+      "exclusions": {
+        "chemical_filter:rdkit_invalid": 18,
+        "non_mof_guest": 263,
+        "not_single_organic_linker": 259,
+        "chemical_filter:radicals1": 9,
+        "chemical_filter:radicals4,lt2_binding": 2,
+        "chemical_filter:radicals2": 6,
+        "chemical_filter:positive_charge,lt2_binding": 1,
+        "chemical_filter:lt2_binding": 15,
+        "chemical_filter:radicals4": 1,
+        "chemical_filter:lt2_binding,charge_below_anions": 7,
+        "chemical_filter:radicals5": 2,
+        "not_two_carboxylates": 8,
+        "chemical_filter:radicals1,lt2_binding": 2,
+        "chemical_filter:radicals2,charge_below_anions": 1,
+        "chemical_filter:radicals3": 2,
+        "chemical_filter:radicals2,lt2_binding": 3
+      }
+    },
+    "s1602_t5": {
+      "seed": 1602,
+      "target": 5.0,
+      "generated": 600,
+      "eligible_sequences": 112,
+      "eligible_unique": 46,
+      "selected": 15,
+      "exclusions": {
+        "non_mof_guest": 229,
+        "not_single_organic_linker": 130,
+        "chemical_filter:lt2_binding": 7,
+        "chemical_filter:rdkit_invalid": 103,
+        "chemical_filter:radicals1": 4,
+        "not_two_carboxylates": 8,
+        "chemical_filter:lt2_binding,charge_below_anions": 6,
+        "chemical_filter:radicals3": 1
+      }
+    }
+  },
+  "paired": {
+    "1601": {
+      "raw_sequence_changed": 600,
+      "n": 600,
+      "eligible_identity_intersection": 0,
+      "eligible_identity_union": 53,
+      "jaccard": 0.0
+    },
+    "1602": {
+      "raw_sequence_changed": 600,
+      "n": 600,
+      "eligible_identity_intersection": 0,
+      "eligible_identity_union": 47,
+      "jaccard": 0.0
+    }
+  },
+  "unique_selected": 29
+}

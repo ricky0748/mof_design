@@ -1,0 +1,1 @@
+CCCc1cc(cc2c1ccc1c2cccc1C(=O)[O-])C(=O)OC(=O)c1cccc2c1ccc1c2cc(cc1CCC)C(=O)[O-].CCCc1cc(cc2c1ccc1c2cccc1C(=O)[O-])C(=O)[O-].[O-]C(=O)[O-].[O][V].[O][V][O].[V]O[V] MOFid-v1.ERROR.cat0.NO_REF;A300_B01

@@ -1,0 +1,19 @@
+{
+  "generation_sources_verified": true,
+  "calculation_sources_verified": true,
+  "generated_sequences": 200,
+  "selected_identities": 18,
+  "disjoint_previous_identities": 40,
+  "explicit_native_mappings": 18,
+  "signed_formal_records_verified": 54,
+  "reread_discrepancies": [],
+  "unique_valid_U_frameworks": 18,
+  "identity_keys_only_in_failed_geometry": [
+    {
+      "name": "U7_F11",
+      "topology": "pcu",
+      "key": "[\"CCCc1cc(C(=O)[O-])c2c(c1)c1cc(ccc1cc2)C(=O)[O-].[O-]C(=O)C1=CC=C([C]=C1)[CH]C=C1[C][CH][C][CH][C]1C(=O)[O-].[O-]C(=O)c1ccc2c(c1)c1[C][C][CH][C](c1cc2)C(=O)[O-].[Zn][O]([Zn])([Zn])[Zn]\",\"pcu\",\"0\"]"
+    }
+  ],
+  "valid_output_exact_linker_sets_verified": true
+}

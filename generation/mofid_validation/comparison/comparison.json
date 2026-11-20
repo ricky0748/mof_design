@@ -1,0 +1,9 @@
+{
+  "reference_expected": 187047,
+  "reference_processed": 187047,
+  "reference_identified": 171978,
+  "reference_coverage_complete": false,
+  "generated_processed": 1181,
+  "generated_identified": 151,
+  "exact_framework_matches": 8
+}
