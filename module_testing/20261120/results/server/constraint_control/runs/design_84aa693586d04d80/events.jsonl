@@ -1,0 +1,5 @@
+{"time": "2026-11-20T07:36:13.144860+00:00", "stage": "queued"}
+{"time": "2026-11-20T07:36:13.224391+00:00", "stage": "loading_backend"}
+{"time": "2026-11-20T07:36:37.181729+00:00", "stage": "generating", "candidate_id": "C0001"}
+{"time": "2026-11-20T07:36:41.088262+00:00", "stage": "finished", "status": "failed"}
+{"time": "2026-11-20T07:36:41.665229+00:00", "stage": "supervisor_finished"}

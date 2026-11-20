@@ -1,0 +1,5 @@
+{
+  "engine": "mofflow2_linker", "scene": "mofflow2.co2_working_capacity", "target_value": 5.0,
+  "num_candidates": 2, "max_attempts": 6, "sequence_samples": 100, "seed": 1718, "walltime_seconds": 1800,
+  "constraints": {"max_atoms": 1000, "topologies": ["pcu"]}, "validation": {"relax": true, "mofid": true}
+}

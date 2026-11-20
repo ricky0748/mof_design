@@ -1,0 +1,26 @@
+{
+  "status": "completed",
+  "input_sha256": "b77685cf57e40a930a727a8372ac92c182d64fd85923e4963c25066e7e5f4623",
+  "model_sha256": "01bfe22100139f424713cf921144e5509cbe353d67aa9fa1be9c6e1e0ed35845",
+  "stages": [
+    {
+      "stage": "coarse",
+      "fmax": 0.2,
+      "steps": 4,
+      "converged": true
+    },
+    {
+      "stage": "fine",
+      "fmax": 0.05,
+      "steps": 28,
+      "converged": true
+    }
+  ],
+  "declared_natoms": 83,
+  "initial_volume": 2102.071041000001,
+  "converged": true,
+  "volume_ratio": 1.021790148176586,
+  "atoms_preserved": true,
+  "output_sha256": "ac00f3d6398e01bb850a3015d60dc9661551b4fb3ba7b442c4abb1a1af52fa49",
+  "seconds": 14.300648521631956
+}

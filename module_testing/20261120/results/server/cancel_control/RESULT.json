@@ -1,0 +1,52 @@
+{
+  "case": "cancel_control",
+  "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/cancel_control/runs/design_2e2f3c4b09084571",
+  "status": {
+    "task_id": "design_2e2f3c4b09084571",
+    "status": "cancelled",
+    "stage": "finished",
+    "created_at": "2026-11-20T07:36:09.904555+00:00",
+    "updated_at": "2026-11-20T07:36:12.534761+00:00",
+    "requested": 1,
+    "attempted": 0,
+    "accepted": 0,
+    "rejected": 0,
+    "supervisor_pid": 1919692,
+    "worker_pid": 1919694,
+    "reason": "cancel_requested",
+    "wall_seconds": 1.728,
+    "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/cancel_control/runs/design_2e2f3c4b09084571",
+    "summary": {
+      "task_id": "design_2e2f3c4b09084571",
+      "status": "cancelled",
+      "requested": 1,
+      "attempted": 0,
+      "accepted": 0,
+      "unfilled": 1,
+      "scene": "mofflow2.co2_working_capacity",
+      "engine": "mofflow2_linker",
+      "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+      "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+      "not_assessed": [
+        "experimental_synthesizability",
+        "thermodynamic_stability",
+        "unconfigured_application_performance"
+      ]
+    },
+    "candidates": [],
+    "package": "/share/rickyswork/ai_mof/generation/module_test_20261120/cancel_control/runs/design_2e2f3c4b09084571/candidates.zip"
+  },
+  "audit": {
+    "passed": true,
+    "errors": [],
+    "task_id": "design_2e2f3c4b09084571",
+    "status": "cancelled",
+    "attempts": 0,
+    "accepted": 0,
+    "assets_checked": true,
+    "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+  },
+  "remaining_processes": [],
+  "rejections": [],
+  "passed": true
+}

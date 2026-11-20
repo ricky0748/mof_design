@@ -1,0 +1,17 @@
+{
+  "task_id": "design_720d2362be5a46b2",
+  "status": "completed",
+  "requested": 2,
+  "attempted": 2,
+  "accepted": 2,
+  "unfilled": 0,
+  "scene": "egmof.co2_uptake_298k_2_5bar",
+  "engine": "egmof",
+  "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+  "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+  "not_assessed": [
+    "experimental_synthesizability",
+    "thermodynamic_stability",
+    "unconfigured_application_performance"
+  ]
+}

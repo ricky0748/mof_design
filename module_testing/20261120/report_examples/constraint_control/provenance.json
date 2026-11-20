@@ -1,0 +1,35 @@
+{
+  "module_version": "0.1.0",
+  "upstream_commit": "385a5a7c66a34596cf6dd2c3ba6946a61389ad66",
+  "asset_sha256": {
+    "/home/ruiqi/.local/share/uv/python/cpython-3.12.14-linux-x86_64-gnu/bin/python3.12": "f7c6210eb40fadcd3c2889dddd24a15fc2c9f926aec5a03bf9da66e12d581526",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/logs/gen/seq_module_cond/ckpt.pt": "d0a078401fee97d15eda8a7211177ff105d18174655ba947d873f0973a829a70",
+    "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/seq_module_cond/config.yaml": "a0b1f4ef43dbb617d06edca6124a9755def9f9163853f951d017a87a3986fc16",
+    "/share/rickyswork/ai_mof/envs/mofflow2/bin/python3.10": "c590c5b0cb86a41fb53bc428a14478086385d1f964493805aec45b47d904ac2f",
+    "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/support/anchor_rules.py": "73c6f55d4fb4505e4235c50e4c9522df60ee626e3abedd41ac83c93b744bdd3c",
+    "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/support/filter_generated_sbus.py": "1a6932e2604de0bc514516d3c98d8b4ef32ff0f34d77061ee379331810c2986d",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/experiments/predict_seq.py": "3fac35584f5c3af4ca718765f31edc5bbfd329cf3615f52a20da08c6fab3fe2d",
+    "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2/data/seqs/vocab.json": "7c6b0a7ba53f9ccfc6ea34487bf3e6004978a58164d095f089d39045b08ead87"
+  },
+  "module_sha256": {
+    "relax_worker.py": "f3cdc5de169b5e817048be39a264bfe12938f66561da66ffc8ac3c9899ccaa94",
+    "delivery.py": "9ec15400b9b27ecf110e6dcfcba487ea265800307c00a56a61cbc916a023b4bd",
+    "supervisor.py": "385a08cd15c744e151eeaa1968a9b7db5f96af4a37ab047fd41ff8248ecf8057",
+    "validation.py": "326a98bf4a8797ac6fc67549a746c53e5b2eac47f903e71a7ef134725e82b243",
+    "common.py": "9477929adf98ada9808252d60b63bf76a478e83e288e011dce9f3d37899a4a39",
+    "api.py": "d6bba2d7078106349f4423411f1d8344714402f13ac58e2447552e802fb4dfd7",
+    "__init__.py": "28dca09bbdb7e288eef8e6504dabce159a89fe934924ea77cbb1c97d0b172f5c",
+    "audit.py": "ab62f6fe77cc9378f9370effe69ad7ac0182abd2146192f6add47d7b33db5b1f",
+    "__main__.py": "2a52d19c3fb05f620b5d417506bf603e243071bd3a48404f2b7cd9233caea096",
+    "config.py": "c40f6fb7245522c63ff77f68a3b21eb0850e3c95d480016c3e861213c05edcde",
+    "worker.py": "d1831976f48c4699026353acc5a3e0444c0f1b6dae0bf2e7ad75969a1ce244c3",
+    "backends/mofflow2.py": "5de4029c15de254839ccd4e8efb17d5d02b1f26b8467c07b35986e8ba98f5169",
+    "backends/__init__.py": "564369e232a7014b0ec3f3ce44497612b9bc72f1a4d059177aae4becdbf83531",
+    "backends/egmof.py": "e03dd6fafd2db7896be941778b36888a52e7d6458c269cad77e36fd61eec4359"
+  },
+  "request_sha256": "d832e2f6fb12cc1b4fe39f689f9848c2bc33f288ae9edb8c9bdb20155f09df96",
+  "scene_sha256": "795c3835dbcbe4835a579e777169cd240af285a0a42b88a4d7314d0e62df11c2",
+  "constraint_application": "post_generation_filter",
+  "seed": 20261124,
+  "bitwise_gpu_reproducibility_guaranteed": false
+}

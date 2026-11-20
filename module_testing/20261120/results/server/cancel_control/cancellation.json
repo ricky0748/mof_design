@@ -1,0 +1,10 @@
+{
+  "sent_at": "2026-11-20T07:36:12.284169+00:00",
+  "stage": "loading_backend",
+  "live_pids_before": [
+    1919692,
+    1919694,
+    1919696
+  ],
+  "sequence_log_existed": true
+}

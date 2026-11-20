@@ -1,0 +1,31 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>design_720d2362be5a46b2 / C0001 材料档案</title>
+<style>body{font:16px/1.7 system-ui,sans-serif;background:#f1f5f9;color:#233449;max-width:1160px;margin:auto;padding:28px}
+h1,h2{color:#123d51}h2{margin-top:32px}.card{background:white;border:1px solid #d8e2e9;border-radius:14px;padding:22px;margin:18px 0}
+.scroll{overflow:auto}table{border-collapse:collapse;width:100%;background:white}th,td{border:1px solid #d8e2e9;text-align:left;padding:10px}
+th{background:#eaf2f5}a{color:#086a91}pre,code{overflow-wrap:anywhere;white-space:pre-wrap}img{max-width:100%}small{color:#526878}
+@media print{body{background:white;padding:0}.card{break-inside:avoid}}</style><body><p><a href="../../MATERIALS.html">← 批次候选对比</a> · design_720d2362be5a46b2</p><h1>C0001 · MOF 材料档案</h1>
+<p>C62H56N2O8Zn2 · Zn · pcu</p>
+<div class="card"><h2>结构概览</h2><img src="structure.svg" alt="晶胞三方向原子投影">
+<p>导出晶胞内原子的笛卡尔正投影；边框为晶胞边线，未绘制化学键。投影中的空白区域需通过孔隙计算判断可达性。</p>
+<p>元素：C、H、N、O、Zn；原子颜色采用 Jmol 配色。</p></div>
+<h2>材料基本信息</h2><table><tr><th>参数</th><th>结果</th><th>依据</th></tr><tr><td>计算晶胞化学式</td><td>C62H56N2O8Zn2</td><td>CIF 展开组成</td></tr><tr><td>金属元素</td><td>Zn</td><td>CIF</td></tr><tr><td>拓扑</td><td>pcu</td><td>MOFid</td></tr><tr><td>原子数</td><td>130</td><td>CIF</td></tr><tr><td>a / b / c（Å）</td><td>22.8647 / 15.1944 / 15.0956</td><td>CIF</td></tr><tr><td>α / β / γ（°）</td><td>94.212 / 94.343 / 92.601</td><td>CIF</td></tr><tr><td>晶胞体积（Å³）</td><td>5208.427</td><td>几何计算</td></tr><tr><td>计算密度（g/cm³）</td><td>0.3468</td><td>晶胞质量 / 体积</td></tr><tr><td>空间群</td><td>P1 1</td><td>spglib；symprec=0.01 Å</td></tr></table>
+<h2>连接体与节点</h2><p>以下连接体来自导出结构的 MOFid 分解，保留识别得到的电荷形式。</p><figure><img src="linker_1.svg" alt="连接体二维结构"><figcaption><code>Cc1cc(cc(c1c1c(C)cc(cc1C)c1ccncc1)C)c1ccncc1</code></figcaption></figure><figure><img src="linker_2.svg" alt="连接体二维结构"><figcaption><code>[O-]C(=O)c1cc(C)c(c(c1)C)c1c(C)cc(cc1C)C(=O)[O-]</code></figcaption></figure>
+<pre>[
+  &quot;Cc1cc(cc(c1c1c(C)cc(cc1C)c1ccncc1)C)c1ccncc1&quot;,
+  &quot;[O-]C(=O)c1cc(C)c(c(c1)C)c1c(C)cc(cc1C)C(=O)[O-]&quot;
+]</pre>
+<p>节点：<code>[&#x27;[Zn][Zn]&#x27;]</code></p>
+<h2>结构验证</h2><p>最终几何检查：True；
+最小原子距离：1.086287597568125 Å；优化收敛：True。</p><p>coarse：90 步，fmax 阈值 0.2 eV/Å，收敛 True；fine：91 步，fmax 阈值 0.05 eV/Å，收敛 True</p>
+<p>MOFid：<code>Cc1cc(cc(c1c1c(C)cc(cc1C)c1ccncc1)C)c1ccncc1.[O-]C(=O)c1cc(C)c(c(c1)C)c1c(C)cc(cc1C)C(=O)[O-].[Zn][Zn] MOFid-v1.pcu.cat0.NO_REF;C0001</code></p>
+<h2>孔隙与应用性能</h2><table><tr><th>项目</th><th>状态</th></tr>
+<tr><td>孔径、孔口、可达孔体积、表面积</td><td>待独立孔隙计算；计算时记录探针及原子半径参数</td></tr>
+<tr><td>吸附量、选择性等应用性能</td><td>未接入该候选的独立性能结果</td></tr>
+<tr><td>训练集 / 数据库新颖性</td><td>待指定参考集并进行身份与相似性比较</td></tr></table>
+<h2>研究摘要与后续工作</h2><p>本候选为含 Zn 的 pcu 框架，
+计算晶胞含 130 个原子，密度 0.3468 g/cm³。
+优先补充孔隙可达性分析，再按研究气体与温压条件进行性能评价；合成路线和稳定性需进一步研究。</p>
+<h2>来源与数据</h2><p>引擎 egmof；来源 pcu+N85+E221。设计场景 egmof.co2_uptake_298k_2_5bar 的目标值仅作为生成条件。</p>
+<p><a href="../../cifs/C0001.cif">下载 CIF</a> · <a href="material.json">机器可读材料数据</a> ·
+<a href="../../REPORT.html">任务过程报告</a></p><small>CIF SHA256：af68ba5c61b2552ad383d7982e77287d2dbc4b3a2851088ad6ecd734634aee37</small></body></html>

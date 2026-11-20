@@ -1,0 +1,26 @@
+[
+  {
+    "case": "unknown_scene",
+    "passed": true,
+    "returncode": 2,
+    "error": "{\"error\": \"ValueError\", \"message\": \"scene is not supported by the selected engine\"}"
+  },
+  {
+    "case": "cross_engine_scene",
+    "passed": true,
+    "returncode": 2,
+    "error": "{\"error\": \"ValueError\", \"message\": \"scene is not supported by the selected engine\"}"
+  },
+  {
+    "case": "unsupported_constraint",
+    "passed": true,
+    "returncode": 2,
+    "error": "{\"error\": \"ValueError\", \"message\": \"unsupported constraint fields\"}"
+  },
+  {
+    "case": "invalid_budget",
+    "passed": true,
+    "returncode": 2,
+    "error": "{\"error\": \"ValueError\", \"message\": \"max_attempts must be an integer in [3, 1000]\"}"
+  }
+]

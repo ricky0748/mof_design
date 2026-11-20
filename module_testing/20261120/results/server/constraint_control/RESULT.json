@@ -1,0 +1,58 @@
+{
+  "case": "constraint_control",
+  "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/constraint_control/runs/design_84aa693586d04d80",
+  "status": {
+    "task_id": "design_84aa693586d04d80",
+    "status": "failed",
+    "stage": "finished",
+    "created_at": "2026-11-20T07:36:12.291073+00:00",
+    "updated_at": "2026-11-20T07:36:41.663970+00:00",
+    "requested": 1,
+    "attempted": 1,
+    "accepted": 0,
+    "rejected": 1,
+    "supervisor_pid": 1919703,
+    "worker_pid": 1919705,
+    "current_candidate": null,
+    "reason": "proposal_budget_exhausted_or_no_acceptable_candidates",
+    "wall_seconds": 28.481,
+    "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/constraint_control/runs/design_84aa693586d04d80",
+    "summary": {
+      "task_id": "design_84aa693586d04d80",
+      "status": "failed",
+      "requested": 1,
+      "attempted": 1,
+      "accepted": 0,
+      "unfilled": 1,
+      "scene": "mofflow2.co2_working_capacity",
+      "engine": "mofflow2_linker",
+      "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+      "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+      "not_assessed": [
+        "experimental_synthesizability",
+        "thermodynamic_stability",
+        "unconfigured_application_performance"
+      ]
+    },
+    "candidates": [],
+    "package": "/share/rickyswork/ai_mof/generation/module_test_20261120/constraint_control/runs/design_84aa693586d04d80/candidates.zip"
+  },
+  "audit": {
+    "passed": true,
+    "errors": [],
+    "task_id": "design_84aa693586d04d80",
+    "status": "failed",
+    "attempts": 1,
+    "accepted": 0,
+    "assets_checked": true,
+    "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+  },
+  "remaining_processes": [],
+  "rejections": [
+    {
+      "id": "C0001",
+      "reason": "forbidden_elements"
+    }
+  ],
+  "passed": true
+}

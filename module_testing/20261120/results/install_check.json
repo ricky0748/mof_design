@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "module_path": "C:\\Users\\PC\\Desktop\\skills_all\\ai_mof\\module_testing\\20261120\\installed\\mof_design\\__init__.py",
+  "wheel_sha256": "bb27da59aa1c6410a2eb408f1269bd0edc25bec8470f47955616a652a615dea8",
+  "commands": [
+    {
+      "command": [
+        "engines"
+      ],
+      "returncode": 0,
+      "data": {
+        "egmof": {
+          "role": "default_mof_generator",
+          "constraints": "post_generation_filter"
+        },
+        "mofflow2_linker": {
+          "role": "linker_exploration_with_fixed_assembly",
+          "constraints": "post_generation_filter"
+        }
+      }
+    },
+    {
+      "command": [
+        "scenes",
+        "--runtime",
+        "C:\\Users\\PC\\Desktop\\skills_all\\ai_mof\\mof_design\\examples\\runtime.server.json"
+      ],
+      "returncode": 0,
+      "data": {
+        "egmof.co2_uptake_298k_2_5bar": {
+          "engine": "egmof",
+          "enabled": true,
+          "property": "co2_uptake",
+          "temperature_k": 298,
+          "pressure_bar": 2.5,
+          "target_unit": "checkpoint_native_units_not_independently_verified",
+          "description": "Existing Wilmer CO2 uptake checkpoint; no SiH4/CO2 selectivity conditioning implied."
+        },
+        "mofflow2.co2_working_capacity": {
+          "engine": "mofflow2_linker",
+          "enabled": true,
+          "property": "co2_working_capacity",
+          "target_unit": "checkpoint_native_units_not_independently_verified",
+          "target_range": [
+            -0.199905,
+            5.115154
+          ],
+          "description": "Conditional sequence model, two-carboxylate filtering, fixed pcu/N16 (Zn4O), embedding seed 7."
+        }
+      }
+    }
+  ]
+}

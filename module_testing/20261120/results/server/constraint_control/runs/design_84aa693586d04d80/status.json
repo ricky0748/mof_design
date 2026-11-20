@@ -1,0 +1,16 @@
+{
+  "task_id": "design_84aa693586d04d80",
+  "status": "failed",
+  "stage": "finished",
+  "created_at": "2026-11-20T07:36:12.291073+00:00",
+  "updated_at": "2026-11-20T07:36:41.663970+00:00",
+  "requested": 1,
+  "attempted": 1,
+  "accepted": 0,
+  "rejected": 1,
+  "supervisor_pid": 1919703,
+  "worker_pid": 1919705,
+  "current_candidate": null,
+  "reason": "proposal_budget_exhausted_or_no_acceptable_candidates",
+  "wall_seconds": 28.481
+}

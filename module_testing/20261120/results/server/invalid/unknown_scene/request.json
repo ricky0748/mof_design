@@ -1,0 +1,16 @@
+{
+  "engine": "egmof",
+  "scene": "unknown.scene",
+  "target_value": 5.0,
+  "num_candidates": 2,
+  "max_attempts": 8,
+  "seed": 1717,
+  "walltime_seconds": 1800,
+  "constraints": {
+    "max_atoms": 1000
+  },
+  "validation": {
+    "relax": true,
+    "mofid": true
+  }
+}

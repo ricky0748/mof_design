@@ -1,0 +1,502 @@
+[
+  {
+    "index": 0,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 1,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 2,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 3,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 4,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 5,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 6,
+    "status": "eligible",
+    "key": "O=C(O)C12CCC(C(=O)O)(CC1)CC2"
+  },
+  {
+    "index": 7,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 8,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 9,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 10,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 11,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 12,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 13,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 14,
+    "status": "eligible",
+    "key": "Nc1cc(C(=O)O)c2c(N)cc3ccc(C(=O)O)c(N)c3c2c1"
+  },
+  {
+    "index": 15,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 16,
+    "status": "eligible",
+    "key": "CCOc1cc(C(=O)O)c2cc(OCC)c3ccc(C(=O)O)cc3c2c1"
+  },
+  {
+    "index": 17,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 18,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 19,
+    "status": "excluded",
+    "reason": "duplicate_linker_identity"
+  },
+  {
+    "index": 20,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 21,
+    "status": "eligible",
+    "key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4ccc3c2c1"
+  },
+  {
+    "index": 22,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 23,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 24,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 25,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 26,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 27,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 28,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 29,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 30,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 31,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 32,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 33,
+    "status": "eligible",
+    "key": "O=Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+  },
+  {
+    "index": 34,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 35,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 36,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 37,
+    "status": "eligible",
+    "key": "CCc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+  },
+  {
+    "index": 38,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 39,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 40,
+    "status": "excluded",
+    "reason": "duplicate_linker_identity"
+  },
+  {
+    "index": 41,
+    "status": "eligible",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc([N+](=O)[O-])c3c2c1"
+  },
+  {
+    "index": 42,
+    "status": "eligible",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)cccc3c2c1"
+  },
+  {
+    "index": 43,
+    "status": "eligible",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)cc([N+](=O)[O-])cc3c2c1"
+  },
+  {
+    "index": 44,
+    "status": "eligible",
+    "key": "CCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+  },
+  {
+    "index": 45,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 46,
+    "status": "eligible",
+    "key": "Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O"
+  },
+  {
+    "index": 47,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 48,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 49,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 50,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 51,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 52,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 53,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 54,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 55,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 56,
+    "status": "excluded",
+    "reason": "duplicate_linker_identity"
+  },
+  {
+    "index": 57,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 58,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 59,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 60,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 61,
+    "status": "excluded",
+    "reason": "duplicate_linker_identity"
+  },
+  {
+    "index": 62,
+    "status": "eligible",
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(S([O-])([O-])O)cc4ccc23)cc1S([O-])([O-])O"
+  },
+  {
+    "index": 63,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 64,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 65,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 66,
+    "status": "excluded",
+    "reason": "duplicate_linker_identity"
+  },
+  {
+    "index": 67,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 68,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 69,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 70,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 71,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 72,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 73,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 74,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 75,
+    "status": "excluded",
+    "reason": "duplicate_linker_identity"
+  },
+  {
+    "index": 76,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 77,
+    "status": "eligible",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(Cl)c3c2c1"
+  },
+  {
+    "index": 78,
+    "status": "excluded",
+    "reason": "duplicate_linker_identity"
+  },
+  {
+    "index": 79,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 80,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 81,
+    "status": "excluded",
+    "reason": "duplicate_linker_identity"
+  },
+  {
+    "index": 82,
+    "status": "excluded",
+    "reason": "chemical_filter:rdkit_invalid"
+  },
+  {
+    "index": 83,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 84,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 85,
+    "status": "eligible",
+    "key": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OC)c3ccc21"
+  },
+  {
+    "index": 86,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 87,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 88,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 89,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 90,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 91,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 92,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 93,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  },
+  {
+    "index": 94,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 95,
+    "status": "excluded",
+    "reason": "chemical_filter:lt2_binding,charge_below_anions"
+  },
+  {
+    "index": 96,
+    "status": "eligible",
+    "key": "CCCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1"
+  },
+  {
+    "index": 97,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 98,
+    "status": "excluded",
+    "reason": "non_mof_guest"
+  },
+  {
+    "index": 99,
+    "status": "excluded",
+    "reason": "requires_metal_and_one_linker_type"
+  }
+]

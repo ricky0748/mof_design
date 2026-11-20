@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-mof-design"
+version = "0.1.0"
+description = "Traceable MOF design tasks with EGMOF and linker-exploration backends"
+readme = "mof_design/README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+validation = ["numpy", "ase>=3.22", "scipy"]
+reports = ["numpy", "ase>=3.22", "spglib>=2.5", "rdkit"]
+
+[project.scripts]
+mof-design = "mof_design.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["mof_design", "mof_design.backends"]
+
+[tool.setuptools.package-data]
+mof_design = ["examples/*.json", "README.md", "ACCEPTANCE.md", "THIRD_PARTY_NOTICES.md"]

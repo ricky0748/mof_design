@@ -1,0 +1,25 @@
+test_async_cancellation (test_mof_design.ExecutionTests.test_async_cancellation) ... ok
+test_delivery_detects_changed_cif (test_mof_design.ExecutionTests.test_delivery_detects_changed_cif) ... ok
+test_duplicate_and_failed_proposals_preserve_denominator (test_mof_design.ExecutionTests.test_duplicate_and_failed_proposals_preserve_denominator) ... ok
+test_finished_task_refuses_second_supervisor (test_mof_design.ExecutionTests.test_finished_task_refuses_second_supervisor) ... ok
+test_portable_audit_keeps_original_task_identity (test_mof_design.ExecutionTests.test_portable_audit_keeps_original_task_identity) ... ok
+test_proposal_cannot_escape_task_workspace (test_mof_design.ExecutionTests.test_proposal_cannot_escape_task_workspace) ... ok
+test_real_process_deadline_produces_a_package (test_mof_design.ExecutionTests.test_real_process_deadline_produces_a_package) ... ok
+test_tasks_never_overwrite_previous_run (test_mof_design.ExecutionTests.test_tasks_never_overwrite_previous_run) ... ok
+test_unsupported_elements_reject_real_structure (test_mof_design.ExecutionTests.test_unsupported_elements_reject_real_structure) ... ok
+test_attempt_budget_must_cover_requested_count (test_mof_design.RequestTests.test_attempt_budget_must_cover_requested_count) ... ok
+test_boolean_count_rejected (test_mof_design.RequestTests.test_boolean_count_rejected) ... ok
+test_contradictory_elements_rejected (test_mof_design.RequestTests.test_contradictory_elements_rejected) ... ok
+test_cross_engine_scene_is_rejected (test_mof_design.RequestTests.test_cross_engine_scene_is_rejected) ... ok
+test_final_topology_needs_identity_validation (test_mof_design.RequestTests.test_final_topology_needs_identity_validation) ... ok
+test_linker_scene_range_and_fixed_template (test_mof_design.RequestTests.test_linker_scene_range_and_fixed_template) ... ok
+test_nonfinite_target_rejected (test_mof_design.RequestTests.test_nonfinite_target_rejected) ... ok
+test_normalization_is_idempotent (test_mof_design.RequestTests.test_normalization_is_idempotent) ... ok
+test_unknown_constraints_not_silently_ignored (test_mof_design.RequestTests.test_unknown_constraints_not_silently_ignored) ... ok
+test_unknown_request_fields_not_silently_ignored (test_mof_design.RequestTests.test_unknown_request_fields_not_silently_ignored) ... ok
+test_unknown_scene_is_rejected (test_mof_design.RequestTests.test_unknown_scene_is_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 5.592s
+
+OK

@@ -1,0 +1,77 @@
+[
+  {
+    "smiles": "O=C([O-])[C@]12CC[C@](C(=O)[O-])(CC1)CC2",
+    "key": "O=C(O)C12CCC(C(=O)O)(CC1)CC2",
+    "sequence_index": 6
+  },
+  {
+    "smiles": "Nc1cc(C(=O)[O-])c2c(N)cc3ccc(C(=O)[O-])c(N)c3c2c1",
+    "key": "Nc1cc(C(=O)O)c2c(N)cc3ccc(C(=O)O)c(N)c3c2c1",
+    "sequence_index": 14
+  },
+  {
+    "smiles": "CCOc1cc(C(=O)[O-])c2cc(OCC)c3ccc(C(=O)[O-])cc3c2c1",
+    "key": "CCOc1cc(C(=O)O)c2cc(OCC)c3ccc(C(=O)O)cc3c2c1",
+    "sequence_index": 16
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c4cc(C(=O)[O-])ccc4ccc3c2c1",
+    "key": "O=C(O)c1ccc2ccc3c4cc(C(=O)O)ccc4ccc3c2c1",
+    "sequence_index": 21
+  },
+  {
+    "smiles": "O=Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "key": "O=Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "sequence_index": 33
+  },
+  {
+    "smiles": "CCc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "key": "CCc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "sequence_index": 37
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc([N+](=O)[O-])c3c2c1",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc([N+](=O)[O-])c3c2c1",
+    "sequence_index": 41
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cccc3c2c1",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)cccc3c2c1",
+    "sequence_index": 42
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])cc([N+](=O)[O-])cc3c2c1",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)cc([N+](=O)[O-])cc3c2c1",
+    "sequence_index": 43
+  },
+  {
+    "smiles": "CCOc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "key": "CCOc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "sequence_index": 44
+  },
+  {
+    "smiles": "Cc1ccc2c(ccc3ccc(C(=O)[O-])cc32)c1C(=O)[O-]",
+    "key": "Cc1ccc2c(ccc3ccc(C(=O)O)cc32)c1C(=O)O",
+    "sequence_index": 46
+  },
+  {
+    "smiles": "O=C([O-])c1cc2c(ccc3c4cc(C(=O)[O-])c(S([O-])([O-])O)cc4ccc23)cc1S([O-])([O-])O",
+    "key": "O=C(O)c1cc2c(ccc3c4cc(C(=O)O)c(S([O-])([O-])O)cc4ccc23)cc1S([O-])([O-])O",
+    "sequence_index": 62
+  },
+  {
+    "smiles": "O=C([O-])c1ccc2ccc3c(C(=O)[O-])ccc(Cl)c3c2c1",
+    "key": "O=C(O)c1ccc2ccc3c(C(=O)O)ccc(Cl)c3c2c1",
+    "sequence_index": 77
+  },
+  {
+    "smiles": "COc1cc(C(=O)[O-])cc2c1ccc1c3cc(C(=O)[O-])cc(OC)c3ccc21",
+    "key": "COc1cc(C(=O)O)cc2c1ccc1c3cc(C(=O)O)cc(OC)c3ccc21",
+    "sequence_index": 85
+  },
+  {
+    "smiles": "CCCc1cc(C(=O)[O-])c2ccc3ccc(C(=O)[O-])cc3c2c1",
+    "key": "CCCc1cc(C(=O)O)c2ccc3ccc(C(=O)O)cc3c2c1",
+    "sequence_index": 96
+  }
+]

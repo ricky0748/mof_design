@@ -1,0 +1,22 @@
+[
+  {
+    "id": "C0001",
+    "cif": "cifs/C0001.cif",
+    "sha256": "ac00f3d6398e01bb850a3015d60dc9661551b4fb3ba7b442c4abb1a1af52fa49",
+    "source_key": "pcu/N16|O=C(O)C12CCC(C(=O)O)(CC1)CC2",
+    "engine": "mofflow2_linker",
+    "scene": "mofflow2.co2_working_capacity",
+    "validation_level": "relaxed_geometry",
+    "identity_verified": true
+  },
+  {
+    "id": "C0002",
+    "cif": "cifs/C0002.cif",
+    "sha256": "043f4af35e8da31ae8d43e706752c14e5f76115e8c3d2600587daf1c1e9ff2b7",
+    "source_key": "pcu/N16|Nc1cc(C(=O)O)c2c(N)cc3ccc(C(=O)O)c(N)c3c2c1",
+    "engine": "mofflow2_linker",
+    "scene": "mofflow2.co2_working_capacity",
+    "validation_level": "relaxed_geometry",
+    "identity_verified": true
+  }
+]

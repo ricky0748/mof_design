@@ -1,0 +1,16 @@
+{
+  "task_id": "design_99c3c75f7ad84848",
+  "status": "completed",
+  "stage": "finished",
+  "created_at": "2026-11-20T07:36:07.846786+00:00",
+  "updated_at": "2026-11-20T07:37:45.534396+00:00",
+  "requested": 2,
+  "attempted": 2,
+  "accepted": 2,
+  "rejected": 0,
+  "supervisor_pid": 1919681,
+  "worker_pid": 1919683,
+  "current_candidate": null,
+  "reason": null,
+  "wall_seconds": 95.855
+}

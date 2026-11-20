@@ -1,0 +1,131 @@
+{
+  "created_at": "2026-11-20T07:36:06.646991+00:00",
+  "purpose": "module functionality, constraints and delivery; no performance research or training",
+  "module_directory": "/share/rickyswork/ai_mof/generation/design_module_v01_release_20261117",
+  "module_sha256": {
+    "mof_design/relax_worker.py": "f3cdc5de169b5e817048be39a264bfe12938f66561da66ffc8ac3c9899ccaa94",
+    "mof_design/delivery.py": "9ec15400b9b27ecf110e6dcfcba487ea265800307c00a56a61cbc916a023b4bd",
+    "mof_design/supervisor.py": "385a08cd15c744e151eeaa1968a9b7db5f96af4a37ab047fd41ff8248ecf8057",
+    "mof_design/validation.py": "326a98bf4a8797ac6fc67549a746c53e5b2eac47f903e71a7ef134725e82b243",
+    "mof_design/common.py": "9477929adf98ada9808252d60b63bf76a478e83e288e011dce9f3d37899a4a39",
+    "mof_design/api.py": "d6bba2d7078106349f4423411f1d8344714402f13ac58e2447552e802fb4dfd7",
+    "mof_design/__init__.py": "28dca09bbdb7e288eef8e6504dabce159a89fe934924ea77cbb1c97d0b172f5c",
+    "mof_design/audit.py": "ab62f6fe77cc9378f9370effe69ad7ac0182abd2146192f6add47d7b33db5b1f",
+    "mof_design/__main__.py": "2a52d19c3fb05f620b5d417506bf603e243071bd3a48404f2b7cd9233caea096",
+    "mof_design/config.py": "c40f6fb7245522c63ff77f68a3b21eb0850e3c95d480016c3e861213c05edcde",
+    "mof_design/worker.py": "d1831976f48c4699026353acc5a3e0444c0f1b6dae0bf2e7ad75969a1ce244c3",
+    "mof_design/backends/mofflow2.py": "5de4029c15de254839ccd4e8efb17d5d02b1f26b8467c07b35986e8ba98f5169",
+    "mof_design/backends/__init__.py": "564369e232a7014b0ec3f3ce44497612b9bc72f1a4d059177aae4becdbf83531",
+    "mof_design/backends/egmof.py": "e03dd6fafd2db7896be941778b36888a52e7d6458c269cad77e36fd61eec4359"
+  },
+  "cases": {
+    "egmof_user": {
+      "engine": "egmof",
+      "scene": "egmof.co2_uptake_298k_2_5bar",
+      "target_value": 5.0,
+      "num_candidates": 2,
+      "max_attempts": 6,
+      "seed": 20261120,
+      "walltime_seconds": 1800,
+      "constraints": {
+        "max_atoms": 1000,
+        "forbidden_elements": [
+          "Cd",
+          "Hg",
+          "Pb"
+        ]
+      },
+      "validation": {
+        "relax": true,
+        "mofid": true
+      }
+    },
+    "linker_user": {
+      "engine": "mofflow2_linker",
+      "scene": "mofflow2.co2_working_capacity",
+      "target_value": 5.0,
+      "num_candidates": 2,
+      "max_attempts": 4,
+      "sequence_samples": 100,
+      "seed": 20261121,
+      "walltime_seconds": 1200,
+      "constraints": {
+        "max_atoms": 1000,
+        "topologies": [
+          "pcu"
+        ]
+      },
+      "validation": {
+        "relax": true,
+        "mofid": true
+      }
+    },
+    "timeout_control": {
+      "engine": "egmof",
+      "scene": "egmof.co2_uptake_298k_2_5bar",
+      "target_value": 5.0,
+      "num_candidates": 1,
+      "max_attempts": 1,
+      "seed": 20261122,
+      "walltime_seconds": 1,
+      "constraints": {
+        "max_atoms": 1000
+      },
+      "validation": {
+        "relax": false,
+        "mofid": false
+      }
+    },
+    "cancel_control": {
+      "engine": "mofflow2_linker",
+      "scene": "mofflow2.co2_working_capacity",
+      "target_value": 5.0,
+      "num_candidates": 1,
+      "max_attempts": 1,
+      "sequence_samples": 200,
+      "seed": 20261123,
+      "walltime_seconds": 300,
+      "constraints": {
+        "max_atoms": 1000
+      },
+      "validation": {
+        "relax": false,
+        "mofid": false
+      }
+    },
+    "constraint_control": {
+      "engine": "mofflow2_linker",
+      "scene": "mofflow2.co2_working_capacity",
+      "target_value": 5.0,
+      "num_candidates": 1,
+      "max_attempts": 1,
+      "sequence_samples": 50,
+      "seed": 20261124,
+      "walltime_seconds": 300,
+      "constraints": {
+        "max_atoms": 1000,
+        "forbidden_elements": [
+          "Zn"
+        ]
+      },
+      "validation": {
+        "relax": false,
+        "mofid": false
+      }
+    }
+  },
+  "expected": {
+    "egmof_user": "completed with 2 accepted CIFs",
+    "linker_user": "completed with 2 accepted CIFs",
+    "timeout_control": "timed_out, no surviving task process",
+    "cancel_control": "cancelled, no surviving task process",
+    "constraint_control": "failed, forbidden Zn rejected, no delivered CIF"
+  },
+  "gpu": {
+    "egmof_user": "0",
+    "linker_user": "1",
+    "timeout_control": "3",
+    "cancel_control": "2",
+    "constraint_control": "3"
+  }
+}

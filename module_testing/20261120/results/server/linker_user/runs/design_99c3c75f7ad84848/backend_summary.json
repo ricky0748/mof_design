@@ -1,0 +1,7 @@
+{
+  "sequence_samples": 100,
+  "eligible_unique": 15,
+  "embedding_seed": 7,
+  "template": "pcu/N16",
+  "no_resampling": true
+}

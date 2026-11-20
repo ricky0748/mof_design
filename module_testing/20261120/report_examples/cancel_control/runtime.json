@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "engines": {
+    "egmof": {
+      "python": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/.venv/bin/python",
+      "repository": "/share/rickyswork/ai_mof/generation/pilots/EGMOF",
+      "accelerator": "cuda",
+      "cuda_visible_devices": "0",
+      "default_scene": "egmof.co2_uptake_298k_2_5bar"
+    },
+    "mofflow2_linker": {
+      "python": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/.venv/bin/python",
+      "repository": "/share/rickyswork/ai_mof/generation/pilots/MOFFlow-2",
+      "sequence_python": "/share/rickyswork/ai_mof/envs/mofflow2/bin/python",
+      "cuda_visible_devices": "2",
+      "default_scene": "mofflow2.co2_working_capacity"
+    }
+  },
+  "scenes": {
+    "egmof.co2_uptake_298k_2_5bar": {
+      "engine": "egmof",
+      "enabled": true,
+      "property": "co2_uptake",
+      "temperature_k": 298,
+      "pressure_bar": 2.5,
+      "target_unit": "checkpoint_native_units_not_independently_verified",
+      "description": "Existing Wilmer CO2 uptake checkpoint; no SiH4/CO2 selectivity conditioning implied.",
+      "assets": {
+        "prop2desc_checkpoint": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/checkpoints/prop2desc_best.ckpt",
+        "prop2desc_config": "/share/rickyswork/ai_mof/generation/pilots/EGMOF/checkpoints/prop2desc_ckpt/various_dataset/wilmer_CO2_uptake_2.5bar/hparams.yaml"
+      }
+    },
+    "mofflow2.co2_working_capacity": {
+      "engine": "mofflow2_linker",
+      "enabled": true,
+      "property": "co2_working_capacity",
+      "target_unit": "checkpoint_native_units_not_independently_verified",
+      "target_range": [
+        -0.199905,
+        5.115154
+      ],
+      "description": "Conditional sequence model, two-carboxylate filtering, fixed pcu/N16 (Zn4O), embedding seed 7.",
+      "assets": {
+        "checkpoint": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/seq_module_cond/ckpt.pt",
+        "checkpoint_config": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/seq_module_cond/config.yaml",
+        "support": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/support"
+      }
+    }
+  },
+  "relaxation": {
+    "python": "/home/ruiqi/miniconda3/envs/mofsimbench/bin/python",
+    "model": "/share/rickyswork/ai_mof/mace_medium.model",
+    "timeout_seconds": 1200
+  },
+  "mofid": {
+    "python": "/usr/bin/python3",
+    "script": "/share/rickyswork/ai_mof/tools/mofid_validate.py",
+    "pythonpath": "/share/rickyswork/ai_mof/tools/mofid_python",
+    "java_bin": "/share/rickyswork/ai_mof/tools/jre17/bin",
+    "timeout_seconds": 180
+  }
+}

@@ -1,0 +1,8 @@
+{"time": "2026-11-20T07:36:09.641312+00:00", "stage": "queued"}
+{"time": "2026-11-20T07:36:09.723831+00:00", "stage": "loading_backend"}
+{"time": "2026-11-20T07:36:45.869441+00:00", "stage": "generating", "candidate_id": "C0001"}
+{"time": "2026-11-20T07:36:47.581528+00:00", "stage": "relaxing", "candidate_id": "C0001"}
+{"time": "2026-11-20T07:37:07.855049+00:00", "stage": "generating", "candidate_id": "C0002"}
+{"time": "2026-11-20T07:37:08.137695+00:00", "stage": "relaxing", "candidate_id": "C0002"}
+{"time": "2026-11-20T07:37:44.776698+00:00", "stage": "finished", "status": "completed"}
+{"time": "2026-11-20T07:37:45.535697+00:00", "stage": "supervisor_finished"}

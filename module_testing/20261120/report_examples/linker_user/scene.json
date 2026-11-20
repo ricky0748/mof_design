@@ -1,0 +1,16 @@
+{
+  "engine": "mofflow2_linker",
+  "enabled": true,
+  "property": "co2_working_capacity",
+  "target_unit": "checkpoint_native_units_not_independently_verified",
+  "target_range": [
+    -0.199905,
+    5.115154
+  ],
+  "description": "Conditional sequence model, two-carboxylate filtering, fixed pcu/N16 (Zn4O), embedding seed 7.",
+  "assets": {
+    "checkpoint": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/seq_module_cond/ckpt.pt",
+    "checkpoint_config": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/seq_module_cond/config.yaml",
+    "support": "/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/support"
+  }
+}

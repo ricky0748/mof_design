@@ -1,0 +1,407 @@
+{
+  "updated_at": "2026-11-20T07:38:38.702795+00:00",
+  "passed": true,
+  "invalid": [
+    {
+      "case": "unknown_scene",
+      "passed": true,
+      "returncode": 2,
+      "error": "{\"error\": \"ValueError\", \"message\": \"scene is not supported by the selected engine\"}"
+    },
+    {
+      "case": "cross_engine_scene",
+      "passed": true,
+      "returncode": 2,
+      "error": "{\"error\": \"ValueError\", \"message\": \"scene is not supported by the selected engine\"}"
+    },
+    {
+      "case": "unsupported_constraint",
+      "passed": true,
+      "returncode": 2,
+      "error": "{\"error\": \"ValueError\", \"message\": \"unsupported constraint fields\"}"
+    },
+    {
+      "case": "invalid_budget",
+      "passed": true,
+      "returncode": 2,
+      "error": "{\"error\": \"ValueError\", \"message\": \"max_attempts must be an integer in [3, 1000]\"}"
+    }
+  ],
+  "cases": {
+    "timeout_control": {
+      "case": "timeout_control",
+      "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/timeout_control/runs/design_f55ac25499f14e98",
+      "status": {
+        "task_id": "design_f55ac25499f14e98",
+        "status": "timed_out",
+        "stage": "finished",
+        "created_at": "2026-11-20T07:36:09.649564+00:00",
+        "updated_at": "2026-11-20T07:36:11.085933+00:00",
+        "requested": 1,
+        "attempted": 0,
+        "accepted": 0,
+        "rejected": 0,
+        "supervisor_pid": 1919687,
+        "worker_pid": 1919689,
+        "reason": "walltime_budget_exhausted",
+        "wall_seconds": 1.153,
+        "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/timeout_control/runs/design_f55ac25499f14e98",
+        "summary": {
+          "task_id": "design_f55ac25499f14e98",
+          "status": "timed_out",
+          "requested": 1,
+          "attempted": 0,
+          "accepted": 0,
+          "unfilled": 1,
+          "scene": "egmof.co2_uptake_298k_2_5bar",
+          "engine": "egmof",
+          "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+          "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+          "not_assessed": [
+            "experimental_synthesizability",
+            "thermodynamic_stability",
+            "unconfigured_application_performance"
+          ]
+        },
+        "candidates": [],
+        "package": "/share/rickyswork/ai_mof/generation/module_test_20261120/timeout_control/runs/design_f55ac25499f14e98/candidates.zip"
+      },
+      "audit": {
+        "passed": true,
+        "errors": [],
+        "task_id": "design_f55ac25499f14e98",
+        "status": "timed_out",
+        "attempts": 0,
+        "accepted": 0,
+        "assets_checked": true,
+        "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+      },
+      "remaining_processes": [],
+      "rejections": [],
+      "passed": true
+    },
+    "cancel_control": {
+      "case": "cancel_control",
+      "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/cancel_control/runs/design_2e2f3c4b09084571",
+      "status": {
+        "task_id": "design_2e2f3c4b09084571",
+        "status": "cancelled",
+        "stage": "finished",
+        "created_at": "2026-11-20T07:36:09.904555+00:00",
+        "updated_at": "2026-11-20T07:36:12.534761+00:00",
+        "requested": 1,
+        "attempted": 0,
+        "accepted": 0,
+        "rejected": 0,
+        "supervisor_pid": 1919692,
+        "worker_pid": 1919694,
+        "reason": "cancel_requested",
+        "wall_seconds": 1.728,
+        "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/cancel_control/runs/design_2e2f3c4b09084571",
+        "summary": {
+          "task_id": "design_2e2f3c4b09084571",
+          "status": "cancelled",
+          "requested": 1,
+          "attempted": 0,
+          "accepted": 0,
+          "unfilled": 1,
+          "scene": "mofflow2.co2_working_capacity",
+          "engine": "mofflow2_linker",
+          "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+          "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+          "not_assessed": [
+            "experimental_synthesizability",
+            "thermodynamic_stability",
+            "unconfigured_application_performance"
+          ]
+        },
+        "candidates": [],
+        "package": "/share/rickyswork/ai_mof/generation/module_test_20261120/cancel_control/runs/design_2e2f3c4b09084571/candidates.zip"
+      },
+      "audit": {
+        "passed": true,
+        "errors": [],
+        "task_id": "design_2e2f3c4b09084571",
+        "status": "cancelled",
+        "attempts": 0,
+        "accepted": 0,
+        "assets_checked": true,
+        "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+      },
+      "remaining_processes": [],
+      "rejections": [],
+      "passed": true
+    },
+    "constraint_control": {
+      "case": "constraint_control",
+      "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/constraint_control/runs/design_84aa693586d04d80",
+      "status": {
+        "task_id": "design_84aa693586d04d80",
+        "status": "failed",
+        "stage": "finished",
+        "created_at": "2026-11-20T07:36:12.291073+00:00",
+        "updated_at": "2026-11-20T07:36:41.663970+00:00",
+        "requested": 1,
+        "attempted": 1,
+        "accepted": 0,
+        "rejected": 1,
+        "supervisor_pid": 1919703,
+        "worker_pid": 1919705,
+        "current_candidate": null,
+        "reason": "proposal_budget_exhausted_or_no_acceptable_candidates",
+        "wall_seconds": 28.481,
+        "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/constraint_control/runs/design_84aa693586d04d80",
+        "summary": {
+          "task_id": "design_84aa693586d04d80",
+          "status": "failed",
+          "requested": 1,
+          "attempted": 1,
+          "accepted": 0,
+          "unfilled": 1,
+          "scene": "mofflow2.co2_working_capacity",
+          "engine": "mofflow2_linker",
+          "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+          "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+          "not_assessed": [
+            "experimental_synthesizability",
+            "thermodynamic_stability",
+            "unconfigured_application_performance"
+          ]
+        },
+        "candidates": [],
+        "package": "/share/rickyswork/ai_mof/generation/module_test_20261120/constraint_control/runs/design_84aa693586d04d80/candidates.zip"
+      },
+      "audit": {
+        "passed": true,
+        "errors": [],
+        "task_id": "design_84aa693586d04d80",
+        "status": "failed",
+        "attempts": 1,
+        "accepted": 0,
+        "assets_checked": true,
+        "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+      },
+      "remaining_processes": [],
+      "rejections": [
+        {
+          "id": "C0001",
+          "reason": "forbidden_elements"
+        }
+      ],
+      "passed": true
+    },
+    "linker_user": {
+      "case": "linker_user",
+      "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/linker_user/runs/design_99c3c75f7ad84848",
+      "status": {
+        "task_id": "design_99c3c75f7ad84848",
+        "status": "completed",
+        "stage": "finished",
+        "created_at": "2026-11-20T07:36:07.846786+00:00",
+        "updated_at": "2026-11-20T07:37:45.534396+00:00",
+        "requested": 2,
+        "attempted": 2,
+        "accepted": 2,
+        "rejected": 0,
+        "supervisor_pid": 1919681,
+        "worker_pid": 1919683,
+        "current_candidate": null,
+        "reason": null,
+        "wall_seconds": 95.855,
+        "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/linker_user/runs/design_99c3c75f7ad84848",
+        "summary": {
+          "task_id": "design_99c3c75f7ad84848",
+          "status": "completed",
+          "requested": 2,
+          "attempted": 2,
+          "accepted": 2,
+          "unfilled": 0,
+          "scene": "mofflow2.co2_working_capacity",
+          "engine": "mofflow2_linker",
+          "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+          "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+          "not_assessed": [
+            "experimental_synthesizability",
+            "thermodynamic_stability",
+            "unconfigured_application_performance"
+          ]
+        },
+        "candidates": [
+          {
+            "id": "C0001",
+            "cif": "cifs/C0001.cif",
+            "sha256": "ac00f3d6398e01bb850a3015d60dc9661551b4fb3ba7b442c4abb1a1af52fa49",
+            "source_key": "pcu/N16|O=C(O)C12CCC(C(=O)O)(CC1)CC2",
+            "engine": "mofflow2_linker",
+            "scene": "mofflow2.co2_working_capacity",
+            "validation_level": "relaxed_geometry",
+            "identity_verified": true
+          },
+          {
+            "id": "C0002",
+            "cif": "cifs/C0002.cif",
+            "sha256": "043f4af35e8da31ae8d43e706752c14e5f76115e8c3d2600587daf1c1e9ff2b7",
+            "source_key": "pcu/N16|Nc1cc(C(=O)O)c2c(N)cc3ccc(C(=O)O)c(N)c3c2c1",
+            "engine": "mofflow2_linker",
+            "scene": "mofflow2.co2_working_capacity",
+            "validation_level": "relaxed_geometry",
+            "identity_verified": true
+          }
+        ],
+        "package": "/share/rickyswork/ai_mof/generation/module_test_20261120/linker_user/runs/design_99c3c75f7ad84848/candidates.zip"
+      },
+      "audit": {
+        "passed": true,
+        "errors": [],
+        "task_id": "design_99c3c75f7ad84848",
+        "status": "completed",
+        "attempts": 2,
+        "accepted": 2,
+        "assets_checked": true,
+        "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+      },
+      "remaining_processes": [],
+      "rejections": [],
+      "passed": true,
+      "independent_cif_checks": [
+        {
+          "id": "C0001",
+          "natoms": 83,
+          "declared_natoms": 83,
+          "elements": [
+            "C",
+            "H",
+            "O",
+            "Zn"
+          ],
+          "volume": 2147.8754804611017,
+          "minimum_distance": 1.0971142091069401,
+          "hash_matches": true
+        },
+        {
+          "id": "C0002",
+          "natoms": 107,
+          "declared_natoms": 107,
+          "elements": [
+            "C",
+            "H",
+            "N",
+            "O",
+            "Zn"
+          ],
+          "volume": 4011.9858983459894,
+          "minimum_distance": 1.0098549718685572,
+          "hash_matches": true
+        }
+      ]
+    },
+    "egmof_user": {
+      "case": "egmof_user",
+      "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/egmof_user/runs/design_720d2362be5a46b2",
+      "status": {
+        "task_id": "design_720d2362be5a46b2",
+        "status": "completed",
+        "stage": "finished",
+        "created_at": "2026-11-20T07:36:06.953212+00:00",
+        "updated_at": "2026-11-20T07:38:36.490999+00:00",
+        "requested": 2,
+        "attempted": 2,
+        "accepted": 2,
+        "rejected": 0,
+        "supervisor_pid": 1919673,
+        "worker_pid": 1919675,
+        "current_candidate": null,
+        "reason": null,
+        "wall_seconds": 148.592,
+        "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/egmof_user/runs/design_720d2362be5a46b2",
+        "summary": {
+          "task_id": "design_720d2362be5a46b2",
+          "status": "completed",
+          "requested": 2,
+          "attempted": 2,
+          "accepted": 2,
+          "unfilled": 0,
+          "scene": "egmof.co2_uptake_298k_2_5bar",
+          "engine": "egmof",
+          "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+          "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+          "not_assessed": [
+            "experimental_synthesizability",
+            "thermodynamic_stability",
+            "unconfigured_application_performance"
+          ]
+        },
+        "candidates": [
+          {
+            "id": "C0001",
+            "cif": "cifs/C0001.cif",
+            "sha256": "af68ba5c61b2552ad383d7982e77287d2dbc4b3a2851088ad6ecd734634aee37",
+            "source_key": "pcu+N85+E221",
+            "engine": "egmof",
+            "scene": "egmof.co2_uptake_298k_2_5bar",
+            "validation_level": "relaxed_geometry",
+            "identity_verified": true
+          },
+          {
+            "id": "C0002",
+            "cif": "cifs/C0002.cif",
+            "sha256": "b0f074c458094b7ecaeb0f1dad69847f69d9897d0e065ce65c4ca786fcba99bb",
+            "source_key": "fsc+N223+N283+E44+E131",
+            "engine": "egmof",
+            "scene": "egmof.co2_uptake_298k_2_5bar",
+            "validation_level": "relaxed_geometry",
+            "identity_verified": true
+          }
+        ],
+        "package": "/share/rickyswork/ai_mof/generation/module_test_20261120/egmof_user/runs/design_720d2362be5a46b2/candidates.zip"
+      },
+      "audit": {
+        "passed": true,
+        "errors": [],
+        "task_id": "design_720d2362be5a46b2",
+        "status": "completed",
+        "attempts": 2,
+        "accepted": 2,
+        "assets_checked": true,
+        "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+      },
+      "remaining_processes": [],
+      "rejections": [],
+      "passed": true,
+      "independent_cif_checks": [
+        {
+          "id": "C0001",
+          "natoms": 130,
+          "declared_natoms": 130,
+          "elements": [
+            "C",
+            "H",
+            "N",
+            "O",
+            "Zn"
+          ],
+          "volume": 5208.426984671311,
+          "minimum_distance": 1.086287597568125,
+          "hash_matches": true,
+          "forbidden_elements_absent": true
+        },
+        {
+          "id": "C0002",
+          "natoms": 48,
+          "declared_natoms": 48,
+          "elements": [
+            "C",
+            "Cl",
+            "Cu",
+            "H",
+            "O"
+          ],
+          "volume": 1594.0597214623788,
+          "minimum_distance": 1.045372898748961,
+          "hash_matches": true,
+          "forbidden_elements_absent": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "task_id": "design_f55ac25499f14e98",
+  "status": "timed_out",
+  "requested": 1,
+  "attempted": 0,
+  "accepted": 0,
+  "unfilled": 1,
+  "scene": "egmof.co2_uptake_298k_2_5bar",
+  "engine": "egmof",
+  "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+  "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+  "not_assessed": [
+    "experimental_synthesizability",
+    "thermodynamic_stability",
+    "unconfigured_application_performance"
+  ]
+}

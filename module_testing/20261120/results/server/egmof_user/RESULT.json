@@ -1,0 +1,108 @@
+{
+  "case": "egmof_user",
+  "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/egmof_user/runs/design_720d2362be5a46b2",
+  "status": {
+    "task_id": "design_720d2362be5a46b2",
+    "status": "completed",
+    "stage": "finished",
+    "created_at": "2026-11-20T07:36:06.953212+00:00",
+    "updated_at": "2026-11-20T07:38:36.490999+00:00",
+    "requested": 2,
+    "attempted": 2,
+    "accepted": 2,
+    "rejected": 0,
+    "supervisor_pid": 1919673,
+    "worker_pid": 1919675,
+    "current_candidate": null,
+    "reason": null,
+    "wall_seconds": 148.592,
+    "task_directory": "/share/rickyswork/ai_mof/generation/module_test_20261120/egmof_user/runs/design_720d2362be5a46b2",
+    "summary": {
+      "task_id": "design_720d2362be5a46b2",
+      "status": "completed",
+      "requested": 2,
+      "attempted": 2,
+      "accepted": 2,
+      "unfilled": 0,
+      "scene": "egmof.co2_uptake_298k_2_5bar",
+      "engine": "egmof",
+      "deduplication": "source combination and exact bytes; full framework identity additionally checked when MOFid enabled",
+      "chemical_checks": "composition and configured constraints; additional linker identity check for exploration with MOFid",
+      "not_assessed": [
+        "experimental_synthesizability",
+        "thermodynamic_stability",
+        "unconfigured_application_performance"
+      ]
+    },
+    "candidates": [
+      {
+        "id": "C0001",
+        "cif": "cifs/C0001.cif",
+        "sha256": "af68ba5c61b2552ad383d7982e77287d2dbc4b3a2851088ad6ecd734634aee37",
+        "source_key": "pcu+N85+E221",
+        "engine": "egmof",
+        "scene": "egmof.co2_uptake_298k_2_5bar",
+        "validation_level": "relaxed_geometry",
+        "identity_verified": true
+      },
+      {
+        "id": "C0002",
+        "cif": "cifs/C0002.cif",
+        "sha256": "b0f074c458094b7ecaeb0f1dad69847f69d9897d0e065ce65c4ca786fcba99bb",
+        "source_key": "fsc+N223+N283+E44+E131",
+        "engine": "egmof",
+        "scene": "egmof.co2_uptake_298k_2_5bar",
+        "validation_level": "relaxed_geometry",
+        "identity_verified": true
+      }
+    ],
+    "package": "/share/rickyswork/ai_mof/generation/module_test_20261120/egmof_user/runs/design_720d2362be5a46b2/candidates.zip"
+  },
+  "audit": {
+    "passed": true,
+    "errors": [],
+    "task_id": "design_720d2362be5a46b2",
+    "status": "completed",
+    "attempts": 2,
+    "accepted": 2,
+    "assets_checked": true,
+    "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+  },
+  "remaining_processes": [],
+  "rejections": [],
+  "passed": true,
+  "independent_cif_checks": [
+    {
+      "id": "C0001",
+      "natoms": 130,
+      "declared_natoms": 130,
+      "elements": [
+        "C",
+        "H",
+        "N",
+        "O",
+        "Zn"
+      ],
+      "volume": 5208.426984671311,
+      "minimum_distance": 1.086287597568125,
+      "hash_matches": true,
+      "forbidden_elements_absent": true
+    },
+    {
+      "id": "C0002",
+      "natoms": 48,
+      "declared_natoms": 48,
+      "elements": [
+        "C",
+        "Cl",
+        "Cu",
+        "H",
+        "O"
+      ],
+      "volume": 1594.0597214623788,
+      "minimum_distance": 1.045372898748961,
+      "hash_matches": true,
+      "forbidden_elements_absent": true
+    }
+  ]
+}

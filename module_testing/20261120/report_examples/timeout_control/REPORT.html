@@ -1,0 +1,62 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI MOF 设计任务报告</title><style>
+body{font:16px/1.7 system-ui,sans-serif;color:#183046;background:#f4f7fb;max-width:1200px;margin:auto;padding:32px}
+h1,h2{color:#102e48}h2{margin-top:32px}.cards{display:flex;gap:16px;flex-wrap:wrap}
+.card{background:white;border:1px solid #dce4ed;border-radius:12px;padding:16px;min-width:140px}
+strong{display:block;font-size:30px}.scroll{overflow:auto}table{border-collapse:collapse;background:white;width:100%}
+td,th{padding:10px;border:1px solid #dce4ed;text-align:left;white-space:nowrap}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;background:white;padding:16px}details{margin:12px 0}a{color:#0866ad}
+@media print{body{background:white;padding:0}details{break-inside:avoid}.scroll{overflow:visible}td,th{white-space:normal}}
+</style><body><h1>AI MOF 设计任务报告</h1>
+<p>任务 design_f55ac25499f14e98 · 状态 timed_out</p>
+<div class="cards"><div class="card">请求候选<strong>1</strong></div><div class="card">实际提案<strong>0</strong></div><div class="card">交付候选<strong>0</strong></div><div class="card">未填名额<strong>1</strong></div></div>
+<h2>设计目标与配置</h2>
+<p>引擎：egmof；场景：egmof.co2_uptake_298k_2_5bar；
+目标条件：5.0；随机种子：20261122；
+任务耗时：1.153 秒。</p>
+<p>目标值是模型输入条件。实际吸附性能需另行计算；单位与适用范围见场景配置。</p>
+<details><summary>请求配置、预算与约束</summary><pre>{
+  &quot;engine&quot;: &quot;egmof&quot;,
+  &quot;scene&quot;: &quot;egmof.co2_uptake_298k_2_5bar&quot;,
+  &quot;target_value&quot;: 5.0,
+  &quot;num_candidates&quot;: 1,
+  &quot;max_attempts&quot;: 1,
+  &quot;seed&quot;: 20261122,
+  &quot;walltime_seconds&quot;: 1,
+  &quot;constraints&quot;: {
+    &quot;max_atoms&quot;: 1000
+  },
+  &quot;validation&quot;: {
+    &quot;relax&quot;: false,
+    &quot;mofid&quot;: false
+  }
+}</pre></details>
+<details><summary>场景与单位声明</summary><pre>{
+  &quot;engine&quot;: &quot;egmof&quot;,
+  &quot;enabled&quot;: true,
+  &quot;property&quot;: &quot;co2_uptake&quot;,
+  &quot;temperature_k&quot;: 298,
+  &quot;pressure_bar&quot;: 2.5,
+  &quot;target_unit&quot;: &quot;checkpoint_native_units_not_independently_verified&quot;,
+  &quot;description&quot;: &quot;Existing Wilmer CO2 uptake checkpoint; no SiH4/CO2 selectivity conditioning implied.&quot;,
+  &quot;assets&quot;: {
+    &quot;prop2desc_checkpoint&quot;: &quot;/share/rickyswork/ai_mof/generation/pilots/EGMOF/checkpoints/prop2desc_best.ckpt&quot;,
+    &quot;prop2desc_config&quot;: &quot;/share/rickyswork/ai_mof/generation/pilots/EGMOF/checkpoints/prop2desc_ckpt/various_dataset/wilmer_CO2_uptake_2.5bar/hparams.yaml&quot;
+  }
+}</pre></details>
+<h2>生成与验证流程</h2>
+<p>条件生成 → 约束过滤 → 可选结构优化 → 最终几何检查 → 可选 MOFid 识别 → 去重 → CIF 交付。</p>
+<p>约束在生成后检查。几何验收检查原子保持、最小距离、近似连通性和组成；
+启用优化时要求两阶段收敛及体积变化在允许范围内。下表显示各候选实际记录。</p>
+<h2>候选结果</h2><p><a href="MATERIALS.html">研究人员入口：材料档案与候选对比</a></p><div class="scroll"><table><thead><tr>
+<th>候选</th><th>状态</th><th>原子数</th><th>最小距离 / Å</th><th>优化</th><th>拓扑</th><th>MOFid</th><th>拒绝原因</th><th>文件</th>
+</tr></thead><tbody></tbody></table></div>
+<p>无候选提案记录。</p>
+<h2>失败与未完成情况</h2><p>任务原因：walltime_budget_exhausted；
+拒绝原因统计：{}。</p>
+<p></p>
+<h2>验证范围</h2><p>本报告汇总本次任务的计算记录。实验可合成性、热力学稳定性和未配置的应用性能仍需独立评价。
+MOFid 用于结构身份识别；训练集新颖性需与指定训练集额外比对。</p>
+<h2>可追溯记录</h2><p><a href="request.json">请求</a> · <a href="manifest.json">候选文件与 SHA256</a> ·
+<a href="provenance.json">模型和代码来源签名</a> · <a href="candidates.json">全部验证记录</a></p></body></html>

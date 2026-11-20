@@ -1,0 +1,22 @@
+[
+  {
+    "id": "C0001",
+    "cif": "cifs/C0001.cif",
+    "sha256": "af68ba5c61b2552ad383d7982e77287d2dbc4b3a2851088ad6ecd734634aee37",
+    "source_key": "pcu+N85+E221",
+    "engine": "egmof",
+    "scene": "egmof.co2_uptake_298k_2_5bar",
+    "validation_level": "relaxed_geometry",
+    "identity_verified": true
+  },
+  {
+    "id": "C0002",
+    "cif": "cifs/C0002.cif",
+    "sha256": "b0f074c458094b7ecaeb0f1dad69847f69d9897d0e065ce65c4ca786fcba99bb",
+    "source_key": "fsc+N223+N283+E44+E131",
+    "engine": "egmof",
+    "scene": "egmof.co2_uptake_298k_2_5bar",
+    "validation_level": "relaxed_geometry",
+    "identity_verified": true
+  }
+]

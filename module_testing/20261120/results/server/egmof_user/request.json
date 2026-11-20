@@ -1,0 +1,21 @@
+{
+  "engine": "egmof",
+  "scene": "egmof.co2_uptake_298k_2_5bar",
+  "target_value": 5.0,
+  "num_candidates": 2,
+  "max_attempts": 6,
+  "seed": 20261120,
+  "walltime_seconds": 1800,
+  "constraints": {
+    "max_atoms": 1000,
+    "forbidden_elements": [
+      "Cd",
+      "Hg",
+      "Pb"
+    ]
+  },
+  "validation": {
+    "relax": true,
+    "mofid": true
+  }
+}

@@ -1,0 +1,224 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI MOF 设计任务报告</title><style>
+body{font:16px/1.7 system-ui,sans-serif;color:#183046;background:#f4f7fb;max-width:1200px;margin:auto;padding:32px}
+h1,h2{color:#102e48}h2{margin-top:32px}.cards{display:flex;gap:16px;flex-wrap:wrap}
+.card{background:white;border:1px solid #dce4ed;border-radius:12px;padding:16px;min-width:140px}
+strong{display:block;font-size:30px}.scroll{overflow:auto}table{border-collapse:collapse;background:white;width:100%}
+td,th{padding:10px;border:1px solid #dce4ed;text-align:left;white-space:nowrap}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;background:white;padding:16px}details{margin:12px 0}a{color:#0866ad}
+@media print{body{background:white;padding:0}details{break-inside:avoid}.scroll{overflow:visible}td,th{white-space:normal}}
+</style><body><h1>AI MOF 设计任务报告</h1>
+<p>任务 design_84aa693586d04d80 · 状态 failed</p>
+<div class="cards"><div class="card">请求候选<strong>1</strong></div><div class="card">实际提案<strong>1</strong></div><div class="card">交付候选<strong>0</strong></div><div class="card">未填名额<strong>1</strong></div></div>
+<h2>设计目标与配置</h2>
+<p>引擎：mofflow2_linker；场景：mofflow2.co2_working_capacity；
+目标条件：5.0；随机种子：20261124；
+任务耗时：28.481 秒。</p>
+<p>目标值是模型输入条件。实际吸附性能需另行计算；单位与适用范围见场景配置。</p>
+<details><summary>请求配置、预算与约束</summary><pre>{
+  &quot;engine&quot;: &quot;mofflow2_linker&quot;,
+  &quot;scene&quot;: &quot;mofflow2.co2_working_capacity&quot;,
+  &quot;target_value&quot;: 5.0,
+  &quot;num_candidates&quot;: 1,
+  &quot;max_attempts&quot;: 1,
+  &quot;seed&quot;: 20261124,
+  &quot;walltime_seconds&quot;: 300,
+  &quot;constraints&quot;: {
+    &quot;max_atoms&quot;: 1000,
+    &quot;forbidden_elements&quot;: [
+      &quot;Zn&quot;
+    ]
+  },
+  &quot;validation&quot;: {
+    &quot;relax&quot;: false,
+    &quot;mofid&quot;: false
+  },
+  &quot;sequence_samples&quot;: 50
+}</pre></details>
+<details><summary>场景与单位声明</summary><pre>{
+  &quot;engine&quot;: &quot;mofflow2_linker&quot;,
+  &quot;enabled&quot;: true,
+  &quot;property&quot;: &quot;co2_working_capacity&quot;,
+  &quot;target_unit&quot;: &quot;checkpoint_native_units_not_independently_verified&quot;,
+  &quot;target_range&quot;: [
+    -0.199905,
+    5.115154
+  ],
+  &quot;description&quot;: &quot;Conditional sequence model, two-carboxylate filtering, fixed pcu/N16 (Zn4O), embedding seed 7.&quot;,
+  &quot;assets&quot;: {
+    &quot;checkpoint&quot;: &quot;/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/seq_module_cond/ckpt.pt&quot;,
+    &quot;checkpoint_config&quot;: &quot;/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/seq_module_cond/config.yaml&quot;,
+    &quot;support&quot;: &quot;/share/rickyswork/ai_mof/generation/budget_confirmation_20261113/support&quot;
+  }
+}</pre></details>
+<h2>生成与验证流程</h2>
+<p>条件生成 → 约束过滤 → 可选结构优化 → 最终几何检查 → 可选 MOFid 识别 → 去重 → CIF 交付。</p>
+<p>约束在生成后检查。几何验收检查原子保持、最小距离、近似连通性和组成；
+启用优化时要求两阶段收敛及体积变化在允许范围内。下表显示各候选实际记录。</p>
+<h2>候选结果</h2><p><a href="MATERIALS.html">研究人员入口：材料档案与候选对比</a></p><div class="scroll"><table><thead><tr>
+<th>候选</th><th>状态</th><th>原子数</th><th>最小距离 / Å</th><th>优化</th><th>拓扑</th><th>MOFid</th><th>拒绝原因</th><th>文件</th>
+</tr></thead><tbody><tr><td>C0001</td><td>rejected</td><td>—</td><td>—</td><td>未通过/未执行</td><td>—</td><td>未执行</td><td>forbidden_elements</td><td></td></tr></tbody></table></div>
+<p></p>
+<h2>失败与未完成情况</h2><p>任务原因：proposal_budget_exhausted_or_no_acceptable_candidates；
+拒绝原因统计：{&#x27;forbidden_elements&#x27;: 1}。</p>
+<p></p>
+<h2>验证范围</h2><p>本报告汇总本次任务的计算记录。实验可合成性、热力学稳定性和未配置的应用性能仍需独立评价。
+MOFid 用于结构身份识别；训练集新颖性需与指定训练集额外比对。</p>
+<h2>可追溯记录</h2><p><a href="request.json">请求</a> · <a href="manifest.json">候选文件与 SHA256</a> ·
+<a href="provenance.json">模型和代码来源签名</a> · <a href="candidates.json">全部验证记录</a></p><details><summary>C0001：完整来源与验证记录</summary><pre>{
+  &quot;id&quot;: &quot;C0001&quot;,
+  &quot;attempt&quot;: 1,
+  &quot;engine&quot;: &quot;mofflow2_linker&quot;,
+  &quot;status&quot;: &quot;rejected&quot;,
+  &quot;validation&quot;: {
+    &quot;raw_geometry&quot;: {
+      &quot;natoms&quot;: 116,
+      &quot;declared_natoms&quot;: 116,
+      &quot;elements&quot;: [
+        &quot;C&quot;,
+        &quot;H&quot;,
+        &quot;O&quot;,
+        &quot;Zn&quot;
+      ],
+      &quot;volume&quot;: 4236.586457740995,
+      &quot;minimum_distance&quot;: 1.0854491113350897,
+      &quot;components&quot;: 1,
+      &quot;composition_only_chemistry&quot;: true,
+      &quot;symbols&quot;: [
+        &quot;Zn&quot;,
+        &quot;Zn&quot;,
+        &quot;Zn&quot;,
+        &quot;Zn&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;O&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;C&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;,
+        &quot;H&quot;
+      ],
+      &quot;geometry_passed&quot;: true
+    }
+  },
+  &quot;proposal&quot;: {
+    &quot;status&quot;: &quot;generated&quot;,
+    &quot;cif&quot;: &quot;/share/rickyswork/ai_mof/generation/module_test_20261120/constraint_control/runs/design_84aa693586d04d80/work/attempt_0001/framework.cif&quot;,
+    &quot;source_key&quot;: &quot;pcu/N16|CCCc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cccc12&quot;,
+    &quot;source_topology&quot;: &quot;pcu&quot;,
+    &quot;expected_linker&quot;: &quot;CCCc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12&quot;,
+    &quot;upstream&quot;: {
+      &quot;smiles&quot;: &quot;CCCc1cc(C(=O)[O-])cc2c1ccc1c(C(=O)[O-])cccc12&quot;,
+      &quot;key&quot;: &quot;CCCc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cccc12&quot;,
+      &quot;sequence_index&quot;: 0
+    }
+  },
+  &quot;source_key&quot;: &quot;pcu/N16|CCCc1cc(C(=O)O)cc2c1ccc1c(C(=O)O)cccc12&quot;,
+  &quot;raw_sha256&quot;: &quot;6f9e3075765cf33efb5071abd7fd3bbfcad9f63dae0363a03063c90844fc61bc&quot;,
+  &quot;reason&quot;: &quot;forbidden_elements&quot;
+}</pre></details></body></html>

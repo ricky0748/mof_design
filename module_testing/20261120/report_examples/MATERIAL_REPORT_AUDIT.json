@@ -1,0 +1,72 @@
+{
+  "cancel_control": {
+    "material_count": 0,
+    "links_passed": true,
+    "audit": {
+      "passed": true,
+      "errors": [],
+      "task_id": "design_2e2f3c4b09084571",
+      "status": "cancelled",
+      "attempts": 0,
+      "accepted": 0,
+      "assets_checked": false,
+      "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+    }
+  },
+  "constraint_control": {
+    "material_count": 0,
+    "links_passed": true,
+    "audit": {
+      "passed": true,
+      "errors": [],
+      "task_id": "design_84aa693586d04d80",
+      "status": "failed",
+      "attempts": 1,
+      "accepted": 0,
+      "assets_checked": false,
+      "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+    }
+  },
+  "egmof_user": {
+    "material_count": 2,
+    "links_passed": true,
+    "audit": {
+      "passed": true,
+      "errors": [],
+      "task_id": "design_720d2362be5a46b2",
+      "status": "completed",
+      "attempts": 2,
+      "accepted": 2,
+      "assets_checked": false,
+      "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+    }
+  },
+  "linker_user": {
+    "material_count": 2,
+    "links_passed": true,
+    "audit": {
+      "passed": true,
+      "errors": [],
+      "task_id": "design_99c3c75f7ad84848",
+      "status": "completed",
+      "attempts": 2,
+      "accepted": 2,
+      "assets_checked": false,
+      "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+    }
+  },
+  "timeout_control": {
+    "material_count": 0,
+    "links_passed": true,
+    "audit": {
+      "passed": true,
+      "errors": [],
+      "task_id": "design_f55ac25499f14e98",
+      "status": "timed_out",
+      "attempts": 0,
+      "accepted": 0,
+      "assets_checked": false,
+      "scope": "recorded outcomes, package integrity and provenance; not independent energy/force recomputation"
+    }
+  }
+}
